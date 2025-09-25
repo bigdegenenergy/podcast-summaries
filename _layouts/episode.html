@@ -1,0 +1,286 @@
+---
+layout: default
+---
+
+<article class="episode">
+  <header class="episode-header">
+    <h1>{{ page.title }}</h1>
+    <div class="episode-meta">
+      <span class="source">{{ page.source }}</span>
+      <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
+      <span class="duration">{{ page.duration }} min</span>
+    </div>
+    <div class="episode-tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </header>
+
+  <div class="episode-links">
+    {% if page.original_url %}
+      <a href="{{ page.original_url }}" target="_blank" class="btn-primary">🎧 Listen to Original</a>
+    {% endif %}
+    {% if page.transcript_url %}
+      <a href="{{ page.transcript_url }}" class="btn-secondary">📄 Full Transcript</a>
+    {% endif %}
+  </div>
+
+  {% if page.summary %}
+  <section class="episode-summary">
+    <h2>🎯 Summary</h2>
+    <div class="summary-content">
+      {{ page.summary | markdownify }}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.companies and page.companies.size > 0 %}
+  <section class="episode-companies">
+    <h2>🏢 Companies Mentioned</h2>
+    <div class="companies-grid">
+      {% for company in page.companies limit:12 %}
+        <div class="company-tag {{ company.confidence }}">
+          {{ company.name }}
+          {% if company.confidence == 'high' %}🔥{% else %}✅{% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.quotes and page.quotes.size > 0 %}
+  <section class="episode-quotes">
+    <h2>💬 Key Insights</h2>
+    {% for quote in page.quotes limit:5 %}
+      <blockquote class="key-quote">
+        "{{ quote.text }}"
+        {% if quote.relevance_score %}
+          <span class="quote-score">Score: {{ quote.relevance_score }}</span>
+        {% endif %}
+      </blockquote>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.topics and page.topics.size > 0 %}
+  <section class="episode-topics">
+    <h2>📊 Topics</h2>
+    <div class="topics-list">
+      {% for topic in page.topics limit:8 %}
+        <span class="topic-tag">#{{ topic.topic | replace: ' ', '' }}</span>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.insights and page.insights.size > 0 %}
+  <section class="episode-insights">
+    <h2>🧠 Key Takeaways</h2>
+    {% for insight in page.insights limit:5 %}
+      {% if insight.actionable and insight.extracted %}
+        <div class="insight-item">
+          <span class="insight-icon">💡</span>
+          <span class="insight-text">{{ insight.extracted }}</span>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.actionable_items and page.actionable_items.size > 0 %}
+  <section class="episode-actions">
+    <h2>🎯 Action Items</h2>
+    {% for item in page.actionable_items limit:3 %}
+      <div class="action-item">
+        <span class="action-icon">🎯</span>
+        <span class="action-text">{{ item.action }}</span>
+        {% if item.category %}
+          <span class="action-category">{{ item.category }}</span>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  <footer class="episode-footer">
+    <p class="processing-info">
+      🤖 Processed with {{ page.llm_enhanced | default: false | ternary: "LLM-enhanced", "Regex-based" }} analysis
+    </p>
+    {% if page.processing_date %}
+      <p class="processing-date">Generated: {{ page.processing_date | date: "%B %d, %Y at %I:%M %p" }}</p>
+    {% endif %}
+  </footer>
+</article>
+
+<style>
+.episode {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.episode-header h1 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.episode-meta {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.episode-meta span {
+  background: #f8f9fa;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.episode-tags {
+  margin-bottom: 1rem;
+}
+
+.tag {
+  background: #007bff;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.episode-links {
+  margin: 1.5rem 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-primary, .btn-secondary {
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.btn-primary {
+  background: #28a745;
+  color: white;
+}
+
+.btn-secondary {
+  background: #6c757d;
+  color: white;
+}
+
+.companies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.company-tag {
+  background: #e9ecef;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.company-tag.high {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+}
+
+.key-quote {
+  background: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+.quote-score {
+  font-size: 0.8rem;
+  color: #6c757d;
+  font-style: normal;
+}
+
+.topics-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.topic-tag {
+  background: #007bff;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.insight-item, .action-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: #f8f9fa;
+  border-radius: 0.5rem;
+}
+
+.insight-icon, .action-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.action-category {
+  background: #6c757d;
+  color: white;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.8rem;
+  margin-left: auto;
+}
+
+.episode-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dee2e6;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .episode {
+    padding: 0.5rem;
+  }
+
+  .episode-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .episode-links {
+    flex-direction: column;
+  }
+
+  .companies-grid {
+    gap: 0.25rem;
+  }
+
+  .company-tag {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+  }
+}
+</style>

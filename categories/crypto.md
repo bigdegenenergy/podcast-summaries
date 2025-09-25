@@ -17,7 +17,7 @@ title: Crypto & Web3
 {% assign all_crypto = crypto_episodes | concat: bitcoin_episodes | concat: blockchain_episodes | concat: web3_episodes | uniq | sort: 'date' | reverse %}
 {% for episode in all_crypto %}
   <div class="episode-card">
-    <h3><a href="{{ episode.url }}">{{ episode.title }}</a></h3>
+    <h3><a href="{{ episode.url | relative_url }}">{{ episode.title }}</a></h3>
     <div class="episode-meta">
       <span class="source">{{ episode.source }}</span>
       <span class="date">{{ episode.date | date: "%b %d, %Y" }}</span>

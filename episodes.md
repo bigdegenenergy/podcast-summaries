@@ -9,7 +9,7 @@ title: All Episodes
 {% assign sorted_episodes = site.episodes | sort: 'date' | reverse %}
 {% for episode in sorted_episodes %}
   <div class="episode-card">
-    <h3><a href="{{ episode.url }}">{{ episode.title }}</a></h3>
+    <h3><a href="{{ episode.url | relative_url }}">{{ episode.title }}</a></h3>
     <div class="episode-meta">
       <span class="source">{{ episode.source }}</span>
       <span class="date">{{ episode.date | date: "%b %d, %Y" }}</span>

@@ -15,7 +15,7 @@ title: AI & Technology
 {% assign all_episodes = ai_episodes | concat: tech_episodes | uniq | sort: 'date' | reverse %}
 {% for episode in all_episodes %}
   <div class="episode-card">
-    <h3><a href="{{ episode.url }}">{{ episode.title }}</a></h3>
+    <h3><a href="{{ episode.url | relative_url }}">{{ episode.title }}</a></h3>
     <div class="episode-meta">
       <span class="source">{{ episode.source }}</span>
       <span class="date">{{ episode.date | date: "%b %d, %Y" }}</span>

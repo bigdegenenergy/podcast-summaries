@@ -26,6 +26,42 @@ layout: default
     {% endif %}
   </div>
 
+  <!-- Episode Statistics Overview -->
+  <section class="episode-stats">
+    <div class="stats-grid">
+      {% if page.companies and page.companies.size > 0 %}
+        <div class="stat-item">
+          <span class="stat-number">{{ page.companies.size }}</span>
+          <span class="stat-label">Companies</span>
+        </div>
+      {% endif %}
+      {% if page.quotes and page.quotes.size > 0 %}
+        <div class="stat-item">
+          <span class="stat-number">{{ page.quotes.size }}</span>
+          <span class="stat-label">Key Quotes</span>
+        </div>
+      {% endif %}
+      {% if page.topics and page.topics.size > 0 %}
+        <div class="stat-item">
+          <span class="stat-number">{{ page.topics.size }}</span>
+          <span class="stat-label">Topics</span>
+        </div>
+      {% endif %}
+      {% if page.insights and page.insights.size > 0 %}
+        <div class="stat-item">
+          <span class="stat-number">{{ page.insights.size }}</span>
+          <span class="stat-label">Insights</span>
+        </div>
+      {% endif %}
+      {% if page.actionable_items and page.actionable_items.size > 0 %}
+        <div class="stat-item">
+          <span class="stat-number">{{ page.actionable_items.size }}</span>
+          <span class="stat-label">Action Items</span>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+
   {% if page.summary %}
   <section class="episode-summary">
     <h2>🎯 Summary</h2>
@@ -39,10 +75,16 @@ layout: default
   <section class="episode-companies">
     <h2>🏢 Companies Mentioned</h2>
     <div class="companies-grid">
-      {% for company in page.companies limit:12 %}
-        <div class="company-tag {{ company.confidence }}">
-          {{ company.name }}
-          {% if company.confidence == 'high' %}🔥{% else %}✅{% endif %}
+      {% assign sorted_companies = page.companies | sort: 'confidence' | reverse %}
+      {% for company in sorted_companies limit:15 %}
+        <div class="company-tag {{ company.confidence }}" title="Confidence: {{ company.confidence | capitalize }}{% if company.category %} | Category: {{ company.category | capitalize }}{% endif %}">
+          <span class="company-name">{{ company.name }}</span>
+          <span class="confidence-indicator">
+            {% if company.confidence == 'high' %}🔥{% else %}✅{% endif %}
+          </span>
+          {% if company.category %}
+            <span class="company-category">{{ company.category }}</span>
+          {% endif %}
         </div>
       {% endfor %}
     </div>
@@ -52,11 +94,17 @@ layout: default
   {% if page.quotes and page.quotes.size > 0 %}
   <section class="episode-quotes">
     <h2>💬 Key Insights</h2>
-    {% for quote in page.quotes limit:5 %}
-      <blockquote class="key-quote">
-        "{{ quote.text }}"
+    {% assign sorted_quotes = page.quotes | sort: 'relevance_score' | reverse %}
+    {% for quote in sorted_quotes limit:6 %}
+      <blockquote class="key-quote" data-score="{{ quote.relevance_score }}">
+        <div class="quote-content">"{{ quote.text }}"</div>
         {% if quote.relevance_score %}
-          <span class="quote-score">Score: {{ quote.relevance_score }}</span>
+          <div class="quote-meta">
+            <span class="quote-score">Impact Score: {{ quote.relevance_score }}</span>
+            <div class="score-bar">
+              <div class="score-fill" style="width: {{ quote.relevance_score | times: 20 }}%"></div>
+            </div>
+          </div>
         {% endif %}
       </blockquote>
     {% endfor %}
@@ -67,8 +115,14 @@ layout: default
   <section class="episode-topics">
     <h2>📊 Topics</h2>
     <div class="topics-list">
-      {% for topic in page.topics limit:8 %}
-        <span class="topic-tag">#{{ topic.topic | replace: ' ', '' }}</span>
+      {% assign sorted_topics = page.topics | sort: 'mentions' | reverse %}
+      {% for topic in sorted_topics limit:8 %}
+        <span class="topic-tag" title="{{ topic.mentions }} mentions">
+          #{{ topic.topic | replace: ' ', '' }}
+          {% if topic.mentions %}
+            <span class="topic-count">{{ topic.mentions }}</span>
+          {% endif %}
+        </span>
       {% endfor %}
     </div>
   </section>
@@ -162,6 +216,42 @@ layout: default
   flex-wrap: wrap;
 }
 
+/* Episode Statistics */
+.episode-stats {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  color: white;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  opacity: 0.9;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .btn-primary, .btn-secondary {
   padding: 0.75rem 1.5rem;
   border-radius: 0.5rem;
@@ -192,6 +282,14 @@ layout: default
   padding: 0.5rem 0.75rem;
   border-radius: 0.5rem;
   font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: transform 0.2s;
+}
+
+.company-tag:hover {
+  transform: translateY(-2px);
 }
 
 .company-tag.high {
@@ -199,18 +297,73 @@ layout: default
   border: 1px solid #ffeaa7;
 }
 
+.company-tag.medium {
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+}
+
+.company-name {
+  font-weight: 500;
+}
+
+.confidence-indicator {
+  font-size: 1.1rem;
+}
+
+.company-category {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.2rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .key-quote {
   background: #f8f9fa;
   border-left: 4px solid #007bff;
-  padding: 1rem;
+  padding: 1.5rem;
   margin: 1rem 0;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.quote-content {
   font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.quote-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
 .quote-score {
   font-size: 0.8rem;
   color: #6c757d;
   font-style: normal;
+  white-space: nowrap;
+}
+
+.score-bar {
+  flex-grow: 1;
+  height: 4px;
+  background: #e9ecef;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.score-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #28a745, #17a2b8, #007bff);
+  border-radius: 2px;
+  transition: width 0.3s ease;
 }
 
 .topics-list {
@@ -225,6 +378,17 @@ layout: default
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
   font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.topic-count {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.15rem;
+  font-size: 0.7rem;
+  font-weight: bold;
 }
 
 .insight-item, .action-item {
@@ -259,6 +423,14 @@ layout: default
   font-size: 0.9rem;
 }
 
+/* Section headers */
+section h2 {
+  color: #2c3e50;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   .episode {
@@ -274,6 +446,15 @@ layout: default
     flex-direction: column;
   }
 
+  .stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.75rem;
+  }
+
+  .stat-number {
+    font-size: 1.5rem;
+  }
+
   .companies-grid {
     gap: 0.25rem;
   }
@@ -281,6 +462,24 @@ layout: default
   .company-tag {
     font-size: 0.8rem;
     padding: 0.25rem 0.5rem;
+  }
+
+  .quote-meta {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  .quote-content {
+    font-size: 1rem;
+  }
+
+  .topic-tag {
+    font-size: 0.8rem;
+  }
+
+  .topic-count {
+    font-size: 0.6rem;
   }
 }
 </style>

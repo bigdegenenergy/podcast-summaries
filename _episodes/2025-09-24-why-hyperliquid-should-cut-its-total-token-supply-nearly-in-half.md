@@ -5,264 +5,217 @@ companies:
   context: ew category at the intersection of DeFi and Web3. Follow Mantle underscore
     official to learn more. Today's guest
   name: Follow Mantle
-  position: 408
+  position: 401
 - category: unknown
   confidence: medium
   context: derscore official to learn more. Today's guest is John Chabinau, co-founder
     and general partner of DBA. Welcome,
   name: John Chabinau
-  position: 474
-- category: tech
-  confidence: high
-  context: 42% of the total and max supply of hype, which at genesis designated a
-    max supply cap of 1 billion, similar
-  name: Genesis
-  position: 4714
+  position: 467
 - category: unknown
   confidence: medium
-  context: "ns and conveys the social contract around this. \n\nIn Bitcoin, it makes\
-    \ sense because it adds a social contract"
-  name: In Bitcoin
-  position: 8925
-- category: unknown
-  confidence: medium
-  context: . I don't know if you knew about the Emmys, where Nate Bargatze, a comedian,
-    had this thing where if you went ove
+  context: 'y, you might know about the Emmys, where comedian Nate Bargatze had a
+    rule: if you went over your speaking time,'
   name: Nate Bargatze
-  position: 10309
+  position: 8955
 - category: unknown
   confidence: medium
-  context: r speaking, he would donate money to the Boys and Girls Club of America.
+  context: aking time, he would donate money to the Boys and Girls Club of America.
     If you went over, it would deduct a t
   name: Girls Club
-  position: 10435
-- category: unknown
-  confidence: medium
-  context: "to put that forward and have that conversation. \n\nIf FTX is in trouble,\
-    \ you don't want FTT as your backsto"
-  name: If FTX
-  position: 12496
+  position: 9056
 - category: tech
   confidence: high
-  context: "put that forward and have that conversation. \n\nIf FTX is in trouble,\
-    \ you don't want FTT as your backsto"
+  context: ate from what we're calling out. If, for example, FTX is in trouble, you
+    don't want FTT as your backsto
   name: Ftx
-  position: 12499
+  position: 10645
 - category: unknown
   confidence: medium
-  context: rypto, there are different proposals around this. Defi Llama has a metric
-    on this, the Artemis guys have somet
+  context: rypto, there are different proposals around this. Defi Llama has a metric,
+    the Artemis guys have something, an
   name: Defi Llama
-  position: 14514
+  position: 12516
 - category: tech
   confidence: high
-  context: ble that. You need to include the team supply and foundation supply; those
-    are known owned tokens. The team ha
+  context: t because you need to include the team supply and foundation supply. Those
+    are known owned tokens, and the tea
   name: Foundation
-  position: 15539
-- category: unknown
-  confidence: medium
-  context: Mantle's focus on payments, trading, and assets. The MF protocol functions
-    as an FDIC supported by develo
-  name: The MF
-  position: 16190
+  position: 13313
 - category: tech
   confidence: high
   context: platform through the UR app, reward station, and Bybit launch pool. All
     economic activity within UR will
   name: Bybit
-  position: 16367
+  position: 14083
 - category: unknown
   confidence: medium
   context: ed here. I think one of the funnier ones was from Haseeb Qureshi of Dragonfly,
-    where he said, "Post airdrop, 50% o
+    where he said, "Post-airdrop, 50% c
   name: Haseeb Qureshi
-  position: 16743
+  position: 14460
 - category: unknown
   confidence: medium
-  context: to talk about one other reaction I saw, which is Evan Van Ness saying any
-    proposal that tacitly reduces communit
+  context: ed to talk about another reaction I saw, which is Evan Van Ness saying
+    any proposal that tacitly reduces communit
   name: Evan Van Ness
-  position: 20702
+  position: 17905
 - category: tech
   confidence: high
-  context: "from investors. \n\nThat's my general guess from a flow perspective. The\
-    \ other core point is that if you"
-  name: Flow
-  position: 24407
+  context: "en putting everything into buybacks since project genesis. \n\nThe other\
+    \ core point is that if you look at th"
+  name: Genesis
+  position: 20678
 - category: unknown
   confidence: medium
-  context: "r coming on Unchained. \n\nUnchained is produced by Laura Shin with help\
-    \ from Matt Pilchard, Juan Aranavitch, Ma"
+  context: "r coming on Unchained. \n\nUnchained is produced by Laura Shin, with help\
+    \ from Matt Piltred, Juan Aranavitch, Ma"
   name: Laura Shin
-  position: 28408
+  position: 23286
 - category: unknown
   confidence: medium
-  context: nchained is produced by Laura Shin with help from Matt Pilchard, Juan Aranavitch,
+  context: chained is produced by Laura Shin, with help from Matt Piltred, Juan Aranavitch,
     Margaret Curia, and Pam Majumda
-  name: Matt Pilchard
-  position: 28434
+  name: Matt Piltred
+  position: 23313
 - category: unknown
   confidence: medium
-  context: duced by Laura Shin with help from Matt Pilchard, Juan Aranavitch, Margaret
+  context: duced by Laura Shin, with help from Matt Piltred, Juan Aranavitch, Margaret
     Curia, and Pam Majumdar. Thanks for lis
   name: Juan Aranavitch
-  position: 28449
+  position: 23327
 - category: unknown
   confidence: medium
-  context: in with help from Matt Pilchard, Juan Aranavitch, Margaret Curia, and Pam
+  context: in, with help from Matt Piltred, Juan Aranavitch, Margaret Curia, and Pam
     Majumdar. Thanks for listening.
   name: Margaret Curia
-  position: 28466
+  position: 23344
 - category: unknown
   confidence: medium
-  context: tt Pilchard, Juan Aranavitch, Margaret Curia, and Pam Majumdar. Thanks
+  context: att Piltred, Juan Aranavitch, Margaret Curia, and Pam Majumdar. Thanks
     for listening.
   name: Pam Majumdar
-  position: 28486
-- category: defi
+  position: 23364
+- category: Layer 1
   confidence: high
-  context: DeFi protocol being discussed regarding token supply and governance changes
-  name: Hyperliquid
-  source: llm_enhanced
-- category: layer1
-  confidence: high
-  context: Blockchain platform focused on banking and financial services
+  context: Blockchain platform focused on banking and financial services, with MI4MF
+    protocol
   name: Mantle
   source: llm_enhanced
-- category: layer1
+- category: DeFi
   confidence: high
-  context: Referenced multiple times regarding its 21M supply cap
-  name: Bitcoin
+  context: DeFi protocol discussing token supply and governance changes
+  name: Hyperliquid
   source: llm_enhanced
-- category: layer1
-  confidence: high
-  context: Mentioned regarding its token supply model
-  name: Ethereum
+- category: Investment
+  confidence: medium
+  context: Investment/advisory firm involved in Hyperliquid proposal
+  name: DBA
   source: llm_enhanced
-- category: layer1
-  confidence: high
-  context: Mentioned regarding its token supply model
-  name: Solana
-  source: llm_enhanced
-- category: infrastructure
-  confidence: high
-  context: Data aggregator mentioned for its market metrics
-  name: DeFi Llama
-  source: llm_enhanced
-- category: infrastructure
-  confidence: high
-  context: Crypto data site referenced for circulating supply metrics
-  name: CoinMarketCap
-  source: llm_enhanced
-- category: infrastructure
-  confidence: high
-  context: Crypto data site referenced for circulating supply metrics
-  name: CoinGecko
-  source: llm_enhanced
-- category: investment
+- category: Investment
   confidence: high
   context: Crypto investment firm mentioned via Haseeb Qureshi
   name: Dragonfly
   source: llm_enhanced
-- category: exchange
+- category: Infrastructure
   confidence: high
-  context: Referenced in discussion about token backstops
-  name: FTX
+  context: Data analytics platform for DeFi metrics
+  name: DeFi Llama
   source: llm_enhanced
-- category: infrastructure
+- category: Infrastructure
   confidence: medium
-  context: Mentioned regarding market metrics
+  context: Mentioned regarding market cap metrics
   name: Artemis
   source: llm_enhanced
-- category: infrastructure
+- category: Infrastructure
   confidence: medium
-  context: Mentioned regarding market metrics
+  context: Mentioned regarding adjusted market cap metrics
   name: Arc
+  source: llm_enhanced
+- category: Exchange
+  confidence: high
+  context: Referenced as example of failed crypto exchange
+  name: FTX
+  source: llm_enhanced
+- category: Exchange
+  confidence: high
+  context: Mentioned as having a launch pool platform
+  name: Bybit
   source: llm_enhanced
 - category: layer1
   confidence: high
-  context: Blockchain platform focused on banking and financial services
-  name: Mantle Network
+  context: Referenced as example of decentralized money in discussion of token distribution
+  name: Bitcoin
+  source: llm_enhanced
+- category: layer1
+  confidence: high
+  context: Mentioned in context of voting mechanisms and LST holders
+  name: Solana
+  source: llm_enhanced
+- category: research/media
+  confidence: medium
+  context: Published analysis about Hyperliquid token unlocks
+  name: Maelstrom
+  source: llm_enhanced
+- category: media
+  confidence: high
+  context: Crypto media/podcast platform hosting this discussion
+  name: Unchained
   source: llm_enhanced
 - category: defi
-  confidence: high
-  context: Access layer built on Mantle Network for financial services
-  name: UR Protocol
-  source: llm_enhanced
-- category: exchange
-  confidence: high
-  context: Cryptocurrency exchange mentioned in context of launch pool
-  name: Bybit
-  source: llm_enhanced
-- category: institution
   confidence: medium
-  context: Crypto analysis/research entity discussing Hyperliquid tokens
-  name: Maelstrom
+  context: Referenced briefly in discussion about governance proposals
+  name: USDH
   source: llm_enhanced
 date: '2025-09-24 00:00:00 '
 duration: 36
 insights:
 - actionable: true
   confidence: medium
-  extracted: have USDC, USDT, or whatever in the treasury reserve so that we have
-    a stable asset to cover these situations instead of buying back hype
-  text: we should have USDC, USDT, or whatever in the treasury reserve so that we
-    have a stable asset to cover these situations instead of buying back hype.
-  type: recommendation
-- actionable: true
-  confidence: medium
-  extracted: try to get more directed in the voting process so that everyone can vote,
-    and the process feels cleaner
-  text: We should try to get more directed in the voting process so that everyone
-    can vote, and the process feels cleaner.
+  extracted: try to get more directed in the voting process so everyone can vote and
+    have a better understanding of how it works
+  text: We should try to get more directed in the voting process so everyone can vote
+    and have a better understanding of how it works.
   type: recommendation
 layout: episode
 llm_enhanced: true
 original_url: https://www.youtube.com/watch?v=zOxML26k4Ew
-processing_date: 2025-09-25 12:39:06 +0000
+processing_date: 2025-09-25 18:38:14 +0000
 quotes:
 - length: 110
   relevance_score: 6
   text: Mantle is pioneering blockchain for banking, a revolutionary new category
     at the intersection of DeFi and Web3
   topics: []
-- length: 197
+- length: 161
   relevance_score: 6
-  text: Defi Llama has a metric on this, the Artemis guys have something, and I think
-    Arc has posted on this—some variation of an adjusted market cap that looks more
-    like the traditional finance equivalent
+  text: Defi Llama has a metric, the Artemis guys have something, and Arc has posted
+    about an adjusted market cap that looks more like the traditional finance equivalent
   topics:
   - market
-- length: 163
-  relevance_score: 5
-  text: The problem is that many projects in crypto have a baseline tendency to copy-paste
-    the idea of a max supply cap without considering whether it is relevant for them
-  topics: []
 - length: 141
   relevance_score: 5
   text: They said the problem is that at current levels, the market can only absorb
     about 17%, leaving a $400 to $410 million monthly supply overhang
   topics:
   - market
-- length: 188
+- length: 203
   relevance_score: 4
-  text: The number that you actually want is squarely in the middle, which is the
-    circulating market cap, something like 15 or 20 billion today, while the FDV for
-    hype is usually around 50 billion
+  text: The number you actually want is kind of square in the middle, around the circulating
+    market cap, which is something like 15 or 20 billion today, while the FDV for
+    hyperliquid is usually around 50 billion
   topics:
   - market
-- length: 158
+- length: 151
   relevance_score: 4
-  text: If you looked at the equivalence of those for an equity market cap, those
-    would never be counted in the number you would actually use for valuing the protocol
+  text: If you looked at the equivalence of those for an equity market cap, they would
+    never be counted in the number you actually use for valuing the protocol
   topics:
   - market
-- length: 171
+- length: 159
   relevance_score: 4
-  text: These are accounting cleanup changes such that the FDV and what we consider
-    the correct adjusted market cap bring those in line without changing how the protocol
-    functions
+  text: So these are accounting cleanup changes that align the FDV with what we think
+    of as the correct adjusted market cap without changing how the protocol functions
   topics:
   - market
 - length: 72
@@ -270,23 +223,17 @@ quotes:
   text: The two big metrics usually out there are the market cap and FDV figures
   topics:
   - market
-- length: 97
+- length: 104
   relevance_score: 4
-  text: The downside of circulating market cap is that it is useful when looking at
-    a trading perspective
+  text: The downside of circulating market cap is that it is useful when you're looking
+    at a trading perspective
   topics:
   - market
-- length: 191
+- length: 192
   relevance_score: 4
-  text: The main difference between that and the circulating market cap you see on
-    sites like CoinMarketCap or CoinGecko is that you're including tokens with known
-    ownership and plans to enter supply
-  topics:
-  - market
-- length: 117
-  relevance_score: 4
-  text: The circulating market cap won't include those, which is obviously the wrong
-    metric to consider if you own this token
+  text: For example, if a team owns a bunch of tokens that will unlock tomorrow and
+    become fully liquid, the circulating market cap won't include those, which is
+    obviously the wrong metric to consider
   topics:
   - market
 - length: 121
@@ -295,309 +242,278 @@ quotes:
     cap would count those as outstanding shares
   topics:
   - market
-- length: 148
+- length: 128
   relevance_score: 3
   text: The reality is that most protocols need to work with the standards of what
-    numbers people are using and work within that to clarify their accounting
-  topics: []
-- length: 176
-  relevance_score: 3
-  text: Currently, I think it's a little over 42% of the total and max supply of hype,
-    which at genesis designated a max supply cap of 1 billion, similar to Bitcoin's
-    cap of 21 million
+    numbers people are using and clarify their accounting
   topics: []
 - length: 118
   relevance_score: 3
   text: The problem is that they are calculated differently across different sites;
     some use max supply, some use total supply
   topics: []
-- length: 145
+- length: 134
   relevance_score: 3
-  text: The problem is that a lot of tokens today, including hyperliquid, are generally
-    built on a precedent that is not the most relevant for them today
+  text: I think the problem is that a lot of tokens today, including hyperliquid,
+    are built on a precedent that is not relevant for them today
   topics: []
-- impact_reason: Highlights the disconnect between commonly used metrics (FDV) and
-    more accurate valuation methods in crypto markets
+- impact_reason: Highlights a critical issue in crypto valuation metrics and the need
+    for more accurate accounting standards
   relevance_score: 9
   source: llm_enhanced
   text: The practical reality in crypto is that most people are just using this FDV
-    number, which tells you things are at 50 billion, when in our mind, we think the
-    most relevant metric is 30 billion
+    number, which tells you things are at 50 billion, while we think the most relevant
+    metric is 30 billion... these are accounting cleanup changes that align the FDV
+    with what we think of as the correct adjusted market cap without changing how
+    the protocol functions.
+  topic: investment
+- impact_reason: Critical insight for investors about token unlock events and market
+    impact
+  relevance_score: 9
+  source: llm_enhanced
+  text: If a team owns a bunch of tokens that will unlock tomorrow and become fully
+    liquid, the circulating market cap won't include those, which is obviously the
+    wrong metric to consider.
+  topic: investment
+- impact_reason: Critical perspective on token distribution models and community allocations
+  relevance_score: 9
+  source: llm_enhanced
+  text: Post-airdrop, 50% community allocation, which we all know means an amorphous
+    slush fund that will decide what to do later, is a cow whose time has come...
+    this whole 50% tokens must be labeled community is a holdover of performative
+    2021 token socialism
+  topic: tokenomics
+- impact_reason: Challenges conventional wisdom about token supply caps and their
+    applicability across different protocols
+  relevance_score: 8
+  source: llm_enhanced
+  text: Many projects in crypto have just copied this idea of a max supply cap without
+    considering whether it is relevant for them. It made sense for Bitcoin but doesn't
+    make sense for most others.
+  topic: technology
+- impact_reason: Exposes inconsistencies in crypto market metrics and valuation methods
+  relevance_score: 8
+  source: llm_enhanced
+  text: The two big metrics usually out there are the market cap and FDV figures.
+    The problem is that they are calculated differently across different sites...
+    Generally, they are the most conservative overestimate.
+  topic: investment
+- impact_reason: Important consideration for protocol design and risk management
+  relevance_score: 8
+  source: llm_enhanced
+  text: There is a separate conversation about whether using your own native asset
+    in a negative situation, such as a backstop, is ideal since it might be worth
+    the least at that time.
+  topic: defi
+- impact_reason: Reveals emerging trend in protocol token economics and sustainability
+  relevance_score: 8
+  source: llm_enhanced
+  text: We've already started to see some protocols actively migrate their tokens
+    as a result of this. Once they hit their max supply cap, they realize they need
+    to issue new shares to keep funding the protocol.
+  topic: technology
+- impact_reason: Highlights problems with current token design approaches
+  relevance_score: 8
+  source: llm_enhanced
+  text: A lot of tokens today are built on a precedent that is not relevant for them
+    today... a lot of people just copied over the idea of a max supply cap without
+    digging into whether it is relevant for them
+  topic: tokenomics
+- impact_reason: Insight into how institutional investors evaluate crypto projects
+  relevance_score: 8
+  source: llm_enhanced
+  text: Many [funds], including the largest, most sophisticated funds, routinely use
+    FDV for valuation... It's not a sophistication or intelligence issue; people have
+    finite time and resources, and these are the reporting standards the industry
+    uses
   topic: investment
 - impact_reason: Important insight about protocol treasury management and risk mitigation
-  relevance_score: 9
+    strategies
+  relevance_score: 7
   source: llm_enhanced
-  text: If you're using it in a negative situation, such as a backstop, it's probably
-    when it's worth the least and has less value. So, you probably want to have a
-    stable asset in the ideal case
+  text: If you have a bunch of USDC reserves, you can plug the hole and move along
+    without any problem... It's a reasonable conversation to have about whether you
+    should have some level of stable asset reserves.
   topic: defi
-- impact_reason: Succinct warning about risks of using native tokens for protocol
-    safety nets
-  relevance_score: 9
+- impact_reason: Important context about major blockchain platforms' token economics
+  relevance_score: 7
   source: llm_enhanced
-  text: If FTX is in trouble, you don't want FTT as your backstop
-  topic: risk
-- impact_reason: Reveals how token distribution patterns were influenced by regulatory
-    considerations rather than business logic
-  relevance_score: 9
-  source: llm_enhanced
-  text: A lot of this was also a regulatory workaround. It was generally seen as a
-    favorable fact pattern if you could say the majority of the supply, over 50%,
-    is not owned by insiders... However, in practice, who really owns the shares?
-    If 49% is owned by insiders and 51% is in a community bucket that is mostly unallocated,
-    insiders obviously own the majority of the shares.
-  topic: regulation
-- impact_reason: Offers concrete valuation methodology for crypto projects considering
-    token distribution
-  relevance_score: 9
-  source: llm_enhanced
-  text: This is why I already count all of the team supply tokens in the fundamental
-    valuation of what I consider the protocol to be, which is something like 30 billion
-    dollars today. I add the 15 or so billion of currently circulating tokens and
-    the 15 or so billion owned by the team and other insiders.
-  topic: investment
-- impact_reason: Challenges common assumptions about token supply caps and their relevance
-    for different protocols
-  relevance_score: 8
-  source: llm_enhanced
-  text: The max supply cap isn't real for anything beyond Bitcoin. Even major assets
-    like Ethereum and Solana don't have a max supply cap; they just continuously issue
-    tokens
+  text: Even big assets like Ethereum and Solana don't have a max supply cap; they
+    just continuously issue new tokens.
   topic: technology
-- impact_reason: Critiques thoughtless protocol design and emphasizes need for purposeful
-    tokenomics
-  relevance_score: 8
+- impact_reason: Clarifies different valuation approaches for different investment
+    strategies
+  relevance_score: 7
   source: llm_enhanced
-  text: Many projects in crypto have a baseline tendency to copy-paste the idea of
-    a max supply cap without considering whether it is relevant for them
-  topic: technology
-- impact_reason: Reveals emerging trend in protocol evolution and tokenomics adjustment
-  relevance_score: 8
-  source: llm_enhanced
-  text: We've already started to see this with some protocols actively migrating their
-    tokens as a result of this. They hit their max supply cap and realized they need
-    to issue new shares to keep funding the protocol
-  topic: adoption
-- impact_reason: Discusses important considerations for protocol treasury diversification
-  relevance_score: 8
-  source: llm_enhanced
-  text: There's a very reasonable conversation about whether we should have USDC,
-    USDT, or whatever in the treasury reserve so that we have a stable asset to cover
-    these situations instead of buying back hype
-  topic: defi
-- impact_reason: Important distinction between different types of token supplies and
-    their impact on valuation metrics
-  relevance_score: 8
-  source: llm_enhanced
-  text: For Bitcoin, taking the max supply cap makes sense because we know we will
-    get to 21 million, and there is a designated plan to account for that supply.
-    In cases where you have an FDV that has a large component owned explicitly by
-    the treasury, such as the assistance fund, or doesn't have designated plans, you
-    should not count those in the valuation.
-  topic: tokenomics
-- impact_reason: Challenges the common crypto narrative about extreme token distribution
-    and community ownership
-  relevance_score: 8
-  source: llm_enhanced
-  text: The founders of big tech companies shouldn't be giving away most of their
-    shares at the beginning; that just wouldn't make sense... People building the
-    project should own a meaningful portion of it.
-  topic: token_distribution
-- impact_reason: Clarifies the practical implications of protocol-owned tokens versus
-    truly circulating supply
-  relevance_score: 8
-  source: llm_enhanced
-  text: If the protocol decided to distribute USDC to all stakers or holders, the
-    FACR allocation and the assistance fund would not receive that USDC because those
-    are protocol-owned and do not exist. The people who actually own hype would receive
-    that USDC.
-  topic: tokenomics
-- impact_reason: Provides insight into how to properly value tokens considering all
-    future unlocks
-  relevance_score: 8
-  source: llm_enhanced
-  text: If you are looking at the asset on a strict fundamental basis... I already
-    count all of the team supply tokens in the fundamental valuation of what I consider
-    the protocol to be
-  topic: valuation
-- impact_reason: Provides insight into token unlock dynamics and team commitment,
-    important for evaluating project sustainability
-  relevance_score: 8
-  source: llm_enhanced
-  text: My general gut feeling is that I don't think the team will sell all of their
-    unlocks exactly as they happen. That would seem out of character and not what
-    the team needs. If the team was strapped for cash and didn't believe in the project,
-    they probably wouldn't have been putting everything into buybacks since project
-    genesis until now without raising from investors.
+  text: The downside of circulating market cap is that it is useful when you're looking
+    at a trading perspective. You may not need to account for a lot of shares that
+    aren't going to hit the market soon if you're not worried about fundamental value.
   topic: investment
-- impact_reason: Innovative approach to using prediction markets for governance decisions
-  relevance_score: 8
-  source: llm_enhanced
-  text: You could set up a binary prediction market asking what the price would be
-    if this proposal passes and what it would be if it fails. The market can say that
-    if this proposal passes, we think the price goes to X plus one or plus two, and
-    if it fails, it goes to minus one.
-  topic: defi
-- impact_reason: Describes important protocol treasury management strategy
+- impact_reason: Shows evolution of crypto valuation metrics toward traditional finance
+    standards
   relevance_score: 7
   source: llm_enhanced
-  text: The assistance fund uses that to buy hype and continuously accumulates it,
-    so they do this with the majority of their revenue
-  topic: defi
-- impact_reason: Highlights key differences between crypto and traditional finance
-    valuation methods
-  relevance_score: 7
-  source: llm_enhanced
-  text: The two main metrics people use when evaluating protocols differ widely from
-    how these metrics would be measured in traditional finance
+  text: In crypto, there are different proposals around this. Defi Llama has a metric,
+    the Artemis guys have something, and Arc has posted about an adjusted market cap
+    that looks more like the traditional finance equivalent.
   topic: investment
-- impact_reason: Emphasizes importance of understanding token supply mechanics for
-    valuation
+- impact_reason: Important perspective on founder ownership and incentive alignment
   relevance_score: 7
   source: llm_enhanced
-  text: The unique supply dynamics of different tokens can create significant discrepancies
-  topic: investment
-- impact_reason: Highlights how industry metrics can be misleading and impact investment
-    decisions
-  relevance_score: 7
-  source: llm_enhanced
-  text: I've had conversations with large funds who explicitly cite FDV as a metric...
-    It's not a sophistication or intelligence issue; it's just that people have finite
-    amounts of time and resources, and these are the reporting standards the industry
-    uses.
-  topic: investment
-- impact_reason: Discusses governance evolution and voting mechanisms in crypto protocols
-  relevance_score: 7
-  source: llm_enhanced
-  text: If validator votes are done in the future, I think that's a viable option.
-    There are probably ways to get better prepared for this at the app level. This
-    was something that came up with the Solana vote regarding the inflation issue.
+  text: The founders of big tech companies shouldn't give away most of their shares
+    at the beginning; that wouldn't make sense... Founders and people building should
+    own a meaningful part of the projects they create
   topic: governance
-- impact_reason: Provides insight into limitations and optimal use cases for prediction
-    markets in crypto governance
+- impact_reason: Concrete example of token unlock dynamics and market impact
   relevance_score: 7
   source: llm_enhanced
-  text: I think future key is not a fit for a lot of things; most decisions should
-    just be made by the team. But this is an interesting application because the problems
-    where future key doesn't work well are small markets that are easier to manipulate.
-    This would be a large liquid market where you would get good information.
-  topic: technology
+  text: Starting in late November, 237.8 million hyperliquid will begin unlocking
+    linearly over 24 months... at current levels, the market can only absorb about
+    17%, leaving a $400 to $410 million monthly supply overhang
+  topic: market analysis
+- impact_reason: Novel approach to governance and price discovery
+  relevance_score: 7
+  source: llm_enhanced
+  text: Using a prediction market... would be a binary prediction market asking what
+    the price would be if this proposal passes and what it would be if it fails
+  topic: governance
+- impact_reason: Important discussion of governance evolution
+  relevance_score: 6
+  source: llm_enhanced
+  text: If validator votes are done in the future, I think that is viable... We should
+    try to get more directed in the voting process so everyone can vote and have a
+    better understanding of how it works
+  topic: governance
 source: Unchained
-summary: '**Crypto Focus Area**: The episode primarily delves into tokenomics within
-  the Web3 space, focusing on the proposal to reduce the token supply of Hyperliquid,
-  a DeFi protocol. It explores the discrepancies between traditional financial metrics
-  and those used in the crypto world, particularly concerning Fully Diluted Valuation
-  (FDV) and circulating market cap.
+summary: '**Podcast Episode Summary: Why Hyperliquid Should Cut Its Total Token Supply
+  Nearly in Half**
 
 
-  **Key Technical Insights**:
+  **Crypto Focus Area:**
 
-  - **Token Supply Dynamics**: The episode highlights the complexities of token supply
-  dynamics, emphasizing the difference between authorized tokens and those in actual
-  circulation. It suggests that many tokens are counted in FDV despite not being in
-  active circulation, leading to inflated valuations.
-
-  - **Accounting Adjustments**: The proposal suggests an accounting cleanup by burning
-  certain tokens and removing the max supply cap to align reported metrics with actual
-  token usage and ownership.
+  The episode primarily focuses on tokenomics within the crypto space, particularly
+  the discrepancies between Fully Diluted Valuation (FDV) and circulating market cap
+  in the context of Hyperliquid. It also touches on governance and accounting practices
+  in DeFi and Web3 projects.
 
 
-  **Market/Investment Angle**:
+  **Key Technical Insights:**
 
-  - **Valuation Metrics**: The discussion critiques the reliance on FDV as a valuation
-  metric, arguing that it often overstates a protocol''s value. Instead, an adjusted
-  market cap that considers actual token circulation and ownership is recommended.
+  - **Token Supply Dynamics:** The discussion highlights the importance of understanding
+  the differences between FDV and circulating market cap, emphasizing that FDV often
+  overstates a protocol''s valuation by including tokens that are authorized but not
+  yet in circulation.
 
-  - **Investor Perception**: The episode points out that many investors, including
-  sophisticated funds, often use FDV without adjusting for non-circulating tokens,
-  which can mislead investment decisions.
-
-
-  **Notable Crypto Projects/People**:
-
-  - **John Chabinau**: Co-founder and general partner of DBA, he provides insights
-  into the proposal and the broader implications for the industry.
-
-  - **Haseeb Qureshi**: Mentioned for his critique of token allocation practices,
-  emphasizing transparency and governance in token distribution.
+  - **Accounting Adjustments:** The proposal suggests accounting changes to better
+  align reported metrics with actual market conditions, such as burning tokens in
+  the assistance fund and removing the max supply cap to reflect a more realistic
+  valuation.
 
 
-  **Regulatory/Policy Discussion**: The episode touches on the regulatory implications
-  of token distribution, noting that past practices were often influenced by the need
-  to appear decentralized to avoid regulatory scrutiny. It suggests a reevaluation
-  of these practices to better align with actual project needs and investor expectations.
+  **Market/Investment Angle:**
+
+  - **Valuation Metrics:** Investors are advised to consider adjusted market caps
+  that account for known token allocations and future emissions, rather than relying
+  solely on FDV, which can mislead due to its inclusion of non-circulating tokens.
+
+  - **Supply Overhang Concerns:** The episode discusses potential market impacts of
+  large token unlocks, suggesting that the market might not absorb these efficiently,
+  leading to price pressures.
 
 
-  **Future Implications**: The conversation suggests a shift towards more realistic
-  and transparent tokenomics in the crypto industry. By aligning token supply metrics
-  with actual usage and ownership, projects can provide clearer valuations and improve
-  investor confidence.
+  **Notable Crypto Projects/People:**
+
+  - **Hyperliquid:** The main subject of the episode, with discussions on its tokenomics
+  and governance proposals.
+
+  - **John Chabinau:** Co-founder and general partner of DBA, who provides insights
+  into the proposal and broader industry practices.
+
+  - **Haseeb Qureshi:** Mentioned for his commentary on token distribution practices
+  and governance.
 
 
-  **Target Audience**: This episode is particularly valuable for crypto investors
-  and analysts who focus on project valuations, as well as developers and project
-  founders interested in tokenomics and governance.
+  **Regulatory/Policy Discussion:**
+
+  The episode touches on the regulatory implications of token distribution, noting
+  that past practices of allocating large community buckets were partly driven by
+  regulatory considerations to avoid insider ownership perceptions.
 
 
-  **Main Narrative Arc and Key Discussion Points**:
+  **Future Implications:**
 
-  The episode centers on a proposal to reduce Hyperliquid''s token supply by 45%,
-  aiming to address discrepancies in how token valuations are perceived. It critiques
-  the use of FDV as a misleading metric and proposes accounting changes to better
-  reflect true market conditions.
-
-
-  **Technical Concepts, Methodologies, or Frameworks Discussed**:
-
-  The discussion introduces the concept of "bucketing" tokens into categories like
-  the assistance fund and future emissions, proposing changes to how these are accounted
-  for in supply metrics.
+  The conversation suggests a shift towards more transparent and realistic tokenomics
+  in the crypto industry, with a focus on aligning accounting practices with traditional
+  finance standards. This could lead to more informed investment decisions and better
+  governance practices.
 
 
-  **Business Implications and Strategic Insights**:
+  **Target Audience:**
 
-  The proposal aims to make Hyperliquid''s valuation more transparent and accurate,
-  potentially attracting more informed investors by aligning reported metrics with
-  actual token economics.
-
-
-  **Key Personalities, Experts, or Thought Leaders Mentioned**:
-
-  John Chabinau provides expert insights into the proposal, while Haseeb Qureshi''s
-  commentary on token distribution practices adds depth to the discussion.
+  This episode is particularly valuable for crypto investors, traders, and project
+  developers interested in understanding tokenomics, valuation metrics, and governance
+  in the crypto space.
 
 
-  **Predictions, Trends, or Future-Looking Statements**:
+  **Main Narrative Arc and Key Discussion Points:**
 
-  The episode predicts a move towards more realistic tokenomics in the crypto industry,
-  with projects adopting clearer and more transparent accounting practices.
-
-
-  **Practical Applications and Real-World Examples**:
-
-  The proposal''s practical application involves burning tokens and adjusting supply
-  metrics to provide a clearer picture of Hyperliquid''s valuation, serving as a potential
-  model for other projects.
+  The episode revolves around a proposal to reduce Hyperliquid''s token supply by
+  nearly half, aiming to address discrepancies between FDV and actual market valuations.
+  It explores the implications of token supply dynamics on market perceptions and
+  investment decisions, advocating for accounting changes to provide clearer valuation
+  metrics.
 
 
-  **Controversies, Challenges, or Problems Highlighted**:
+  **Technical Concepts, Methodologies, or Frameworks Discussed:**
 
-  The episode highlights the challenge of inflated valuations due to the use of FDV
-  and the need for more accurate metrics that reflect true market conditions.
-
-
-  **Solutions, Recommendations, or Actionable Advice Provided**:
-
-  The proposal recommends burning certain tokens and removing the max supply cap to
-  align reported metrics with actual token usage and ownership, providing a clearer
-  valuation framework.
+  The discussion includes technical aspects of token supply categorization, such as
+  the assistance fund and future emissions/community rewards, and how these should
+  be accounted for in valuation metrics.
 
 
-  **Context About Why This Conversation Matters to the Industry**:
+  **Business Implications and Strategic Insights:**
 
-  As the crypto industry matures, accurate valuation metrics become crucial for attracting
-  investment and ensuring sustainable growth. This conversation addresses a key issue
-  in tokenomics, offering solutions that could enhance transparency and investor confidence.'
+  The proposal is positioned as a strategic move to improve Hyperliquid''s market
+  perception and attract more informed investors by aligning its reported metrics
+  with actual market realities.
+
+
+  **Key Personalities, Experts, or Thought Leaders Mentioned:**
+
+  John Chabinau and Haseeb Qureshi are highlighted for their insights into tokenomics
+  and governance practices.
+
+
+  **Predictions, Trends, or Future-Looking Statements:**
+
+  The episode predicts a trend towards more realistic and transparent tokenomics in
+  the crypto industry, moving away from outdated practices like fixed max supply caps.
+
+
+  **Practical Applications and Real-World Examples:**
+
+  The proposal''s practical application involves accounting changes to Hyperliquid''s
+  token supply, serving as a case study for other projects facing similar valuation
+  challenges.
+
+
+  **Controversies, Challenges, or Problems Highlighted:**
+
+  Challenges include the market''s reliance on FDV for valuation, which can mislead
+  investors, and the potential market impact of large token unlocks.
+
+
+  **Solutions, Recommendations, or Actionable Advice Provided:**
+
+  The episode recommends accounting adjustments to better reflect true market valuations
+  and suggests governance improvements to ensure transparent decision-making.
+
+
+  **Context About Why This Conversation Matters to the Industry:**
+
+  This conversation is crucial as it addresses common valuation and governance issues
+  in the crypto industry, offering solutions that could lead to more sustainable and
+  transparent practices, ultimately benefiting investors and project developers alike.'
 tags:
 - ai
 - technology
@@ -616,7 +532,7 @@ topics:
   - blockchain
   - altcoin
   - stablecoin
-  mentions: 18
+  mentions: 17
   prominence: 1.0
   topic: cryptocurrency
 - keywords:
@@ -625,8 +541,8 @@ topics:
   - valuation
   - ipo
   - acquisition
-  mentions: 11
-  prominence: 1.0
+  mentions: 8
+  prominence: 0.8
   topic: investment
 - keywords:
   - defi
@@ -662,4 +578,4 @@ transcript_url: /transcripts/zOxML26k4Ew.html
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-09-25 12:39:06 UTC -->
+<!-- Processing completed: 2025-09-25 18:38:14 UTC -->

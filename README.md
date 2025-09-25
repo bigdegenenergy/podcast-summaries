@@ -66,6 +66,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Last Week in AI #221 - OpenAI Codex, Gemini in Chrome, K2-Think, SB 53](/episodes/2025-09-24-last-week-in-ai-#221-openai-codex,-gemini-in-chrome,-k2-think,-sb-53/)** - Last Week in AI (2025-09-24 00:00:00 )
 - **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-is-a-beast-autonomous-coding-agent/)** - Wes Roth (2025-09-25 04:25:00 +0000)
 
+
+## 🎧 Latest Episodes
+
+- **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
+- **[AI Operating Systems: The Next Level of AI for Business](/episodes/2025-09-09-ai-operating-systems-the-next-level-of-ai-for-business/)** - AI Explored (2025-09-09 00:00:00 )
+- **[Entrepreneurial AI Pitfalls: Stop Making These 3 AI Mistakes](/episodes/2025-09-23-entrepreneurial-ai-pitfalls-stop-making-these-3-ai-mistakes/)** - AI Explored (2025-09-23 00:00:00 )
+- **[Automating Lead Nurturing With AI Agents](/episodes/2025-09-16-automating-lead-nurturing-with-ai-agents/)** - AI Explored (2025-09-16 00:00:00 )
+- **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

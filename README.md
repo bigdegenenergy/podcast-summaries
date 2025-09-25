@@ -39,6 +39,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-is-a-beast-autonomous-coding-agent/)** - Wes Roth (2025-09-25 04:25:00 +0000)
 - **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-enhanced-analysis/)** - Wes Roth (2025-09-25 04:25:00 +0000)
 
+
+## 🎧 Latest Episodes
+
+- **[The beginner's guide to coding with Cursor | Lee Robinson (Head of AI education)](/episodes/2025-09-22-the-beginner's-guide-to-coding-with-cursor-lee-robinson-(head-of-ai-education)/)** - How I AI (2025-09-22 00:00:00 )
+- **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
+- **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
+- **[Last Week in AI #221 - OpenAI Codex, Gemini in Chrome, K2-Think, SB 53](/episodes/2025-09-24-last-week-in-ai-#221-openai-codex,-gemini-in-chrome,-k2-think,-sb-53/)** - Last Week in AI (2025-09-24 00:00:00 )
+- **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-is-a-beast-autonomous-coding-agent/)** - Wes Roth (2025-09-25 04:25:00 +0000)
+
 ## 📊 Sources
 
 ### AI & Technology

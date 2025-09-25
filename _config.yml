@@ -41,3 +41,9 @@ defaults:
 exclude:
   - scripts/
   - .github/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - "*.gemspec"
+  - "*.gem"

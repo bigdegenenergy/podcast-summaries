@@ -10,8 +10,10 @@ title: AI & Technology
 </div>
 
 <div class="episodes-grid">
-{% assign ai_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'ai' or episode.tags contains 'artificial intelligence' or episode.tags contains 'technology'" | sort: 'date' | reverse %}
-{% for episode in ai_episodes %}
+{% assign ai_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'ai'" | sort: 'date' | reverse %}
+{% assign tech_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'technology'" | sort: 'date' | reverse %}
+{% assign all_episodes = ai_episodes | concat: tech_episodes | uniq | sort: 'date' | reverse %}
+{% for episode in all_episodes %}
   <div class="episode-card">
     <h3><a href="{{ episode.url }}">{{ episode.title }}</a></h3>
     <div class="episode-meta">
@@ -37,7 +39,7 @@ title: AI & Technology
 {% endfor %}
 </div>
 
-{% if ai_episodes.size == 0 %}
+{% if all_episodes.size == 0 %}
 <div class="no-episodes">
   <p>No AI episodes found yet. Check back soon!</p>
 </div>

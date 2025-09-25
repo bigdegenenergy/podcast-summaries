@@ -10,8 +10,12 @@ title: Crypto & Web3
 </div>
 
 <div class="episodes-grid">
-{% assign crypto_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'crypto' or episode.tags contains 'bitcoin' or episode.tags contains 'blockchain' or episode.tags contains 'web3'" | sort: 'date' | reverse %}
-{% for episode in crypto_episodes %}
+{% assign crypto_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'crypto'" | sort: 'date' | reverse %}
+{% assign bitcoin_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'bitcoin'" | sort: 'date' | reverse %}
+{% assign blockchain_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'blockchain'" | sort: 'date' | reverse %}
+{% assign web3_episodes = site.episodes | where_exp: "episode", "episode.tags contains 'web3'" | sort: 'date' | reverse %}
+{% assign all_crypto = crypto_episodes | concat: bitcoin_episodes | concat: blockchain_episodes | concat: web3_episodes | uniq | sort: 'date' | reverse %}
+{% for episode in all_crypto %}
   <div class="episode-card">
     <h3><a href="{{ episode.url }}">{{ episode.title }}</a></h3>
     <div class="episode-meta">
@@ -37,7 +41,7 @@ title: Crypto & Web3
 {% endfor %}
 </div>
 
-{% if crypto_episodes.size == 0 %}
+{% if all_crypto.size == 0 %}
 <div class="no-episodes">
   <p>No crypto episodes found yet. Check back soon!</p>
 </div>

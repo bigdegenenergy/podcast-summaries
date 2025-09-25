@@ -22,6 +22,14 @@ This repository is automatically updated by an AI-powered podcast processing sys
 
 - **[How to digest 36 weekly podcasts without spending 36 hours listening | Tomasz Tunguz](/episodes/2024-09-24-sample-episode/)** - How I AI (2024-09-24 14:30:00 +0000)
 
+
+## 🎧 Latest Episodes
+
+- **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
+- **[Last Week in AI #221 - OpenAI Codex, Gemini in Chrome, K2-Think, SB 53](/episodes/2025-09-24-last-week-in-ai-#221-openai-codex,-gemini-in-chrome,-k2-think,-sb-53/)** - Last Week in AI (2025-09-24 00:00:00 )
+- **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-is-a-beast-autonomous-coding-agent/)** - Wes Roth (2025-09-25 04:25:00 +0000)
+- **[GPT 5 Codex is a BEAST Autonomous Coding Agent](/episodes/2025-09-25-gpt-5-codex-enhanced-analysis/)** - Wes Roth (2025-09-25 04:25:00 +0000)
+
 ## 📊 Sources
 
 ### AI & Technology

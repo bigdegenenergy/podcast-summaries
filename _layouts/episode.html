@@ -22,7 +22,7 @@ layout: default
       <a href="{{ page.original_url }}" target="_blank" class="btn-primary">🎧 Listen to Original</a>
     {% endif %}
     {% if page.transcript_url %}
-      <a href="{{ page.transcript_url }}" class="btn-secondary">📄 Full Transcript</a>
+      <a href="{{ page.transcript_url | relative_url }}" class="btn-secondary">📄 Full Transcript</a>
     {% endif %}
   </div>
 

@@ -8,6 +8,7 @@ import sys
 import json
 import yaml
 import re
+import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Any, List, Optional
@@ -39,10 +40,11 @@ class EpisodeData:
 class JekyllPublisher:
     """Publishes podcast episodes as Jekyll posts"""
 
-    def __init__(self, repo_path: str = "/home/mikesmalling/pods/podcast-summaries"):
+    def __init__(self, repo_path: str = "/home/mikesmalling/pods/podcast-summaries", auto_deploy: bool = True):
         self.repo_path = Path(repo_path)
         self.episodes_dir = self.repo_path / "_episodes"
         self.episodes_dir.mkdir(exist_ok=True)
+        self.auto_deploy = auto_deploy
 
     def sanitize_filename(self, text: str) -> str:
         """Create a safe filename from episode title"""
@@ -98,6 +100,74 @@ class JekyllPublisher:
                 tags.append(company_name)
 
         return tags[:8]  # Limit to 8 tags
+
+    def _run_git_command(self, command: List[str], capture_output: bool = True) -> subprocess.CompletedProcess:
+        """Run a git command in the repository directory"""
+        try:
+            result = subprocess.run(
+                command,
+                cwd=self.repo_path,
+                capture_output=capture_output,
+                text=True,
+                check=True
+            )
+            return result
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Git command failed: {' '.join(command)}")
+            print(f"   Error: {e.stderr}")
+            raise
+
+    def _commit_and_push_episode(self, filepath: Path, episode_title: str) -> bool:
+        """Commit and push the new episode file to GitHub"""
+        try:
+            # Get relative path from repo root
+            relative_path = filepath.relative_to(self.repo_path)
+
+            print(f"🔄 Committing episode: {relative_path}")
+
+            # Add the file to git
+            self._run_git_command(['git', 'add', str(relative_path)])
+
+            # Create commit message
+            commit_msg = f"Add episode: {episode_title[:60]}{'...' if len(episode_title) > 60 else ''}"
+
+            # Commit the file
+            self._run_git_command(['git', 'commit', '-m', commit_msg])
+
+            # Push to GitHub
+            print(f"🚀 Pushing to GitHub Pages...")
+            self._run_git_command(['git', 'push', 'origin', 'main'])
+
+            print(f"✅ Episode committed and pushed to GitHub Pages")
+            print(f"   🌐 Episode should be live in ~30 seconds")
+
+            return True
+
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Failed to commit/push episode: {str(e)}")
+            return False
+        except Exception as e:
+            print(f"❌ Git automation error: {str(e)}")
+            return False
+
+    def _check_git_status(self) -> bool:
+        """Check if repository is ready for git operations"""
+        try:
+            # Check if we're in a git repository
+            self._run_git_command(['git', 'status', '--porcelain'])
+
+            # Check if we have any unstaged changes that might conflict
+            result = self._run_git_command(['git', 'status', '--porcelain'])
+            if result.stdout.strip():
+                print(f"⚠️  Repository has unstaged changes:")
+                print(result.stdout)
+                print(f"   Proceeding with episode commit only...")
+
+            return True
+
+        except subprocess.CalledProcessError:
+            print(f"❌ Repository is not a git repository or git is not available")
+            return False
 
     def format_duration_minutes(self, duration_seconds: int) -> int:
         """Convert duration from seconds to minutes"""
@@ -194,6 +264,18 @@ class JekyllPublisher:
                 f.write(f"<!-- Processing completed: {episode.processing_date.strftime('%Y-%m-%d %H:%M:%S %Z')} -->\n")
 
             print(f"✅ Created Jekyll post: {filename}")
+
+            # Automatically commit and push if enabled
+            if self.auto_deploy:
+                if self._check_git_status():
+                    deploy_success = self._commit_and_push_episode(filepath, episode.title)
+                    if not deploy_success:
+                        print(f"⚠️  Episode created but deployment failed")
+                        print(f"   Manual deployment: cd {self.repo_path} && git add {filepath.relative_to(self.repo_path)} && git commit -m 'Add episode' && git push")
+                else:
+                    print(f"⚠️  Git not available - episode created but not deployed")
+                    print(f"   Manual deployment required")
+
             return True
 
         except Exception as e:
@@ -341,10 +423,13 @@ def main():
     parser.add_argument('--episode-guid', help='Episode GUID to publish from database')
     parser.add_argument('--repo-path', default='/home/mikesmalling/pods/podcast-summaries', help='Repository path')
     parser.add_argument('--update-index', action='store_true', help='Update index page')
+    parser.add_argument('--no-deploy', action='store_true', help='Disable automatic Git commit and push')
 
     args = parser.parse_args()
 
-    publisher = JekyllPublisher(args.repo_path)
+    # Auto-deploy is enabled by default, disabled with --no-deploy
+    auto_deploy = not args.no_deploy
+    publisher = JekyllPublisher(args.repo_path, auto_deploy=auto_deploy)
 
     if args.update_index:
         success = publisher.update_index_page()

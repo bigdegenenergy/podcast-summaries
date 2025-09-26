@@ -201,6 +201,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[What 5000 Devs Can Teach Us About AI Adoption](/episodes/2025-09-25-what-5000-devs-can-teach-us-about-ai-adoption/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-25 00:00:00 )
 - **[This AI Video Model Is Going to Take Over Twitch](/episodes/2025-09-25-this-ai-video-model-is-going-to-take-over-twitch/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-25 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Nvidia's $100B OpenAI Bet is a Rorschach Test](/episodes/2025-09-24-nvidia's-$100b-openai-bet-is-a-rorschach-test/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-24 00:00:00 )
+- **[Bitfinex-Backed Stablecoin Chain Plasma Just Launched. Here’s the Bull Case](/episodes/2025-09-26-bitfinex-backed-stablecoin-chain-plasma-just-launched.-here’s-the-bull-case/)** - Unchained (2025-09-26 00:00:00 )
+- **[Tether’s Sky-High Valuation Bid, Circle’s Reversible USDC: Weekly Recap](/episodes/2025-09-26-tether’s-sky-high-valuation-bid,-circle’s-reversible-usdc-weekly-recap/)** - Unchained (2025-09-26 00:00:00 )
+- **[5000 Agent Teams at Citi](/episodes/2025-09-24-5000-agent-teams-at-citi/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-24 00:00:00 )
+- **[What 5000 Devs Can Teach Us About AI Adoption](/episodes/2025-09-25-what-5000-devs-can-teach-us-about-ai-adoption/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-25 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

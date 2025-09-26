@@ -75,6 +75,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Automating Lead Nurturing With AI Agents](/episodes/2025-09-16-automating-lead-nurturing-with-ai-agents/)** - AI Explored (2025-09-16 00:00:00 )
 - **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[The beginner's guide to coding with Cursor | Lee Robinson (Head of AI education)](/episodes/2025-09-22-the-beginner's-guide-to-coding-with-cursor-lee-robinson-(head-of-ai-education)/)** - How I AI (2025-09-22 00:00:00 )
+- **[NotebookLM for Business: Unlocking Valuable Insights](/episodes/2025-05-27-notebooklm-for-business-unlocking-valuable-insights/)** - AI Explored (2025-05-27 00:00:00 )
+- **[Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)](/episodes/2009-10-25-rick-astley-never-gonna-give-you-up-(official-video)-(4k-remaster)/)** - Rick Astley (2009-10-25 00:00:00 )
+- **[Regain Your Time With ChatGPT: Training AI to Assist You](/episodes/2025-07-01-regain-your-time-with-chatgpt-training-ai-to-assist-you/)** - AI Explored (2025-07-01 00:00:00 )
+- **[AI Marketing Strategy: Practical Applications for Any Business](/episodes/2025-07-15-ai-marketing-strategy-practical-applications-for-any-business/)** - AI Explored (2025-07-15 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

@@ -147,6 +147,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
 - **[No Priors Ep. 133 | With Alpha School Principal Joe Liemandt](/episodes/2025-09-25-no-priors-ep.-133-with-alpha-school-principal-joe-liemandt/)** - No Priors: AI, Machine Learning, Tech, & Startups (2025-09-25 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Could Gemini 3.0 and Claude 4.5 Be Coming Soon?](/episodes/2025-09-26-could-gemini-3.0-and-claude-4.5-be-coming-soon/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-26 00:00:00 )
+- **[Last Week in AI #221 - OpenAI Codex, Gemini in Chrome, K2-Think, SB 53](/episodes/2025-09-24-last-week-in-ai-#221-openai-codex,-gemini-in-chrome,-k2-think,-sb-53/)** - Last Week in AI (2025-09-24 00:00:00 )
+- **[Entrepreneurial AI Pitfalls: Stop Making These 3 AI Mistakes](/episodes/2025-09-23-entrepreneurial-ai-pitfalls-stop-making-these-3-ai-mistakes/)** - AI Explored (2025-09-23 00:00:00 )
+- **[5 ChatGPT Integrations That Eliminate Tab-Jumping for Marketers (2025)](/episodes/2025-09-24-5-chatgpt-integrations-that-eliminate-tab-jumping-for-marketers-(2025)/)** - AI Explored (2025-09-24 00:00:00 )
+- **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

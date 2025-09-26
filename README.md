@@ -102,6 +102,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[NotebookLM for Business: Unlocking Valuable Insights](/episodes/2025-05-27-notebooklm-for-business-unlocking-valuable-insights/)** - AI Explored (2025-05-27 00:00:00 )
 - **[Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)](/episodes/2009-10-25-rick-astley-never-gonna-give-you-up-(official-video)-(4k-remaster)/)** - Rick Astley (2009-10-25 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[No Priors Ep. 133 | With Alpha School Principal Joe Liemandt](/episodes/2025-09-25-no-priors-ep.-133-with-alpha-school-principal-joe-liemandt/)** - No Priors: AI, Machine Learning, Tech, & Startups (2025-09-25 00:00:00 )
+- **[How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (CEO)](/episodes/2025-09-08-how-devin-replaces-your-junior-engineers-with-infinite-ai-interns-that-never-sleep-scott-wu-(ceo)/)** - How I AI (2025-09-08 00:00:00 )
+- **[Sam Altman and Elon Musk go ALL IN](/episodes/2025-09-24-sam-altman-and-elon-musk-go-all-in/)** - Wes Roth (2025-09-24 00:00:00 )
+- **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
+- **[The Best Way to Evaluate a Crypto Protocol](/episodes/2025-09-25-the-best-way-to-evaluate-a-crypto-protocol/)** - Unchained (2025-09-25 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

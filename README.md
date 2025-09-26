@@ -111,6 +111,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
 - **[The Best Way to Evaluate a Crypto Protocol](/episodes/2025-09-25-the-best-way-to-evaluate-a-crypto-protocol/)** - Unchained (2025-09-25 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Bits + Bips: How Wall Street Could Get Rich off the Next Crypto Slump](/episodes/2025-09-23-bits-+-bips-how-wall-street-could-get-rich-off-the-next-crypto-slump/)** - Unchained (2025-09-23 00:00:00 )
+- **[No Priors Ep. 133 | With Alpha School Principal Joe Liemandt](/episodes/2025-09-25-no-priors-ep.-133-with-alpha-school-principal-joe-liemandt/)** - No Priors: AI, Machine Learning, Tech, & Startups (2025-09-25 00:00:00 )
+- **[How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (CEO)](/episodes/2025-09-08-how-devin-replaces-your-junior-engineers-with-infinite-ai-interns-that-never-sleep-scott-wu-(ceo)/)** - How I AI (2025-09-08 00:00:00 )
+- **[Sam Altman and Elon Musk go ALL IN](/episodes/2025-09-24-sam-altman-and-elon-musk-go-all-in/)** - Wes Roth (2025-09-24 00:00:00 )
+- **[Why Hyperliquid Should Cut Its Total Token Supply Nearly in Half](/episodes/2025-09-24-why-hyperliquid-should-cut-its-total-token-supply-nearly-in-half/)** - Unchained (2025-09-24 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

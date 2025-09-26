@@ -43,7 +43,9 @@ class JekyllPublisher:
     def __init__(self, repo_path: str = "/home/mikesmalling/pods/podcast-summaries", auto_deploy: bool = True):
         self.repo_path = Path(repo_path)
         self.episodes_dir = self.repo_path / "_episodes"
+        self.transcripts_dir = self.repo_path / "transcripts"
         self.episodes_dir.mkdir(exist_ok=True)
+        self.transcripts_dir.mkdir(exist_ok=True)
         self.auto_deploy = auto_deploy
 
     def sanitize_filename(self, text: str) -> str:
@@ -173,6 +175,116 @@ class JekyllPublisher:
         """Convert duration from seconds to minutes"""
         return max(1, round(duration_seconds / 60))
 
+    def create_transcript_html(self, episode_id: str, transcript_text: str, episode_title: str, episode_url: str) -> bool:
+        """Create a standalone HTML transcript file"""
+        try:
+            transcript_filepath = self.transcripts_dir / f"{episode_id}.html"
+
+            # Create HTML content
+            html_content = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Transcript - {episode_title}</title>
+    <style>
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #fff;
+        }}
+        .header {{
+            border-bottom: 2px solid #007acc;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }}
+        .title {{
+            color: #007acc;
+            font-size: 28px;
+            margin: 0 0 10px 0;
+        }}
+        .subtitle {{
+            color: #666;
+            font-size: 16px;
+            margin: 0;
+        }}
+        .back-link {{
+            display: inline-block;
+            color: #007acc;
+            text-decoration: none;
+            margin-bottom: 20px;
+            padding: 8px 16px;
+            border: 1px solid #007acc;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }}
+        .back-link:hover {{
+            background-color: #007acc;
+            color: white;
+        }}
+        .transcript {{
+            background-color: #f9f9f9;
+            padding: 30px;
+            border-radius: 8px;
+            border-left: 4px solid #007acc;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }}
+        .footer {{
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }}
+        @media (max-width: 768px) {{
+            body {{
+                padding: 10px;
+            }}
+            .title {{
+                font-size: 24px;
+            }}
+            .transcript {{
+                padding: 20px;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="title">{episode_title}</h1>
+        <p class="subtitle">Full Transcript</p>
+    </div>
+
+    <a href="{episode_url}" class="back-link">← Back to Episode Summary</a>
+
+    <div class="transcript">
+{transcript_text}
+    </div>
+
+    <div class="footer">
+        <p>This transcript was automatically generated and may contain errors.</p>
+        <p><a href="https://bigdegenenergy.github.io/podcast-summaries/">Browse all episodes</a></p>
+    </div>
+</body>
+</html>'''
+
+            # Write the HTML file
+            with open(transcript_filepath, 'w', encoding='utf-8') as f:
+                f.write(html_content)
+
+            print(f"✅ Created transcript HTML: {episode_id}.html")
+            return True
+
+        except Exception as e:
+            print(f"❌ Error creating transcript HTML: {str(e)}")
+            return False
+
     def create_episode_post(self, analysis_data: Dict[str, Any], metadata: Dict[str, Any]) -> bool:
         """Create a Jekyll post from analysis data"""
         try:
@@ -249,9 +361,24 @@ class JekyllPublisher:
             if episode.actionable_items:
                 front_matter['actionable_items'] = episode.actionable_items
 
-            # Generate transcript URL if available
+            # Generate episode URL for back-linking
+            episode_url = f"https://bigdegenenergy.github.io/podcast-summaries/episodes/{date.strftime('%Y/%m/%d')}/{title_slug}/"
+
+            # Generate transcript HTML file and URL if transcript is available
             episode_id = self.extract_episode_id(original_url)
-            front_matter['transcript_url'] = f"/transcripts/{episode_id}.html"
+            transcript_text = analysis_data.get('transcript_text', '')
+
+            if transcript_text:
+                # Create the standalone transcript HTML file
+                transcript_success = self.create_transcript_html(episode_id, transcript_text, title, episode_url)
+                if transcript_success:
+                    front_matter['transcript_url'] = f"/transcripts/{episode_id}.html"
+                    front_matter['has_transcript'] = True
+                else:
+                    print(f"⚠️  Failed to create transcript HTML for {episode_id}")
+                    front_matter['has_transcript'] = False
+            else:
+                front_matter['has_transcript'] = False
 
             # Write the Jekyll post
             with open(filepath, 'w', encoding='utf-8') as f:

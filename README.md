@@ -219,6 +219,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Tether’s Sky-High Valuation Bid, Circle’s Reversible USDC: Weekly Recap](/episodes/2025-09-26-tether’s-sky-high-valuation-bid,-circle’s-reversible-usdc-weekly-recap/)** - Unchained (2025-09-26 00:00:00 )
 - **[5000 Agent Teams at Citi](/episodes/2025-09-24-5000-agent-teams-at-citi/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-24 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Perp Wars & Stablecoin Battles: Hyperliquid, Aster, Tether - The Chopping Block](/episodes/2025-09-26-perp-wars-&-stablecoin-battles-hyperliquid,-aster,-tether-the-chopping-block/)** - Unchained (2025-09-26 00:00:00 )
+- **[How ChatGPT Pulse Changes AI](/episodes/2025-09-27-how-chatgpt-pulse-changes-ai/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-27 00:00:00 )
+- **[Nvidia's $100B OpenAI Bet is a Rorschach Test](/episodes/2025-09-24-nvidia's-$100b-openai-bet-is-a-rorschach-test/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-24 00:00:00 )
+- **[Bitfinex-Backed Stablecoin Chain Plasma Just Launched. Here’s the Bull Case](/episodes/2025-09-26-bitfinex-backed-stablecoin-chain-plasma-just-launched.-here’s-the-bull-case/)** - Unchained (2025-09-26 00:00:00 )
+- **[Tether’s Sky-High Valuation Bid, Circle’s Reversible USDC: Weekly Recap](/episodes/2025-09-26-tether’s-sky-high-valuation-bid,-circle’s-reversible-usdc-weekly-recap/)** - Unchained (2025-09-26 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

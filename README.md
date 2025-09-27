@@ -282,6 +282,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Great AI Gets Cheaper Again](/episodes/2025-09-23-great-ai-gets-cheaper-again/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-23 00:00:00 )
 - **[Could AI Wipe Out 1/5 of Public Companies?](/episodes/2025-09-26-could-ai-wipe-out-1-5-of-public-companies/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-26 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[AI NEWS: OpenAI Economic Impact, Google's Robots and Apollo's Strange Scheming AI's](/episodes/2025-09-26-ai-news-openai-economic-impact,-google's-robots-and-apollo's-strange-scheming-ai's/)** - Wes Roth (2025-09-26 00:00:00 )
+- **[AI NEWS: OpenAI and xAI spark the AGI race, AI detects consciousness and Google's "AI Money"](/episodes/2025-09-27-ai-news-openai-and-xai-spark-the-agi-race,-ai-detects-consciousness-and-google's-ai-money/)** - Wes Roth (2025-09-27 00:00:00 )
+- **[The Truth About the AI Bubble](/episodes/2025-09-21-the-truth-about-the-ai-bubble/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-21 00:00:00 )
+- **[Apple's AI Trojan Horse](/episodes/2025-09-22-apple's-ai-trojan-horse/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-22 00:00:00 )
+- **[Great AI Gets Cheaper Again](/episodes/2025-09-23-great-ai-gets-cheaper-again/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-23 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

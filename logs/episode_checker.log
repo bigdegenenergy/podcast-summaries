@@ -1,0 +1,14 @@
+2025-09-27 14:53:39,548 - episode_checker - INFO - ============================================================
+2025-09-27 14:53:39,548 - episode_checker - INFO - Starting automated episode check (dry_run=True)
+2025-09-27 14:53:39,548 - episode_checker - INFO - Starting episode check for 0 feeds
+2025-09-27 14:53:39,548 - episode_checker - INFO - Total new episodes found: 0
+2025-09-27 14:53:39,548 - episode_checker - INFO - Episode check completed in 0.0s
+2025-09-27 14:53:39,548 - episode_checker - INFO - Found: 0, Processed: 0, Errors: 0
+2025-09-27 14:53:39,548 - episode_checker - INFO - ============================================================
+2025-09-27 14:53:49,069 - episode_checker - INFO - ============================================================
+2025-09-27 14:53:49,069 - episode_checker - INFO - Starting automated episode check (dry_run=False)
+2025-09-27 14:53:49,070 - episode_checker - INFO - Starting episode check for 0 feeds
+2025-09-27 14:53:49,070 - episode_checker - INFO - Total new episodes found: 0
+2025-09-27 14:53:49,070 - episode_checker - INFO - Episode check completed in 0.0s
+2025-09-27 14:53:49,070 - episode_checker - INFO - Found: 0, Processed: 0, Errors: 0
+2025-09-27 14:53:49,070 - episode_checker - INFO - ============================================================

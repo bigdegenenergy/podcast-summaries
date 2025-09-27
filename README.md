@@ -255,6 +255,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Perp Wars & Stablecoin Battles: Hyperliquid, Aster, Tether - The Chopping Block](/episodes/2025-09-26-perp-wars-&-stablecoin-battles-hyperliquid,-aster,-tether-the-chopping-block/)** - Unchained (2025-09-26 00:00:00 )
 - **[How ChatGPT Pulse Changes AI](/episodes/2025-09-27-how-chatgpt-pulse-changes-ai/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-27 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Apple's AI Trojan Horse](/episodes/2025-09-22-apple's-ai-trojan-horse/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-22 00:00:00 )
+- **[Great AI Gets Cheaper Again](/episodes/2025-09-23-great-ai-gets-cheaper-again/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-23 00:00:00 )
+- **[Could AI Wipe Out 1/5 of Public Companies?](/episodes/2025-09-26-could-ai-wipe-out-1-5-of-public-companies/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-26 00:00:00 )
+- **[How Pump.Fun Could Displace Streaming Giants Such as Twitch and Kick](/episodes/2025-09-26-how-pump.fun-could-displace-streaming-giants-such-as-twitch-and-kick/)** - Unchained (2025-09-26 00:00:00 )
+- **[Perp Wars & Stablecoin Battles: Hyperliquid, Aster, Tether - The Chopping Block](/episodes/2025-09-26-perp-wars-&-stablecoin-battles-hyperliquid,-aster,-tether-the-chopping-block/)** - Unchained (2025-09-26 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

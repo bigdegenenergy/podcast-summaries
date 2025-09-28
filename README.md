@@ -318,6 +318,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[AI NEWS: OpenAI Economic Impact, Google's Robots and Apollo's Strange Scheming AI's](/episodes/2025-09-26-ai-news-openai-economic-impact,-google's-robots-and-apollo's-strange-scheming-ai's/)** - Wes Roth (2025-09-26 00:00:00 )
 - **[AI NEWS: OpenAI and xAI spark the AGI race, AI detects consciousness and Google's "AI Money"](/episodes/2025-09-27-ai-news-openai-and-xai-spark-the-agi-race,-ai-detects-consciousness-and-google's-ai-money/)** - Wes Roth (2025-09-27 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[AI Is The Greatest Wealth Transfer In History | Ticker Symbol U](/episodes/2025-09-28-ai-is-the-greatest-wealth-transfer-in-history-ticker-symbol-u/)** - Wes Roth (2025-09-28 00:00:00 )
+- **[OpenAI and NVIDIA just broke the AI industry](/episodes/2025-09-22-openai-and-nvidia-just-broke-the-ai-industry/)** - Wes Roth (2025-09-22 00:00:00 )
+- **[Sam Altman and Elon Musk go ALL IN](/episodes/2025-09-24-sam-altman-and-elon-musk-go-all-in/)** - Wes Roth (2025-09-24 00:00:00 )
+- **[the simulation has already begun…](/episodes/2025-09-24-the-simulation-has-already-begun…/)** - Wes Roth (2025-09-24 00:00:00 )
+- **[AI NEWS: OpenAI Economic Impact, Google's Robots and Apollo's Strange Scheming AI's](/episodes/2025-09-26-ai-news-openai-economic-impact,-google's-robots-and-apollo's-strange-scheming-ai's/)** - Wes Roth (2025-09-26 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

@@ -363,6 +363,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[OpenAI Announces Data Centers & Oracle Raises Money](/episodes/2025-09-28-openai-announces-data-centers-&-oracle-raises-money/)** - AI Chat (Audio) (2025-09-28 00:00:00 )
 - **[AI Is The Greatest Wealth Transfer In History | Ticker Symbol U](/episodes/2025-09-28-ai-is-the-greatest-wealth-transfer-in-history-ticker-symbol-u/)** - Wes Roth (2025-09-28 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[The AI Benchmark We've All Been Waiting For](/episodes/2025-09-29-the-ai-benchmark-we've-all-been-waiting-for/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-29 00:00:00 )
+- **[Spotify Announces Crackdown on AI Music (/w Make Music Podcast)](/episodes/2025-09-29-spotify-announces-crackdown-on-ai-music-(-w-make-music-podcast)/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+- **[The secret to better AI prototypes: Why Tinder's CPO starts with JSON, not design | Ravi Mehta](/episodes/2025-09-29-the-secret-to-better-ai-prototypes-why-tinder's-cpo-starts-with-json,-not-design-ravi-mehta/)** - How I AI (2025-09-29 00:00:00 )
+- **[Stop Blaming AI For Workslop](/episodes/2025-09-28-stop-blaming-ai-for-workslop/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-28 00:00:00 )
+- **[OpenAI Announces Data Centers & Oracle Raises Money](/episodes/2025-09-28-openai-announces-data-centers-&-oracle-raises-money/)** - AI Chat (Audio) (2025-09-28 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

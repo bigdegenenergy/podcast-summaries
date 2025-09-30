@@ -390,6 +390,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Spotify Announces Crackdown on AI Music (/w Make Music Podcast)](/episodes/2025-09-29-spotify-announces-crackdown-on-ai-music-(-w-make-music-podcast)/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
 - **[The secret to better AI prototypes: Why Tinder's CPO starts with JSON, not design | Ravi Mehta](/episodes/2025-09-29-the-secret-to-better-ai-prototypes-why-tinder's-cpo-starts-with-json,-not-design-ravi-mehta/)** - How I AI (2025-09-29 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Firing 11000, Accenture Says "Learn AI or Die"](/episodes/2025-09-30-firing-11000,-accenture-says-learn-ai-or-die/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
+- **[Claude WON'T stop](/episodes/2025-09-30-claude-won't-stop/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[AI Investment & Web3 with Ray Wu](/episodes/2025-09-29-ai-investment-&-web3-with-ray-wu/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+- **[The AI Benchmark We've All Been Waiting For](/episodes/2025-09-29-the-ai-benchmark-we've-all-been-waiting-for/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-29 00:00:00 )
+- **[Spotify Announces Crackdown on AI Music (/w Make Music Podcast)](/episodes/2025-09-29-spotify-announces-crackdown-on-ai-music-(-w-make-music-podcast)/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

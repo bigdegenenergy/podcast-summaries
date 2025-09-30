@@ -381,6 +381,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[The secret to better AI prototypes: Why Tinder's CPO starts with JSON, not design | Ravi Mehta](/episodes/2025-09-29-the-secret-to-better-ai-prototypes-why-tinder's-cpo-starts-with-json,-not-design-ravi-mehta/)** - How I AI (2025-09-29 00:00:00 )
 - **[Stop Blaming AI For Workslop](/episodes/2025-09-28-stop-blaming-ai-for-workslop/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-28 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[Claude WON'T stop](/episodes/2025-09-30-claude-won't-stop/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[AI Investment & Web3 with Ray Wu](/episodes/2025-09-29-ai-investment-&-web3-with-ray-wu/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+- **[The AI Benchmark We've All Been Waiting For](/episodes/2025-09-29-the-ai-benchmark-we've-all-been-waiting-for/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-29 00:00:00 )
+- **[Spotify Announces Crackdown on AI Music (/w Make Music Podcast)](/episodes/2025-09-29-spotify-announces-crackdown-on-ai-music-(-w-make-music-podcast)/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+- **[The secret to better AI prototypes: Why Tinder's CPO starts with JSON, not design | Ravi Mehta](/episodes/2025-09-29-the-secret-to-better-ai-prototypes-why-tinder's-cpo-starts-with-json,-not-design-ravi-mehta/)** - How I AI (2025-09-29 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

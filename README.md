@@ -435,6 +435,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[AI Search: How to Get Recommended By AI](/episodes/2025-09-30-ai-search-how-to-get-recommended-by-ai/)** - AI Explored (2025-09-30 00:00:00 )
 - **[Firing 11000, Accenture Says "Learn AI or Die"](/episodes/2025-09-30-firing-11000,-accenture-says-learn-ai-or-die/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[OpenAI Announces "Sora 2" New AI Video Model](/episodes/2025-09-30-openai-announces-sora-2-new-ai-video-model/)** - AI Chat (Audio) (2025-09-30 00:00:00 )
+- **[OpenAI Preps AI Tik-Tok App](/episodes/2025-09-30-openai-preps-ai-tik-tok-app/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
+- **[Will Every Company Have Its Own Stablecoin? Yes, Says Stripe's Bridge](/episodes/2025-09-30-will-every-company-have-its-own-stablecoin-yes,-says-stripe's-bridge/)** - Unchained (2025-09-30 00:00:00 )
+- **[is AI replacing coders?](/episodes/2025-09-30-is-ai-replacing-coders/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[AI Search: How to Get Recommended By AI](/episodes/2025-09-30-ai-search-how-to-get-recommended-by-ai/)** - AI Explored (2025-09-30 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

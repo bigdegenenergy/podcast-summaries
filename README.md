@@ -408,6 +408,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[AI Investment & Web3 with Ray Wu](/episodes/2025-09-29-ai-investment-&-web3-with-ray-wu/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
 - **[The AI Benchmark We've All Been Waiting For](/episodes/2025-09-29-the-ai-benchmark-we've-all-been-waiting-for/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-29 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[is AI replacing coders?](/episodes/2025-09-30-is-ai-replacing-coders/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[AI Search: How to Get Recommended By AI](/episodes/2025-09-30-ai-search-how-to-get-recommended-by-ai/)** - AI Explored (2025-09-30 00:00:00 )
+- **[Firing 11000, Accenture Says "Learn AI or Die"](/episodes/2025-09-30-firing-11000,-accenture-says-learn-ai-or-die/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
+- **[Claude WON'T stop](/episodes/2025-09-30-claude-won't-stop/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[AI Investment & Web3 with Ray Wu](/episodes/2025-09-29-ai-investment-&-web3-with-ray-wu/)** - AI Chat (Audio) (2025-09-29 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

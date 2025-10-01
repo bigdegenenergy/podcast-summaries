@@ -453,6 +453,15 @@ This repository is automatically updated by an AI-powered podcast processing sys
 - **[Will Every Company Have Its Own Stablecoin? Yes, Says Stripe's Bridge](/episodes/2025-09-30-will-every-company-have-its-own-stablecoin-yes,-says-stripe's-bridge/)** - Unchained (2025-09-30 00:00:00 )
 - **[is AI replacing coders?](/episodes/2025-09-30-is-ai-replacing-coders/)** - Wes Roth (2025-09-30 00:00:00 )
 
+
+## 🎧 Latest Episodes
+
+- **[AI Video Just Got WAY TOO REAL... (SORA 2)](/episodes/2025-09-30-ai-video-just-got-way-too-real...-(sora-2)/)** - Wes Roth (2025-09-30 00:00:00 )
+- **[Claude Sonnet 4.5 Can Code Autonomously for 30 Hours 🤯](/episodes/2025-09-30-claude-sonnet-4.5-can-code-autonomously-for-30-hours-🤯/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
+- **[OpenAI Announces "Sora 2" New AI Video Model](/episodes/2025-09-30-openai-announces-sora-2-new-ai-video-model/)** - AI Chat (Audio) (2025-09-30 00:00:00 )
+- **[OpenAI Preps AI Tik-Tok App](/episodes/2025-09-30-openai-preps-ai-tik-tok-app/)** - The AI Daily Brief: Artificial Intelligence News (2025-09-30 00:00:00 )
+- **[Will Every Company Have Its Own Stablecoin? Yes, Says Stripe's Bridge](/episodes/2025-09-30-will-every-company-have-its-own-stablecoin-yes,-says-stripe's-bridge/)** - Unchained (2025-09-30 00:00:00 )
+
 ## 📊 Sources
 
 ### AI & Technology

@@ -9,6 +9,7 @@ import json
 import yaml
 import re
 import subprocess
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Any, List, Optional
@@ -158,14 +159,30 @@ class JekyllPublisher:
                 except subprocess.CalledProcessError:
                     pass  # Ignore stash pop errors
 
-            # Push to GitHub
+            # Push to GitHub with retry logic
             print(f"🚀 Pushing to GitHub Pages...")
-            self._run_git_command(['git', 'push', 'origin', 'main'])
+            max_retries = 3
+            retry_delay = 5  # seconds
 
-            print(f"✅ Episode committed and pushed to GitHub Pages")
-            print(f"   🌐 Episode should be live in ~30 seconds")
-
-            return True
+            for attempt in range(max_retries):
+                try:
+                    self._run_git_command(['git', 'push', 'origin', 'main'])
+                    print(f"✅ Episode committed and pushed to GitHub Pages")
+                    print(f"   🌐 Episode should be live in ~30 seconds")
+                    return True
+                except subprocess.CalledProcessError as e:
+                    if attempt < max_retries - 1:
+                        print(f"⚠️  Push failed (attempt {attempt + 1}/{max_retries}), retrying in {retry_delay}s...")
+                        # Try to pull again before retry
+                        try:
+                            self._run_git_command(['git', 'pull', '--rebase', 'origin', 'main'])
+                        except:
+                            pass
+                        time.sleep(retry_delay)
+                        retry_delay *= 2  # Exponential backoff
+                    else:
+                        print(f"❌ Failed to push after {max_retries} attempts: {str(e)}")
+                        return False
 
         except subprocess.CalledProcessError as e:
             print(f"❌ Failed to commit/push episode: {str(e)}")

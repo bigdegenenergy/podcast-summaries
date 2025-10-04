@@ -136,6 +136,14 @@ class JekyllPublisher:
             # Commit the file
             self._run_git_command(['git', 'commit', '-m', commit_msg])
 
+            # Pull latest changes before pushing to avoid conflicts
+            print(f"⬇️  Pulling latest changes...")
+            try:
+                self._run_git_command(['git', 'pull', '--rebase', 'origin', 'main'])
+            except subprocess.CalledProcessError:
+                # If pull fails, just continue - push will handle the conflict
+                print(f"⚠️  Pull had conflicts, attempting push anyway...")
+
             # Push to GitHub
             print(f"🚀 Pushing to GitHub Pages...")
             self._run_git_command(['git', 'push', 'origin', 'main'])

@@ -206,5 +206,5 @@ This project is for educational and informational purposes. All podcast content 
 
 <p align="center">
   <strong>Last updated:</strong> Automatically every 6 hours<br>
-  <strong>Powered by:</strong> Whisper AI + Claude AI + GitHub Actions
+  <strong>Powered by:</strong> Whisper AI + Claude AI + GitHub Actions + BDE
 </p>

@@ -334,15 +334,21 @@ class JekyllPublisher:
             duration_seconds = episode_info.get('duration', 0)
             original_url = episode_info.get('url') or episode_info.get('original_url', '')
 
-            # Determine publish date
-            upload_date = episode_info.get('upload_date')
+            # Determine publish date - check multiple possible date fields
+            upload_date = episode_info.get('upload_date') or episode_info.get('published_at') or metadata.get('published_at')
             if upload_date:
-                if len(upload_date) == 8:  # YYYYMMDD format
-                    date = datetime.strptime(upload_date, '%Y%m%d')
+                if isinstance(upload_date, str):
+                    if len(upload_date) == 8:  # YYYYMMDD format
+                        date = datetime.strptime(upload_date, '%Y%m%d')
+                    else:
+                        date = datetime.fromisoformat(upload_date.replace('Z', '+00:00'))
                 else:
-                    date = datetime.fromisoformat(upload_date.replace('Z', '+00:00'))
+                    # Already a datetime object
+                    date = upload_date
             else:
+                # Fallback to now if no date found
                 date = datetime.now(timezone.utc)
+                print(f"⚠️  No publish date found, using current date for filename")
 
             # Create filename
             date_str = date.strftime('%Y-%m-%d')

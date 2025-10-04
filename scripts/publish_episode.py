@@ -139,10 +139,24 @@ class JekyllPublisher:
             # Pull latest changes before pushing to avoid conflicts
             print(f"⬇️  Pulling latest changes...")
             try:
+                # Stash any unstaged changes first
+                self._run_git_command(['git', 'stash', '-u'])
+                stashed = True
+            except subprocess.CalledProcessError:
+                stashed = False
+
+            try:
                 self._run_git_command(['git', 'pull', '--rebase', 'origin', 'main'])
             except subprocess.CalledProcessError:
                 # If pull fails, just continue - push will handle the conflict
                 print(f"⚠️  Pull had conflicts, attempting push anyway...")
+
+            # Pop stashed changes if we stashed
+            if stashed:
+                try:
+                    self._run_git_command(['git', 'stash', 'pop'])
+                except subprocess.CalledProcessError:
+                    pass  # Ignore stash pop errors
 
             # Push to GitHub
             print(f"🚀 Pushing to GitHub Pages...")

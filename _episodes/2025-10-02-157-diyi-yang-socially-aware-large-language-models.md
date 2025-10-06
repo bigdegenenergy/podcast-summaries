@@ -95,7 +95,7 @@ companies:
   context: lly got excited about all these kinds of factors. And I realized that language
     or language technology is
   name: And I
-  position: 4453
+  position: 4454
 - category: unknown
   confidence: medium
   context: a large language model training framework called AI Partner AI Mentor that
@@ -113,103 +113,113 @@ companies:
   context: I think you mentioned our framework. It's called AI Partner and AI Mentor.
     I use it as more like a conceptual
   name: AI Partner
-  position: 9965
+  position: 9961
 - category: unknown
   confidence: medium
   context: ntioned our framework. It's called AI Partner and AI Mentor. I use it as
     more like a conceptual framework to
   name: AI Mentor
-  position: 9980
+  position: 9976
 - category: unknown
   confidence: medium
   context: on. Then you can actually talk to the AI Partner. This AI Partner there
     might be a roleplay of your roommate. And t
   name: This AI Partner
-  position: 10220
+  position: 10216
 - category: unknown
   confidence: medium
   context: ou can practice different types of conversations. And AI Mentor is tailored
     in a way that we will bring in or bui
   name: And AI Mentor
-  position: 10578
+  position: 10574
 - category: unknown
   confidence: medium
   context: main expertise into specific models so that those AI Mentors can actually
     give you very realistic feedback. So
   name: AI Mentors
-  position: 10696
+  position: 10692
 - category: unknown
   confidence: medium
   context: to a group of people, then you can have multiple AI Partners there. You
     can even have different AI Mentors. So
   name: AI Partners
-  position: 11020
+  position: 11016
+- category: unknown
+  confidence: medium
+  context: framework, which is super exciting to hear about. Here I want to stop talking
+    about this framework, but be
+  name: Here I
+  position: 32261
 - category: ai_research_institution
   confidence: high
-  context: The host and interviewee are affiliated with Stanford. The interviewee
-    is in the Computer Science department and affiliated with several labs there.
+  context: The host and professor are affiliated with Stanford, which houses several
+    AI/ML research groups.
   name: Stanford University
   source: llm_enhanced
-- category: ai_research_institution
+- category: ai_research_group
   confidence: high
-  context: Affiliation of the professor being interviewed.
+  context: A research group at Stanford where the professor is affiliated, focusing
+    on NLP.
   name: Stanford Natural Language Processing Group
   source: llm_enhanced
-- category: ai_research_institution
+- category: ai_research_group
   confidence: high
-  context: Affiliation of the professor being interviewed.
+  context: A research group at Stanford where the professor is affiliated, focusing
+    on HCI.
   name: Stanford Human Computer Interaction Group
   source: llm_enhanced
 - category: ai_research_institution
   confidence: high
-  context: Affiliation of the professor being interviewed.
+  context: A research lab at Stanford where the professor is affiliated, focusing
+    on AI.
   name: Stanford AI Lab
   source: llm_enhanced
 - category: ai_research_institution
   confidence: medium
-  context: Affiliation of the professor being interviewed (likely a typo/mishearing
-    for a specific center name at Stanford).
+  context: A center at Stanford the professor is affiliated with, implying a focus
+    on human-centered technology/AI.
   name: Stanford Human Center, Art Schilling-Telgent Center
   source: llm_enhanced
-- category: ai_research_lab
+- category: ai_research_group
   confidence: high
-  context: The lab led by the interviewee, focusing on socially aware NLP.
+  context: The lab led by the professor, focusing on socially aware NLP and language
+    technologies.
   name: Social and Language Technologies Lab
   source: llm_enhanced
-- category: ai_technology_class
+- category: ai_technology_focus
   confidence: high
-  context: Mentioned frequently as the core technology being researched and applied
-    (e.g., AI Partner, AI Mentor). While not a specific company, it refers to the
-    class of models developed by major players.
+  context: Mentioned repeatedly as the core technology being researched and applied
+    (e.g., AI Partner, AI Mentor). While not a specific company, it represents the
+    core technology area.
   name: Large Language Models (LLMs)
   source: llm_enhanced
 - category: ai_application_framework
   confidence: high
-  context: A conceptual framework/agent built using LLMs for role-playing practice
-    scenarios.
+  context: A conceptual framework/agent built using LLMs for role-playing social scenarios.
   name: AI Partner
   source: llm_enhanced
 - category: ai_application_framework
   confidence: high
-  context: A conceptual framework/agent built using LLMs to provide coaching and feedback.
+  context: A conceptual framework/agent built using LLMs to provide coaching and feedback
+    during social skills training.
   name: AI Mentor
   source: llm_enhanced
 - category: ai_application_system
   confidence: high
-  context: A specific system built using the AI Partner/Mentor framework to help practice
-    conflict resolution.
+  context: A specific system built using the AI Partner/AI Mentor framework to help
+    people practice difficult conversations (conflict resolution).
   name: Rehearsal
   source: llm_enhanced
-- category: ai_research
+- category: ai_research_institution_collaboration
   confidence: high
-  context: The research group is working with the medical school at Stanford to evaluate
-    how students use the CARE system in therapy training classes.
+  context: The speaker mentions working with the medical school here at Stanford to
+    look at how students in their therapy training classes use the CARE system.
   name: Stanford
   source: llm_enhanced
-- category: ai_application
+- category: ai_application_startup_project
   confidence: high
-  context: A system developed for novice counselors to practice with AI patients and
-    receive feedback from an AI Mentor, evaluated with around 100 counselors.
+  context: A system built by the speaker's team where novice counselors practice with
+    AI patients and receive feedback from an AI Mentor.
   name: CARE
   source: llm_enhanced
 date: 2025-10-02 19:00:00 +0000
@@ -219,16 +229,16 @@ insights:
 - actionable: false
   confidence: medium
   extracted: this type of human-AI collaboration, particularly in the fields traditionally
-    focused on human interaction like therapy, education, or any system like this?
-    Yeah, I think this
+    focused on human interaction like therapy, education, or like any system like
+    this? Yeah, I think this
   text: the future of this type of human-AI collaboration, particularly in the fields
-    traditionally focused on human interaction like therapy, education, or any system
-    like this? Yeah, I think this is a great question.
+    traditionally focused on human interaction like therapy, education, or like any
+    system like this? Yeah, I think this is a great question.
   type: prediction
 layout: episode
 llm_enhanced: true
 original_url: https://audio.listennotes.com/e/p/f4621f8c3cec4d7b9255441cd78d4fb0/
-processing_date: 2025-10-06 03:48:47 +0000
+processing_date: 2025-10-06 03:51:24 +0000
 quotes:
 - length: 292
   relevance_score: 4
@@ -248,23 +258,16 @@ quotes:
   relevance_score: 4
   text: Before that, I did a lot of training in computer science and machine learning
   topics: []
-- impact_reason: Highlights the crucial need to consider the societal impact (ethics/safety)
-    as an integral part of NLP development, not an afterthought.
-  relevance_score: 10
-  source: llm_enhanced
-  text: The last dimension is what I call implication or social implication. It refers
-    to the broader impact of the NLP system on society, including understanding both
-    the positive and negative effects.
-  topic: safety/strategy
-- impact_reason: A powerful encapsulation of the human-centric nature of AI development,
-    emphasizing that biases and decisions exist at every stage.
+- impact_reason: A powerful, concise summary emphasizing the pervasive human element
+    in the entire AI lifecycle, reinforcing the need for human-centric design.
   relevance_score: 10
   source: llm_enhanced
   text: The data comes from humans, the model is produced by humans, the choices to
     build architecture are made by humans, and even the end product is for humans.
-  topic: safety/strategy
-- impact_reason: A clear warning about the severe consequences of ignoring human factors,
-    specifically mentioning misalignment, trust erosion, and psychological impact.
+  topic: strategy
+- impact_reason: A stark warning about the risks of ignoring human factors, specifically
+    mentioning misalignment, trust erosion, and psychological impact—key concerns
+    in modern AI deployment.
   relevance_score: 10
   source: llm_enhanced
   text: If we do not pay attention to those human-centric aspects, I think the consequences
@@ -273,80 +276,99 @@ quotes:
     when it comes to people, you imagine a lot of issues around the trust, or psychological
     impact of how AI systems may influence our behavior, all of those are very important
     today.
-  topic: safety/predictions
-- impact_reason: 'Highlights a significant technical challenge in using LLMs for realistic
-    role-playing or simulation: the tendency to over-exaggerate traits (caricature
-    effect).'
+  topic: safety
+- impact_reason: 'Identifies a major current limitation in LLM simulation: the tendency
+    to caricature or amplify traits, which undermines the realism needed for effective
+    social skills training.'
   relevance_score: 10
   source: llm_enhanced
-  text: models tend to create a caricature and they tend to amplify a lot of the attributes
-    if you tell them, okay, here is a specific person. So it's actually quite difficult
-    to get the simulation to be realistic.
-  topic: technical/limitations
-- impact_reason: Details a specific, advanced technique (self-critique/self-improvement
-    loop) used within the model generation process to ensure contextual appropriateness
-    and realism in dynamic interactions.
+  text: The first challenge even before we get to these nuances or social awareness
+    is actually to make sure the technology would work well in the first place. Despite
+    the fact that large language models are very powerful in doing role play, etc.,
+    their simulation, like if you're going to use LLMs to simulate your roommate or
+    simulate a typical learning partner, that process may not be very realistic because
+    models tend to create a caricature and they tend to amplify a lot of the attributes
+    if you tell them, okay, here is a specific person.
+  topic: limitations
+- impact_reason: Describes an advanced technique (self-critique/self-improvement)
+    used within the model to ensure contextual appropriateness and alignment with
+    domain knowledge during generation, crucial for high-stakes applications.
   relevance_score: 10
   source: llm_enhanced
-  text: We actually develop some techniques such as self-critique and self-improvement.
-    So the key idea here is when the simulator, the AI Partner in the process or is
-    trying to output a part of the sentence, we will try to let the model themselves,
-    self-critique themselves. Like, is this a reasonable response to use here? Is
-    it aligned with all the domain knowledge? Is it appropriate, etc., etc.?
+  text: we actually develop some techniques such as self-critique and self-improvement.
+    Like, is this a reasonable response to use here that is aligned with all the domain
+    knowledge, is it appropriate, etc., etc.
   topic: technical
-- impact_reason: Provides empirical evidence demonstrating the gap between declarative
-    knowledge and procedural skill acquisition, validating the need for interactive
-    practice systems.
+- impact_reason: 'Poses the core evaluation dilemma for human-centric AI: how to quantify
+    subjective, fuzzy human qualities when they are used as performance metrics for
+    the model.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: how do you plan to evaluate these human qualities like having a personality,
+    understanding emotions or showing empathy and expertise? Are they measured using
+    the same standards we would use for a person?
+  topic: safety/evaluation
+- impact_reason: 'Provides a crucial empirical finding: interactive practice (skill
+    application) is vastly more effective for performance improvement than rote knowledge
+    acquisition (''book smart vs. street smart'').'
   relevance_score: 10
   source: llm_enhanced
   text: We saw that people's knowledge about conflict resolution actually didn't change
-    at all. Their knowledge didn't change. However, if you let them do an interactive
-    conflict resolution, people who practiced with our systems actually did much better
-    compared to people who haven't used the system.
-  topic: business/predictions
-- impact_reason: 'Offers a profound insight into learning efficacy: interactive simulation
-    builds ''street smarts'' (procedural application) where traditional learning only
-    builds ''book smarts'' (declarative knowledge).'
+    at all. However, if you let them do an interactive conflict resolution, people
+    who practiced with our systems actually did much better compared to people who
+    haven't used the system.
+  topic: business/practical lessons
+- impact_reason: Provides a concrete example of applying LLMs/AI for high-stakes professional
+    training (counseling), integrating simulation (AI patient) and guidance (AI mentor).
   relevance_score: 10
   source: llm_enhanced
-  text: This was very, very surprising to us. But then later we realized that this
-    is the difference between being book smart versus being street smart. Like it's
-    more about how you use the knowledge in an interactive context rather than remembering
-    the concepts or knowledge.
-  topic: strategy/predictions
-- impact_reason: Highlights the significant risk of over-reliance and the 'simulation-to-real-world
-    difference,' a major ethical and practical concern for AI used in professional
-    training.
+  text: We built a system called CARE where novice counselors can actually practice
+    with different types of AI patients. We created those AI patients based on the
+    learning materials that counselors need to learn in their training. And we also
+    built an AI Mentor so that when they practice, they can also get feedback along
+    the way.
+  topic: technical/business
+- impact_reason: 'Raises a significant ethical/social concern regarding AI training
+    tools: the risk of users becoming overly dependent on the simulation, leading
+    to poor real-world performance.'
   relevance_score: 10
   source: llm_enhanced
-  text: the second kind of social-technical challenge is more about these kinds of
-    scenarios that people may practice and then they may develop some kind of reliance
-    there... we worry that one of the issues is this kind of over-reliance. People
-    rely on the systems and not realizing that this is not what the real world of
-    work looks like.
+  text: the second kind of social technical challenge is more about this kind of scenarios
+    that people may practice and then they may develop some kind of reliance there...
+    we worry that one of the issues is this kind of over-reliance.
   topic: safety/ethics
-- impact_reason: A direct summary of known LLM weaknesses (caricatures, bias, hallucination)
-    applied specifically to the context of social simulation, emphasizing that foundational
-    LLM issues persist.
+- impact_reason: Lists specific, known LLM weaknesses (caricatures, bias, hallucination)
+    as they apply directly to the challenge of building socially accurate AI agents.
   relevance_score: 10
   source: llm_enhanced
-  text: a lot of the interesting issues and the limitations with large language models
-    still hold here. For example, researchers found that large language models tend
-    to produce caricatures when it comes to social simulation, or there may be cultural
-    biases, or they might hallucinate when it comes to specific domains...
-  topic: limitations/safety
+  text: researchers found that large language models tend to produce caricatures when
+    it comes to social simulation, or there may be cultural biases, or they might
+    hallucinate when it comes to specific domains that they don't have a really good
+    knowledge of.
+  topic: technical/safety
 - impact_reason: 'Crucial advice for aspiring researchers/builders in this field:
-    the necessity of interdisciplinary expertise (computational methods + social science/insights).'
+    success requires true interdisciplinary fluency (computational methods + social
+    science).'
   relevance_score: 10
   source: llm_enhanced
-  text: I feel like I would encourage people to have a more open mindset, understand
-    the mindset about the space. It does not only require social science or social
-    insights; it also requires some kind of computational methods. So I do believe
-    people may want to kind of typically be both majors to get exposure to this kind
-    of thing.
-  topic: strategy/advice
-- impact_reason: Provides a clear, high-level definition of 'socially aware language
-    technology,' setting the research agenda for integrating social context into NLP.
+  text: I think this is a great direction, and when I think about the skills, I feel
+    like I would encourage people to have a more open mind, understand the mindset
+    about the space. It does not only require social science or social insights, it
+    also requires some kind of computational methods.
+  topic: strategy/business
+- impact_reason: A powerful concluding philosophical statement emphasizing that the
+    purpose of advanced technology, especially social AI, must be humanistic improvement,
+    not just technical novelty.
+  relevance_score: 10
+  source: llm_enhanced
+  text: the goal of how we build technology is not for the purpose of building technology.
+    The goal is to think about how technology would help us, help more with human
+    touch, help us with developing better and more meaningful interactions with each
+    other.
+  topic: strategy/safety
+- impact_reason: This clearly defines 'socially aware language technology,' shifting
+    the focus of NLP beyond mere syntax/semantics to include social context, which
+    is crucial for advanced, human-aligned AI.
   relevance_score: 9
   source: llm_enhanced
   text: Basically, it's about the study and the development of language technologies
@@ -354,18 +376,27 @@ quotes:
     systems to better understand and respond to social signals expressed in language
     and also the broader physical and social environment.
   topic: strategy
-- impact_reason: Outlines the core capabilities required for advanced, human-like
-    NLP systems, moving beyond surface-level text processing to meaning and implication.
+- impact_reason: 'Highlights the desired capability of future AI: processing meaning
+    and implication like humans, moving beyond literal interpretation by incorporating
+    cultural and emotional context.'
   relevance_score: 9
   source: llm_enhanced
   text: You can imagine that the socially aware systems can recognize social factors,
     such as social factors, cultural, emotion, perspectives, etc. And more importantly,
     they can help us produce or process implications and meanings behind the language
     in the same way humans do.
-  topic: technical/strategy
-- impact_reason: 'Identifies a key untapped application for LLMs: interactive, personalized
-    training, leveraging their conversational strengths beyond traditional benchmarks
-    like coding or math.'
+  topic: predictions
+- impact_reason: Explicitly links NLP development to societal impact (positive and
+    negative), emphasizing the ethical and consequential dimension of the technology.
+  relevance_score: 9
+  source: llm_enhanced
+  text: The last dimension is what I call implication or social implication. It refers
+    to the broader impact of the NLP system on society, including understanding both
+    the positive and negative effects.
+  topic: safety
+- impact_reason: 'Identifies a novel, high-potential application for LLMs: interactive,
+    personalized training for social skills, leveraging their conversational strengths
+    beyond traditional tasks like coding or math.'
   relevance_score: 9
   source: llm_enhanced
   text: I really want to see can they really also do well with social skills. When
@@ -374,99 +405,128 @@ quotes:
     because one of the big advantages of large language models is that you can have
     conversations with these AI systems and you can do a lot of chit-chat. We can
     even roleplay different characters there with large language models.
-  topic: predictions/business
-- impact_reason: Clearly explains the novel 'AI Partner/AI Mentor' (APAM) framework,
-    detailing a practical, dual-agent system for skill acquisition.
-  relevance_score: 9
-  source: llm_enhanced
-  text: So think about you want to learn conflict resolution. Then you can actually
-    talk to the AI Partner. This AI Partner there might be a roleplay of your roommate.
-    And then you practice different types of topics with this AI Partner there. And
-    then the entire conversation is going to be coached by this AI Mentor.
-  topic: technical/business
-- impact_reason: 'Highlights a core limitation of current LLM simulation: the tendency
-    to caricature rather than realistically model specific individuals, which is crucial
-    for nuanced social training.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: Their simulation, like if you're going to use LLMs to simulate your roommate
-    or simulate a typical learning partner, that process may not be very realistic
-    because models tend to create a caricature and they tend to amplify a lot of the
-    attributes if you tell them, okay, here is a specific person.
-  topic: limitations
-- impact_reason: Emphasizes the necessity of grounding AI development in established
-    human science theories (psychology, communication) to ensure meaningful and grounded
-    feedback, moving beyond purely technical metrics.
-  relevance_score: 9
-  source: llm_enhanced
-  text: We have greater theories when it comes to social skills, from the communication
-    field, from the psychology field, and also from the psychotherapy field. So we
-    actually use a lot of theories from those different research fields, try to see
-    whether we could let them in the development process so that a lot of the feedback
-    is actually very grounded to users.
-  topic: strategy/technical
-- impact_reason: 'Points toward the future direction of social training AI: moving
-    beyond text/voice into embodied or spatial computing (3D/physical world) to capture
-    non-verbal cues.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: It's also about how you behave, your emotion, your posture, like how you do
-    eye contact, a lot of those. So I think it will be very, very cool to think about
-    how to make social skill training in a physical world or a 3D space so that we
-    can actually bring in a lot of those to help people learn in the earlier stage.
   topic: predictions
-- impact_reason: This highlights a core limitation of current knowledge recall in
-    AI/training systems, emphasizing the need for interactive, contextual application
-    (street smarts) over mere data retention (book smarts).
+- impact_reason: Details the 'AI Partner/AI Mentor' framework (APAM), a specific architectural
+    approach for interactive, coached learning using two distinct LLM agents.
+  relevance_score: 9
+  source: llm_enhanced
+  text: It's called AI Partner and AI Mentor. Think about you want to learn conflict
+    resolution. Then you can actually talk to the AI Partner. This AI Partner there
+    might be a roleplay of your roommate. And then you practice different types of
+    topics with this AI Partner there. And then the entire conversation is going to
+    be coached by this AI Mentor.
+  topic: technical
+- impact_reason: 'Highlights a critical limitation in LLM simulation: the tendency
+    to oversimplify or exaggerate personality traits, making realistic individual
+    simulation difficult.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: models tend to create a caricature and they tend to amplify a lot of the attributes
+    if you tell them, okay, here is a specific person.
+  topic: limitations
+- impact_reason: 'Presents a practical workaround for the caricature problem: focusing
+    simulation on skill templates rather than specific individuals, which is more
+    scalable and reliable for training.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: Instead of doing the simulation of a specific individual, we try to create
+    a typical template for interacting on that specific skill.
+  topic: technical/strategy
+- impact_reason: Emphasizes the necessity of grounding AI development in established
+    human science theories to ensure feedback and interactions are meaningful and
+    scientifically sound, moving beyond purely data-driven approaches.
+  relevance_score: 9
+  source: llm_enhanced
+  text: we actually use a lot of theories from those different research fields [communication,
+    psychology, psychotherapy] try to see whether we could let them into the development
+    process so that a lot of the feedback is actually very grounded to users.
+  topic: strategy
+- impact_reason: Confirms the difficulty in operationalizing subjective social skills,
+    suggesting that current benchmarks are inadequate for evaluating empathy or nuanced
+    social performance.
+  relevance_score: 9
+  source: llm_enhanced
+  text: a lot of those social aspects are actually very fuzzy and not well-defined.
+    We don't even know how to operationalize them. So the evaluation will become something
+    that's quite tricky and open-ended.
+  topic: evaluation
+- impact_reason: 'Identifies a secondary, high-value user group: expert supervisors/trainers,
+    positioning the AI as a force multiplier for those providing mentorship (''Helping
+    the Helper'').'
+  relevance_score: 9
+  source: llm_enhanced
+  text: we want to also help people who are providing feedback to others to help their
+    job to some extent. Imagine at those moments, this kind of AI Mentor would be
+    a great help to the people who are already helping others.
+  topic: business/strategy
+- impact_reason: 'Offers a memorable, actionable insight for educators and trainers:
+    performance hinges on applied, interactive skill, not just conceptual understanding.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: This was very, very surprising to us. But then later we realized that this
+    is the difference between being book smart versus being street smart.
+  topic: practical lessons
+- impact_reason: Highlights a core limitation of knowledge-based systems (like early
+    AI) and emphasizes the importance of interactive, contextual application—a key
+    goal for advanced AI simulation.
   relevance_score: 9
   source: llm_enhanced
   text: this is the difference between being book smart versus being street smart.
     Like it's more about how you use the knowledge in an interactive context rather
     than remembering the concepts or knowledge.
-  topic: limitations/strategy
-- impact_reason: 'A crucial cautionary note for the AI industry: tempering excitement
-    with rigorous, multi-dimensional evaluation before claiming ''success'' for complex,
-    real-world applications.'
+  topic: strategy/limitations
+- impact_reason: 'Identifies a common current limitation in generative AI simulation:
+    lack of naturalness or ''stiffness'' in interaction, despite underlying LLM power.'
   relevance_score: 9
   source: llm_enhanced
-  text: I won't use the word success at this moment because it's still a very, very
-    new and exciting direction. And we are trying to understand and evaluate these
-    types of systems from different dimensions so that maybe in the next few years
-    we could build a working system that works well when it comes to the real world.
-  topic: strategy/safety
-- impact_reason: Pinpoints the current modality limitation (text-only) in social AI
-    and identifies the necessary technical evolution toward multimodal inputs (audio,
-    visual behavior) for comprehensive social skill modeling.
+  text: Some of our participants when they use our systems share that, oh, sometimes
+    the conversation feels like they are very stiff.
+  topic: technical/limitations
+- impact_reason: Direct advice on managing user expectations for AI simulation tools,
+    stressing transparency about the gap between practice and reality.
   relevance_score: 9
   source: llm_enhanced
-  text: the system admission is actually text-based. So you chat with AI Partner and
-    then get feedback from AI Mentor. We can imagine that a lot of the social skills
-    is actually more about talking or all-do or how we behave. So bringing additional
-    modalities such as image or audio—that will be some of the technical challenges
+  text: this simulation to real-world difference. And I think it's very important
+    to point out these two things so that from a social perspective people won't develop
+    too high or too unrealistic expectations of the system.
+  topic: safety/strategy
+- impact_reason: 'Outlines a clear technical roadmap/challenge for improving social
+    AI: moving beyond text to incorporate multimodal inputs (audio, visual cues) essential
+    for social skills.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: so far the system admission is actually text-based... Bringing additional
+    modalities such as image or audio, so that'll be some of the technical challenges
     I perceive here.
   topic: technical
-- impact_reason: A strong strategic call to action, urging developers to integrate
-    social implication analysis alongside technical advancement, especially in socially
-    sensitive AI.
+- impact_reason: Articulates the value proposition of 'socially aware AI'—it leads
+    directly to more capable and useful general-purpose systems.
   relevance_score: 9
   source: llm_enhanced
-  text: I think it's a great time for us to think about how to build technology by
-    not only leveraging the technical advances but also to think about a lot of the
-    social implications around the space.
-  topic: strategy/safety
-- impact_reason: 'Articulates a philosophical role for advanced AI: not a replacement,
-    but a ''support system'' or ''bridge'' enhancing human connection and understanding.'
+  text: If you bring in more cultural context, make AI systems more aware of people's
+    emotions, intentions, perspectives, empathy, a lot of the social implications,
+    then I think that we definitely could make systems more capable of doing daily
+    tasks...
+  topic: technical/predictions
+- impact_reason: 'Provides a philosophical framework for AI integration: AI should
+    act as an intermediary or support structure, not a replacement.'
   relevance_score: 9
   source: llm_enhanced
-  text: I think this also goes back to a lot of the topics around what is the role
-    of AI more broadly rather than just like socially aware AI when it comes to our
-    everyday context, what are the roles of those technologies. I think I would argue
-    that we want to make AI systems—socially aware AI systems—more like a support
-    system, more like a bridge for human-human interaction and human-computer interaction.
-  topic: strategy/philosophy
-- impact_reason: Offers a structured, three-dimensional framework (Social Factors,
+  text: I think I would argue that we want to make AI systems, socially aware AI systems,
+    more like a support system, more like a bridge for human-human interaction and
+    human-computer interaction.
+  topic: strategy
+- impact_reason: 'Highlights a specific, high-leverage application in education: using
+    AI to coach educators on interpersonal skills, thereby improving student outcomes.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: If teachers could be facilitated with the AI Mentor in terms of how to talk
+    to kids better, then we definitely use this kind of technology as a way to improve
+    the student and teacher relationships.
+  topic: business/predictions
+- impact_reason: Provides a structured, three-dimensional framework (Social Factors,
     Social Interactions, Social Implication) for analyzing and building socially aware
-    systems.
+    systems, offering a clear research roadmap.
   relevance_score: 8
   source: llm_enhanced
   text: There are three dimensions I often use when I think about socially aware language
@@ -476,169 +536,143 @@ quotes:
     their social relation, and what the context, gathered by what type of social norms,
     culture, and ideology, and for what type of community goals.
   topic: strategy
-- impact_reason: 'Strong business/research advice: prioritize problems based on real-world,
-    diverse impact rather than purely technical novelty.'
+- impact_reason: 'Strong business/research advice: prioritize problems based on real-world
+    impact in critical domains (like education/healthcare) rather than purely technical
+    novelty.'
   relevance_score: 8
   source: llm_enhanced
   text: I think one side we really want to make sure the problems we are going to
     work on matter in diverse real-world domains. When we think about K-12 education
     or even in healthcare, I think taking real-world impact into the first place to
     think about what the problems to work on is quite important.
-  topic: business/strategy
-- impact_reason: 'Suggests a method for achieving high-quality, specialized feedback
-    in LLM applications: fine-tuning or injecting domain expertise into the coaching
-    agent.'
+  topic: business advice
+- impact_reason: Articulates a critical barrier to human skill development (psychological
+    risk in practice) that AI systems are uniquely positioned to solve by providing
+    a safe simulation environment.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Practicing them is actually psychologically unsafe. So if you think about,
+    oh, I want to negotiate or do this conflict resolution about this topic with my
+    roommate, with my boss, I think a lot of times people don't feel like they can
+    easily open up.
+  topic: business advice
+- impact_reason: 'Suggests a method for grounding LLM feedback: specializing mentor
+    models with domain expertise to ensure feedback is realistic and actionable, addressing
+    the generalist nature of base LLMs.'
   relevance_score: 8
   source: llm_enhanced
   text: AI Mentor is tailored in a way that we will bring in or build domain expertise
     into specific models so that those AI Mentors can actually give you very realistic
     feedback.
   topic: technical
-- impact_reason: 'Presents a practical workaround for the simulation realism problem:
-    focusing on skill-based templates rather than individual mimicry.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: Instead of simulating a specific individual, we try to create a typical template
-    for interacting on that specific skill.
-  topic: technical/strategy
-- impact_reason: Identifies cultural dynamics and broad social awareness as a major,
-    unsolved challenge in developing sophisticated AI mentors/partners.
+- impact_reason: 'Acknowledges a major, unsolved challenge in advanced AI interaction:
+    reliably integrating complex cultural dynamics and nuanced social awareness into
+    current frameworks.'
   relevance_score: 8
   source: llm_enhanced
   text: In terms of a lot of the cultural dynamics, a lot of the social awareness,
-    we haven't figured out a great way to integrate them into the space. I think that
-    itself is an open question.
+    we haven't figured out a great way to integrate them into this space. I think
+    that itself is an open question.
   topic: limitations/safety
-- impact_reason: Highlights the difficulty of establishing ground truth for complex
-    cultural or individual simulations, contrasting sharply with standard quantitative
-    AI evaluation.
+- impact_reason: 'Details a practical, necessary evaluation method: relying on human
+    expert judgment (human-in-the-loop) when objective metrics fail for complex social
+    simulations.'
   relevance_score: 8
-  source: llm_enhanced
-  text: If you think about how to evaluate whether the simulation is a really good
-    simulation of a person from Brazil, this is a really hard question because there
-    are all sorts of different individuals, etc. There may not be a ground-truth answer
-    that you can use compared to other situations.
-  topic: technical/limitations
-- impact_reason: 'Identifies a crucial secondary market/use case: using AI to assist
-    domain experts (supervisors, trainers) in scaling personalized feedback.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: Imagine at those moments, this kind of AI Mentor would be a great help to
-    the people who are already helping others. So I think not only we want to help
-    learners who want to learn those skills, we also hope that these two will also
-    be very helpful for people who are helping others. This is like actually reflected
-    in one of our paper titles called Helping the Helper from the AI perspective.
-  topic: business/strategy
-- impact_reason: Identifies the 'stiffness' or lack of realism in current conversational
-    AI simulations, a key challenge in achieving high-fidelity training environments.
-  relevance_score: 8
-  source: llm_enhanced
-  text: one thing sometimes we worry is that this kind of practice may not give people
-    very realistic practice. Some of our participants when they use our systems shared
-    that, oh, sometimes the conversation feels like they are very stiff...
-  topic: limitations/safety
-- impact_reason: 'Defines the dual purpose of socially aware AI: improving direct
-    machine interaction and serving as a catalyst for better human-to-human relationships.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: eventually we want socially aware AI to hopefully help with both human-computer
-    interaction and human-human interaction.
-  topic: predictions/strategy
-- impact_reason: Positions social skill training via AI as a direct mechanism for
-    improving the quality and meaning of future human interactions.
-  relevance_score: 8
-  source: llm_enhanced
-  text: I would argue that the topic we just talked about on social skill training
-    is actually a great example of how we are thinking about how socially aware systems
-    could be used to help people learn better so that people could have better conversations
-    or more positive conversations with others.
-  topic: predictions/business
-- impact_reason: Provides actionable resources and keywords for individuals looking
-    to enter the field of socially aware AI development.
-  relevance_score: 8
-  source: llm_enhanced
-  text: courses such as computational social science or human-centered NLP or human-centered
-    AI, and many, many other awesome courses like creative AI, generative AI agents,
-    all sorts of things.
-  topic: advice
-- impact_reason: A grounding statement emphasizing that foundational technical reliability
-    must precede the implementation of complex social awareness features.
-  relevance_score: 7
-  source: llm_enhanced
-  text: Throughout those two different documents, the first challenge even before
-    we get to these nuances or social awareness is actually to make sure the technology
-    would work well in the first place.
-  topic: technical/strategy
-- impact_reason: Shows the reliance on human-in-the-loop evaluation (expert judgment)
-    when quantitative metrics fail for subjective, social skills training.
-  relevance_score: 7
   source: llm_enhanced
   text: For many of the evaluations here, we actually sometimes work with human experts.
     We ask, is this a simulation that looks or sounds like it is difficult to you?
-    Is this a good reflection of the client you had in your interaction? So we actually
-    developed a lot of these more human studies or evaluations to evaluate such simulation.
+    Is this a good reflection of the client you had in your interaction?
+  topic: evaluation
+- impact_reason: Highlights the current modality limitation of text/voice-based AI—it
+    misses crucial non-verbal communication cues essential for mastering social skills,
+    pointing toward future needs in VR/3D environments.
+  relevance_score: 8
+  source: llm_enhanced
+  text: It's also about how you behave, your emotion, your posture, like how you do
+    eye contact, a lot of those. So I think it will be very, very cool to think about
+    how to make social skill training in a physical world or a 3D space.
+  topic: predictions/limitations
+- impact_reason: Shows the integration of specific, established pedagogical frameworks
+    (like interest-based negotiation) directly into the AI's training logic, making
+    the learning process structured.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We actually leverage this theory called interest-based negotiation from conflict
+    resolution. And so we basically try to introduce a lot of these pedagogical skills
+    into the process so that people actually could learn from this.
   topic: technical/strategy
-- impact_reason: 'Defines the target user segment and primary value proposition: AI
-    as a foundational training tool for beginners, not a replacement for expert instruction.'
+- impact_reason: Provides concrete evidence of success in teaching complex, soft skills
+    (empathy, reflection) using the AI training system (CARE).
+  relevance_score: 8
+  source: llm_enhanced
+  text: We found that the system helped them learn critical skills such as empathy,
+    reflection, session management, etc.
+  topic: practical lessons
+- impact_reason: 'A crucial cautionary note for researchers and investors: early-stage
+    AI applications, especially in sensitive domains, should be framed as ongoing
+    research rather than proven success.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: I won't use the word success at this moment because it's still a very, very
+    new and exciting direction.
+  topic: strategy/safety
+- impact_reason: 'Defines the ultimate strategic goal for socially aware AI: improving
+    interactions on both axes (machine interaction and human interaction).'
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think eventually we want to make socially aware AI to hopefully help with
+    both human-computer interaction and human-human interaction.
+  topic: predictions/strategy
+- impact_reason: Identifies social skill training as a key, immediate application
+    for improving human-human relationships via AI.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I would argue that the topic we just talked about on social skill training
+    is actually a great area where we are thinking about how socially aware systems
+    could be used to help people learn better so that people could have better conversations
+    or more positive conversations with others.
+  topic: predictions/business
+- impact_reason: Reinforces the necessity of cross-disciplinary expertise, suggesting
+    a 'double major' level of exposure is beneficial for cutting-edge work in human-centered
+    AI.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I do believe people may want to kind of typically be both majors to get exposure
+    to this kind of thing.
+  topic: strategy
+- impact_reason: 'Highlights a crucial methodology for building effective human-centric
+    AI: grounding development through iterative collaboration and feedback from domain
+    experts (senior supervisors, novice users).'
+  relevance_score: 7
+  source: llm_enhanced
+  text: we actually first work with domain users. So we talk to senior supervisors,
+    we talk to novice counselors, we try to w[...]
+  topic: practical lessons
+- impact_reason: 'Defines the strategic niche for this AI application: serving as
+    a foundational training tool for novices, rather than attempting to replace expert
+    human training entirely.'
   relevance_score: 7
   source: llm_enhanced
   text: We imagine that it's especially for novices, for beginners, for people who
     don't know the field very well, they can actually use this kind of AI Partner
     and AI Mentor in the starting stage.
-  topic: business/strategy
-- impact_reason: Shows the direct application of established domain theory (interest-based
-    negotiation) to structure the AI interaction and learning objectives.
-  relevance_score: 7
-  source: llm_enhanced
-  text: We actually leverage this theory called interest-based negotiation from conflict
-    resolution.
-  topic: technical/strategy
-- impact_reason: Provides a concrete example of an AI training system (CARE) where
-    synthetic data/personas are directly mapped to established curriculum requirements.
-  relevance_score: 7
-  source: llm_enhanced
-  text: We built a system called CARE where novice counselors can actually practice
-    with different types of AI patients. We created those AI patients based on the
-    learning materials that counselors need to learn in their training.
-  topic: business/technical
-- impact_reason: A broad prediction about the societal impact of personalized learning
-    facilitated by AI, particularly in education and therapy.
-  relevance_score: 7
-  source: llm_enhanced
-  text: Such systems could also make the learning more personalized, and I think that
-    this will have a huge impact on society.
-  topic: predictions
-- impact_reason: Shows the application of AI support extends beyond the trainee to
-    the trainer/supervisor, optimizing the entire feedback loop in professional development.
-  relevance_score: 7
-  source: llm_enhanced
-  text: we can also help senior supervisors who are providing feedback, who are training
-    novice counselors in those contexts.
-  topic: business
-- impact_reason: An incomplete but powerful statement implying that the ultimate goal
-    of technology development must be rooted in human purpose, not just technical
-    capability (likely leading into the next thought about human benefit).
-  relevance_score: 7
-  source: llm_enhanced
-  text: the more we realize that by the end of the day, the goal of how we build technology
-    is not for the purpose of building
-  topic: strategy/philosophy
-- impact_reason: 'States a core philosophical stance for AI development: augmentation
+  topic: strategy
+- impact_reason: 'States a core philosophical alignment for AI development: augmentation
     and empowerment over replacement.'
-  relevance_score: 6
+  relevance_score: 7
   source: llm_enhanced
   text: We want to build a system that can empower humans. This is like our true belief.
-  topic: strategy/safety
+  topic: strategy
 source: Unknown Source
 summary: '## Podcast Episode Summary: 157 - Diyi Yang: Socially Aware Large Language
   Models
 
 
-  This episode of the Stanford Psychology Podcast, hosted by Souda Karajah, features
-  Professor Diyi Yang discussing her research on **Socially Aware Natural Language
-  Processing (NLP)** and the development of LLMs capable of understanding and responding
-  to complex social contexts. The core focus is on leveraging LLMs to enhance human
-  interaction, specifically through personalized social skills training.
+  This episode features Professor Diyi Yang discussing her research at the intersection
+  of Computer Science, NLP, and Social Sciences, focusing on developing **Socially
+  Aware Language Technologies**. The core narrative revolves around moving AI beyond
+  mere technical accuracy to understanding and responding to the complex social signals
+  inherent in human communication.
 
 
   ---
@@ -646,80 +680,78 @@ summary: '## Podcast Episode Summary: 157 - Diyi Yang: Socially Aware Large Lang
 
   ### 1. Focus Area
 
-  The discussion centers on **Socially Aware Language Technology**, an interdisciplinary
-  field combining Computer Science, NLP, Machine Learning, social sciences, and linguistics.
-  Key applications explored include using LLMs for interactive training in areas like
-  conflict resolution and counseling, emphasizing the human element in AI development
-  and deployment.
+  The primary focus is **Socially Aware Natural Language Processing (NLP)**, defined
+  by three dimensions: **Social Factors** (speaker/receiver relations, context, norms),
+  **Social Interactions** (governing norms of communication), and **Social Implication**
+  (the broader societal impact of NLP systems). A major application discussed is using
+  LLMs for **Social Skill Training**, specifically through the **AI Partner AI Mentor
+  (APAM)** framework.
 
 
   ### 2. Key Technical Insights
 
-  *   **Three Dimensions of Socially Aware NLP:** The framework involves understanding
-  **Social Factors** (speaker/receiver relations, norms, culture), **Social Interactions**
-  (governing norms of communication), and **Social Implication** (broader positive/negative
-  societal impact).
+  *   **APAM Framework for Training:** The introduction of the **AI Partner** (role-playing
+  conversational agent) and **AI Mentor** (domain-expert coach providing feedback)
+  framework to make social skills training (like conflict resolution) accessible and
+  psychologically safe.
 
-  *   **AI Partner/AI Mentor (APAM) Framework:** This conceptual framework utilizes
-  two LLM agents: the **AI Partner** (role-playing a scenario participant, e.g., a
-  roommate or client) and the **AI Mentor** (providing domain-specific, expert feedback).
+  *   **Addressing Simulation Realism:** To overcome LLMs creating caricatures, the
+  approach involves collaborating with domain experts to build **typical interaction
+  templates** rather than simulating specific individuals, incorporating nuanced social
+  behaviors directly into the simulation design.
 
-  *   **Mitigating Simulation Bias via Self-Critique and Domain Expertise:** To achieve
-  realistic simulations, the team uses techniques like **self-critique** within the
-  AI Partner to ensure responses align with domain knowledge, and they rely on **domain
-  user collaboration** to build interaction templates rather than attempting to simulate
-  specific individuals perfectly.
+  *   **Self-Critique for Contextual Assessment:** Techniques like **self-critique
+  and self-improvement** are used during generation, where the AI Partner assesses
+  its own responses against domain knowledge and appropriateness before outputting
+  them, enhancing realism.
 
 
   ### 3. Business/Investment Angle
 
-  *   **Transformative Training Market:** The APAM framework offers a scalable, accessible,
-  and psychologically safe alternative to traditional, expensive, and time-consuming
-  social skills coaching, opening significant market opportunities in professional
-  development and education.
+  *   **Transformative Training Market:** LLMs offer a scalable, interactive, and
+  personalized solution to training skills that are traditionally time-consuming and
+  expensive (e.g., conflict resolution, counseling).
 
-  *   **Shifting LLM Evaluation Metrics:** There is a growing need to move beyond
-  traditional benchmarks (math, coding) toward evaluating LLMs on complex human qualities
-  like empathy, personality alignment, and conversational nuance, which requires new
-  evaluation methodologies.
+  *   **Empowering Human Experts:** The technology is positioned not as a replacement
+  but as a **collaborator** ("Helping the Helper"), significantly aiding senior supervisors
+  and instructors by providing personalized, scalable initial feedback to novices.
 
-  *   **Empowering the Helper Ecosystem:** The technology is positioned not to replace
-  human trainers (supervisors, coaches) but to **empower them** by handling initial,
-  personalized feedback for novices, allowing experts to focus on higher-level guidance.
+  *   **Shift from "Book Smart" to "Street Smart":** Demonstrated success in improving
+  interactive performance (conflict resolution) without changing underlying knowledge
+  suggests a high market value for systems that bridge theoretical knowledge with
+  practical application.
 
 
   ### 4. Notable Companies/People
 
-  *   **Professor Diyi Yang (Stanford University):** Assistant Professor, leading
-  the Social and Language Technologies Lab, specializing in human-centric and socially
-  aware NLP.
+  *   **Professor Diyi Yang (Stanford):** The central expert, leading the Social and
+  Language Technologies Lab, focusing on human-centric NLP.
 
-  *   **Souda Karajah (Stanford University):** Pre-doctoral fellow and co-host, whose
-  admiration for Yang’s work frames the discussion.
+  *   **Souda Karajah (Stanford):** The host and interviewer, highlighting the importance
+  of human elements in AI development.
 
   *   **Rehearsal System:** A specific implementation of the APAM framework used to
-  help users practice **conflict resolution** based on interest-based negotiation
-  theory.
+  teach conflict resolution skills, leveraging interest-based negotiation theory.
 
-  *   **CARE System:** An implementation used to train **novice counselors** on critical
-  skills like empathy and reflection by simulating AI patients.
+  *   **CARE System:** A system developed to help novice counselors practice empathy
+  and reflection with AI patients, coached by an AI Mentor.
 
 
   ### 5. Future Implications
 
-  The conversation suggests a future where LLMs are deeply integrated into soft-skill
-  development, moving beyond factual knowledge transfer to interactive behavioral
-  practice. A key future direction is integrating more complex **cultural dynamics**
-  into the simulation and moving toward **physical/3D spaces** to incorporate non-verbal
-  social cues (posture, eye contact) into the training loop.
+  The industry is moving toward **human-centric AI** where social and cultural awareness
+  is integrated into model development and evaluation. Future work aims to incorporate
+  deeper cultural dynamics into the APAM framework. There is also a suggestion to
+  expand training into **physical or 3D spaces** to incorporate non-verbal cues (posture,
+  eye contact) crucial for complete social skill mastery.
 
 
   ### 6. Target Audience
 
-  This episode is highly valuable for **AI researchers and practitioners** focusing
-  on LLM alignment, safety, and human-computer interaction (HCI), as well as **professionals
-  in EdTech, corporate training, and mental health/counseling fields** interested
-  in scalable skill development solutions.'
+  **AI/ML Researchers** focusing on alignment, safety, and human-AI interaction; **EdTech
+  Developers** looking to integrate advanced personalized training solutions; and
+  **Organizational Development/HR Professionals** interested in scalable soft-skills
+  training methodologies.'
 tags:
 - artificial-intelligence
 - ai-infrastructure
@@ -770,4 +802,4 @@ topics:
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-10-06 03:48:47 UTC -->
+<!-- Processing completed: 2025-10-06 03:51:24 UTC -->

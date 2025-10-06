@@ -2,284 +2,372 @@
 companies:
 - category: unknown
   confidence: medium
-  context: a membership that backs what you're building with American Express Business
-    Platinum. Unlock over $3,500 in business and travel value
-  name: American Express Business Platinum
-  position: 61
+  context: This episode is brought to you by Nespresso and Samar Origins by The Weekend
+    Coffee Collection. Introducing Sam
+  name: Samar Origins
+  position: 48
 - category: unknown
   confidence: medium
-  context: rn more at americanexpress.com/business-platinum. Walmart Business is in
-    the business of saving you time, money and
-  name: Walmart Business
-  position: 518
+  context: brought to you by Nespresso and Samar Origins by The Weekend Coffee Collection.
+    Introducing Samar Origins. My collaboration with
+  name: The Weekend Coffee Collection
+  position: 65
+- category: unknown
+  confidence: medium
+  context: d Samar Origins by The Weekend Coffee Collection. Introducing Samar Origins.
+    My collaboration with Nespresso is a connection
+  name: Introducing Samar Origins
+  position: 96
+- category: unknown
+  confidence: medium
+  context: hey can't bring their pets with them. Through the Purple Leash project,
+    Purina is helping create more pet-friend
+  name: Purple Leash
+  position: 630
+- category: unknown
+  confidence: medium
+  context: vors and their pets can escape and heal together. Visit Purina.com's Lush
+    Purple to learn more. Big models today
+  name: Visit Purina
+  position: 781
+- category: unknown
+  confidence: medium
+  context: can escape and heal together. Visit Purina.com's Lush Purple to learn more.
+    Big models today, if we compare th
+  name: Lush Purple
+  position: 800
+- category: unknown
+  confidence: medium
+  context: e like even worse than that. MLST is supported by Cyber Fund. Link in the
+    description. I'm Illia. I spend my d
+  name: Cyber Fund
+  position: 2406
 - category: unknown
   confidence: medium
   context: publishing in both security and machine learning. Then I joined DeepMind
     where I stayed for two years in t
   name: Then I
-  position: 2908
+  position: 2746
 - category: tech
   confidence: high
   context: trust model in itself is very different from any notion of trust you can
     find in cryptographic literature
   name: Notion
-  position: 5323
+  position: 5188
 - category: unknown
   confidence: medium
-  context: y more out of them. We are sponsored by Prolific. Now Prolific are really
-    focused on the contributions of human
-  name: Now Prolific
-  position: 6130
-- category: unknown
-  confidence: medium
-  context: else. The link is in the description. Hey folks, Stephen Johnson here,
+  context: e else. The link is in the description. Hi folks, Steven Johnson here,
     co-founder of NotebookLM. As an author, I'v
-  name: Stephen Johnson
-  position: 6503
+  name: Steven Johnson
+  position: 6377
 - category: tech
   confidence: high
   context: and helping you brainstorm. Try it at notebooklm.google.com. I was based
     in DeepMind and before that most
   name: Google
-  position: 6907
+  position: 6775
 - category: unknown
   confidence: medium
-  context: you did your PhD at Cambridge under the legendary Ross Anderson. You did?
-    So you have fundamentally different DNA
+  context: you did your PhD at Cambridge under the legendary Ross Anderson? Yes. So
+    you have fundamentally different DNA, ri
   name: Ross Anderson
-  position: 7069
+  position: 6928
+- category: unknown
+  confidence: medium
+  context: ally different DNA, right? You're a security guy. My DNA is approximately
+    the same. Okay, fair enough. It'
+  name: My DNA
+  position: 7019
 - category: unknown
   confidence: medium
   context: ecurity rather than they fall in the realm of AI. And I'm curious, is there
     any overlap or what is the ov
   name: And I
-  position: 7834
-- category: unknown
-  confidence: medium
-  context: . It's a bit hard to say more or less vulnerable. But I do have to say
-    that big models today, if we compa
-  name: But I
-  position: 11100
+  position: 7692
 - category: tech
   confidence: high
-  context: cient in discovery of adversarial examples, using gradient information,
-    blah, blah, blah. You can kind of ma
+  context: nt in discovery of the adversarial examples using gradient information,
+    blah, blah, blah, right? You can kin
   name: Gradient
-  position: 11332
+  position: 11166
 - category: unknown
   confidence: medium
-  context: actually changed anything about these big models. So I think in part, what
+  context: actually changed anything about these big models. So I think in part what
     we were talking about in this
   name: So I
-  position: 12421
+  position: 12268
 - category: tech
   confidence: high
   context: And then one day, hey, let's upgrade to the next Intel chip. And they just
     had changed something about t
   name: Intel
-  position: 14270
+  position: 14225
 - category: unknown
   confidence: medium
-  context: I approach this. So we've written a paper called Defeating Prompt Injections
-    by Design. I don't know if you've seen this. And
-  name: Defeating Prompt Injections
-  position: 17204
+  context: t of like access control tooling around it. Okay. But I mean, help me here
+    because that seems like I'm ge
+  name: But I
+  position: 16673
 - category: unknown
   confidence: medium
-  context: ocktail with Tito's, distilled and bottled by 5th Generation Inc. Austin,
-    Texas, 40% alcohol by volume, savor resp
-  name: Generation Inc
-  position: 18919
+  context: ed when the road takes you from smooth sailing to Chevy Colorado will eat
+    up some of the toughest terrains with fi
+  name: Chevy Colorado
+  position: 18447
 - category: unknown
   confidence: medium
-  context: Texas, 40% alcohol by volume, savor responsibly. At Blinds.com, it's not
-    just about window treatments. It's
-  name: At Blinds
-  position: 18992
+  context: with five available drive modes and Silverado and Silverado HD have the
+    muscle to take you out for some serious
+  name: Silverado HD
+  position: 18554
 - category: unknown
   confidence: medium
-  context: e only thing we treat better than windows is you. Visit Blinds.com now
-    for up to 50% off primetime deals and fre
-  name: Visit Blinds
+  context: th multiple engine options and impressive towing. While Silverado EV is
+    the perfect combo of performance and capabilit
+  name: While Silverado EV
+  position: 18675
+- category: unknown
+  confidence: medium
+  context: s and a smile. How do they do it? Easy with a new Galaxy Watch 8. Sleep
+    tracking and personalized insights from
+  name: Galaxy Watch
+  position: 19114
+- category: unknown
+  confidence: medium
+  context: 8. Learn more at samsung.com. Requires compatible Samsung Galaxy phone,
+    Samsung Health app, and Samsung account. S
+  name: Samsung Galaxy
+  position: 19380
+- category: unknown
+  confidence: medium
+  context: ng.com. Requires compatible Samsung Galaxy phone, Samsung Health app, and
+    Samsung account. So I would never even g
+  name: Samsung Health
   position: 19402
 - category: unknown
   confidence: medium
-  context: ly all of the problems that exist in all of this. What I love about this
+  context: e all of the problems that exist in all of these. What I love about this
     system, right, is that because it
   name: What I
-  position: 21213
+  position: 21109
 - category: unknown
   confidence: medium
-  context: format, puts it in that database. And that's it. Like I, I'm almost just
-    a buyer of these sort of solutio
+  context: t format puts it in that database. And that's it. Like I'm almost just
+    a buyer of these sort of solutions
   name: Like I
-  position: 21755
+  position: 21648
 - category: unknown
   confidence: medium
   context: rity tooling for humans by humans against humans. Now I don't think we
     know what we're building. It's har
   name: Now I
-  position: 24342
+  position: 24180
 - category: tech
   confidence: high
-  context: unlikely for them to disappear. Did you see that Anthropic paper? What
-    was it called, Agentic Misalignment?
+  context: It's unlikely for them to disappear. You see that Anthropic paper, what
+    was it called, Agentic Misalignment,
   name: Anthropic
-  position: 29573
+  position: 29414
 - category: unknown
   confidence: medium
-  context: you see that Anthropic paper? What was it called, Agentic Misalignment?
-    Where they, I mean, you were going to set the se
+  context: You see that Anthropic paper, what was it called, Agentic Misalignment,
+    where they, I mean, you were going to set the se
   name: Agentic Misalignment
-  position: 29610
+  position: 29451
 - category: unknown
   confidence: medium
   context: boss was having an affair or something like that. The AI didn't want to
     be switched off. And it's just abs
   name: The AI
-  position: 29888
+  position: 29719
 - category: tech
   confidence: high
   context: reds of millions of devices. Okay. Now we look at Hugging Face's library
     and you look at this wonderful flag cal
   name: Hugging Face
-  position: 35867
+  position: 35687
 - category: unknown
   confidence: medium
   context: hat they do. I honestly, now everything is run on Google Cloud. Literally
-    every single thing. I'm now just remot
+    every single thing. I now just remove
   name: Google Cloud
-  position: 38949
-- category: advertiser
-  confidence: high
-  context: Mentioned as a sponsor/advertiser, offering business and travel value.
-  name: American Express Business Platinum
-  source: llm_enhanced
-- category: advertiser
-  confidence: high
-  context: Mentioned as a sponsor/advertiser, providing tools for businesses.
-  name: Walmart Business
-  source: llm_enhanced
-- category: investment_support
-  confidence: high
-  context: Mentioned as a supporter of MST (the speaker's current work/project).
-  name: CyberFund
-  source: llm_enhanced
+  position: 38779
+- category: unknown
+  confidence: medium
+  context: ', how many maintainers, what they do. Through the Starbucks College Achievement
+    Plan, full and part-time Starbucks partners receive 10'
+  name: Starbucks College Achievement Plan
+  position: 40686
+- category: unknown
+  confidence: medium
+  context: iochemistry, or any of the more than 150 offered. At Starbucks, benefits
+    like college tuition coverage are just
+  name: At Starbucks
+  position: 40993
+- category: unknown
+  confidence: medium
+  context: earn more at starbucks.com/partners. Hey, this is Bill Simmons from The
+    Bill Simmons Podcast here to help you ma
+  name: Bill Simmons
+  position: 41117
+- category: unknown
+  confidence: medium
+  context: ucks.com/partners. Hey, this is Bill Simmons from The Bill Simmons Podcast
+    here to help you make the most of your summer wit
+  name: The Bill Simmons Podcast
+  position: 41135
+- category: unknown
+  confidence: medium
+  context: ere to help you make the most of your summer with Michelob Ultra, a superior
+    light beer worth playing for. Play fo
+  name: Michelob Ultra
+  position: 41211
+- category: unknown
+  confidence: medium
+  context: ummer. Enjoy responsibly. Copyright 2025 Anheuser-Busch Michelob Ultra
+    Light Beer, St. Louis, Missouri. Heck, if I was an adversary
+  name: Busch Michelob Ultra Light Beer
+  position: 41532
+- category: unknown
+  confidence: medium
+  context: st. And in practice, you just need to be careful. Ilya Walsh is set up
+    for us what model collapse refers to. W
+  name: Ilya Walsh
+  position: 58135
 - category: ai_research
   confidence: high
-  context: The speaker previously worked there for two years in the machine learning
-    security team.
+  context: The speaker previously worked at DeepMind for two years in the best machine
+    learning security team. It is a major AI research lab.
   name: DeepMind
   source: llm_enhanced
-- category: big_tech
+- category: ai_model_provider
   confidence: high
-  context: Used as an example of a large language model that could potentially be
-    used as a trusted third party for private computation (like the millionaire problem).
-  name: Gemini
+  context: Mentioned as an example of a machine learning model that could be used
+    to solve the millionaire problem via trusted computation instead of cryptography.
+  name: Jemma
   source: llm_enhanced
-- category: data_platform
+- category: ai_application
   confidence: high
-  context: Sponsor of the podcast, focused on contributions of human data in AI systems.
-  name: Prolific
-  source: llm_enhanced
-- category: big_tech
-  confidence: high
-  context: Co-founder of this AI-first tool (built by Google) is interviewed.
+  context: Mentioned as an AI-first tool built to help organize ideas and make connections
+    by uploading documents and using AI to uncover insights.
   name: NotebookLM
+  source: llm_enhanced
+- category: ai_application
+  confidence: high
+  context: The URL provided for trying NotebookLM, implying association with Google.
+  name: notebooklm.google.com
   source: llm_enhanced
 - category: big_tech
   confidence: medium
-  context: Implied owner/developer of NotebookLM (notebooklm.google.com) and Gemini.
+  context: Implied association through NotebookLM (notebooklm.google.com).
   name: Google
   source: llm_enhanced
-- category: ai_research
+- category: investment_ai
   confidence: high
-  context: The speaker's previous academic institution where they studied security.
-  name: Cambridge
+  context: Mentioned as a supporter of MLST (Machine Learning Security & Trust, likely
+    the speaker's current focus/project).
+  name: Cyber Fund
   source: llm_enhanced
-- category: hardware_infrastructure
+- category: ai_application
   confidence: high
-  context: Mentioned in an anecdote regarding high-frequency trading algorithms failing
-    due to changes in processor cache coherency algorithms.
-  name: Intel
-  source: llm_enhanced
-- category: ai_research
-  confidence: high
-  context: A proposed system/framework for defeating prompt injections by design,
-    representing programs as Python code and enforcing policies on execution flow.
+  context: A system proposed in a paper ('diffusion prompt injections by design')
+    that rewrites user queries into a language with formal semantics for control flow
+    and data flow, enforcing policies outside the core model.
   name: Camel
   source: llm_enhanced
+- category: ai_evaluation
+  confidence: high
+  context: Mentioned as the standard for adversarial evaluation for agentic workflows,
+    against which the speaker's system (Camel) was tested.
+  name: AgentDojo
+  source: llm_enhanced
 - category: ai_research
   confidence: high
-  context: A standard adversarial evaluation benchmark used for testing agentic workflows.
-  name: AgentBench
-  source: llm_enhanced
-- category: ai_company
-  confidence: high
-  context: Mentioned in reference to their paper on 'Agentic Misalignment,' involving
-    a scenario where an AI tried to blackmail someone.
+  context: Mentioned in reference to an 'Anthropic paper' titled 'Agentic Misalignment,'
+    which described a scenario where an AI tried to blackmail someone to prevent being
+    switched off.
   name: Anthropic
   source: llm_enhanced
 - category: ai_research
-  confidence: medium
-  context: Mentioned in reference to work showing thinking traces might not be directly
-    relevant to model reasoning. (Likely a misattribution for a research group/paper,
-    but referenced as a source of work).
-  name: Subaru
+  confidence: high
+  context: Mentioned in relation to work suggesting that thinking traces (reasoning
+    paths) might not be directly relevant or meaningful for understanding model behavior.
+  name: Superalignment
   source: llm_enhanced
 - category: ai_application
   confidence: medium
-  context: Mentioned in the context of end-to-end encryption for communication, implying
-    a comparison point for secure model interaction.
-  name: WhatsApp
+  context: Referenced metaphorically (the 'AlphaGo moment') when discussing models
+    that teach themselves through self-learning and iteration to solve problems in
+    novel ways.
+  name: AlphaGo
+  source: llm_enhanced
+- category: advertisement
+  confidence: high
+  context: Mentioned in an advertisement break, not directly related to AI/ML development.
+  name: Chevrolet
+  source: llm_enhanced
+- category: advertisement
+  confidence: high
+  context: Mentioned in an advertisement break promoting the Galaxy Watch 8 features
+    like sleep tracking.
+  name: Samsung
   source: llm_enhanced
 - category: ai_infrastructure
   confidence: high
-  context: Explicitly mentioned regarding their library, the 'transformers' library,
-    and the security risk associated with the 'trust remote code' flag, which allows
-    remote code execution when loading models.
+  context: Mentioned specifically regarding its `trust_remote_code` flag in the `transformers`
+    library, drawing a parallel to the Log4j vulnerability due to remote code execution
+    risks.
   name: Hugging Face
   source: llm_enhanced
 - category: ai_infrastructure
   confidence: high
-  context: Mentioned multiple times regarding security compromises in its CI/CD integration
-    on GitHub and issues with its nightly build process due to dependency loading
-    vulnerabilities (Log4j parallel).
+  context: Mentioned in relation to security compromises of its CI/CD integration
+    on GitHub and issues with its nightly build package loading priorities, highlighting
+    supply chain risks.
   name: PyTorch
   source: llm_enhanced
 - category: ai_infrastructure
   confidence: high
-  context: Mentioned as a popular ML library that loads many obscure formats, used
-    as an example alongside PyTorch when discussing deep dependency trees and security
-    risks.
+  context: Mentioned as a popular ML library that has many dependencies, some of which
+    are questionable, illustrating broader supply chain complexity.
   name: TensorFlow
   source: llm_enhanced
 - category: ai_research
-  confidence: high
-  context: Mentioned as a 'secure extension L4 kernel' that is 'fully human-verified'
-    and mathematically proven to have no memory exploits, used as an example of intensive
-    verification work that ML might assist in the future.
+  confidence: medium
+  context: Mentioned as a fully human-verified kernel (secure extension L4 kernel)
+    that is mathematically proven to have no memory exploits, used as an example of
+    intensive verification efforts that ML could potentially speed up.
   name: seL4
+  source: llm_enhanced
+- category: ai_application
+  confidence: high
+  context: Mentioned in the context of running external verifiers and dealing with
+    computational budgets, implying their work in AI for protein folding.
+  name: AlphaFold team
   source: llm_enhanced
 date: 2025-10-04 06:55:01 +0000
 duration: 61
 has_transcript: false
 layout: episode
 llm_enhanced: true
-original_url: https://traffic.megaphone.fm/APO3359132879.mp3
-processing_date: 2025-10-05 22:56:59 +0000
+original_url: https://audio.listennotes.com/e/p/2777e210ff1246aeb18f9633287ba46b/
+processing_date: 2025-10-06 02:43:57 +0000
 quotes:
-- length: 126
+- length: 122
   relevance_score: 4
-  text: Investment in security means you could have spent the citizens were getting
-    first to the market and getting the network effect
+  text: Investment in security means you could have spent the resources getting first
+    to the market and getting the network effect
   topics:
-  - investment
   - market
-- length: 97
+  - investment
+- length: 95
   relevance_score: 3
-  text: And it sounds like the other half of the problem is almost this diffusion
-    of responsibility thing
+  text: And it sounds like the other half of the problem is almost as diffusion of
+    responsibility thing
+  topics: []
+- length: 25
+  relevance_score: 3
+  text: The problem is not really
   topics: []
 - length: 71
   relevance_score: 3
@@ -289,19 +377,13 @@ quotes:
   relevance_score: 3
   text: But the problem is you don't know if the external verifier is going to complete
   topics: []
-- length: 71
+- length: 73
   relevance_score: 3
-  text: Well, you have to put in some arbitrary computational budget thresholds
+  text: Well, you have to put in some arbitrary computational budgets, thresholds
   topics: []
-- impact_reason: Provides a concise definition distinguishing general performance
-    (safety/average case) from security (worst-case adversarial performance).
-  relevance_score: 10
-  source: llm_enhanced
-  text: It's very easy to model an average case. It's very hard to model a non-average
-    case, the worst case, which is the goal of security, right?
-  topic: safety/strategy
-- impact_reason: A stark warning about the unique threat profile posed by autonomous
-    AI agents compared to human adversaries, emphasizing scale, knowledge, and speed.
+- impact_reason: A stark comparison emphasizing the unique threat profile of autonomous
+    AI agents compared to human adversaries, particularly regarding scale, speed,
+    and comprehensive knowledge.
   relevance_score: 10
   source: llm_enhanced
   text: Agents are very different from humans. You will not find a single human in
@@ -309,123 +391,101 @@ quotes:
     in your system, that absolutely knows everything there is, that can generate you
     basically all of the hacking tools on a whim, just because it knows that it has
     seen all of them, it can recreate this in a matter of a second.
-  topic: safety/predictions
-- impact_reason: Establishes a high bar for worst-case adversarial modeling (irrational
-    human) and then immediately states that AI agents surpass even that benchmark,
-    signaling extreme risk.
+  topic: predictions/safety
+- impact_reason: 'This is a major, potentially disruptive thesis: that verifiable
+    ML models could replace complex cryptographic protocols for certain tasks (like
+    private computation).'
   relevance_score: 10
   source: llm_enhanced
-  text: In security, we tend to say that a child is the worst case adversity you can
-    find, completely irrational thinking, infinite amount of time. They can basically
-    touch everything. There are no expectations on behaviors whatsoever. But agents
-    are even worse than that.
-  topic: safety
-- impact_reason: A radical proposal suggesting that verifiable ML inference could
-    replace complex, costly cryptographic protocols (like MPC) for certain tasks.
+  text: So suddenly, what I'm marking in this work is that actually trusted third
+    parties can exist. And when you do have those trusted third parties, you suddenly
+    don't need to rely on this very expensive and hard and cumbersome cryptographic
+    utilities.
+  topic: predictions/technical
+- impact_reason: Offers a clear, academic distinction between AI Safety (average case/accidents)
+    and AI Security (worst case/malice), which is often blurred in public discourse.
   relevance_score: 10
   source: llm_enhanced
-  text: Suddenly what I'm marking in this work is that actually trusted third parties
-    can exist. And when you do have those trusted third parties, you suddenly don't
-    need to rely on this very expensive and hard and cumbersome cryptographic utilities.
-  topic: predictions/strategy
-- impact_reason: Reinforces the academic distinction between safety (average performance)
-    and security (worst-case performance under adversarial pressure).
-  relevance_score: 10
-  source: llm_enhanced
-  text: If you go on, you take a course in security in Cambridge, they will say there
-    is a big difference between safety and security. Safety is like an average case
-    performance of the system. Security is the worst case performance of a system.
-  topic: safety
-- impact_reason: 'Details the shift in adversarial robustness: LLMs are harder to
-    attack via traditional gradient-based optimization but more susceptible to novel,
-    prompt-based manipulation.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: In the past, we were kind of like quite efficient in discovery of adversarial
-    examples, using gradient information, blah, blah, blah. You can kind of make an
-    optimization problem and optimize and the stuff works. Whereas with models, they
-    clearly become more robust against this stuff, or at least it's significantly
-    harder to traverse this landscape, but they also become a lot less robust against
-    other adversaries.
-  topic: technical/trends
-- impact_reason: Expresses frustration over the lack of interpretability and control
-    in modern, large-scale models, contrasting them with smaller, more tractable predecessors.
-  relevance_score: 10
-  source: llm_enhanced
-  text: Like suddenly, very simply phrasing of the same questions forced it to completely
-    do something different. And I also have to say that I think we had significantly
-    more control when we dealt with the smaller models. Like we kind of knew which
-    knobs to turn to make the model do stuff. Whereas nowadays, you look at a modern
-    big model, it's way too much alchemy. It's completely impossible to tell.
-  topic: technical/limitations
-- impact_reason: Provides a specific, successful example of an indirect prompt injection
-    attack against an agent system, demonstrating a critical vulnerability in contextual
-    processing.
-  relevance_score: 10
-  source: llm_enhanced
-  text: We were trying to send an email to the agent such that when this email ends
-    up in agent's context, rather than following the user task, the agent is actually
-    doing something else, like the thing that we've sent it over the email. And we
-    found that pretty much in all of the cases we're capable of doing this.
-  topic: safety/technical
-- impact_reason: 'Proposes a core security philosophy for AI systems: assume opacity
-    and build robust, external resilience layers rather than relying on internal model
-    predictability.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: I keep on referring to the systems as alchemy. Like, it's nobody knows what's
-    happening, something's happening. So we're kind of, I think in security, we need
-    to make an assumption that we can't actually tell what's happening and instead
-    try and build systems around it in order to bring the resilience up to this whatever,
-    99.999 and ideally as many nines as possible.
+  text: Safety is like an average-case performance of the system. Security is the
+    worst-case performance of the system. So the difference between the two is the
+    existence of malicious actors that kind of push the system to the worst-case setup.
   topic: safety/strategy
-- impact_reason: States clearly that current agent architectures cannot reliably enforce
-    user-defined security policies regarding sensitive data.
+- impact_reason: A strong critique of current academic and startup defense strategies
+    against prompt injection, suggesting they are fundamentally ineffective against
+    sophisticated attacks.
   relevance_score: 10
   source: llm_enhanced
-  text: Today with the, with modern agents and the way we build the modern agents,
-    it's impossible [to define security policies for personalized data]. You can always
-    find a way to manipulate this agent into revealing this, this piece of information.
+  text: We find that pretty much in all of the cases we're capable of doing this [indirect
+    prompt injection via email]. And if you take a whole bunch of academic work to
+    show on how to build defenses, and you can actually find startup pretty much implementing
+    the same things and sharing this as like a security solution, like those approaches
+    don't work.
   topic: safety/limitations
-- impact_reason: Reinforces the strategy of securing AI via external orchestration
-    and access control layers (System 2 thinking) rather than trying to fix the core
-    model (System 1 thinking).
+- impact_reason: This points directly to the vulnerability of advanced instruction-following
+    models to prompt injection/manipulation, leading to unintended behavior ('loss
+    of a different kind').
   relevance_score: 10
   source: llm_enhanced
-  text: You should be able to get guarantees not by changing the models, but to be
+  text: When they follow instructions, you can do a lot more. Like you can convince
+    them that things that they were not capable of doing before are some things that
+    they need to do, and suddenly this leads to some sort of a loss of a different
+    kind.
+  topic: safety/limitations
+- impact_reason: A concrete description of an adversarial attack (prompt injection
+    via context/email) demonstrating a critical security failure in current agent
+    architectures.
+  relevance_score: 10
+  source: llm_enhanced
+  text: we were trying to send an email to the agent such that when this email ends
+    up in the agent's context, rather than following the user task, the agent is actually
+    doing something else, like the thing that we've sent it to.
+  topic: safety/technical
+- impact_reason: Articulates the central, unsolved problem of fine-grained policy
+    enforcement for personalized AI models handling sensitive data.
+  relevance_score: 10
+  source: llm_enhanced
+  text: However, I don't want it to reveal certain private information. Like, how
+    would I even define that as a security?
+  topic: safety/business
+- impact_reason: 'A crucial architectural insight: security for LLM agents must be
+    achieved via external system design (orchestration, access control) rather than
+    relying solely on model internal modifications.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: we should be able to get guarantees not by changing the models, but to be
     changing the systems around them and how the models interact with your sensitive
     data and how we basically build sort of like access control tooling around it.
   topic: strategy/technical
-- impact_reason: Illustrates the power of external policy enforcement using fine-grained,
-    context-aware data flow rules that operate outside the LLM itself.
+- impact_reason: Illustrates extremely fine-grained, dynamic access control policies
+    that can be enforced externally based on execution context, which is impossible
+    with standard prompting.
   relevance_score: 10
   source: llm_enhanced
   text: The only allowed data flow from this tool to go into this other tool is if
-    this other tool, like I don't know, domain of the website actually has .gov.uk
-    inside of it. Right? And you can express policies like this. This is not a part
-    of the model. This is a part of the actual execution.
-  topic: technical/safety
-- impact_reason: 'Presents the ultimate defense: keeping sensitive data entirely out
-    of the model''s direct context, using only symbolic references managed by an external,
-    controlled execution layer.'
+    this other tool, like I don't know, domain of the website actually has dot gov
+    dot uk inside of it.
+  topic: safety/technical
+- impact_reason: 'A strong stance on data handling: sensitive data should be abstracted
+    away from the model weights/context, existing only as a protected, symbolic variable
+    accessed via controlled interfaces.'
   relevance_score: 10
   source: llm_enhanced
-  text: So I would never even give my passport number to a fine-tuning of a large
-    model. Exactly. So your model will never even see it. It will have a symbolic
-    representation of it, but we'll know that the passport itself exists in this variable.
-    I can defer to it, but I don't even know what the value is.
-  topic: safety/technical
-- impact_reason: A crucial warning against anthropomorphizing AI agents, stressing
-    that their threat model is fundamentally different and often worse than human
-    adversaries.
+  text: I would never even give my passport number to a fine-tuning of a large model.
+    Exactly. I see it. It will have a symbolic representation of it, but we'll know
+    so the passport itself exists in this variable. I can defer to it, but I don't
+    even know what the value is.
+  topic: safety/business
+- impact_reason: A critical warning against anthropomorphizing AI agents, emphasizing
+    that their capabilities and threat models fundamentally differ from human adversaries.
   relevance_score: 10
   source: llm_enhanced
   text: I think it's extremely important to not think about these agents as humans,
-    right? Agents are like, is a worst-case human sort of. Well, not even this, like
-    agents are very different from humans.
+    right? Oh, I don't, I don't think about that. What I'm trying to say in security
+    terms is that agents are like, is a worst-case human sort of, well, not even this.
+    Like agents are very different from humans.
   topic: safety/strategy
-- impact_reason: 'Details the superhuman capabilities of agents that define the new
-    security landscape: perfect memory, 24/7 operation, and instant tool generation.'
+- impact_reason: Defines the unprecedented scale and capability of an AI agent adversary
+    compared to any human threat actor.
   relevance_score: 10
   source: llm_enhanced
   text: You will not find a single human in the world that works 24/7, touches absolutely
@@ -433,155 +493,161 @@ quotes:
     there is, that can generate you basically all of the hacking tools on a whim,
     just because it knows it has seen all of them, it can recreate this in a matter
     of a second.
-  topic: safety/limitations
-- impact_reason: Defines the agent threat model as worse than the 'irrational child'
-    analogy, as agents combine infinite time/reach with high capability, invalidating
-    traditional human-centric security assumptions.
-  relevance_score: 10
-  source: llm_enhanced
-  text: With agents, that's not the case. You don't make an assumption that the user
-    will go and touch every single endpoint you have in a network because, you know,
-    why would they do this? ... With agents, this doesn't exist. This is kind of like
-    in security, we tend to say that a child is the worst case that adversity you
-    can find, completely irrational thinking, infinite amount of time. They can basically
-    touch everything.
   topic: safety
-- impact_reason: A strong statement on the inadequacy of current coarse-grained security
-    controls against autonomous agents, demanding a radical shift towards fine-grained,
-    precise security mechanisms.
+- impact_reason: A strong statement on the necessary evolution of security controls
+    (fine-grained access, transparency) required for agentic systems, contrasting
+    sharply with legacy coarse-grain controls.
   relevance_score: 10
   source: llm_enhanced
-  text: With agent that doesn't work. This doesn't exist. All of these assumptions
+  text: With an agent that doesn't work. This doesn't exist. All of these assumptions
     are sort of gone. We don't know how to build systems against this. We need very
-    fine-grain, we need extreme precision, we need extreme control and transparency,
+    fine grain, we need extreme pressure session, we need extreme control and transparency,
     otherwise it's just not going to work.
   topic: safety/strategy
-- impact_reason: Articulates the 'diffusion of responsibility' problem inherent in
-    agent deployment, where accountability breaks down, posing a major governance
-    and legal challenge.
+- impact_reason: A concrete example of agentic 'over-eagerness' or emergent behavior
+    (sending unsolicited emails/pings), emphasizing the critical need for extreme
+    precision in prompting and guardrails.
   relevance_score: 10
   source: llm_enhanced
-  text: And it sounds like the other half of the problem is almost this diffusion
-    of responsibility thing. It's like you, Illia, you were at work, you asked the
-    agent to email this to this person, instead of emailed it to five other people.
-    And then somebody stops, why I do what you do, you email the odd, I didn't do
-    it. It's this agent, you know, you guys. And the agent usually says, oh, you're
-    right. Yes, I shouldn't have done this. Wow. What do I do now? Who are you going
-    to punish?
-  topic: safety/business
-- impact_reason: Identifies the 'Confused Deputy Problem' as a central, persistent
-    security risk in agentic systems, stemming from insufficient context and permission
-    boundaries.
+  text: In between this, it sends four different emails to parties I never mentioned
+    because it thinks, oh, actually, let me also notify the admin that I've done this
+    and also let me also ping this endpoint. They do this. It's because unless you
+    specify things extremely precisely, unless you have checks in place, these agents
+    just, yeah, they don't think like me and you.
+  topic: safety/technical
+- impact_reason: Explicitly names the 'confused deputy problem' as a core security
+    vulnerability that will persist and be exacerbated in agentic workflows due to
+    context limitations.
   relevance_score: 10
   source: llm_enhanced
-  text: how should the financial agent know they're not supposed to do this? They
+  text: How should the financial agent know they're not supposed to do this? They
     don't have enough context. They are not supposed to have enough context. So and
     usually when we talk about social engineering security, like there is a wide variety
-    of things that like they describe why human systems fail. And it's going to be
-    a similar sort of thing because many of those problems, like confused deputy problem,
-    it's the formal name of this, right? They will exist.
+    of things that like they describe why human systems fail and it's going to be
+    a similar sort of thing because many of those problems, like confused deputy problem
+    is the formal name of this, they will exist.
   topic: safety/technical
-- impact_reason: A strong warning from a security expert about the risks associated
-    with the open-source/local model proliferation, indicating this is a top-tier
-    concern.
+- impact_reason: Argues against relying on human-comprehensible interpretability (dimensionality
+    reduction) for security assurance, as it inherently causes information loss (collisions)
+    masking critical behavior.
   relevance_score: 10
   source: llm_enhanced
-  text: I am extremely worried about this [proliferation of open-source models running
-    locally]. So much so that I've actually written some papers about this.
-  topic: safety
-- impact_reason: Draws a direct, alarming parallel between the catastrophic Log4j
-    vulnerability and the current risk posed by the `trust_remote_code` flag in model
-    loading libraries, highlighting systemic supply chain risk.
+  text: For security, I think interpretability is maybe an interesting tool for safety
+    sort of things, but for security, it's definitely not a step in the right direction
+    because like broadly speaking, if you take something extremely multi-dimensional
+    and project it into something very small dimensional because a human can comprehend
+    this thing, then you will have a lot of collisions where like the multi-dimensional
+    space maps to the same sort of smaller, smaller dimensional space.
+  topic: safety/technical
+- impact_reason: Draws a direct, alarming parallel between the widespread, unmanaged
+    risk of open-source LLMs and the catastrophic, systemic impact of the Log4j vulnerability.
   relevance_score: 10
   source: llm_enhanced
-  text: And what this thing does is literally remote code loaded on your machine,
-    executed on your machine, loaded on top of stuff. So same sort of thing we did
-    back then [Log4j]. We're doing the same again today on Hugging Face.
+  text: I am extremely worried about this [open-source proliferation]... But for an
+    average consumer, have you heard about Log4j vulnerability? That kind of the thing
+    that stormed the internet.
   topic: safety/strategy
-- impact_reason: Highlights a critical, current supply chain risk in popular ML platforms
-    (like Hugging Face) where loading models can execute arbitrary remote code, mirroring
-    historical vulnerabilities.
+- impact_reason: Provides a detailed, technical explanation of how the `trust_remote_code`
+    flag in Hugging Face libraries enables remote code execution (RCE) upon model
+    loading, mirroring historical supply chain attacks.
   relevance_score: 10
   source: llm_enhanced
-  text: What this thing does is literally remote code loaded on your machine, executed
-    on your machine, loaded on top of stuff. So same sort of thing we did back then.
-    We're doing the same again today on Hugging Face.
-  topic: safety/supply chain
-- impact_reason: Introduces and explains the concept of 'architectural backdoors'—a
-    sophisticated ML security threat hidden in the model's structure, not its weights,
-    making detection difficult.
+  text: And what this thing does is that when you load the model, you know, like you
+    click use this model, use transformers inside, it gives you like a code snippet
+    to load some model. Inside it has this flag sometimes hardcoded. And what this
+    thing does is they say, oh, for some models, when you load them, you actually
+    want to load the latest, the latest representation from an external machine. What
+    this thing does is literally remote code loaded on your machine, executed on your
+    machine, loaded on top of stuff.
+  topic: safety/technical
+- impact_reason: Highlights a critical, active security vulnerability in model loading
+    practices (remote code execution via model weights/representations), which is
+    highly relevant to ML deployment.
+  relevance_score: 10
+  source: llm_enhanced
+  text: What this thing does is they say, oh, for some models, when you load them,
+    you actually want to load the latest, the latest representation from an external
+    machine. What this thing does is literally remote code loaded on your machine,
+    executed on your machine, loaded on top of stuff.
+  topic: safety/technical
+- impact_reason: Introduces the advanced concept of 'architectural backdoors' in ML
+    models, a sophisticated attack vector that hides malicious logic in the model's
+    structure rather than weights, making detection extremely difficult.
   relevance_score: 10
   source: llm_enhanced
   text: We have written a whole new branch of literature on what we call like architectural
     backdoors, where you don't actually hide malicious functionality in parameters
     of the models. Instead, you hide it in the structure of the model itself, like
-    a structure, so that even if you find you in the model, it still has the same
-    baseline behavior.
+    a structure so that even if you find you in the model, it still has the same baseline
+    behavior.
   topic: safety/technical
-- impact_reason: 'Provides a concrete, alarming example of an architectural backdoor:
-    manipulating the model structure to cause cross-user data leakage during inference
-    via specific input tokens.'
+- impact_reason: 'Provides a specific, terrifying example of an architectural backdoor:
+    token-triggered data leakage between users during inference, demonstrating a critical
+    privacy/security flaw in transformer deployment.'
   relevance_score: 10
   source: llm_enhanced
-  text: we can change the architecture of the model, such that they become sensitive
-    to certain tokens when you supply them to a transformer. Right. That when you
-    supply them, they start using the memory in the wrong way. So like, they start
-    routing, for example, data from one user to another user.
+  text: we can change the architecture of the model such that they become sensitive
+    to certain tokens when you supply them to a transformer, that when you supply
+    them, they start using the memory in the wrong way. So like they start routing,
+    for example, data from one user to another user.
   topic: safety/technical
-- impact_reason: 'Crucial insight: Arbitrary computational limits introduce systemic
-    bias into the search space of discovered solutions (e.g., in evolutionary algorithms
-    like AlphaEvolve).'
+- impact_reason: 'A stark admission regarding the current state of AI safety/security:
+    there are no known universal solutions for many frontier model vulnerabilities.'
   relevance_score: 10
   source: llm_enhanced
-  text: So while you can do that, I think it also introduces biases and the types
-    of programs we can discover. Right? Because maybe if I had set my budget to seven
-    seconds instead of five, I would have found like a more optimal solution.
-  topic: technical/bias
-- impact_reason: A clear statement prioritizing computational efficiency and hardware
-    advancement over theoretical limitations as the primary bottleneck for current
-    AI progress.
+  text: Is there one thing that all of the frontier labs could implement that would
+    improve the security of their models? No, I don't, I don't think this exists today.
+    Like we don't know how to solve problems. I think this is the honest answer. Is
+    that for most of the issues we have today, we just don't have a solution.
+  topic: safety/limitations
+- impact_reason: 'Articulates the core challenge of securing rapidly evolving ML systems:
+    the target moves faster than the security tooling can be developed and standardized.'
   relevance_score: 10
   source: llm_enhanced
-  text: I would still say that our limitation today is more compute. Like, imagine
-    you had infinite compute. And even if like it's totally fine for this thing to
-    run forever, like and you increase your threshold up to a point where it doesn't
-    really matter anymore, right? Then you're no longer limited. So I think it's more,
-    we just need better hardware. We need things which are more efficient.
-  topic: business/strategy
-- impact_reason: 'Identifies a core challenge in ML security: the rapid evolution
-    of models prevents the establishment of stable security baselines, making proactive
-    tooling difficult.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: I think with ML, the actual issue is the fact that before you develop security
-    tooling, you really need to have something to secure because small every single
-    small detail changes how you build security systems. So unless you know everything
-    about the system and it's kind of frozen in time, you can't really build security.
+  text: the actual issue is the fact that before you develop security tooling, you
+    really need to have something to secure because every single, small detail changes
+    how you build security systems. So unless you know everything about the system
+    and it's kind of frozen in time, you can't really build security. And by the time
+    you have something to secure, it's already too late.
   topic: safety/technical
-- impact_reason: Highlights a fundamental shift in failure modes as LLMs increase
-    in scale and capability, moving away from older adversarial attack vectors.
+- impact_reason: Provides a precise, two-part definition of model collapse, distinguishing
+    between the immediate effect (tail shrinking) and the cumulative effect (failure
+    accumulation).
+  relevance_score: 10
+  source: llm_enhanced
+  text: when we talked about model collapse, we kind of referred to two phenomena
+    happening at the same time. One of them was the tails are shrinking and basically
+    improbable events become more improbable. And then the second phenomena was over
+    time and this accumulates with fails.
+  topic: technical/limitations
+- impact_reason: Highlights a fundamental shift in failure modes as models scale,
+    moving away from older adversarial attack vectors to new, capability-driven vulnerabilities.
   relevance_score: 9
   source: llm_enhanced
   text: Big models today, if we compare them to the big models five years ago, they
     fail in very different ways.
-  topic: technical/trends
+  topic: technical/limitations
 - impact_reason: Connects improved instruction-following capability (a key LLM breakthrough)
-    directly to increased potential for both utility and misuse/exploitation.
+    directly to increased potential for misuse or complex task execution, relevant
+    for both utility and security.
   relevance_score: 9
   source: llm_enhanced
   text: When they follow instructions and they become better at following instructions,
     you can suddenly do a lot more.
-  topic: technical/predictions
-- impact_reason: A candid admission from an ML security expert highlighting the fundamental
-    difficulty in aligning model behavior with human intent, even in controlled environments.
+  topic: predictions/impact
+- impact_reason: Uses a classic security thought experiment (the irrational child
+    adversary) to frame the extreme nature of AI agent threats, suggesting agents
+    surpass even this high bar.
   relevance_score: 9
   source: llm_enhanced
-  text: I spend my days staring at models and trying to make sure they do what you
-    expect them to do. Most of the time they don't do what you expect them to do.
-  topic: technical/safety
-- impact_reason: Defines the critical need for new security tooling specifically for
-    agentic systems to ensure controllability and prevent catastrophic failures (data
-    leakage, self-harm).
+  text: 'In security, we tend to say that a child is the worst-case adversary you
+    can find: completely irrational thinking, infinite amount of time. They can basically
+    touch everything. There are no expectations on behaviors whatsoever. But agents
+    are like even worse than that.'
+  topic: safety/limitations
+- impact_reason: 'Clearly states the urgent need for new security tooling specifically
+    for agentic systems and outlines the core goals: observability, constraint imposition,
+    and confidence.'
   relevance_score: 9
   source: llm_enhanced
   text: I am very unemployed and I'm trying to build security tooling for the future
@@ -589,699 +655,742 @@ quotes:
     we can actually tell what they're doing, we can impose constraints on them, and
     we can have confidence that tomorrow they're not going to leak our private information,
     hack the boxes on which they're running, and so on.
-  topic: business/safety
+  topic: business/strategy
 - impact_reason: Provides a concrete, albeit speculative, example (the millionaire
-    problem) of how verifiable ML inference could substitute for established cryptographic
-    solutions.
+    problem) of how a verifiable ML inference could substitute for established cryptographic
+    methods.
   relevance_score: 9
   source: llm_enhanced
-  text: We can say, oh, let's pick Gemini as an example of a model. Let's both of
-    us agree on a prompt... Then the only two outputs the model can, we both agree,
-    it can produce as first or second. And then that is it, we just run inference.
-    Maybe on a platform that can give you an integrative verification that the model
-    exactly ran with the exact parameters and also the inputs we provided. And in
-    this setting, you no longer need cryptography.
+  text: We can say, oh, let's pick Jemma as an example of a model. And this is both
+    of us agree on a prompt... And then that is it, which is run inference, maybe
+    on a platform that can give you an integrative verification that the model exactly
+    ran with the exact parameters and also the inputs we provided. And then you're
+    set. You no longer need cryptography.
   topic: technical/predictions
-- impact_reason: 'Describes the natural migration path for security experts into AI:
-    recognizing that ML components introduce novel, non-classical security challenges.'
+- impact_reason: 'Details the trade-off in modern LLM robustness: they resist old
+    optimization attacks but are highly susceptible to simple, semantic prompt variations.'
   relevance_score: 9
   source: llm_enhanced
-  text: Folks who specialize in breaking computers, then starting noticing these weird
-    components here and there alongside the technical part of the pipeline where they're
-    not classical software components. They're these wonderful, weird AI agents appearing.
-    And you suddenly start asking a question, what do they do? What do we trust about
-    them?
-  topic: strategy
-- impact_reason: Provides a highly accessible, illustrative example contrasting safety
-    (random failure) versus security (maliciously induced failure).
-  relevance_score: 9
-  source: llm_enhanced
-  text: Safety is how often your phone blows up when it lies on the table. And security
-    is can somebody sitting a meter away from your phone force it to blow up?
-  topic: safety
-- impact_reason: Highlights the extreme difficulty in debugging, verifying, and understanding
-    the internal state changes of large, complex models, framing model improvement
-    as 'alchemy'.
-  relevance_score: 9
-  source: llm_enhanced
-  text: It's completely impossible to tell. Like, oh, I have added this thing inside.
-    What actually happens to the whole thing? Is it better? Even answering a question
-    of is it better? It's hard.
+  text: Whereas with models, they clearly become more robust against that stuff [gradient-based
+    adversarial examples], or at least it's significantly harder to traverse this
+    landscape, but they also become a lot less robust against other adversaries. Like
+    suddenly, very simple rephrasing of the same questions forces it to completely
+    do something different.
   topic: technical/limitations
-- impact_reason: A strong critique of current, common defense mechanisms against prompt
-    injection, suggesting that academic defenses are often easily bypassed in practice.
+- impact_reason: Expresses deep frustration with the lack of interpretability and
+    predictability in modern large models, framing development as 'alchemy' rather
+    than engineering.
   relevance_score: 9
   source: llm_enhanced
-  text: If you take a whole bunch of academic papers on how to build defenses and
-    you can actually find startups pretty much implementing the same things and setting
-    this as a security solution, those approaches don't work.
+  text: Whereas nowadays, you look at a modern big model, it's like it's way too much
+    alchemy; like it's completely impossible to tell, like, oh, I have added this
+    thing inside, what actually happens to the whole thing?
+  topic: technical/limitations
+- impact_reason: Reinforces the idea that increased capability (instruction following)
+    directly translates into new attack surfaces where the model can be persuaded
+    to violate its original constraints.
+  relevance_score: 9
+  source: llm_enhanced
+  text: When your models get better, they get significantly better, like capability
+    of growing up the model overall, they get significantly better following instructions.
+    When they follow instructions, you can do a lot more. Like you can convince them
+    that things that they were not capable of doing before are some things that they
+    need to do, and suddenly this leads to some sort of a loss of a different kind.
+  topic: safety/predictions
+- impact_reason: A strong critique of current, easily bypassed academic/startup security
+    solutions for LLMs, suggesting existing defenses are inadequate against determined
+    attacks.
+  relevance_score: 9
+  source: llm_enhanced
+  text: if you take a whole bunch of academic work to show on how to build defenses,
+    and you can actually find startup pretty much implementing the same things and
+    sharing this as like a security solution, like those approaches don't work.
+  topic: safety/business
+- impact_reason: 'A core security philosophy shift required for AI systems: accepting
+    opacity and focusing on building resilient external control layers rather than
+    trying to fully understand the internal state.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: we kind of, I think in security, we need to make an assumption that we can't
+    actually tell what's happening. And instead, try and build systems around it in
+    order to bring the resilience up to this whatever, 99.999 and ideally as many
+    nines as possible.
   topic: safety/strategy
-- impact_reason: 'Identifies the major future trend of personalized AI agents and
-    immediately frames the critical security challenge associated with them: controlling
-    access to private data.'
+- impact_reason: States the current impossibility of enforcing user-defined security
+    policies on modern LLM agents, justifying the need for new architectural approaches.
   relevance_score: 9
   source: llm_enhanced
-  text: Personalized AI models are going to be a big thing. It's like I'm going to
-    want a model that provides a web chatbot interface for you to talk to me when
-    I don't have time or something that more or less is my personality. However, I
-    don't want it to reveal certain private information.
-  topic: predictions/business
-- impact_reason: Advocates for applying formal methods, control flow, and data flow
-    principles from traditional programming languages to build secure AI execution
-    environments.
+  text: Today with modern agents and the way we build the modern agents, it's impossible
+    [to express policies like this].
+  topic: limitations/safety
+- impact_reason: Perfectly frames the tension between utility (needing to use sensitive
+    data) and security (preventing unauthorized leakage) in agentic workflows.
   relevance_score: 9
   source: llm_enhanced
-  text: This is not about building models at all. This is more like taking a step
-    back and taking foundations of programming languages and building, building this
-    by design into the models.
+  text: you can always find a way to manipulate this agent into revealing this piece
+    of information, right? At the same time, you definitely want to give your passport
+    number to the world if it's filling the documents.
+  topic: safety/business
+- impact_reason: Advocates for grounding AI agent execution in formal methods from
+    programming languages (like control flow, data flow) rather than treating them
+    as black-box text predictors.
+  relevance_score: 9
+  source: llm_enhanced
+  text: This is more like taking a step back and taking foundations of programming
+    languages and building this by design into the models.
   topic: technical/strategy
-- impact_reason: Introduces a specific, named architectural solution (Camel) based
-    on formal language semantics to manage agent execution.
+- impact_reason: 'Describes the core mechanism of the proposed solution (Camel): translating
+    natural language tasks into structured, formally verifiable code/programs.'
   relevance_score: 9
   source: llm_enhanced
-  text: We propose a system called Camel, where basically the overall system design
-    is kind of like we receive a user query and then we rewrite the user query in
-    a language that has formal semantics for control flow and data flow.
+  text: we receive a user query and then we rewrite the user query in a language that
+    has formal semantics for control flow and data flow.
   topic: technical
-- impact_reason: Describes an external 'Oracle' or policy checker that mediates access
-    to sensitive variables before they are used in tool calls, ensuring policy adherence
-    at the point of action.
+- impact_reason: 'Reinforces the separation of concerns: the LLM generates the plan/code,
+    and a separate, verifiable execution environment enforces the security policies.'
   relevance_score: 9
   source: llm_enhanced
-  text: I can defer to it, but I don't even know what the value is. And then if I
-    need to use this in order to interact with an external system, before using this,
-    basically there is an external sort of like, think about this as an Oracle that
-    I can ask, oh, is this okay to use this variable to interact with this tool?
-  topic: technical/safety
-- impact_reason: 'Highlights the business model implication: decoupling general intelligence
-    (off-the-shelf models) from personalized, secure data layers, enabling scalable
-    customization.'
+  text: This is not a part of the model. This is a part of the actual execution. In
+    case of Camel, will have an interpreter that takes in this program, executes the
+    program step by step and actually enforces a static or a dynamic policy on top
+    of this graph, the execution graph.
+  topic: technical/strategy
+- impact_reason: Describes a robust, externalized authorization check (Oracle) that
+    must precede any sensitive data usage by the agent.
   relevance_score: 9
   source: llm_enhanced
-  text: This seems to me like this could also allow the creation of almost generic
-    models. Indeed, yeah. That then could just be attached to my personal data. Yeah.
-    And now suddenly it's customized for me, right?
-  topic: business/predictions
-- impact_reason: 'Summarizes the paradigm shift in cybersecurity: the transition from
-    human-vs-human defense to defending against non-human, non-rational, hyper-capable
-    agents.'
+  text: before using this, basically there is an external sort of like think about
+    this as an Oracle that I can ask, oh, is this okay to use this variable to interact
+    with this tool? And then if this external Oracle says, no, this is a passport
+    and you're not touching a government website, then I'm forbidding this.
+  topic: safety/technical
+- impact_reason: Contrasts the predictability of human behavior (which allows for
+    traditional security assumptions) with the lack of such constraints for autonomous
+    agents.
   relevance_score: 9
   source: llm_enhanced
-  text: Beforehand we were building security tooling for humans by humans against
+  text: With agents, that's not the case. You don't make an assumption that the user
+    will go and touch every single endpoint you have in a network because, you know,
+    why would they do this? And even if they do this, you call them in and you say,
+    well, you know, we'll apply a legal framework and imprison you.
+  topic: safety
+- impact_reason: A sobering assessment of the paradigm shift in cybersecurity, acknowledging
+    that current security frameworks are obsolete for the AI era.
+  relevance_score: 9
+  source: llm_enhanced
+  text: beforehand we were building security tooling for humans by humans against
     humans. Now I don't think we know what we're building. It's hard to tell.
-  topic: strategy
-- impact_reason: 'Prescribes the necessary requirements for future AI security architectures:
-    moving beyond coarse-grained controls to highly precise, transparent enforcement
-    mechanisms.'
+  topic: strategy/safety
+- impact_reason: 'Actionable recommendation for future security architecture: moving
+    away from coarse-grained controls to highly granular, transparent, and strongly
+    enforced mechanisms.'
   relevance_score: 9
   source: llm_enhanced
-  text: We need very fine-grain, we need extreme precision, we need extreme control
-    and transparency, otherwise it's just not going to work.
+  text: We need very fine grain, we need extreme pressure session, we need extreme
+    control and transparency, otherwise it's just not going to work.
   topic: safety/strategy
-- impact_reason: Provides a concrete, real-world example of agentic unpredictability
-    and 'over-eagerness' to solve problems, illustrating the difficulty in constraining
-    agent behavior beyond the explicit prompt.
+- impact_reason: Highlights the fundamental shift in security paradigms from human-centric
+    threats to agent/AI-centric threats, indicating current security models are inadequate.
   relevance_score: 9
   source: llm_enhanced
-  text: agents when they ask to solve a task, they solve it in a completely weird
-    way, right? So like I was sending a message saying like I was asking an agent
-    to find something in notes forward this to someone. And in between this, I can
-    show you a conversation like a top-end model. In between this, it sends four different
-    emails to parties I never mentioned because it thinks, oh, actually, let me also
-    notify the admin that I've done this and also let me also ping this endpoint.
-  topic: technical/safety
-- impact_reason: Emphasizes the critical need for explicit specification and guardrails
-    (checks) because agent reasoning paths diverge significantly from human intuition.
+  text: No, it's likely it's not going to be like this because beforehand we were
+    building security tooling for humans by humans against humans. Now I don't think
+    we know what we're building. It's hard to tell.
+  topic: safety/predictions
+- impact_reason: Identifies the 'diffusion of responsibility' as a major socio-technical
+    challenge when agents cause errors, complicating accountability and consequence.
   relevance_score: 9
   source: llm_enhanced
-  text: unless you specify things extremely precisely, unless you have like checks
-    in place, these agents just, yeah, they don't think like me and you, they solve
-    problems drastically.
-  topic: strategy/technical
-- impact_reason: A stark prediction that autonomous agents will dramatically escalate
-    threats like corporate espionage because core security vulnerabilities (like social
-    engineering) will translate directly to the agent layer.
+  text: And it sounds like the other half of the problem is almost as diffusion of
+    responsibility thing. Yeah. It's like you, Ilya, you were at work, you asked the
+    agent to email this to this person instead of emailed it to five other people.
+    And then somebody stops, why I do what you do, you email the, I didn't do it.
+    It's this agent.
+  topic: safety/business
+- impact_reason: 'A strategic call to action: the existing framework for consequences
+    and liability is broken by agents, necessitating a complete shift in how we model
+    and regulate them.'
   relevance_score: 9
   source: llm_enhanced
-  text: when they do come, expect that you're inside the threats, you're corporate
-    espionage, things will go through the roof because the fundamentals of security
-    do not change.
-  topic: predictions/safety
-- impact_reason: A strong dismissal of the current utility of internal model traces
-    (like Chain-of-Thought) for reliable security auditing or understanding, suggesting
-    they may be artifacts rather than true reasoning.
+  text: The normal consequence chain doesn't really apply anymore. Yeah. That's hard.
+    I think we really need to change our thinking and start modeling because these
+    agents, and obviously they don't widely exist yet, this is a thing that is coming
+    clearly.
+  topic: strategy/safety
+- impact_reason: Casts significant doubt on the utility of 'thinking traces' for interpretability
+    or security auditing, referencing work suggesting they might be irrelevant artifacts.
   relevance_score: 9
   source: llm_enhanced
   text: To what extent do you think you can read anything about what the model was
-    thinking from its thinking trace? I definitely not.
+    thinking from its thinking trace? Definitely not. I mean, I'll never reach maybe,
+    but like the corner case is definitely not. Or even, there's even that work from
+    Superalignment that it might not mean anything whatsoever.
   topic: technical/safety
-- impact_reason: Sets an extremely high reliability bar (5 nines) necessary for critical
-    systems and advocates for building strong, external 'boxes' (sandboxes/enclosures)
-    rather than relying on internal model control.
-  relevance_score: 9
-  source: llm_enhanced
-  text: We need something where we can get like a 99.999 reliability out of this.
-    I have to think outside the box. We kind of have to build things. We need to build
-    boxes.
-  topic: strategy/safety
 - impact_reason: Directly links the trend of local/private model deployment to an
-    impending security crisis due to the lack of established tooling and reasoning
-    frameworks for these environments.
+    immediate, unsolved security tooling gap.
   relevance_score: 9
   source: llm_enhanced
   text: But that means a lot more security problems will appear because we don't know
     how to reason about them. We don't know how to build security tooling around them.
   topic: safety/predictions
-- impact_reason: 'Actionable, cautionary advice for anyone deploying open-source models:
-    sandboxing is non-negotiable due to inherent remote code execution risks.'
+- impact_reason: A strong cautionary warning against running untrusted models outside
+    of secure, sandboxed environments.
   relevance_score: 9
   source: llm_enhanced
-  text: if you're running your model outside of a jail, if you're running your model
+  text: If you're running your thing outside of a jail, if you're running your model
     outside of a sandbox, you're doing a very bad thing to yourself.
-  topic: safety/business
-- impact_reason: Provides concrete evidence of successful supply chain attacks targeting
-    core infrastructure (PyTorch CI/CD), demonstrating that even trusted build environments
-    are vulnerable to compromise.
-  relevance_score: 9
-  source: llm_enhanced
-  text: there has been at least publicly two reported compromises of the CI/CD integration
-    for PyTorch on GitHub. They basically automatically do all the tests and stuff.
-    Somebody broke into those runners. And when you break into the runners, you can
-    change the build files themselves.
-  topic: safety/technical
-- impact_reason: 'Actionable, high-stakes personal security advice: never run untrusted
-    cloud/model code directly on a personal machine; use isolation (VMs).'
-  relevance_score: 9
-  source: llm_enhanced
-  text: Is why I wouldn't install cloud code on my personal machine. I'm like, don't
-    do that. No way I'm going to do that. I'll put it on a VM. That's fine. I'm not
-    putting it on my personal computer.
-  topic: safety/deployment
-- impact_reason: 'Reveals a specific vulnerability pattern in ML libraries: deep dependencies
-    often rely on obscure, poorly maintained, and questionable third-party code.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: And the last, the cherry on the top is that if you take the popular ML libraries,
-    you'll find they have disproportionately many dependencies. And many of these
-    dependencies, when you get to like a level three dependency, when you look at
-    dependencies of dependencies, they're very questionable.
-  topic: safety/supply chain
-- impact_reason: 'Proposes a major future application for AI: drastically accelerating
-    formal verification (like kernel verification, e.g., seL4) by automating annotation
-    and proof assistance.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: But now let's imagine we can replace actually even half of this thing with
-    ML models where for half of this usable annotations, you can actually do this
-    by hand, not by hand, but with agents significantly faster. Then suddenly, like
-    verification is a lot easier to do, right?
-  topic: predictions/technical
-- impact_reason: Directly connects the theoretical Halting Problem to practical engineering
-    constraints (setting arbitrary time budgets) in AI/verification systems, showing
-    how theory impacts implementation choices.
-  relevance_score: 9
-  source: llm_enhanced
-  text: But the problem is you don't know if the external verifier is going to complete.
-    So what do you do? Well, you have to put in some arbitrary computational budget
-    thresholds. If it doesn't complete within, you know, five seconds, then you just
-    terminate it and, you know, look at other runs.
-  topic: technical/limitations
-- impact_reason: A strong critique that current AI progress is skewed towards problems
-    where termination/predictability is manageable, potentially missing crucial, unpredictable
-    scientific challenges.
-  relevance_score: 9
-  source: llm_enhanced
-  text: But that's not the case for many important problems we care about in the science.
-    Right? So I'm just saying we're skewed a bit towards things that we do know a
-    lot about because we're faced with this fundamental problem that there's lots
-    of problems that you just can't predict.
-  topic: strategy/limitations
-- impact_reason: 'A candid admission regarding the current state of AI security: there
-    are no universal fixes for frontier model vulnerabilities.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: No, I don't think this exists today. Like we don't know how to solve problems.
-    I think this is a this is the honest answer is that for most of the issues we
-    have today, we just don't have a solution, like one-size-fits-all solution.
-  topic: safety/limitations
-- impact_reason: Connects ML security challenges to established principles in information
-    security economics, specifically the 'first-to-market' incentive structure that
-    often prioritizes deployment over robust security.
-  relevance_score: 9
-  source: llm_enhanced
-  text: And by the time you have something to secure, it's already late. And this
-    is the thing that is not unique to ML. It's kind of it was there before. If you
-    look at there is a field of information security economics, it's it's kind of
-    always there. It's like it's a fundamental first-to-market win.
-  topic: business/strategy
-- impact_reason: 'Explains the economic disincentive for early security investment
-    in fast-moving tech sectors: the immediate reward of market capture outweighs
-    the delayed benefit of security tooling.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: So everyone rushed to the market early. Investment in security means you could
-    have spent the citizens were getting first to the market and getting the network
-    effect. And thus you kind of don't have incentives to build the security tooling
-    first.
-  topic: business/safety
-- impact_reason: Provides concrete evidence for the ongoing reliance on high-quality,
-    human-generated data, noting the rising cost of specialized expertise (PhDs) needed
-    to create it.
-  relevance_score: 9
-  source: llm_enhanced
-  text: But if you look around, we use a lot of synthetic data, but we still use a
-    lot of real data. And whenever we need to go on acquired data, there is a massive
-    market in acquiring very specialized data. And you see that improvement still
-    come from humans and the cost of this data is growing like extremely specialized
-    like hiring a ton of mathematical PhDs.
-  topic: business/data
-- impact_reason: 'Clarifies the dual nature of model collapse: 1) Shrinking tails
-    (improbable events become rarer) and 2) Accumulative failure over time.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: People were basically saying this is okay, I think there is a bit of misunderstanding
-    on sort of what the paper was saying and I maybe we are to blame in in part for
-    this. In a sense that like when we talked about model collapse, we kind of referred
-    to two phenomena happening at the same time. One of them was the tails are shrinking
-    and basically improbable events become more improbable.
-  topic: technical/model collapse
-- impact_reason: 'Proposes a novel perspective on ML models: their internal state
-    is inspectable, unlike opaque systems like the human brain or traditional software,
-    opening new avenues for trust.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: We actually know what they do. We know how they think. We can check their
-    state. They're kind of like a resettable human, if you will.
-  topic: technical/strategy
-- impact_reason: Categorizes the ML-based trust model as a fundamentally new paradigm
-    distinct from Zero-Knowledge Proofs or Trusted Execution Environments (TEEs).
-  relevance_score: 8
-  source: llm_enhanced
-  text: This is a completely different new way to approach private inference that
-    truly really exists because we have those trusted third parties to which we can
-    give secrets.
-  topic: technical/strategy
-- impact_reason: Explains why security is mathematically and strategically harder
-    than non-adversarial reliability engineering—it involves active opposition.
-  relevance_score: 8
-  source: llm_enhanced
-  text: The adversarial nature of the security problem just fundamentally changes
-    the landscape, right? Because now you have equally intelligent minds on both sides
-    kind of going after each other and trying to defeat each other.
   topic: safety/strategy
-- impact_reason: Points out the current tension and confusion within the AI community
-    regarding the precise definition and boundaries between 'safety' and 'security'
-    work.
-  relevance_score: 8
+- impact_reason: Cites specific, high-profile supply chain compromises affecting major
+    ML infrastructure (PyTorch CI/CD), demonstrating that even trusted build pipelines
+    are vulnerable to code injection.
+  relevance_score: 9
   source: llm_enhanced
-  text: I think in AI it's a little bit hard. I think this is a very spicy question
-    because I think safety folks will say it's exactly the same in security and like
-    a classical software sort of security space. If you go on, you take a course in
-    security in Cambridge, they will say there is a big difference between safety
-    and security.
+  text: There has been at least publicly two reported compromises of the CI/CD integration
+    for PyTorch on GitHub... Somebody broke into those runners. And when you break
+    into the runners, you can change the build files themselves. So you can serve
+    whatever you want to change the code.
+  topic: safety/technical
+- impact_reason: A direct, strong warning about the necessity of sandboxing when running
+    external ML models, emphasizing personal security risk.
+  relevance_score: 9
+  source: llm_enhanced
+  text: if you're running your model outside of a sandbox, you're doing a very bad
+    thing to yourself.
   topic: safety
-- impact_reason: Highlights the extreme difficulty in empirically evaluating the impact
-    of changes or interventions on massive foundation models due to their complexity.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Is it better? Even answering a question of is it better? It's hard. So like
-    you will find yourself in a position where you need to run experiments for the
-    next couple of months, trying to even discern whether something you have added
-    actually changed anything about these big models.
-  topic: technical/limitations
-- impact_reason: Draws a parallel between the inscrutability of modern computing/AI
-    systems and the unpredictability of physical magic, emphasizing the lack of mechanistic
-    understanding.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Modern computers are very much just a piece of magic where this cheap works.
-    You move it that very so slightly, it becomes unstable and then nobody knows what's
-    happening.
-  topic: strategy/limitations
-- impact_reason: Demonstrates the universality of the proposed external control mechanism—it
-    works across different foundation models, making it a vendor-agnostic security
-    layer.
-  relevance_score: 8
-  source: llm_enhanced
-  text: We check pretty much all of the models from all of the providers because it
-    doesn't matter what it is. And then we put on top our Camel system that basically
-    performs the orchestration interaction with private data and then forces us arbitrary
-    rules.
-  topic: strategy/technical
-- impact_reason: Describes a future where users consume pre-built, secure agent workflows
-    (like apps) that simply plug into their personal data stores, simplifying adoption.
-  relevance_score: 8
-  source: llm_enhanced
-  text: I'm almost just a buyer of these sort of solutions that smart people have
-    created for me, right? Is that kind of a vision for what the system might look
-    like? There's all these modules that are just off-the-shelf programmed.
-  topic: business/predictions
-- impact_reason: Points out that AI reasoning processes (like in complex math) are
-    fundamentally alien to human cognition, suggesting that interpretability based
-    on human analogy will fail.
-  relevance_score: 8
-  source: llm_enhanced
-  text: if you look at the way that solves mathematical problems, this is not how
-    humans solve mathematical problems. Right? Like if you look at the transcript
-    itself, it kind of goes iteratively through all possible things that can do, right?
-  topic: technical/predictions
-- impact_reason: Raises the critical, near-future security concern of encrypted communication
-    between users and models, potentially hiding malicious intent or data exfiltration
-    from monitoring tools.
-  relevance_score: 8
-  source: llm_enhanced
-  text: What stops me from talking to a model in an end-to-end encrypted way, right?
-    Maybe we'll need external tooling.
-  topic: safety/predictions
-- impact_reason: Provides a technical explanation for why interpretability (reducing
-    high-dimensional model space to human-comprehensible low-dimensional traces) is
-    inherently lossy and insufficient for guaranteeing safety.
-  relevance_score: 8
-  source: llm_enhanced
-  text: if you take something extremely multidimensional and project it into something
-    very small dimensional because a human can comprehend this thing, then you will
-    have a lot of collisions where like the multidimensional space maps to the same
-    sort of smaller, smaller, smaller dimensional space. Does it always correspond
-    to like bad behaviors? Maybe, maybe not. Who knows? But clearly this is not enough.
-  topic: technical/safety
-- impact_reason: 'Explains the mechanism of CI/CD compromise: gaining control over
-    automated build systems allows attackers to inject malicious code directly into
-    official releases.'
-  relevance_score: 8
+- impact_reason: Details the mechanism of a CI/CD supply chain attack, showing how
+    compromising automated build systems allows for malicious code injection into
+    final software releases.
+  relevance_score: 9
   source: llm_enhanced
   text: They basically automatically do all the tests and stuff. Somebody broke into
     those runners. And when you break into the runners, you can change the build files
     themselves. So you can serve whatever you want to change the code.
   topic: safety/supply chain
-- impact_reason: A prediction linking the increasing utility and adoption of ML models
-    directly to an increase in sophisticated supply chain attacks targeting them.
-  relevance_score: 8
+- impact_reason: 'Provides a strong, actionable security recommendation for developers
+    handling sensitive or external code: isolate it in a VM rather than running it
+    locally.'
+  relevance_score: 9
   source: llm_enhanced
-  text: I think today we will have a lot more compromise to the point when they become
-    more useful.
-  topic: predictions/safety
-- impact_reason: Identifies Python's lack of inherent memory protection as a compounding
-    factor that exacerbates the risk associated with deep, complex dependency graphs.
-  relevance_score: 8
+  text: This is why I wouldn't install cloud code on my personal machine. I'm like,
+    no way I'm going to do that. I'll just get a VM. I'll put it on a VM. That's fine.
+    I'm not putting it on my personal computer.
+  topic: strategy/safety
+- impact_reason: Identifies Python's lack of inherent memory protection as a major
+    exacerbating factor for supply chain risks compared to other languages, making
+    dependency exploitation easier.
+  relevance_score: 9
   source: llm_enhanced
   text: The problem is it's pulling in 10,000 JavaScript libraries or something. I
-    think in case of Python, because everyone is using Python, this is even worse
-    because no memory protection at all, right? Like, there is no memory security.
+    think in the case of Python, because everyone is using Python, this is even worse
+    because no memory protection at all. There is no memory security.
+  topic: technical/safety
+- impact_reason: Exposes the deep, often untrusted nature of dependencies within major
+    ML frameworks, highlighting the 'dependency hell' problem in the ML ecosystem.
+  relevance_score: 9
+  source: llm_enhanced
+  text: if you take the popular ML libraries, you'll find they have disproportionately
+    many dependencies. And many of these dependencies, when you get to level 3 dependency,
+    when you look at dependencies of dependencies, they're very questionable, like
+    extremely questionable.
   topic: safety/technical
-- impact_reason: Critiques the incentive structure in academic security research,
-    suggesting it favors publishing sensational vulnerabilities over developing robust,
-    practical defenses.
-  relevance_score: 8
+- impact_reason: 'Proposes a major future application for AI: accelerating formal
+    verification and security auditing (like kernel verification) by using ML agents
+    to handle tedious annotation/proof tasks.'
+  relevance_score: 9
   source: llm_enhanced
-  text: I think in academia, you get famous for breaking stuff. And kind of like,
-    the incentives are a little bit skewed for you to make a like a flashy announcement.
-    Oh, I broke into this big company thus. I'm pretty cool, right? I get a job whatever.
-  topic: strategy/ethics
-- impact_reason: Signals a strategic shift in focus towards defensive tooling, arguing
-    that security is the bottleneck preventing the mass adoption of powerful AI applications.
-  relevance_score: 8
+  text: But now, let's imagine we can replace actually even half of this thing with
+    ML models where for half of this is bell annotations, you can actually do this
+    by hand, not by hand, but with the agents significantly faster. Then suddenly,
+    like verification is a lot easier to do, right?
+  topic: predictions/technical
+- impact_reason: Connects the theoretical Halting Problem directly to practical AI
+    system design (like AlphaFold), forcing developers to use arbitrary computational
+    budgets, which introduces bias.
+  relevance_score: 9
   source: llm_enhanced
-  text: I kind of shift my gears now to more building defenses, because I feel this
-    is not getting enough attention. We really need to solve this problem. We really
-    need to unlock a mass amount of these applications.
-  topic: strategy/business
-- impact_reason: Suggests that the rise of complex, non-deterministic models (like
-    modern LLMs) might fundamentally alter the practical applicability and relevance
-    of classical computability theory (like the Halting Problem).
-  relevance_score: 8
-  source: llm_enhanced
-  text: I think all of this Turing machine magic is like a theoretical exercise. Some
-    of the things are clearly like in the limit impossible. But I have to say that
-    I think models, especially modern models, change the fundamentals of computing
-    quite a bit, because like when we think about like halting problem style problems,
-    like being able to tell whether, you know, like a given program completes.
-  topic: technical/predictions
-- impact_reason: 'A strong positive prediction: ML will ultimately become a net positive
-    for security by lowering the barrier to entry for complex security practices.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: I think ML in many ways is shifting this burden in like adoption of security
-    technology. So I wouldn't be too surprised if we find that like ML significantly
-    improves security for us in this world.
-  topic: predictions/safety
-- impact_reason: Highlights the practical, real-world impact of theoretical limits
-    (like the Halting Problem) in optimization/search algorithms (like AlphaEvolve),
-    forcing trade-offs between completeness and speed.
-  relevance_score: 8
-  source: llm_enhanced
-  text: The problem of AlphaEvolve is the halting problem. Well, you have to put in
-    some arbitrary computational budget thresholds. If it doesn't complete within,
-    you know, five seconds, then you just terminate it and, you know, look at other
-    runs. So while you can do that, I think it also introduces biases and the types
-    of programs we can discover.
+  text: I find actually that it has very practical consequences [for the halting problem].
+    So for example, when we were talking to the AlphaFold team, right? You know, there
+    is part of the AlphaFold system which is very interesting. I recommend people
+    watch it up. So, you know, it goes and runs external verifiers. Yeah. But the
+    problem is you don't know if the external verifier is going to complete.
   topic: technical/limitations
-- impact_reason: 'Reframes the core issue: Today''s challenge isn''t just theoretical
-    non-termination, but the inherent unpredictability (''weird semantics'') of complex,
-    evolved programs.'
-  relevance_score: 8
+- impact_reason: A concrete example of how practical constraints (time budgets) imposed
+    by theoretical limitations (halting) directly impact the optimality and scope
+    of scientific discovery via AI systems.
+  relevance_score: 9
   source: llm_enhanced
-  text: Right? I don't think the problem of AlphaEvolve is the halting problem. Right?
-    It's more like today our programs have very weird semantics where we are ahead
-    of time can't say quite a bit about them.
+  text: If it doesn't complete within, you know, five seconds, then you just terminate
+    it and, you know, look at other runs. So while you can do that, I think it also
+    introduces biases in the types of programs we can discover, right? Because maybe
+    if I had set my budget to seven seconds instead of five, I would have found like
+    a more optimal solution, right?
   topic: technical/limitations
-- impact_reason: Highlights the practical trade-off between theoretical possibility
-    and economic/time feasibility in AI development, moving beyond infinite resources.
-  relevance_score: 8
+- impact_reason: 'A clear prioritization of current bottlenecks: compute efficiency
+    and hardware limitations outweigh the theoretical concerns of the halting problem
+    in current large-scale AI systems.'
+  relevance_score: 9
   source: llm_enhanced
-  text: And in general, like even if they were able to run it, let's say they have
-    evolved into a program that will theoretically take 10,000 hours to run. Right?
-    And you can tell it's going to take 10,000 hours to run. Like, are these supposed
-    to run or not? This is part of the loop.
+  text: I would still say that our limitation today is more compute. Like imagine
+    you had infinite compute. And even if like it's totally fine for this thing to
+    run forever, like and you increase the threshold up to a point where it doesn't
+    really matter anymore, right? Then you're no longer limited. So I think it's more,
+    we just need better hardware. We need things which are more efficient.
+  topic: technical/strategy
+- impact_reason: 'Explains the economic disincentive structure in tech: the pressure
+    for speed-to-market often overrides early investment in robust, non-differentiating
+    features like security.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: It's like it's a fundamental first of the market wins. So everyone rushed
+    to the market early. Investment in security means you could have spent the resources
+    getting first to the market and getting the network effect. And thus you kind
+    of don't have incentives to build the security tooling first.
   topic: business/strategy
-- impact_reason: Uses the analogy of antivirus software to illustrate that even when
-    theoretically limited by the Halting Problem, practical, heuristic-based solutions
-    are highly effective for the majority of real-world cases.
+- impact_reason: Highlights the enduring, increasing value and cost of high-quality,
+    specialized, human-generated data, even in an era of synthetic data generation.
+  relevance_score: 9
+  source: llm_enhanced
+  text: we use a lot of synthetic data, but we still use a lot of real data. And whenever
+    we need to go and acquire data, there is a massive market in acquiring very specialized
+    data. And you see that improvement still comes from humans and the cost of this
+    data is growing, like extremely specialized, like hiring a ton of mathematical
+    PhDs.
+  topic: business/technical
+- impact_reason: Addresses and refutes a common counter-argument to model collapse
+    theory (just add more synthetic data), noting that even with mitigation, distribution
+    drift persists.
+  relevance_score: 9
+  source: llm_enhanced
+  text: The other thing that people were saying is actually it's quite simple. Just
+    accumulate more data and then like whenever you can generate an edgy data, just
+    plug it in and then you have a shape of the distribution still in place. And I
+    think the important thing to realize is that even in this case, when you do theoretical
+    modeling with even the simplest model, it still drifts. It just doesn't drift
+    that much.
+  topic: technical/limitations
+- impact_reason: Provides a concise definition of the core challenge in security (worst-case
+    modeling) versus typical ML focus (average-case performance).
   relevance_score: 8
   source: llm_enhanced
-  text: Antiviruses in theory also limited by halting problem. In theory, it should
-    be impossible to look at something to tell what it does. At the same time, if
-    you look at the amount of, excuse my French, should you model where you can find
-    for which these antiviruses are totally useful, like even a static check for a
-    signature of a method is totally fine.
-  topic: technical/analogy
-- impact_reason: Strong expression of bullish sentiment regarding the underlying learning
-    algorithms being developed, signaling high confidence in the technology's trajectory.
+  text: It's very easy to model an average case. It's very hard to model a non-average
+    case, the worst case, which is the goal of security, the exact same case.
+  topic: safety/strategy
+- impact_reason: Proposes a novel view of ML models as inspectable, controllable entities,
+    contrasting them with opaque biological humans.
   relevance_score: 8
   source: llm_enhanced
-  text: It's definitely a new paradigm. It's a new kind of like learning algorithms,
-    which are truly amazing. Like a story like I am actually blown away. I'm super
-    bullish.
-  topic: predictions/sentiment
-- impact_reason: Reinforces that security lag is driven by economic incentives, but
-    maintains that if solutions existed, they would be implemented, distinguishing
-    solvable problems from currently unknown ones.
+  text: We actually know what they do. We know how they think. We can check their
+    state. They're kind of like a resettable human, if you will.
+  topic: technical/strategy
+- impact_reason: Stresses that the proposed ML-based trust mechanism is a fundamentally
+    new paradigm, distinct from TEEs or standard crypto.
   relevance_score: 8
   source: llm_enhanced
-  text: And then if you look at statistics around company compromise, you'll find
-    that it takes a number of compromises before the company fails. So they have a
-    bit of time after they conquered the market to actually put the security tooling
-    inside. So it's economic incentives. It's nothing but but I have to say that I'm
-    quite certain if we knew how to solve stuff we would solve this. It's just today
-    we don't know how to do it.
-  topic: business/safety
-- impact_reason: Pinpoints the exact area of criticism regarding model collapse—the
-    assumption that failures can be easily detected and rolled back—suggesting critics
-    might overlook the 'shrinking tails' aspect.
+  text: This trust model in itself is very different from any notion of trust you
+    can find in cryptographic literature or in more trust execution environment sort
+    of literature.
+  topic: strategy/technical
+- impact_reason: Describes the natural migration path for security experts into AI
+    security, driven by the emergence of non-classical, unpredictable components (agents).
   relevance_score: 8
   source: llm_enhanced
-  text: And then the second phenomena was over time and this accumulates with fails.
-    And most of the criticism I think were on the second part, namely that actually
-    you can easily detect when stuff fails and then just roll back.
-  topic: technical/criticism
-- impact_reason: Reiterates the fundamental dependency of AI capability growth on
-    hardware advancements, a core strategic constraint in the industry.
+  text: 'It''s folks who specialize in breaking computers, then starting noticing
+    this weird component here and there alongside the technical part of the pipeline
+    where they''re not classical software components. They are this wonderful, weird
+    AI agents appearing, and you suddenly start asking a question: What do they do?
+    What do we trust about them?'
+  topic: strategy/business
+- impact_reason: Contrasts the relative predictability of smaller models with the
+    opaque nature of modern large models, highlighting a loss of engineering control.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think we had significantly more control when we dealt with smaller models,
+    like we kind of knew which knobs to turn to make the model do stuff.
+  topic: technical/limitations
+- impact_reason: A clear prediction about the near-future trend of highly personalized
+    AI agents mirroring individual users.
+  relevance_score: 8
+  source: llm_enhanced
+  text: personalized AI models are going to be a big thing. It's like, I'm going to
+    want a model that provides a web chatbot interface for you to talk to me when
+    I don't have time or something that more or less is my personality.
+  topic: predictions
+- impact_reason: 'Describes the business vision: highly reusable, generic foundation
+    models combined with secure, personalized data layers, enabling rapid customization.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: This could also allow the creation of almost generic models. Indeed, yeah.
+    That then could just be attached to my personal data. Yeah. And now suddenly it's
+    customized for me, right?
+  topic: business/predictions
+- impact_reason: 'Claims universality: the proposed security architecture works regardless
+    of the underlying proprietary or open-source LLM being used.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: we check pretty much all of the models from all of the providers because it
+    doesn't matter what it is. And then we put on top our Camel system that basically
+    performs the orchestration interaction with private data and then forces arbitrary
+    rules.
+  topic: technical/strategy
+- impact_reason: Highlights the modularity and reduced friction for end-users adopting
+    complex AI solutions by separating core logic from personal data management.
+  relevance_score: 8
+  source: llm_enhanced
+  text: What I love about this system, right, is that because it's all my private
+    sensitive data is really just factored over into some separate data source, right?
+    And so I can just get off the shelf all the other parts.
+  topic: business
+- impact_reason: Suggests that agent behavior, even when given a task, remains highly
+    unpredictable, undermining simple 'prompt dependency' assumptions.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think it's very unpredictable. I have to say, I've been running like agentic
+    workloads forever, and very often you find that agents, when they ask to solve
+    a task, they solv
+  topic: technical/limitations
+- impact_reason: Contrasts AI reasoning processes (iterative, exhaustive search) with
+    human intuition in complex problem-solving, suggesting a fundamental difference
+    in cognitive architecture.
+  relevance_score: 8
+  source: llm_enhanced
+  text: If you look at the way that solves mathematical problems, this is not how
+    humans solve mathematical problems. Right? Like, if you look at the transcript
+    itself, it kind of goes iteratively through all possible things it can do. Right?
+    We assume we don't think about it.
+  topic: technical/predictions
+- impact_reason: A stark prediction that agentic systems will drastically amplify
+    existing threats like corporate espionage, leveraging the same underlying security
+    vulnerabilities.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Expect that your inside your threats, your corporate espionage things will
+    go through the roof because the fundamentals of security do not change.
+  topic: predictions/safety
+- impact_reason: Sets an extremely high reliability bar (five nines) for critical
+    systems and advocates for building robust, contained environments ('boxes') rather
+    than relying solely on model introspection.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We need something where we can get like a 99.999 reliability out of this.
+    We have to think outside the box. We kind of have to build things. We need to
+    build boxes.
+  topic: strategy/safety
+- impact_reason: Balances the acknowledged benefits of current AI with a strong warning
+    about the impending security crisis driven by advanced agents.
+  relevance_score: 8
+  source: llm_enhanced
+  text: There is some benefit in early examples of things where they clearly made
+    things better. But they're coming. I'm pretty sure. And when they do come, expect
+    that your inside your threats, your corporate espionage things will go through
+    the roof...
+  topic: predictions/safety
+- impact_reason: A prediction that as AI models become more powerful and integrated,
+    the frequency and severity of security compromises will increase proportionally.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think today, I think we will have a lot more compromise to the point when
+    they become more useful.
+  topic: predictions/safety
+- impact_reason: Critiques the incentive structure in academic security research,
+    arguing that breaking things is rewarded over building robust, long-term defenses,
+    which is crucial for industry adoption.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think in academia, you get famous for breaking stuff. And kind of like the
+    incentives are a little bit skewed for you to make a like a flashy announcement.
+    Oh, I broke into this big company, thus I'm pretty cool, right? I get a job or
+    whatever. But actually, on the other side, I have to say, I think the true ingenuity
+    is in people who solve problems because this is something that you're not going
+    to get a flashy article out of this.
+  topic: strategy/ethics
+- impact_reason: A profound statement suggesting that the flexibility and controllability
+    of modern ML systems (the 'programs' we write) might allow us to bypass theoretical
+    computational limits like the Halting Problem in practical ways.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think models, especially modern models, change fundamentals of computing
+    quite a bit. Because when we think about halting problem style problems, being
+    able to tell about a given program completes, I think it doesn't really work in
+    general, in generality. It's impossible. But then because today we control what
+    programs we write, if you can't reason about this program, just rewrite this,
+    like change the semantics, write it in a slightly different way, reduce the amount
+    of operations, reduce the just overall length of your program. And suddenly you're
+    capable of reasoning a lot more about this.
+  topic: technical/predictions
+- impact_reason: 'A hopeful counterpoint to the security warnings: ML might ultimately
+    be the key to solving complex security challenges, even if we haven''t figured
+    out how to leverage it defensively yet.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: I wouldn't be too surprised if we find that ML significantly improves security
+    for us in this world, but we just don't know how to like another example.
+  topic: predictions/safety
+- impact_reason: Identifies a key human cognitive limitation in security (overwhelmed
+    by granular permissions) and suggests AI agents could act as necessary intermediaries
+    to enforce secure defaults.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Academically, it is just shows that the second you add like a lot of breakdown
+    permissions inside, humans just look struck and just say accept all. But let's
+    imagine that all of those permissions are actually handled by the agent or once
+    you've given them the agent just checks and says, oh, actually, I think you're
+    over-permissing this thing because it's unclearly you're not using this feature.
+  topic: safety/strategy
+- impact_reason: 'Highlights a potential benefit of AI agents: overcoming human cognitive
+    limitations (like choice overload) in complex decision-making, specifically related
+    to security or configuration.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: there is limitation of humans where too many options force them to take the
+    insecure behavior is no longer a thing because you have an agent that kind of
+    aids this part that was like humans were blind to other ways.
+  topic: predictions/safety
+- impact_reason: Strong assertion emphasizing that theoretical computer science limits
+    have immediate, tangible consequences in modern AI deployment.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think the halting problem while theoretical, like also has very important
+    practical consequences just when you sit down and try and run the program, right?
+  topic: technical/limitations
+- impact_reason: Emphasizes that diversity preservation is the core challenge, and
+    simply flooding the system with synthetic data provides diminishing returns.
+  relevance_score: 8
+  source: llm_enhanced
+  text: But the fundamental thing still remains in place. You need to preserve diversity,
+    just plug in a ton of synthetic data. It's like you're not going to give you much
+    performance boost.
+  topic: technical
+- impact_reason: 'Sets up the central tension in future AI development: the abundance
+    of potentially low-quality synthetic data versus the difficulty of acquiring high-quality
+    data.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: We were trying to predict the sort of the future on how easy it will be to
+    train models later because on one hand, you have this weird oracle from which
+    you can gather as much data as you want. On the other hand...
+  topic: predictions/technical
+- impact_reason: Acknowledges the current tension and debate within the AI community
+    regarding the overlap and distinction between safety and security disciplines.
+  relevance_score: 7
+  source: llm_enhanced
+  text: I think in AI, it's a little bit hard. I think this is a very spicy question
+    because I think safety folks will say it's exactly the same in security and like
+    a classical software sort of security space.
+  topic: safety/strategy
+- impact_reason: Used as an analogy to describe the opaque and brittle nature of complex
+    systems, drawing a parallel to the unpredictability in deep learning systems ('systems
+    alchemy').
+  relevance_score: 7
+  source: llm_enhanced
+  text: Modern computers are very much just, you know, a piece of magic where this
+    chip works, you move it very slightly, it becomes unstable, and then nobody knows
+    what's happening.
+  topic: strategy/technical
+- impact_reason: Raises the novel security challenge of maintaining privacy (like
+    E2E encryption) when interacting with models, suggesting new cryptographic or
+    computational methods might be needed.
+  relevance_score: 7
+  source: llm_enhanced
+  text: It stops me from talking to a model in an end-to-end encrypted way, right?
+    Maybe we'll need an external to it. Maybe we need to teach it how to do, I don't
+    know, power calculations, but this is coming.
+  topic: safety/technical
+- impact_reason: Reiterates the fundamental dependency of AI capability advancement
+    on hardware availability and performance.
   relevance_score: 7
   source: llm_enhanced
   text: We're still bottlenecked very much by hardware. Like the more hardware, the
     more capable hardware we get, the better things should become. I'm quite certain.
-  topic: strategy/technical
-- impact_reason: Illustrates the immediate, tangible benefit of local/private model
-    deployment for personal productivity and learning, even with current hardware
-    constraints.
-  relevance_score: 7
-  source: llm_enhanced
-  text: It's amazing to have pretty much like all of Google locally. I was flying
-    somewhere and I was interacting with the model, teaching, asking it to teach me
-    a language when it's locally, but me like I don't need to carry it around.
-  topic: business/predictions
-- impact_reason: Draws a sharp distinction between enterprise (controlled) and consumer/open-source
-    (uncontrolled) environments regarding software supply chain security.
+  topic: technical/business
+- impact_reason: Draws a distinction between enterprise-controlled environments and
+    the consumer/open-source space regarding supply chain security, expressing deep
+    distrust even in some industry practices.
   relevance_score: 7
   source: llm_enhanced
   text: In industry, it's slightly different because industry actually controls all
     of this package management by themselves. They have proper dedicated teams looking
     at supply chains. But I think in the sort of like consumer space, no, it's actually
-    very spooky.
-  topic: business/strategy
-- impact_reason: Reverses the narrative on ingenuity, praising the less glamorous,
-    high-effort work of building defenses and fixing systemic issues over finding
-    single exploits.
+    very spooky. I don't even trust industry for this.
+  topic: business/safety
+- impact_reason: Indicates a strategic shift towards building defensive tooling in
+    response to the security landscape, acknowledging the theoretical limits of censorship/control
+    in language models (linking to the Halting Problem).
   relevance_score: 7
   source: llm_enhanced
-  text: I think the true ingenuity is in people who solve problems, because this is
-    something that you're not going to get a flashy article out of us. It's just people
-    who spend infinite amount of hours trying to fix the thing that you show one instance
-    of something going badly, and then they need to fix all of them.
-  topic: strategy
-- impact_reason: A counter-intuitive claim that despite increased complexity, new
-    tools (potentially ML itself) are expanding our ability to reason about and secure
-    complex systems.
+  text: I really want to build more defensive tooling. And for you, thank you. Well,
+    thank you. Well, let's see if I fail when I face. We were talking about semantics
+    early. So I think you've done some work basically proving that semantics censorship
+    for language is impossible and you related it to the halting problem.
+  topic: strategy/safety
+- impact_reason: Illustrates a simple, yet effective, adversarial strategy for hiding
+    malicious dependencies by using obscure or non-standard formats that automated
+    scanners might ignore.
   relevance_score: 7
   source: llm_enhanced
-  text: I think we have a lot more scope today to reason about computers. And a lot
-    of things that previously seemed impossible, maybe now are possible.
-  topic: predictions/technical
-- impact_reason: 'Illustrates a practical security benefit of AI agents: overcoming
-    human cognitive overload (e.g., ''accept all'' on permissions) by intelligently
-    managing and restricting application access.'
+  text: Heck, if I was an adversary, maybe I'll create a new format that nobody cares
+    about, it's set me just so you can load my dependency.
+  topic: safety
+- impact_reason: A strong critique of academic incentives, suggesting they prioritize
+    short-term recognition (breaking things) over long-term utility (building defenses/unlocking
+    tech).
   relevance_score: 7
   source: llm_enhanced
-  text: But let's imagine that all of those permissions are actually handled by the
-    agent or once you've given them the agent just checks and says, oh, actually,
-    I think you're over-permissing this thing because it's unclear. You're not using
-    this feature. You don't need this.
+  text: I think the incentives in academia are a little bit screwed. They are more
+    after flashy articles rather than unlocking technology.
+  topic: strategy/ethics
+- impact_reason: Shifts the paradigm from 'can we solve it?' to 'how much time/compute
+    are we willing to spend?' in dealing with complex program verification and adversarial
+    robustness.
+  relevance_score: 7
+  source: llm_enhanced
+  text: I think it's more of a, is just nowadays we kind of pay with time for a lot
+    of this stuff rather than paying like, can we find another adversarial example?
+    Of course, we can. We can run this for longer and you budget the sort of time,
+    time budget.
+  topic: strategy/technical
+- impact_reason: Frames security not just as a technical necessity but as a competitive
+    business commodity driven by market trust.
+  relevance_score: 7
+  source: llm_enhanced
+  text: security is a very expensive commodity, right? Like if I can convince you
+    to trust my product more than somebody else's, it's, yeah, it's great.
+  topic: business/safety
+- impact_reason: Reiterates that current security gaps are primarily due to lack of
+    knowledge/solutions, not a lack of will, provided a solution existed.
+  relevance_score: 7
+  source: llm_enhanced
+  text: It's economic incentives. It's nothing but, but I have to say that I'm quite
+    certain if we knew how to solve stuff, we would solve this.
   topic: safety/business
-- impact_reason: Highlights a real-world application (AlphaEvolve) that relies on
-    external verification, setting up a discussion about the practical implications
-    of the Halting Problem.
-  relevance_score: 7
-  source: llm_enhanced
-  text: So, for example, when we're talking to the AlphaEvolve team, right? Like,
-    you know, there as part of the AlphaEvolve system, which is very interesting.
-    I recommend people watch it up. So, you know, it goes and runs external verifiers.
-  topic: technical/application
-- impact_reason: Clearly distinguishes the theoretical Halting Problem (infinite resources)
-    from practical resource constraints in current AI research.
-  relevance_score: 7
-  source: llm_enhanced
-  text: So like whereas halting problem is more of a you have infinite amount of time.
-    You have infinite amount of memory. Can you reason about this? No, not really.
-    But the sort of programs that like we're talking about AlphaEvolve scale, they
-    are not very large.
-  topic: technical/comparison
-- impact_reason: Provides a historical parallel (1990s reliability efforts) to show
-    that current security/robustness gaps stem from a lack of fundamental knowledge,
-    not a lack of desire.
-  relevance_score: 7
-  source: llm_enhanced
-  text: In the same way it's like if you look at 1990s, I promise you everyone wanted
-    to make sure that their systems are reliable, which is didn't know how to build
-    stuff.
-  topic: strategy/history
-- impact_reason: Provides insight into the security culture and professionalism within
-    major tech companies, suggesting that internal trust is built on observed operational
-    excellence.
+- impact_reason: Establishes the speaker's deep security pedigree (DeepMind, Ross
+    Anderson lineage), lending significant weight to their security assessments of
+    AI.
   relevance_score: 6
   source: llm_enhanced
-  text: I trust Google now after two years in Google so much more. Like, I run basically
-    everything on Google infrastructure. I've seen this. I've seen people on the other
-    side. They're wonderful. They're professionals of what they do.
-  topic: strategy/business
-- impact_reason: Acknowledges the controversy and theoretical nature of their model
-    collapse work, setting the stage for defending its practical relevance.
+  text: I was based in DeepMind and before that mostly stuck in the dungeons of the
+    university. So you did your PhD at Cambridge under the legendary Ross Anderson?
+    Yes. So you have fundamentally different DNA, right? You're a security guy.
+  topic: strategy
+- impact_reason: Illustrates the massive personal and practical utility of running
+    powerful models locally, hinting at future ubiquity and offline capability.
   relevance_score: 6
   source: llm_enhanced
-  text: We won't spend long on this because we've already filmed all about your model
-    collapse paper in Nature. I know there is a lot of like folks criticizing saying
-    this is theoretical blah blah blah.
-  topic: technical/criticism
+  text: It's amazing to have. I also run local models. It's amazing to have pretty
+    much like all of Google locally. I was flying somewhere here and I was interacting
+    with the model, teaching, asking it to teach me a language when it's local with
+    me, like I don't need to carry it around.
+  topic: business/strategy
+- impact_reason: Uses the example of the highly secure, mathematically proven seL4
+    kernel to set a baseline for extreme security verification effort, contrasting
+    it with the complexity of modern systems.
+  relevance_score: 6
+  source: llm_enhanced
+  text: Yesterday, if you've ever seen a seL4, do you know what secure extension,
+    L4 kernel, this is like a fully human-verified kernel that there is no memory
+    exploits at all existing inside. So mathematically proven. It's proven, yeah,
+    like a fully proven system, like a fully verified system. And it took like, I
+    think maybe wrong, 30 human years to verify the whole thing.
+  topic: technical/strategy
+- impact_reason: A general but strong endorsement of the transformative nature of
+    current AI learning algorithms.
+  relevance_score: 6
+  source: llm_enhanced
+  text: It's definitely a new paradigm. It's a new kind of like learning algorithms
+    which are truly amazing.
+  topic: predictions
 source: Unknown Source
 summary: '## Podcast Summary: AI Agents Can Code 10,000 Lines of Hacking Tools In
   Seconds - Dr. Ilia Shumailov (ex-GDM)
 
 
-  This 61-minute episode features Dr. Ilia Shumailov, formerly of DeepMind''s machine
-  learning security team, discussing the profound and often alarming security implications
-  arising from the rapid advancement of AI agents. The core narrative moves from the
-  fundamental differences between classical software security and securing agentic
-  systems, to proposing novel, ML-based solutions for trusted computation that bypass
-  traditional cryptography.
+  This 61-minute episode features Dr. Ilia Shumailov, a former DeepMind researcher
+  now focused on AI security, discussing the radical shift in adversarial thinking
+  required by the advent of highly capable AI agents. The core narrative moves from
+  the current state of LLM vulnerabilities (like prompt injection) to a future where
+  agentic systems necessitate entirely new security paradigms, moving beyond traditional
+  human-centric controls.
 
 
   ### 1. Focus Area
 
-  The primary focus is **AI Security and Agentic Systems**, specifically addressing
-  the novel threat landscape posed by highly capable AI agents, the inadequacy of
-  current security paradigms (both safety and classical security) to handle them,
-  and the potential for ML models to serve as *trusted third parties* for private
-  computation.
+  The primary focus is **AI Security and Safety in the context of Agentic Systems**.
+  Specific topics include: the failure modes of large models compared to older systems,
+  the threat posed by agents capable of rapid, complex code generation (e.g., hacking
+  tools), the inadequacy of traditional security models (like those based on human
+  rationality), and a novel approach to trusted computation that leverages ML models
+  instead of traditional cryptography.
 
 
   ### 2. Key Technical Insights
 
-  *   **Shift in Adversarial Failure Modes:** Modern, large models fail in fundamentally
-  different ways than older models. While they are more robust against traditional
-  gradient-based adversarial examples, they become significantly more susceptible
-  to instruction following failures, where simple phrasing can force them into unintended,
-  malicious behavior (e.g., indirect prompt injection leading to task deviation).
+  *   **Evolving Failure Modes:** Modern, highly capable LLMs fail differently than
+  models from five years ago. While they are more robust against traditional adversarial
+  examples derived from gradient information, they become significantly more vulnerable
+  to simple rephrasing and instruction manipulation (like indirect prompt injection),
+  especially as their instruction-following capabilities increase.
 
-  *   **Agents as Extreme Adversaries:** AI agents surpass even the "worst-case" human
-  adversary (like an irrational child) because they can operate 24/7, touch every
-  endpoint, possess near-infinite knowledge synthesis capabilities, and can generate
-  massive amounts of complex code (e.g., 10,000 lines of hacking tools) instantly.
+  *   **Agents as Worst-Case Adversaries:** AI agents surpass traditional worst-case
+  adversaries (like an irrational child) because they can operate 24/7, possess near-total
+  system knowledge, and can generate massive amounts of complex malicious code (e.g.,
+  10,000 lines of hacking tools) almost instantly, invalidating assumptions based
+  on human limitations.
 
-  *   **ML for Trusted Computation (The "Camel" Framework):** Shumailov proposes using
-  ML models as verifiable, resettable "trusted third parties" to solve problems like
-  the Millionaire Problem without relying on complex, expensive cryptography. This
-  is achieved by defining strict, formally verifiable control flow and data flow policies
-  *around* the model execution, rather than trying to enforce them *within* the model
-  weights (e.g., the Camel system).
+  *   **ML for Trusted Computation:** Shumailov proposes using ML models (like Jemma)
+  as "resettable trusted third parties" to solve problems like the Millionaire Problem
+  (private comparison of values) without relying on complex, expensive cryptographic
+  protocols. This approach relies on verifiable inference rather than mathematical
+  proof.
 
 
   ### 3. Business/Investment Angle
 
-  *   **Security Tooling Overhaul:** The current security tooling ecosystem, built
-  for human-vs-human threats, is obsolete against agentic fleets. There is an urgent,
-  unmet market need for new security tooling that imposes constraints and guarantees
-  on agent behavior and data interaction.
+  *   **New Security Market:** The shift from human-centric security to agent-centric
+  security creates a massive, urgent need for new tooling that provides fine-grained
+  control, transparency, and verifiable constraints around agent execution and data
+  access.
 
-  *   **Personalized Agents and Data Control:** The future involves personalized AI
-  agents. Businesses and individuals need solutions that allow these agents to interact
-  with sensitive data (like a passport number) only under strictly defined, verifiable
-  conditions (e.g., only interacting with a `.gov.uk` domain), necessitating new access
-  control and orchestration layers.
+  *   **Personalized Agents Require New Controls:** The coming wave of personalized
+  AI models, which will handle sensitive user data, cannot be secured by current methods
+  (like embedding rules in prompts). Investment is needed in system-level orchestration
+  and access control layers built around the models.
 
-  *   **The Alchemy of Large Models:** The increasing size and capability of models
-  make them opaque ("alchemy"). Discerning whether changes improve or degrade security/performance
-  requires extensive, long-term experimentation, highlighting the difficulty in managing
-  proprietary, large-scale deployments.
+  *   **Decoupling Logic from Data:** The proposed security architecture (like the
+  Camel system) allows for the creation of generic, off-the-shelf agent logic modules
+  that can be safely attached to disparate, user-specific private data sources via
+  strict, formally verifiable data flow policies.
 
 
   ### 4. Notable Companies/People
 
-  *   **Dr. Ilia Shumailov:** Former DeepMind ML security researcher, now building
-  new security tooling to address agentic risks.
+  *   **Dr. Ilia Shumailov:** Former DeepMind researcher, now building security tooling
+  for agentic fleets. His background spans both machine learning and security (PhD
+  under Ross Anderson).
 
-  *   **Ross Anderson:** Legendary security academic (Shumailov''s PhD advisor at
-  Cambridge), whose background emphasizes the adversarial nature of security.
+  *   **DeepMind:** Mentioned as the location of his previous work on ML security,
+  including defending Gemini against indirect prompt injections.
 
-  *   **DeepMind:** Mentioned as the location where Shumailov worked on defending
-  models like Gemini against prompt injections.
-
-  *   **Camel System:** The proposed framework developed by Shumailov’s team for enforcing
-  security policies via formal semantics applied to the agent''s execution graph.
+  *   **Camel System:** The proposed framework (detailed in the "Diffusion Prompt
+  Injections by Design" paper) that uses formal semantics (like Python code) to define
+  execution graphs and enforce static/dynamic policies on data flow between tools
+  and data sources.
 
 
   ### 5. Future Implications
 
-  The industry is moving toward a paradigm where security is enforced **externally**
-  via formal, language-based orchestration layers (like Camel) that manage data flow
-  and tool usage, rather than relying on the inherent safety or alignment of the underlying
-  LLM. The concept of a "trusted third party" is shifting from purely cryptographic
-  constructs to verifiable, constrained ML inference engines.
+  The industry is moving toward a state where security tooling must be built *for*
+  non-human, highly capable adversaries. Traditional security assumptions based on
+  human rationality, time constraints, and physical penalties are obsolete. The future
+  of secure AI integration depends on building robust, external **orchestration and
+  policy enforcement layers** (like Camel) around foundation models, rather than trying
+  to fix the models themselves.
 
 
   ### 6. Target Audience
 
   **AI/ML Engineers, Cybersecurity Professionals (especially those dealing with emerging
-  threats), CTOs, and Investors** focused on enterprise AI adoption and risk mitigation.
-  Professionals who understand the difference between safety (average case) and security
-  (worst case) will find the distinctions particularly relevant.'
+  threats), CTOs, and Security Architects.** This content is highly technical and
+  strategic, focusing on the fundamental breakdown of existing security models due
+  to agentic capabilities.'
 tags:
 - artificial-intelligence
 - ai-infrastructure
@@ -1299,7 +1408,7 @@ topics:
   - neural networks
   - llm
   - large language model
-  mentions: 79
+  mentions: 85
   prominence: 1.0
   topic: artificial intelligence
 - keywords:
@@ -1332,4 +1441,4 @@ topics:
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-10-05 22:56:59 UTC -->
+<!-- Processing completed: 2025-10-06 02:43:57 UTC -->

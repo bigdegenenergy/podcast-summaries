@@ -98,478 +98,450 @@ companies:
   position: 9031
 - category: unknown
   confidence: medium
-  context: Let's go back to here. Just in US vice president JD Vance is in favor to
-    win the 2028 presidential election
-  name: JD Vance
-  position: 9460
-- category: unknown
-  confidence: medium
-  context: to win the 2028 presidential election. AOC dude. GP Billoret people are
-    dumb. Why do people keep voting for wo
-  name: GP Billoret
-  position: 9530
+  context: s go back to here. Let's go back to here. Just in US Vice President J.
+    Vance is in favor to win the 2028 presidential e
+  name: US Vice President J
+  position: 9442
 - category: unknown
   confidence: medium
   context: tners whatsoever. It just won't happen. It's like Gavin Newsom very clearly
     the obvious votes very clear throwin
   name: Gavin Newsom
-  position: 9935
+  position: 9942
 - category: unknown
   confidence: medium
   context: ous votes very clear throwing away a vote at AOC. If Kamala Harris going
     to do it, she can't do it. There's no way.
   name: If Kamala Harris
-  position: 10019
+  position: 10026
 - category: unknown
   confidence: medium
   context: There's no way. No way, dude. Absolutely no way. Easy Republican win with
     AOC. Dude, if they primary AOC, dude, li
   name: Easy Republican
-  position: 10118
+  position: 10125
 - category: unknown
   confidence: medium
   context: e Gavin Newsom could win. Gavin Newsom could win. Gavin Gavin Newsom could
     win. It's not being sexist. No, it's not. I
   name: Gavin Gavin Newsom
-  position: 10273
+  position: 10280
 - category: unknown
   confidence: medium
   context: politics like China, Russia, Iran, like all these Middle Eastern countries.
-    Right? So that's my point to it is lik
+    Right. So that's my point to it is lik
   name: Middle Eastern
-  position: 10688
+  position: 10695
 - category: unknown
   confidence: medium
   context: st saying how it is. I'm just saying how like the Middle East would not
     entertain her at all. Any almost any As
   name: Middle East
-  position: 11510
+  position: 11517
 - category: unknown
   confidence: medium
   context: Newsom was like born in bread to be a politician. Like I would actually
     if you guys are actually like for
   name: Like I
-  position: 12227
+  position: 12234
+- category: unknown
+  confidence: medium
+  context: a Democrat that would run. I don't know. I think JD Vance might put up
+    a good fight but Gavin Newsom bro du
+  name: JD Vance
+  position: 12339
 - category: unknown
   confidence: medium
   context: he's supposed to be signing. They're watching the White House right now
     at 230. So we're 10 minutes away from t
   name: White House
-  position: 16117
+  position: 16124
 - category: unknown
   confidence: medium
   context: ould still be in the trade from this morning, but Coin W stopped me out
     literally to the fucking penny. It
   name: Coin W
-  position: 18092
+  position: 18099
 - category: unknown
   confidence: medium
   context: . This guy is, he's not breaking anything, right? Jerome Powell will be
     resigning will be a good thing for Americ
   name: Jerome Powell
-  position: 20825
+  position: 20832
 - category: unknown
   confidence: medium
   context: ill be a good thing for America. I'll be going on Charles Payne in 20 minutes
     to talk about two senators who are
   name: Charles Payne
-  position: 20908
+  position: 20915
 - category: unknown
   confidence: medium
   context: ut two senators who are drafting referrals to the Justice Department for
     Drone Powell's alleged perjury. What? I mean,
   name: Justice Department
-  position: 20997
+  position: 21004
 - category: unknown
   confidence: medium
   context: drafting referrals to the Justice Department for Drone Powell's alleged
     perjury. What? I mean, this is true. Th
   name: Drone Powell
-  position: 21020
+  position: 21027
 - category: unknown
   confidence: medium
   context: nd then they eat like even even. Best it says the Federal Reserve's foods
     like amazing, like they spent all this mo
   name: Federal Reserve
-  position: 21225
+  position: 21232
 - category: unknown
   confidence: medium
   context: s. I don't want to be I just going to be patient. The FFA now that your
     door was to do to do America. What
   name: The FFA
-  position: 22012
+  position: 22019
 - category: unknown
   confidence: medium
   context: It's not groundbreaking. It's not groundbreaking. Then I love when people
     say XRP is dumping and it's abov
   name: Then I
-  position: 22305
+  position: 22312
 - category: unknown
   confidence: medium
   context: now. Let's go to all of our channels. The live on Tik Tok here. Go boom,
     boom. Go to Trump. Trump signing c
   name: Tik Tok
-  position: 22617
+  position: 22624
 - category: unknown
   confidence: medium
   context: here in our cross. Nobody else. That's so scary. President Trump is the
     hope that we needed. I want to say thank y
   name: President Trump
-  position: 24584
+  position: 24591
 - category: unknown
   confidence: medium
   context: been a huge epidemic for a while. You, you, you. Imagine I'll be able to
     be the right painkillers because of
   name: Imagine I
-  position: 26810
+  position: 26817
 - category: unknown
   confidence: medium
   context: ah, I know that is true. I was also just trolling R JD. But I think that's
     literally what they put in bl
   name: R JD
-  position: 29241
+  position: 29248
 - category: unknown
   confidence: medium
   context: know that is true. I was also just trolling R JD. But I think that's literally
     what they put in blue jean
   name: But I
-  position: 29247
+  position: 29254
 - category: unknown
   confidence: medium
   context: st hoping and praying the right did. The guy from Better Call Saul. What
     do we got here? So pretty quick videos that
   name: Better Call Saul
-  position: 29589
+  position: 29596
 - category: unknown
   confidence: medium
   context: to bill ever to be signed by the president of the United States. Okay.
     Massive massive. This is bullish. Hit the
   name: United States
-  position: 31208
+  position: 31215
 - category: unknown
   confidence: medium
   context: ture here. The. That's good. That's. Luckily man. Yo Jeff Christie coming
     with five gifted discover crypto membershi
   name: Yo Jeff Christie
-  position: 31535
+  position: 31542
 - category: unknown
   confidence: medium
   context: so much. My dog dude five gifted memberships from Jeff Christie guys. W's
     in the Jeff Jeff. Can we get some W's f
   name: Jeff Christie
-  position: 31670
+  position: 31677
 - category: unknown
   confidence: medium
   context: d memberships from Jeff Christie guys. W's in the Jeff Jeff. Can we get
     some W's for Jeff in the chat? That i
   name: Jeff Jeff
-  position: 31701
+  position: 31708
 - category: unknown
   confidence: medium
   context: all the latest news here at Wright's. Thank you. Or I mean, literally monitoring
     what's happening, whet
   name: Or I
-  position: 32805
+  position: 32812
 - category: unknown
   confidence: medium
   context: es to certain things. And then we see, of course, Mr Howard Lutnik, the
     department of commerce secretary there, sayi
   name: Mr Howard Lutnik
-  position: 33009
+  position: 33016
 - category: unknown
   confidence: medium
   context: day, July 18th, hugging the speaker of the house, Mike Johnson. So that's
     happening right now as it's 240 Easter
   name: Mike Johnson
-  position: 33181
+  position: 33188
 - category: unknown
   confidence: medium
   context: 0 Eastern time. I just want to share with you the Friday Bible verse of
     the day. I was thinking about Romans 828
   name: Friday Bible
-  position: 33285
+  position: 33292
 - category: unknown
   confidence: medium
   context: ough the 29th. And we just learned yesterday from Karen Levitt that the
     president will go to England on Septembe
   name: Karen Levitt
-  position: 34095
+  position: 34102
 - category: unknown
   confidence: medium
   context: t explanation from CNBC looking live there at the East Room. As soon as
     we see the president, obviously, we'l
   name: East Room
-  position: 34766
-- category: Layer 1 Blockchain
+  position: 34773
+- category: Layer 1 Blockchain Project
   confidence: high
-  context: Primary asset discussed for trading, price analysis, support levels, and
-    market dominance.
+  context: Primary asset discussed for trading, price levels, and market structure
+    analysis.
   name: Bitcoin
   source: llm_enhanced
-- category: Layer 1 Blockchain
+- category: Layer 1 Blockchain Project
   confidence: high
-  context: Primary asset discussed for trading, price analysis, uptrends, and potential
-    shorting opportunities.
-  name: Ethereum (ETH)
+  context: Primary asset discussed for trading, price levels, and market structure
+    analysis.
+  name: Ethereum
   source: llm_enhanced
-- category: DeFi/Token
+- category: Layer 1 Blockchain Project
   confidence: high
-  context: Specific discussion about price targets, resistance at $1.10, and potential
-    to reach $1.50.
-  name: Ondu (ONDO)
+  context: Abbreviation for Ethereum, used in trading decisions.
+  name: ETH
+  source: llm_enhanced
+- category: DeFi Protocol
+  confidence: medium
+  context: Mentioned regarding liquidity levels and resistance at $1.10, likely referring
+    to Ondo Finance (ONDO).
+  name: on do
   source: llm_enhanced
 - category: DeFi Protocol
   confidence: high
-  context: Mentioned as a Decentralized Exchange (DEX) that was pumping 15%.
+  context: Mentioned as pumping 15% and being a good DEX.
   name: Uniswap
   source: llm_enhanced
-- category: Token/Coin
-  confidence: high
-  context: Listed as one of the top market movers for the day.
-  name: Dogecoin
+- category: DeFi Protocol
+  confidence: medium
+  context: General term for Decentralized Exchange, referencing Uniswap.
+  name: DEX
   source: llm_enhanced
-- category: Token/Coin
+- category: Cryptocurrency (Meme Coin)
   confidence: high
-  context: Listed as one of the top market movers for the day.
+  context: Mentioned as one of the top movers today.
+  name: dogecoin
+  source: llm_enhanced
+- category: Layer 1 Blockchain Project
+  confidence: medium
+  context: Mentioned as one of the top movers today, likely XDC Network.
   name: XDC
   source: llm_enhanced
 - category: Project/Token
-  confidence: high
-  context: Listed as one of the top market movers for the day.
+  confidence: medium
+  context: Mentioned as one of the top movers today.
   name: Sky Network
   source: llm_enhanced
-- category: Layer 1 Blockchain
+- category: Cryptocurrency (Meme Coin)
   confidence: high
-  context: Mentioned as being bearish in the top 24-hour movers list.
-  name: Ethereum Classic
-  source: llm_enhanced
-- category: Token/Meme Coin
-  confidence: high
-  context: Mentioned specifically regarding its current price movement.
+  context: Mentioned regarding its current price movement, likely referring to Pepe
+    Coin (PEPE).
   name: Pepe
   source: llm_enhanced
-- category: Infrastructure
+- category: Web3 Infrastructure
   confidence: high
-  context: Mentioned regarding its price movement, specifically reaching $18.
+  context: Mentioned as moving up to $18.
   name: Chainlink
   source: llm_enhanced
-- category: Token/Coin
+- category: Web3 Infrastructure
   confidence: medium
-  context: A specific altcoin discussed for TA, with potential to hit $2.00, resistance
-    levels provided.
-  name: Say (SAI/SEI?)
+  context: Abbreviation for Chainlink, mentioned in relation to 'on do'.
+  name: LINK
   source: llm_enhanced
-- category: Project/Organization
+- category: Layer 1 Blockchain Project
+  confidence: high
+  context: Mentioned as being bearish.
+  name: Ethereum classic
+  source: llm_enhanced
+- category: Layer 1 Blockchain Project
   confidence: medium
-  context: Referenced in connection with a puppy named Ollie, implying it is a known
-    entity or company in the space.
+  context: A token the streamer is asked to analyze, likely referring to Sei (SEI).
+  name: Say
+  source: llm_enhanced
+- category: Organization/Community
+  confidence: medium
+  context: Mentioned in connection with a puppy named Ollie; likely a crypto-related
+    entity or community.
   name: BitLab
   source: llm_enhanced
-- category: Infrastructure/Project
+- category: Web3 Infrastructure
   confidence: low
-  context: Mentioned in a context where it supposedly provided $100 million worth
-    of Ethereum (likely a mishearing of Chainlink).
+  context: Mentioned in a confusing context regarding Ethereum value; likely a mishearing
+    of Chainlink.
   name: Sharp link
   source: llm_enhanced
-- category: Layer 1 Blockchain
+- category: Data/Analytics Platform
   confidence: high
-  context: The speaker discusses the price action and trading strategy related to
-    Ethereum.
-  name: Ethereum
+  context: Mentioned as the platform used to check top movers.
+  name: Coin market cap
+  source: llm_enhanced
+- category: Trading Service
+  confidence: medium
+  context: Mentioned as the source for viewing support levels, likely a trading/signal
+    service.
+  name: signals platform
   source: llm_enhanced
 - category: Cryptocurrency Exchange
   confidence: high
-  context: The speaker states they were stopped out of a trade by this exchange.
-  name: CoinW
+  context: A cryptocurrency exchange where the speaker was stopped out of a trade.
+  name: Coin W
   source: llm_enhanced
-- category: Cryptocurrency (Altcoin)
+- category: Cryptocurrency
   confidence: high
-  context: Mentioned in a discussion about its current price level.
+  context: Mentioned in the context of its current price performance.
   name: XRP
   source: llm_enhanced
 - category: Cryptocurrency (Category)
-  confidence: medium
-  context: Mentioned as a type of asset the speaker prefers to promote over other
-    topics.
+  confidence: high
+  context: Mentioned as a type of asset the speaker would rather promote than shilling
+    drugs.
   name: Meme coins
   source: llm_enhanced
-- category: Institution/Fintech (Uncertain)
+- category: Institution/Fintech (Crypto-related)
   confidence: medium
-  context: A service the streamer expresses a desire to sponsor or work with, suggesting
-    a financial or payment platform relevant to the audience.
-  name: Paying.com (or 'paying you')
+  context: The speaker considered taking a sponsorship deal and noted the entity was
+    'pumping,' suggesting it is a crypto-related financial service or platform.
+  name: Paying.com (implied as 'paying you')
   source: llm_enhanced
-- category: Exchange
+- category: Exchange/Industry Leader
   confidence: high
-  context: Mentioned by name and identified as the person behind the 'whole package'
-    (referencing his role as CEO of Coinbase).
+  context: Mentioned by name immediately after the bill signing, implying he is a
+    significant figure in the crypto space being recognized (he is the CEO of Coinbase).
   name: Brian Armstrong
   source: llm_enhanced
-- category: Regulation/Legislation (Affects Institutions)
+- category: DeFi/Institution
   confidence: high
-  context: The landmark bill being signed into law, which establishes a regulatory
-    framework for stablecoin issuers.
-  name: Genius Act (of 2025)
-  source: llm_enhanced
-- category: DeFi/Institution (General)
-  confidence: high
-  context: The primary focus of the Genius Act regulation, indicating a key sector
-    in the crypto industry.
+  context: The Genius Act establishes a regulatory framework specifically for them,
+    confirming their relevance in the discussion.
   name: Stablecoin issuers
-  source: llm_enhanced
-- category: N/A (Media)
-  confidence: high
-  context: Quoted as providing the explanation of the Genius Act.
-  name: CNBC
-  source: llm_enhanced
-- category: N/A (Social Media)
-  confidence: high
-  context: The platform where President Trump posted extensively while awaiting the
-    signing.
-  name: Truth Social
-  source: llm_enhanced
-- category: N/A (Media)
-  confidence: high
-  context: Mentioned in the context of President Trump's posts regarding Rupert Murdoch
-    and the newspaper.
-  name: WSJ (Wall Street Journal)
-  source: llm_enhanced
-- category: N/A (Media)
-  confidence: high
-  context: Mentioned in the context of television hosts criticized by the President.
-  name: ABC
-  source: llm_enhanced
-- category: N/A (Media)
-  confidence: high
-  context: Mentioned in the context of television hosts criticized by the President.
-  name: MSNBC
   source: llm_enhanced
 - category: exchange
   confidence: high
-  context: Mentioned via its CEO, Brian Armstrong, as an industry leader being recognized.
+  context: Mentioned via its CEO, Brian Armstrong, among industry leaders.
   name: Coinbase
   source: llm_enhanced
 - category: exchange
   confidence: high
-  context: Mentioned via its CEO, Dave Ripley, as an industry leader being recognized.
+  context: Mentioned via its representative, Jay Ripley, among industry leaders.
   name: Kraken
   source: llm_enhanced
 - category: institution
   confidence: high
-  context: Mentioned via its CEO, Jeremy (Allaire), as an industry leader being recognized.
+  context: Mentioned via its representative, Jeremy, in the context of stablecoins
+    and the dollar.
   name: Circle
   source: llm_enhanced
 - category: institution
   confidence: high
-  context: Mentioned via its CEO, Paolo (Ardoino), as an industry leader being recognized.
+  context: Mentioned via its representative, Paolo Ardeno, among industry leaders.
   name: Tether
-  source: llm_enhanced
-- category: exchange
-  confidence: high
-  context: Mentioned as the company founded by Tyler and Cameron Winklevoss, recognized
-    as industry leaders.
-  name: Gemini
-  source: llm_enhanced
-- category: exchange
-  confidence: high
-  context: Mentioned via its CEO, Vlad (Tenev), as an industry leader being recognized
-    (Robinhood offers crypto trading).
-  name: Robin Hood
   source: llm_enhanced
 - category: institution
   confidence: medium
-  context: Mentioned via Brian McInerney as an industry leader present at the event.
+  context: Mentioned as an industry leader present, though primarily traditional finance,
+    indicating relevance to the discussion.
   name: Visa
   source: llm_enhanced
-- category: platform
-  confidence: high
-  context: Mentioned via its CEO, Chris Pavlovsky, as a platform whose success is
-    linked to 'truth'.
+- category: web3 infrastructure
+  confidence: medium
+  context: Mentioned via its CEO, Chris Pavlovsky, associated with promoting 'truth'.
   name: Rumble
   source: llm_enhanced
-- category: regulator
+- category: exchange
   confidence: high
-  context: The current SEC Chair whose firing was promised; a key regulator for the
-    crypto industry.
+  context: Mentioned via its CEO, Vlad Tenev, among industry leaders.
+  name: Robin Hood
+  source: llm_enhanced
+- category: exchange
+  confidence: high
+  context: Mentioned as the company associated with Tyler and Cameron Winklevoss.
+  name: Gemini
+  source: llm_enhanced
+- category: regulatory body
+  confidence: high
+  context: The regulatory body whose chair, Gary Gensler, the speaker promised to
+    fire.
+  name: SEC
+  source: llm_enhanced
+- category: regulatory body
+  confidence: high
+  context: The sitting SEC Chair who the speaker promised to fire.
   name: Gary Gensler
   source: llm_enhanced
-- category: regulator
+- category: regulatory body
   confidence: high
-  context: Appointed as the new, visionary SEC Chairman replacement.
+  context: Appointed by the speaker as a visionary chairman (likely for the SEC) to
+    oversee crypto regulation.
   name: Paul Atkins
   source: llm_enhanced
-- category: regulator
+- category: regulatory body
   confidence: high
-  context: Mentioned as an SEC Commissioner.
+  context: Mentioned as an SEC Commissioner present at the event.
   name: Hester Pierce
   source: llm_enhanced
-- category: regulator
+- category: regulatory body
   confidence: high
-  context: Mentioned as an SEC Commissioner. (Likely Mark Uyeda).
+  context: Mentioned as an SEC Commissioner present at the event.
   name: Mark Yoeta
-  source: llm_enhanced
-- category: government
-  confidence: medium
-  context: Executive Director of the Presidential Working Group on Digital Assets.
-  name: Wisbohyne's (Bow)
   source: llm_enhanced
 - category: symbolic figure
   confidence: high
-  context: Mentioned as receiving a full presidential pardon; a symbolic figure in
-    early crypto/digital rights history (likely Ross Ulbricht).
+  context: Mentioned as receiving a full presidential pardon, a symbolic victory for
+    the crypto community.
   name: Ross Albrecht
   source: llm_enhanced
-- category: Web3/Tech Figure (Policy)
+- category: infrastructure
   confidence: high
-  context: Identified as the White House AI and Crypto lead, involved in the signing
-    of the crypto market structure legislation ('genius act').
+  context: Identified as the White House AI and Crypto lead, indicating a direct role
+    in crypto policy/advising.
   name: David Sacks
   source: llm_enhanced
-- category: Web3/Tech Figure (Policy)
-  confidence: medium
-  context: Mentioned as someone who hosted a show featuring the speaker; described
-    as a very smart billionaire.
-  name: Sergei Nazar
+- category: nft/gaming
+  confidence: low
+  context: Mentioned as a Netflix show the speaker joked about voicing, linking to
+    a media entity involved in content creation.
+  name: Bigmouth
   source: llm_enhanced
-- category: Crypto Commentator/Analyst
+- category: Exchange/Trading Platform (Implied)
+  confidence: medium
+  context: The platform or service where the speaker claims to execute their trades
+    and make money.
+  name: Discover crypto
+  source: llm_enhanced
+- category: Layer 1 Blockchain Project
   confidence: high
-  context: A commentator who dismissed the signed crypto bill as a 'nothing burger.'
-  name: Michael Giel
-  source: llm_enhanced
-- category: Web3 Infrastructure (Internal)
-  confidence: medium
-  context: The speaker mentions texting their internal development team regarding
-    missing trading signals.
-  name: Devs (Internal)
-  source: llm_enhanced
-- category: Web3 Infrastructure (Service)
-  confidence: medium
-  context: A feature or service the speaker relies on for trading signals, likely
-    integrated into their platform.
-  name: Signals Chat
-  source: llm_enhanced
-- category: Layer 1 blockchain projects
-  confidence: high
-  context: Mentioned in a ranking comparison against Bitcoin and ETH.
+  context: Mentioned as a cryptocurrency in a ranking comparison against Bitcoin and
+    ETH.
   name: Cardano
   source: llm_enhanced
-- category: Layer 1 blockchain projects
+- category: Crypto Institution/Security
   confidence: high
-  context: Mentioned in a ranking comparison against Bitcoin and Cardano (referring
-    to Ethereum).
-  name: ETH
-  source: llm_enhanced
-- category: Crypto institutions
-  confidence: high
-  context: Sponsor mentioned as providing cold storage hardware wallets for securing
-    digital assets.
+  context: Explicitly named as the sponsor providing a 'cold storage hardware wall'
+    to secure digital assets.
   name: Arculus
   source: llm_enhanced
-- category: Platform/Community
+- category: N/A (Contextually Crypto Community Platform)
   confidence: medium
-  context: Platform used by the host for their community ('disco fam') and trading
-    group, a common platform for Web3 communities.
-  name: Discord
+  context: Referenced as the platform/community where trading challenges and communication
+    occur ('Go join the discord', 'disco fam'). Implies a crypto-focused community
+    server.
+  name: discord
   source: llm_enhanced
 date: 2025-07-18 23:36:00 +0000
 duration: 110
@@ -592,23 +564,46 @@ insights:
   type: recommendation
 - actionable: true
   confidence: medium
+  extracted: have known this would have been nothing about crypto, bro
+  text: We should have known this would have been nothing about crypto, bro.
+  type: recommendation
+- actionable: true
+  confidence: medium
   extracted: probably just close this, take our profits for the day, walk away, kiss
-    my wife and go on a nice little date or something like that
+    my wife, and you know, go on a nice little date or something like that
   text: We should probably just close this, take our profits for the day, walk away,
-    kiss my wife and go on a nice little date or something like that.
+    kiss my wife, and you know, go on a nice little date or something like that.
   type: recommendation
 - actionable: false
   confidence: medium
-  extracted: crypto and the crypto industry, the US dollar working together because
-    they really are hand in hand
-  text: the future of crypto and the crypto industry, the US dollar working together
-    because they really are hand in hand is going to be stronger and bigger and better
-    than ever before.
+  extracted: crypto and the crypto industry, the US dollar working together. Because
+    they really are hand in hand. He's going to be stronger and bigger and better
+    than ever before. And I just want to thank everybody, some tremendous people in
+    this room. And maybe when I sign, I'll ask some of our great senators and congressmen
+    to come on up. Some of the top crypto guys, please come on up because you guys
+    worked very hard of this. And we'll sign this and we'll get on to the next battle
+    and we'll win. But we're winning all over the world right now. It's not even close,
+    not even close to win. Keep going. Thank you everybody very much. Can we get some
+    W's in the chat guys? There's 10,000 people watching. Hit that like button. You
+    guys are not pumped up, but you're parked. You're pop baby. You're those real
+    people's real motherfuckers. Are they praying? Oh, no, they're signing it. This
+  text: the future of crypto and the crypto industry, the US dollar working together.
+    Because they really are hand in hand. He's going to be stronger and bigger and
+    better than ever before. And I just want to thank everybody, some tremendous people
+    in this room. And maybe when I sign, I'll ask some of our great senators and congressmen
+    to come on up. Some of the top crypto guys, please come on up because you guys
+    worked very hard of this. And we'll sign this and we'll get on to the next battle
+    and we'll win. But we're winning all over the world right now. It's not even close,
+    not even close to win. Keep going. Thank you everybody very much. Can we get some
+    W's in the chat guys? There's 10,000 people watching. Hit that like button. You
+    guys are not pumped up, but you're parked. You're pop baby. You're those real
+    people's real motherfuckers. Are they praying? Oh, no, they're signing it. This
+    is not an auto pen, by the way.
   type: prediction
 layout: episode
 llm_enhanced: true
 original_url: https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bitboycrypto/New_reports_reveal_that_crypto__including_Bitcoin.mp3?dest-id=2621528
-processing_date: 2025-10-06 07:01:59 +0000
+processing_date: 2025-10-06 07:06:05 +0000
 quotes:
 - length: 78
   relevance_score: 3
@@ -619,23 +614,18 @@ quotes:
   relevance_score: 3
   text: You have to respect other cultures
   topics: []
-- length: 21
+- length: 28
   relevance_score: 3
-  text: You have to make sure
+  text: You have to come to that one
   topics: []
-- length: 119
+- length: 54
   relevance_score: 3
-  text: And it's not the same is not the same is what you're doing right the biggest
-    we're doing the biggest deals in the world
+  text: The biggest, what doing the biggest deals in the world
   topics: []
-- length: 79
+- length: 122
   relevance_score: 3
-  text: Actually, the deal we're doing now in tariffs is the biggest when you add
-    it up
-  topics: []
-- length: 37
-  relevance_score: 3
-  text: The biggest deal ever made in history
+  text: Actually, the, the deal we're doing now in tariffs is the biggest, when you
+    edit up, the biggest deal ever made in history
   topics: []
 - length: 59
   relevance_score: 3
@@ -645,867 +635,717 @@ quotes:
   relevance_score: 3
   text: All you have to do sometimes is open up those beautiful legs
   topics: []
-- length: 102
+- length: 109
   relevance_score: 3
-  text: The problem is, is people want to act like when the price is low that everything
-    is green and rainbows
+  text: The problem is is people want to act like when the price is low but everything
+    is green and rainbows and it's
   topics: []
-- length: 44
+- length: 71
   relevance_score: 3
-  text: And your device is you have to put a name in
+  text: You have to put a name in because it's like a really, really small room
   topics: []
-- length: 31
+- length: 35
   relevance_score: 3
-  text: So you have to put your name in
+  text: So you have to sit in the gift shop
   topics: []
-- length: 80
+- length: 82
   relevance_score: 3
-  text: And again, it was like, even though they kept like, say, no, you have to do
-    this
+  text: And again, it was like, even though they kept like saying, no, you have to
+    do this
   topics: []
-- impact_reason: 'This is the central, most impactful statement regarding crypto regulation.
-    It names the specific legislation (''Genius Act of 2025'') and its explicit purpose:
-    creating a regulatory framework for stablecoins, a critical sector in the crypto
-    economy.'
+- impact_reason: Indicates that a significant legislative event directly impacting
+    crypto (a 'crypto bill' signing by Trump) is occurring in real-time, signaling
+    a major regulatory development.
   relevance_score: 10
   source: llm_enhanced
-  text: Again, this is to sign the Genius Act into law. The Genius Act of 2025 establishes
-    a regulatory framework for stablecoin issuers in the United States.
+  text: Go to Trump. Trump signing crypto bill. There we go. All right. Make sure
+    you're on the right YouTube this time. I think we are on the right one.
+  topic: Regulation/Adoption
+- impact_reason: This highlights the historical significance of the GENIUS Act signing,
+    marking a major regulatory milestone for the crypto industry in the US.
+  relevance_score: 10
+  source: llm_enhanced
+  text: This is one of the first crypto bills ever, if not the first crypto bill ever
+    to be signed by the president of the United States.
+  topic: regulation
+- impact_reason: A clear, high-impact policy promise/claim regarding regulatory leadership,
+    directly addressing a major point of contention within the crypto community (Gensler's
+    tenure).
+  relevance_score: 10
+  source: llm_enhanced
+  text: On day one, I remember I did this and I said this and I mentioned this name
+    and I got the greatest of clothes of the whole campaign. We fired Joe Biden's
+    SEC chair, Gary Gensler.
   topic: Regulation
-- impact_reason: Captures the narrative of the crypto industry moving from fringe
-    skepticism to mainstream political validation, a key theme for the community.
+- impact_reason: A bold, unprecedented policy proposal suggesting the US government
+    should hold Bitcoin as a strategic reserve asset.
   relevance_score: 10
   source: llm_enhanced
-  text: Let me say the entire crypto community for years, you were mocked and dismissed
-    and counted out. You were counted out as little as a year and a half ago. But
-    this signing is a massive validation.
-  topic: Adoption
-- impact_reason: Strongly characterizes the previous regulatory environment as an
-    'assault' and 'vicious,' setting a stark contrast for the new policy direction.
-  relevance_score: 10
-  source: llm_enhanced
-  text: At this time and at that time. crypto builders and founders were under relentless
-    assault by the Biden administration, which was trying to crush your industry and
-    crush you as people and go after your families.
-  topic: Regulation
-- impact_reason: 'A clear, high-level strategic promise: positioning the US as the
-    global leader in the crypto space.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: But I pledge that we would bring back American liberty and leadership and
-    make the United States the crypto capital of the world.
-  topic: Strategy
-- impact_reason: 'The most significant stated regulatory action: the promise to immediately
-    remove the current SEC Chair, indicating a complete overhaul of crypto enforcement
-    philosophy.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: On day one, I remember I did this and I said this and I mentioned this name.
-    And I got the greatest applause of the whole campaign. We fired Joe Biden's SEC
-    chair, Gary Gensler. We fired him.
-  topic: Regulation
-- impact_reason: Directly names and condemns 'Operation Choke Point,' a major historical
-    concern for the crypto and banking industries regarding government overreach.
-  relevance_score: 10
-  source: llm_enhanced
-  text: And we ended the lawless operation choke point to. And that was a bad operation.
-  topic: Regulation
-- impact_reason: Claims the establishment of a 'US strategic Bitcoin reserve,' a massive,
-    hypothetical policy shift that would dramatically alter Bitcoin's role in national
-    finance.
-  relevance_score: 10
-  source: llm_enhanced
-  text: In the truly momentous act last March, I signed an executive order establishing
-    the US strategic Bitcoin reserve. As well as the United States digital asset stockpile.
-  topic: Technology/Investment
-- impact_reason: Identifies the 'GENIUS Act' as the key legislative vehicle for providing
-    regulatory clarity for stablecoins.
+  text: And in the truly momentous act last March, I signed an executive order establishing
+    the US strategic Bitcoin reserve, as well as the United States digital asset stockpile.
+  topic: Investment/Strategy
+- impact_reason: 'Identifies the primary legislative goal: creating regulatory clarity
+    specifically for stablecoins.'
   relevance_score: 10
   source: llm_enhanced
   text: The genius act creates a clear and simple regulatory framework to establish
-    and unleash the immense promise of dollar backed stable coins.
+    and unleash the immense promise of dollar backed. Stable coins.
   topic: Regulation/DeFi
-- impact_reason: 'Defines the mechanism of the proposed stablecoin framework: 1:1
-    backing with T-bills/cash, framed as a way to strengthen the US dollar globally.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: The genius act provides banks, businesses and financial institutions, a framework
-    for issuing crypto assets back one for one with real US dollars treasury bills
-    and other cash equivalents is really strengthening the dollar and giving the dollar
-    great prominence.
-  topic: DeFi/Regulation
-- impact_reason: 'Summarizes the key benefits of regulated stablecoins: speed, low
-    cost, privacy, flexibility, and massive potential for economic empowerment globally.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: Consumers vendors and people all over the world would then be able to use
-    those stable coins for ultra low cost transactions that are cleared and settled
-    in a matter of seconds rather than weeks and months and they eat area. And an
-    amazing thing and with a privacy flexibility and decentralization of cash, this
-    revolution as the potential to super charge American economic growth and empower
-    billions of people to save and transfer in US dollars.
-  topic: Technology/Adoption
-- impact_reason: A definitive, strong political stance against CBDCs, which is a major
-    point of contention within the crypto community regarding privacy and government
-    control.
-  relevance_score: 10
-  source: llm_enhanced
-  text: I also remain fully committed to my pledge never to allow the creation of
-    a central bank digital currency in America. It won't happen.
-  topic: Regulation/Technology
-- impact_reason: Explains the mechanism by which stablecoin adoption is intended to
-    directly benefit the US Treasury market, linking crypto growth to sovereign debt
-    demand.
-  relevance_score: 10
-  source: llm_enhanced
-  text: And for every digital dollar in a crypto wallet, there'll be a traditional
-    dollar in a US bank account, which will create trillions of dollars of demand
-    for US Treasury.
-  topic: Investment/DeFi
-- impact_reason: This quote, though quoting a skeptical voice ('Michael Giel'), captures
-    the perceived massive scale and impact of the legislation—validating stablecoins
-    globally and injecting trillions.
-  relevance_score: 10
-  source: llm_enhanced
-  text: It's a nothing burger that the United States just signed the largest crypto
-    bill known demand kind that now validates every single stable coin transaction
-    on the planets and will bring trillions into the markets.
-  topic: Regulation/Investment
-- impact_reason: This is a massive, albeit potentially exaggerated, claim about a
-    significant US legislative event validating stablecoins, which would be a monumental
-    shift for the entire crypto market structure and institutional adoption.
-  relevance_score: 10
-  source: llm_enhanced
-  text: The United States just signed the largest crypto bill known demand kind that
-    now validates every single stable coin transaction on the planets and will bring
-    trillions into the markets.
-  topic: regulation
-- impact_reason: 'A significant thesis shift: arguing that Bitcoin is evolving past
-    its traditional four-year halving cycle due to maturation into a store of value
-    (Digital Gold).'
+- impact_reason: 'A significant thesis shift: Bitcoin is maturing past its historical
+    four-year halving cycle behavior, transitioning into a stable store of value like
+    gold.'
   relevance_score: 10
   source: llm_enhanced
   text: No, I do not believe the four year cycle is still in play. Bitcoin, I think,
     is maturing into literally a store of value. Like where there is no four year
     cycle.
-  topic: technology
-- impact_reason: 'A crucial strategic insight: the decoupling of Bitcoin (maturing
-    asset/commodity) from altcoins (risk-on assets), requiring different trading strategies
-    for each.'
+  topic: Adoption/Strategy
+- impact_reason: Actionable strategic advice for portfolio management based on the
+    perceived decoupling of BTC and altcoin market dynamics.
   relevance_score: 10
   source: llm_enhanced
-  text: I think Bitcoin's going to mature as an asset class where it just, you don't,
-    there's going to be a day chat... I believe Bitcoin, after this cycle, you need
-    to trade Bitcoin separately from all coins. Because all coins will always follow
-    Bitcoin, but Bitcoin's not always going to follow altcoins.
-  topic: strategy
-- impact_reason: 'Clearly defines the future classification of crypto assets: BTC
-    as a commodity (like gold) and altcoins as high-beta risk assets.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: Bitcoin will trade as a commodity. And altcoins will trade on as risk on assets.
-    I believe that is the world we're slowly, slowly turning into.
-  topic: strategy
-- impact_reason: This is a key thesis on market maturity, suggesting Bitcoin is decoupling
-    from altcoins to trade more like a mature commodity (digital gold), while altcoins
-    remain high-risk assets.
-  relevance_score: 10
-  source: llm_enhanced
-  text: I believe Bitcoin, after this cycle, you need to trade Bitcoin separately
-    from all coins. Because all coins will always fall Bitcoin, but Bitcoin's not
-    always going to follow altcoins.
-  topic: Investment
-- impact_reason: Reinforces the decoupling thesis, defining the expected future roles
-    of BTC (commodity/store of value) versus altcoins (risk-on speculation).
+  text: I believe Bitcoin after this cycle, you need to trade Bitcoin separately from
+    altcoins because altcoins will always follow Bitcoin, but Bitcoin's not always
+    going to follow altcoins.
+  topic: Strategy
+- impact_reason: The core thesis of Bitcoin's evolution into a macro asset class,
+    similar to traditional commodities, while altcoins remain speculative.
   relevance_score: 10
   source: llm_enhanced
   text: Bitcoin is becoming a mature asset. It's becoming that true store value. It's
-    becoming digital gold. So if that's the case, Bitcoin will trade as a commodity.
-    And altcoins will trade on as risk on assets.
-  topic: Investment
-- impact_reason: 'A perfect encapsulation of market psychology: people only want assets
-    when they are already expensive and validated.'
+    becoming digital gold. So if that's the case, Bitcoin will trade as a commodity
+    and altcoins will trade on as risk on assets.
+  topic: Adoption/Strategy
+- impact_reason: A clear framework for asset allocation and risk management within
+    the crypto space, treating BTC differently than the rest of the market.
   relevance_score: 10
   source: llm_enhanced
-  text: Nobody wants extra P at 40 cents. Now everybody wants extra P at $4. It's
-    how it works. Nobody wants Bitcoin at $10,000. Everybody wants Bitcoin at $120,000.
-  topic: Adoption
-- impact_reason: A specific prediction regarding a 'futures gap fill' for Bitcoin
-    at $113,000, which is a common technical analysis concept indicating a likely
-    price target.
+  text: Bitcoin will trade as a commodity and altcoins will trade on as risk on assets.
+  topic: investment
+- impact_reason: A perfect encapsulation of market sentiment extremes and the difficulty
+    of accumulating assets during periods of maximum fear.
+  relevance_score: 10
+  source: llm_enhanced
+  text: Nobody wants Bitcoin at $10,000. Everybody wants Bitcoin at $120,000.
+  topic: investment
+- impact_reason: Presents a specific, significant long-term target (a futures gap
+    fill) for Bitcoin, indicating a potential major move downwards before recovery.
   relevance_score: 9
   source: llm_enhanced
   text: we are expecting at one point, more or less for this futures gap, to fill
     at $113,000.
   topic: Investment
-- impact_reason: Strong cautionary advice against FOMO ('Sell the news') and emphasizes
-    taking profits quickly, a core principle in volatile crypto markets.
+- impact_reason: A strong cautionary statement advising traders to sell into expected
+    positive news events ('Sell the news') to avoid being left holding assets after
+    the initial pump.
   relevance_score: 9
   source: llm_enhanced
   text: Sell the news. Are we going to use the moon as the jump pad? Hell yes, dude.
     All day long. Don't get caught holding the bag. Never. I'm selling at the sign
     on any dump right now.
   topic: Strategy
-- impact_reason: Reinforces the necessity of pre-defined profit-taking strategies,
-    even for highly ambitious price targets, to secure gains.
+- impact_reason: Highlights the extreme volatility associated with major political
+    events (like an executive order signing) and advises against entering trades immediately
+    before such events.
   relevance_score: 9
-  source: llm_enhanced
-  text: Is it possible of course, but I would have take profit levels mapped out on
-    this. I'd have to take profit levels mapped out on this.
-  topic: Strategy
-- impact_reason: 'Reveals a specific trading strategy: waiting for a ''liquidation
-    sweep'' (a large price move designed to trigger stop losses) before entering the
-    market, indicating a focus on market structure manipulation.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: I'm just going to wait for the next liquidation sweep. And then I'll enter
-    the market right now.
-  topic: Investment/Trading Strategy
-- impact_reason: 'Introduces a major political/financial catalyst: potential legal
-    action against the Fed Chair, which could significantly impact monetary policy
-    expectations and market stability.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: I'm about to break some major news regarding drone power. This guy keeps saying
-    this. This guy is, he's not breaking anything, right? Jerome Powell will be resigning
-    will be a good thing for America. I'll be going on Charles Payne in 20 minutes
-    to talk about two senators who are drafting referrals to the Justice Department
-    for Drone Powell's alleged perjury.
-  topic: Regulation/Market Trends
-- impact_reason: Indicates that a specific piece of legislation related to crypto
-    is being signed by the former President, suggesting a significant regulatory or
-    supportive development is occurring.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Go to Trump. Trump signing crypto bill. There we go. All right. Make sure
-    you're on the right YouTube this time. I think we are on the right one.
-  topic: Regulation/Adoption
-- impact_reason: This frames the signing of the stablecoin regulation as a strategic
-    move to secure 'American dominance' in global finance and crypto technology, highlighting
-    the geopolitical importance of the legislation.
-  relevance_score: 9
-  source: llm_enhanced
-  text: This afternoon, we take a giant step to cement American dominance of global
-    finance and crypto technology. As we signed the Landmark Genius Act, interlaw,
-    so congratulations to everybody. It's a big deal.
-  topic: Adoption/Strategy
-- impact_reason: Directly acknowledges major industry leaders (Coinbase CEO Brian
-    Armstrong), signaling high-level political recognition and validation for the
-    crypto sector.
-  relevance_score: 9
-  source: llm_enhanced
-  text: I also want to recognize some of the countless industry leaders here today,
-    including Brian Armstrong of Coinbrows. Bob, Bob, Bob, Bob. You've done a good
-    job, Brian. That's a good deal.
-  topic: Adoption
-- impact_reason: Highlights the significant financial performance and resulting respect
-    gained by the crypto industry relative to traditional assets.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Just about more. A couple of stocks that were pretty good, I will say. But
-    you, you have certainly as an industry gone up more than anybody. Nobody's gained
-    the respect in such a short, pretty time.
-  topic: Investment
-- impact_reason: Reveals the political calculus behind the shift in attitude towards
-    crypto, suggesting policy changes were heavily influenced by organized community
-    voting power.
-  relevance_score: 9
-  source: llm_enhanced
-  text: And I also did it for the votes because you did come out and vote. And they
-    changed tune, you know, a Biden's team. They changed tune right in the middle
-    of the campaign. All of a sudden they loved you guys. They dropped all charges.
-  topic: Regulation/Adoption
-- impact_reason: Introduces the incoming regulatory leader (Paul Atkins) as a 'visionary'
-    who supports building the future, contrasting sharply with the previous administration's
-    perceived obstruction.
-  relevance_score: 9
-  source: llm_enhanced
-  text: In his place, I appointed a visionary chairman who wants America to build
-    the future and not block the future. He's going to be unbelievable. He'll go down
-    as one of the greats and Paul Atkins.
-  topic: Regulation
-- impact_reason: 'Articulates the core demand from the crypto industry: not preferential
-    treatment, but regulatory fairness.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: And you know that Paul the crypto guys, they said everybody said not only
-    crypto every in this, they all wanted Paul for the position. And he's a tough
-    cookie too. He's just, but they actually said we don't care. We just think he's
-    fair. All they wanted was fairness.
-  topic: Regulation
-- impact_reason: References the granting of a pardon to Ross Ulbricht (Silk Road founder),
-    signaling a shift toward leniency and away from punitive enforcement for past
-    crypto-related activities.
-  relevance_score: 9
-  source: llm_enhanced
-  text: And granted a full presidential pardon to Ross Albrecht.
-  topic: Regulation
-- impact_reason: A grand, sweeping statement comparing the impact of stablecoin regulation
-    to the invention of the Internet.
-  relevance_score: 9
-  source: llm_enhanced
-  text: This could be perhaps the greatest revolution and financial technology since
-    the birth of the Internet itself.
-  topic: Technology
-- impact_reason: 'Clearly articulates the core problem that blockchain/crypto technology
-    aims to solve: the inefficiency and high cost of legacy financial infrastructure.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: Many Americans are unaware that behind the scenes, the technical backbone
-    of the financial system is decades out of date. Many, many years out of date.
-    I don't know. There's a straightening it out, but payments and money transfers
-    are costly and take days or even weeks to clear.
-  topic: Technology
-- impact_reason: Directly links the proposed legislation (the GENIUS Act) to upgrading
-    the legacy financial system using crypto technology.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Under this bill, the entire ancient system will be eligible for a 21st century
-    upgrade using the state of the art crypto technology.
-  topic: Technology
-- impact_reason: Presents the adoption of regulated stablecoins as a tool to lower
-    Treasury interest rates and solidify the dollar's reserve currency status.
-  relevance_score: 9
-  source: llm_enhanced
-  text: This will increase the man. And the Treasury's lower interest rates and secure
-    the dollars status as the world's reserve currency for generations to come.
-  topic: Strategy
-- impact_reason: Connects the features of digital currency (privacy, flexibility,
-    decentralization) to massive economic benefits and global empowerment, framing
-    stablecoins as a revolutionary tool for USD utility.
-  relevance_score: 9
-  source: llm_enhanced
-  text: And with a privacy flexibility and decentralization of cash, this revolution
-    as the potential to super charge American economic growth and empower billions
-    of people to save and transfer in US dollars.
-  topic: Adoption/Strategy
-- impact_reason: Details a specific, aggressive policy action (past and future) aimed
-    at permanently legislating against CBDCs, showing high commitment to this regulatory
-    stance.
-  relevance_score: 9
-  source: llm_enhanced
-  text: My first week in office, I signed an executive order to ban the creation of
-    a CB DC in the United States. And very soon I look forward to signing legislation
-    that will codify and ban the make it a permanent law, put it in permanence.
-  topic: Regulation
-- impact_reason: A clear commitment to passing major crypto legislation, signaling
-    a move toward regulatory clarity, which is crucial for institutional adoption.
-  relevance_score: 9
-  source: llm_enhanced
-  text: So committed to signing landmark crypto market structure legislation this
-    year. I'm on baby. We're going to be growing it even more more than people ever
-    thought.
-  topic: Regulation/Adoption
-- impact_reason: David Sacks frames the legislation as the key mechanism for establishing
-    US leadership in the global crypto space through regulatory certainty ('clear
-    rules of the road').
-  relevance_score: 9
-  source: llm_enhanced
-  text: This genius act will unlock American dominance in the crypto industry by creating
-    clear rules of the road.
-  topic: Strategy/Regulation
-- impact_reason: 'A concluding vision statement: the future success of crypto is inextricably
-    linked to the strength and global utility of the US dollar.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: signing the future of crypto and the crypto industry, the US dollar working
-    together because they really are hand in hand is going to be stronger and bigger
-    and better than ever before.
-  topic: Adoption/Strategy
-- impact_reason: Describes a highly volatile, manipulative trading pattern ('windshield
-    wipe') that causes maximum pain for leveraged traders, a common market dynamic.
-  relevance_score: 9
-  source: llm_enhanced
-  text: What would actually hurt the market the most would be the pump 220K, then
-    drop back down to 116K, then back up to 123K, then back to 118K, then back, like
-    it's the windshield wipe from at the chat.
-  topic: investment
-- impact_reason: Provides a specific, high-level prediction for the total crypto market
-    capitalization by year-end, indicating strong bullish sentiment.
-  relevance_score: 9
-  source: llm_enhanced
-  text: I think overall market will go to about $8 to $9 trillion by end of year.
-  topic: investment
-- impact_reason: Highlights the successful testing and potential rejection at a major
-    Total Crypto Market Cap 2 (excluding BTC) resistance level ($1.5T), a key macro
-    indicator.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Total two, wait, did it pass our resistance? Resistance. The resistance. Damn,
-    bro. I am total two is kind of sexy right now. Wait, no, that's not what the resistance
-    was. The resistance is 1.5 trillion. Did we touch one?
-  topic: investment
-- impact_reason: A strong, critical take on chasing specific altcoins near perceived
-    highs, highlighting a common retail trading mistake.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Bro, XRP, if you're buying XRP right now, you are the definition of a retail
-    investor.
-  topic: Investment
-- impact_reason: A fundamental trading mantra used to criticize buying assets at peak
-    euphoria, emphasizing poor risk/reward.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Buy low sell high. Buy low sell high. If you buy XRP right now, you're not
-    only buying in a price discovery. You're buying it all time highs.
-  topic: Investment
-- impact_reason: Actionable, cautionary advice against FOMO buying, a critical discipline
-    for successful trading.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Don't chase green candlesticks.
-  topic: Investment
-- impact_reason: Defines what constitutes a poor trade entry (not asymmetrical/favorable
-    risk/reward) using strong, memorable language.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Your risk to reward at the, this is not entering and buying here, chat, is
-    not what you call an asymmetrical trade. Okay. It's called an asylum trade.
-  topic: Strategy
-- impact_reason: 'Highlights the psychological barrier to profiting in crypto: the
-    difficulty of buying during fear and panic (when prices are low).'
-  relevance_score: 9
-  source: llm_enhanced
-  text: It's seriously so simple to make money in crypto. Buy low sell high. The problem
-    is, is people want to act like when the price is low that everything is green
-    and rainbows.
-  topic: Strategy
-- impact_reason: Vividly describes the extreme negative sentiment and fear that characterizes
-    market bottoms, which is the true buying opportunity.
-  relevance_score: 9
-  source: llm_enhanced
-  text: When you're at the bottom of the market, everybody's panicking. There is World
-    War three on the line. Everybody telling you you're an idiot's, bears are acting
-    like there's some smart dude as they got lubed next to their bed.
-  topic: Investment
-- impact_reason: Provides a very specific, actionable technical support level for
-    Bitcoin, crucial for traders monitoring immediate market structure.
-  relevance_score: 8
-  source: llm_enhanced
-  text: We have a last line of support here. This is the last line of support right
-    at the $117,478.
-  topic: Investment
-- impact_reason: 'Highlights a key risk management principle: stepping back after
-    a large win to avoid impulsive trading, a valuable lesson for any trader.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: I don't want to over trade. We just made a $10,000 trade. I'm trying to take
-    it easy, take it slow here.
-  topic: Strategy
-- impact_reason: Provides clear resistance and potential breakout targets for the
-    token 'ONDO' (likely referring to Ondo Finance), offering actionable trading insight.
-  relevance_score: 8
-  source: llm_enhanced
-  text: If you guys hold on to on do is has sorry major resistance at a dollar and
-    10 cents. If it breaks past this and gets confirmation, you're probably going
-    to see a dollar and 50 on do sooner than you think.
-  topic: Investment
-- impact_reason: Articulates a sound multi-timeframe analysis methodology (higher
-    time frames for structure, lower time frames for entries), which is fundamental
-    to professional trading.
-  relevance_score: 8
-  source: llm_enhanced
-  text: We're in between two liquidity ranges. So what I would like to show here on
-    the four hour, right? We look at higher time frames and then we look at lower
-    time frames and then we look for little conversions and confluence.
-  topic: Strategy
-- impact_reason: Highlights the extreme risk associated with trading around major,
-    unpredictable geopolitical/regulatory events (like an executive order signing).
-  relevance_score: 8
   source: llm_enhanced
   text: This is my next target. Like if I'm going to enter any long here before Trump
     actually ends at the side, this is it. By the way, risky trade. Don't want to
     be entering this trade as we watch this.
-  topic: Strategy/Regulation
-- impact_reason: Expresses positive sentiment towards Decentralized Exchanges (DEXs)
-    like Uniswap, suggesting confidence in the underlying DeFi infrastructure.
-  relevance_score: 8
-  source: llm_enhanced
-  text: WP holds Uniswap. Those decks are good, man. Those decks are good. I do like
-    looking at the decks.
-  topic: DeFi
-- impact_reason: Detailed technical roadmap for the token 'SAI' (or similar), providing
-    specific resistance levels ($0.41, $0.72) needed to reach a high target ($2.00),
-    emphasizing incremental progress.
-  relevance_score: 8
+  topic: Regulation/Strategy
+- impact_reason: Provides detailed, multi-stage resistance levels for the token 'Say'
+    (likely a specific altcoin), offering actionable targets for profit-taking on
+    a massive potential run ($0.41, $0.72, $1.14 ATH).
+  relevance_score: 9
   source: llm_enhanced
   text: Say it can say it hit $2.00 this cycle. Uh brother you got a lot of you got
     a lot of areas. We need to break 41 cents for us. Your next major resistance 72
     cents and then you're still not even at all time highs at a buck 14.
   topic: Investment
-- impact_reason: Provides specific, actionable technical analysis (resistance levels)
-    for the token 'SAI' (implied by context), crucial for traders planning entry/exit
-    points in the current cycle.
-  relevance_score: 8
+- impact_reason: Reinforces the necessity of having predetermined exit strategies
+    (take profit levels) for high-risk, high-reward assets, even if they have massive
+    upside potential.
+  relevance_score: 9
   source: llm_enhanced
-  text: If you're going to have that breakout Ricky just literally once you start
-    you're going to have resistance by the way of 41 cents. But once you're at 72
-    cents that was your local high in November 2024 your 2024 because this is a new
-    platform to right.
-  topic: Investment/Trading Analysis
-- impact_reason: Directly links a major political event (a signing ceremony) to expected
-    market volatility and structure changes, illustrating the immediate impact of
-    political news on crypto trading.
-  relevance_score: 8
+  text: Is it possible of course, but I would have take profit levels mapped out on
+    this. I'd have to take profit levels mapped out on this.
+  topic: Strategy
+- impact_reason: Provides specific, actionable technical analysis (resistance levels
+    and profit-taking strategy) for a specific crypto asset (likely $SAY, based on
+    context), which is highly valuable for traders.
+  relevance_score: 9
   source: llm_enhanced
-  text: We're watching the White House right now at 230. So we're 10 minutes away
-    from the signature here. What we're hoping out of this gets us some nice market
-    movement, some nice market structure.
-  topic: Adoption/Regulation
-- impact_reason: Provides a specific bullish thesis for Ethereum breaking $4k, based
-    on technical factors (retests) and macro crypto indicators (BTC dominance).
-  relevance_score: 8
+  text: We're going to break 41 cents for us. Your next major resistance 72 cents
+    and then you're still not even at all time highs at a buck 14. Is it possible
+    of course, but I would have take profit levels mapped out on this.
+  topic: Investment/Trading Strategy
+- impact_reason: A specific bullish prediction for Ethereum ($4k target) based on
+    technical factors (multiple retests) and macro crypto indicators (BTC dominance).
+  relevance_score: 9
   source: llm_enhanced
   text: I do believe we're going to break $4,000 this time simply because this is
     like the fourth retest. But also because of Bitcoin dominance and the fact that
     Ethereum already like bottomed out.
-  topic: Investment/Trading Analysis
-- impact_reason: Identifies a critical short-term resistance zone for ETH ($3900-$4060),
-    offering a clear setup for short-term profit-taking or short entries.
+  topic: Investment/Market Trends
+- impact_reason: 'Highlights a sophisticated trading strategy: waiting for market
+    ''liquidation sweeps'' (large forced liquidations) to find optimal entry points,
+    rather than trading choppy pre-news action.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: I'm just going to wait for the next liquidation sweep. And then I'll enter
+    the market right now.
+  topic: Investment/Trading Strategy
+- impact_reason: A cautionary statement against trading major political news events,
+    suggesting volatility often leads to dumps before the market settles, favoring
+    post-event entry.
+  relevance_score: 9
+  source: llm_enhanced
+  text: I wouldn't be shocked if while Donald Trump speaks, markets dump. And then
+    we look for the long like it just, it's very hard to trade news events, right?
+  topic: Investment/Trading Strategy
+- impact_reason: This is the clearest summary of the bill's purpose, which is crucial
+    for stablecoin issuers and the broader market seeking regulatory certainty.
+  relevance_score: 9
+  source: llm_enhanced
+  text: This establishes a regulatory framework for stablecoin issuers in the United
+    States and aims to provide clarity and oversight in the cryptocurrency market.
+  topic: regulation
+- impact_reason: Emphasizes the perceived gravity and novelty of the regulatory moment
+    for the crypto community.
+  relevance_score: 9
+  source: llm_enhanced
+  text: We are watching history chat. I don't know if anybody real you're watching
+    history.
+  topic: adoption
+- impact_reason: Highlights the significant shift in mainstream acceptance and political
+    validation for the crypto industry after a period of being marginalized.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Let me say the entire crypto community for years, you were mocked and dismissed
+    and counted out. You accounted out as little as a year and a half ago, but this
+    signing is a massive validation.
+  topic: Adoption
+- impact_reason: A strong political commitment to fostering a favorable environment
+    for crypto innovation domestically, positioning the US as a global leader.
+  relevance_score: 9
+  source: llm_enhanced
+  text: I pledge that we would bring back American Liberty and leadership and make
+    the United States the crypto capital of the world.
+  topic: Regulation/Strategy
+- impact_reason: Introduces a key regulatory figure (Paul Atkins) and sets the expectation
+    for a pro-innovation, rather than restrictive, approach from the SEC.
+  relevance_score: 9
+  source: llm_enhanced
+  text: I appointed a visionary chairman who wants America to build the future and
+    not block the future. He's going to be unbelievable and Paul Atkins.
+  topic: Regulation
+- impact_reason: Claims direct action taken to halt perceived aggressive enforcement
+    actions against the crypto industry.
+  relevance_score: 9
+  source: llm_enhanced
+  text: I stopped the weaponization of government against crypto and Bitcoin and we
+    ended the law's operation choke point. Two.
+  topic: Regulation
+- impact_reason: A grand comparison elevating the importance of the stablecoin framework
+    (and by extension, crypto tech) to the level of the internet's creation.
+  relevance_score: 9
+  source: llm_enhanced
+  text: This could be perhaps the greatest revolution and financial technology since
+    the birth of the Internet itself.
+  topic: Technology/Adoption
+- impact_reason: Details the mechanism of the stablecoin framework (1:1 backing) and
+    links its success directly to strengthening the US dollar's global standing.
+  relevance_score: 9
+  source: llm_enhanced
+  text: The genius act provides banks, businesses and financial institutions, a framework
+    for issuing crypto assets back. One for one with real US dollars, treasury bills
+    and other cash equivalents is really strengthening the dollar and giving the dollar.
+    Great prominence.
+  topic: DeFi/Strategy
+- impact_reason: 'Articulates the core value proposition of stablecoins: speed, low
+    cost, and global accessibility for payments.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: Consumers vendors and people all over the world would then be able to use
+    those stable coins for ultra low cost transactions that are cleared and settled
+    in a matter of seconds rather than weeks and months.
+  topic: DeFi/Technology
+- impact_reason: This is a massive, albeit potentially hyperbolic, claim about a major
+    US crypto bill validating stablecoins, suggesting a huge influx of institutional
+    capital and regulatory clarity.
+  relevance_score: 9
+  source: llm_enhanced
+  text: The United States just signed the largest crypto bill known demand kind that
+    now validates every single stable coin transaction on the planet and we'll bring
+    trillions into the markets.
+  topic: Regulation
+- impact_reason: Reinforces the argument that Bitcoin's long-term trend is now continuously
+    upward, irrespective of traditional cycle narratives.
+  relevance_score: 9
+  source: llm_enhanced
+  text: It's just been in a bull run since 2022. There ain't no four year cycle. There
+    ain't no four year cycle, dude.
+  topic: Adoption/Strategy
+- impact_reason: Clearly delineates the diverging roles of BTC (store of value) and
+    altcoins (risk-on assets), which is a critical strategic distinction for investors.
+  relevance_score: 9
+  source: llm_enhanced
+  text: I think all coins are going to be more cyclical. I think all coins are going
+    to still be risk on assets that are going to trade traditionally with high liquidity
+    based environments.
+  topic: Strategy
+- impact_reason: A fundamental trading mantra used to criticize the act of chasing
+    pumps (buying at all-time highs), emphasizing the importance of entry timing.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Buy low sell high, buy low sell high. If you buy XRP right now, you're not
+    only buying in a price discovery, you're buying it all time highs.
+  topic: investment
+- impact_reason: Uses strong language to define poor risk/reward setups, contrasting
+    the ideal 'asymmetrical trade' (high potential upside, low downside risk) with
+    reckless gambling.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Your risk to reward at this is not entering and buying here, chat is not what
+    you call an asymmetrical trade. Okay. It's called an asylum trade.
+  topic: investment
+- impact_reason: 'Illustrates the psychological bias of market participants: ignoring
+    assets when they are cheap and only wanting them when they are expensive (the
+    opposite of ''buy low, sell high'').'
+  relevance_score: 9
+  source: llm_enhanced
+  text: Nobody wanted extra P at 40 cents now. Everybody wants extra P at $4.
+  topic: adoption
+- impact_reason: 'Highlights the core paradox of crypto trading: the strategy is simple,
+    but the emotional discipline required to execute it during market bottoms (when
+    things feel bad) is extremely difficult.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: It's seriously so simple to make money in crypto. Buy low sell high. The problem
+    is is people want to act like when the price is low but everything is green and
+    rainbows...
+  topic: investment
+- impact_reason: This is the primary endorsement of a critical Web3/crypto security
+    product (hardware wallet), emphasizing the importance of self-custody for digital
+    assets.
+  relevance_score: 9
+  source: llm_enhanced
+  text: We just wanted to take a quick second to shout out our sponsor, Arculus. They
+    are our cold storage hardware wall. It helps you secure all of your digital assets
+    for the future.
+  topic: Technology/Adoption
+- impact_reason: Identifies a critical technical support level for Bitcoin, which
+    is crucial for traders making immediate entry/exit decisions.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We have a last line of support here. This is the last line of support right
+    at the $117,478.
+  topic: Investment
+- impact_reason: 'Offers a valuable piece of trading psychology: the importance of
+    patience and avoiding overtrading after a significant win.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: I don't want to over trade. We just made a $10,000 trade. I'm trying to take
+    it easy, take it slow here.
+  topic: Strategy
+- impact_reason: Provides a clear bullish breakout target for the token 'ONDO' ($1.50),
+    contingent on breaking a key resistance level ($1.10).
+  relevance_score: 8
+  source: llm_enhanced
+  text: If it breaks past this and gets confirmation, you're probably going to see
+    a dollar and 50 on do sooner than you think.
+  topic: Investment
+- impact_reason: 'Articulates a core principle of multi-timeframe analysis: confirming
+    signals across different time horizons to identify reliable reversals.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: What I'm seeing is high time frames and low time frames, and we want to look
+    for those, those reversals.
+  topic: Strategy
+- impact_reason: Identifies a major bearish reversal pattern forming on the 4-hour
+    chart for Bitcoin, suggesting significant downside risk.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Some people call this potentially an ugly, ugly head and shoulders pattern.
+  topic: Investment
+- impact_reason: Expresses confidence in Decentralized Exchanges (DEXs) like Uniswap,
+    suggesting they are a fundamentally sound area of the crypto ecosystem.
+  relevance_score: 8
+  source: llm_enhanced
+  text: WP holds Uniswap. Those decks are good, man. Those decks are good. I do like
+    looking at the decks.
+  topic: DeFi
+- impact_reason: Uses advanced Fibonacci extension levels (1.618) to define an 'absolute
+    bullish hope' target, grounding speculative price action in technical charting
+    methodology.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Even your 1.618 on a big large cap is a dollar and 77 cents. This would be
+    like my absolute bullish hope you case for the market.
+  topic: Investment/Trading Strategy
+- impact_reason: Highlights the direct, real-time impact of political events (a presidential
+    signing) on market volatility and structure, a key consideration for traders.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We're waiting for Trump to come out any single moment now, he's supposed to
+    be signing. They're watching the White House right now at 230. So we're 10 minutes
+    away from the signature here. What we're hoping out of this gets us some nice
+    market movement, some nice market structure.
+  topic: Investment/Market Trends
+- impact_reason: Identifies a critical historical resistance zone for ETH, providing
+    a precise area for potential short entries if price extends higher.
   relevance_score: 8
   source: llm_enhanced
   text: Historically, there's massive resistance right here between 4,060 and 3900.
     So this area... Ideally, you're looking for shorts right here, especially if you
     get a massive extension higher.
-  topic: Investment/Trading Analysis
+  topic: Investment/Trading Strategy
 - impact_reason: Uses a sentiment indicator (Fear & Greed Index at 88) to suggest
-    the market is currently overheated and potentially near a short-term top, a classic
-    contrarian signal.
+    the market is currently overheated and potentially nearing a local top.
   relevance_score: 8
   source: llm_enhanced
   text: Look at the extreme greed today on our dashboard guys 88, right? Like we definitely,
     we're definitely at a top area.
-  topic: Investment/Market Analysis
-- impact_reason: Provides a strategic warning against trading around major political
-    news events, suggesting waiting for the initial volatility to subside before entering
-    trades.
+  topic: Investment/Market Trends
+- impact_reason: Reinforces the principle of avoiding trading during high-impact,
+    unpredictable macroeconomic or political announcements.
   relevance_score: 8
   source: llm_enhanced
-  text: I just, I wouldn't be shocked if while Donald Trump speaks, markets dump.
-    And then we look for the long like it just, it's very hard to trade news events,
-    right?
-  topic: Investment/Strategy
-- impact_reason: This is a direct, politically charged critique of the previous administration's
-    handling of crypto, implying that the new legislation reverses a period of hostile
-    or ignorant regulatory oversight.
+  text: Usually you don't want to trade when drone power speaking. Usually you don't
+    want to trade when Donald Trump speaking. You don't want to trade when a major
+    events happening.
+  topic: Investment/Trading Strategy
+- impact_reason: A classic, actionable piece of trading wisdom regarding market reactions
+    to anticipated news events.
   relevance_score: 8
   source: llm_enhanced
-  text: Come a long way since the Biden administration, when they had no idea what
-    you were all talking about, and half of you were under arrest for no reason whatsoever.
+  text: Usually you do want to sell the news facts. Facts usually you do want to sell
+    the news. Usually.
+  topic: investment
+- impact_reason: A strong, cynical, yet potentially insightful critique of the pharmaceutical
+    industry's profit motives over public health, relevant to discussions about decentralized
+    alternatives (like decentralized health tech or DeFi alternatives to traditional
+    finance).
+  relevance_score: 8
+  source: llm_enhanced
+  text: Big farm pharmaceutical companies do not care about you. They just don't they
+    don't. They physically don't.
+  topic: business
+- impact_reason: Directly links the anticipation of the crypto bill signing to an
+    immediate, high-risk bullish trading decision.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think I have to do it for the name of the genius act. You know what I'm
+    saying? I think I have to do it. There's too much bullishness happening in this
+    room.
+  topic: investment
+- impact_reason: Emphasizes the resilience of the crypto builders and founders in
+    the face of adversity, framing the current event as a reward for perseverance.
+  relevance_score: 8
+  source: llm_enhanced
+  text: This signing is a massive validation of your hard work and your pioneering
+    spirit and your ability to never give up.
+  topic: Adoption
+- impact_reason: 'Defines the desired regulatory outcome for the industry: fairness,
+    as embodied by the new appointee.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: Well, they wanted was fairness and they have somebody that you're really a
+    champion of the street and your champion of the country.
   topic: Regulation
-- impact_reason: Further recognition of key players across the ecosystem (Kraken,
-    Circle, Tether, Visa), showing broad industry engagement.
+- impact_reason: Points out the critical inefficiency and technological lag in traditional
+    finance (TradFi), justifying the need for crypto upgrades.
   relevance_score: 8
   source: llm_enhanced
-  text: Ripley of Kraken. So, thank you, Dave. Jeremy, a layer of circle. Mm-hmm.
-    Mm-hmm. It was a big day. Good job. Good job, Jeremy. Paolo, Ardeno of Tether.
-    Paolo. Paolo, thank you, Paolo. Brian, McInerney of Visa.
-  topic: Adoption
-- impact_reason: Specific mention and praise for the Winklevoss twins (Gemini), highlighting
-    their influence and success in the space.
+  text: Many Americans are unaware that behind the scenes, the technical backbone
+    of the financial system is decades out of date.
+  topic: Technology
+- impact_reason: Directly links the proposed legislation to the modernization of legacy
+    financial infrastructure using crypto technology.
   relevance_score: 8
   source: llm_enhanced
-  text: Tyler and Cameron Winkovoss. These are two smart handsome guys. They got the
-    whole package. They're of Gemini, but they have the whole pack.
-  topic: Adoption
-- impact_reason: Frames the crypto industry's resilience as a contribution to national
-    strength, linking digital innovation to broader economic patriotism.
+  text: Under this bill, the entire ancient system will be eligible for a 21st century
+    upgrade using the state of the art crypto technology.
+  topic: Technology
+- impact_reason: Presents a geopolitical angle, claiming that pro-dollar crypto policy
+    (stablecoins) actively undermines rival economic blocs like BRICS.
   relevance_score: 8
   source: llm_enhanced
-  text: Because a lot of people would have given up two, three years ago. So I want
-    to thank you for contributing to the incredible strength of America. This is going
-    to make it stronger. And congratulations on this incredible achievement. You've
-    made our dollar look really good and strong and powerful.
-  topic: Strategy/Adoption
-- impact_reason: Frames the promotion of dollar-backed stablecoins as a geopolitical
-    defense mechanism against BRICS nations attempting to de-dollarize global finance.
-  relevance_score: 8
-  source: llm_enhanced
-  text: You know, you have this little group called bricks. It's fading out fast,
-    but bricks is they wanted to try and take over the dollar, the dominance of the
-    dollar and the standard of the dollar. And I said, anybody that's in the bricks
+  text: And you know, you have this little group called bricks. It's fading out fast.
+    But bricks is they wanted to try and take over the dollar, the dominance of the
+    dollar and the standard of the dollar and I said anybody that's in the bricks
     consortium of nations, we're going to tear a few 10% and they had a meeting the
     following day and almost nobody showed up.
-  topic: Strategy
-- impact_reason: Emphasizes the extreme strategic importance placed on maintaining
-    the US dollar's reserve currency status, framing any threat to it as an existential
-    crisis.
+  topic: Strategy/Adoption
+- impact_reason: Connects the adoption of dollar-backed crypto assets to massive economic
+    benefits and global financial inclusion.
+  relevance_score: 8
+  source: llm_enhanced
+  text: This revolution as the potential to super charge American economic growth
+    and empower billions of people to save and transfer in US dollars.
+  topic: Adoption
+- impact_reason: Stresses the existential importance of maintaining the US Dollar's
+    reserve currency status, framing crypto policy as a national security issue.
   relevance_score: 8
   source: llm_enhanced
   text: The reserve currency is so important. You know, we lost that that would be
     like losing a world war.
   topic: Strategy
-- impact_reason: Acknowledges the need for modernization of payment infrastructure,
-    positioning the proposed legislation as that necessary 'revolution.'
+- impact_reason: A classic technical indicator setup (bullish divergence) suggesting
+    an imminent upward move.
   relevance_score: 8
   source: llm_enhanced
-  text: It will update archaic payment rails with a revolution in your payment system.
-  topic: Technology
-- impact_reason: A direct, albeit informal, prediction from the commentator that the
-    signing of the bill marks the start of a major crypto bull market ('all season').
+  text: You got lower lows, but you got higher highs on the RSI. We are expecting
+    a breakout off of this.
+  topic: Investment
+- impact_reason: Describes a highly volatile, manipulative 'windshield wiper' pattern
+    that traps traders on both sides, a common market dynamic.
   relevance_score: 8
   source: llm_enhanced
-  text: We are now entering all season, the bull part of this cycle.
-  topic: Investment/Adoption
-- impact_reason: Provides specific, high-level price targets and identifies key liquidity
-    zones for Bitcoin trading, which is actionable for traders.
+  text: What would mess most people up right now is if we pump 220 K. Well, it actually
+    hurt the market the most would be the pump 220 K then drop back down to 116 K
+    then back up to 123 K then back to 118 K then back. Like it's the windshield wiper
+    at the chat.
+  topic: Investment
+- impact_reason: Highlights the successful prediction of Total Crypto Market Cap 2
+    hitting a crucial $1.5 trillion resistance level, validating prior analysis.
   relevance_score: 8
   source: llm_enhanced
-  text: I do think we will see a bounce to at least $118,900. If not, grab that liquidity
-    at $919,900...
-  topic: investment
-- impact_reason: Identifies a critical immediate resistance level for Bitcoin, crucial
-    for short-term market direction analysis.
+  text: Total two. Wait, did it pass our resistance? Resistance. The resistance. Damn,
+    bro. I am total two is kind of sexy right now. Wait, no, that's not what the resistance
+    was. Resistance is 1.5 trillion. Did we touch one?
+  topic: Investment
+- impact_reason: Connects Bitcoin's maturation directly to macroeconomic factors,
+    specifically M2 money supply expansion, suggesting liquidity is the primary driver
+    now.
   relevance_score: 8
   source: llm_enhanced
-  text: $118,000 is going to be significant resistance. We've been trying to battle
-    test that all day.
-  topic: investment
-- impact_reason: Discusses the relationship between Bitcoin dominance and altcoin
-    performance, specifically hoping for ETH to reach a significant milestone ($4k).
-  relevance_score: 8
-  source: llm_enhanced
-  text: Bitcoin dominance is dropping here though. Let's see Bitcoin dominant break.
-    I would love Ethereum to go to 4K.
-  topic: investment
-- impact_reason: Presents an alternative, long-term view of Bitcoin's price action,
-    suggesting the current phase is a continuation of a multi-year bull market rather
-    than distinct cycles.
-  relevance_score: 8
-  source: llm_enhanced
-  text: This right here, homie, homie G slice, it's technically just been in a bull
-    run since 2022.
-  topic: investment
-- impact_reason: A concise, potentially counter-intuitive prediction about market
-    cycle dynamics, suggesting efficiency or reduced panic in subsequent cycles.
+  text: As long as M2 is expanding. I don't think you're going to have that four year
+    cycle with Bitcoin specifically though.
+  topic: Investment/Strategy
+- impact_reason: A concise, potentially actionable observation about market cycle
+    dynamics, suggesting that deeper, longer uptrends might lead to quicker, less
+    painful corrections.
   relevance_score: 8
   source: llm_enhanced
   text: I think longer bull cycles have shorter bear cycles.
+  topic: investment
+- impact_reason: Direct, actionable trading advice against FOMO (Fear of Missing Out)
+    buying.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Don't chase green candlesticks.
+  topic: investment
+- impact_reason: A vivid metaphor rejecting the idea that investing during bear markets
+    is easy or guaranteed success; it's characterized by fear and panic.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Guess what? There's no fucking yellow brick road, dude. There's not. There's
+    not when you're at the bottom the market, everybody's panicking.
+  topic: investment
+- impact_reason: 'This highlights a common frustration for retail traders: feeling
+    targeted by market makers (whales/HFTs) who execute stop-loss orders precisely,
+    suggesting market manipulation or extreme efficiency in order book execution.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: I can't believe I got stopped out to the penny again. The market makers are
+    just are literally just chasing me right now.
   topic: Investment
-- impact_reason: A moment of self-critique regarding trade execution, showing the
-    danger of ignoring clear technical signals (resistance) due to hope/greed.
-  relevance_score: 8
-  source: llm_enhanced
-  text: I should have just taken the grain. I saw the resistance here. I saw the resistance,
-    but I wanted to break through the resistance.
-  topic: Strategy
-- impact_reason: 'Demonstrates sound risk management: taking a small loss but recovering
-    part of the initial stop-loss amount, showing discipline over chasing a full recovery.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: We got stopped out. We made back half that stop out, though. At least we made
-    $140. We'll take it.
-  topic: Strategy
-- impact_reason: Highlights the necessity of hardware wallets (cold storage) for securing
-    digital assets, a fundamental security concept in crypto.
-  relevance_score: 8
-  source: llm_enhanced
-  text: We just wanted to take a quick second to shout out our sponsor, Arculus. They
-    are our cold storage hardware wall. It helps you secure all of your digital assets
-    for the future.
-  topic: Technology/Security
-- impact_reason: Demonstrates successful, high-stakes trading activity and profit
-    realization in the current market, providing context for the speaker's current
-    cautious trading stance.
+- impact_reason: Provides a concrete example of recent trading success, highlighting
+    the potential for significant short-term gains in the volatile crypto market.
   relevance_score: 7
   source: llm_enhanced
   text: We tried catching a great trade earlier today. Last night I ended up closing
     out a trade for $10,000 in profit this morning.
   topic: Investment
-- impact_reason: Identifies a critical short-term technical indicator (uptrend break)
-    for Ethereum, signaling potential downside risk.
+- impact_reason: Highlights the immediate technical vulnerability of Ethereum based
+    on short-term structure, signaling potential downside risk.
   relevance_score: 7
   source: llm_enhanced
   text: Ethereum are going to be watching this uptrend that it's currently in on the
     minute timeframe. If it breaks below this, it may get ugly for Ethereum as well.
   topic: Investment
-- impact_reason: Detailed breakdown of liquidity levels across different timeframes
-    ($15k, $116k, $117k), showing how market structure evolves with time resolution.
+- impact_reason: While likely hyperbolic or referencing external news, this quote
+    illustrates the massive scale of potential wealth creation/liquidation happening
+    in the crypto space.
   relevance_score: 7
   source: llm_enhanced
-  text: So your four hour, four hour high time frame here, liquidation, $15,000. You
-    got one again here at $116,000. When you go to the hourly time frame, you're going
-    to see a little bit more open up. You got one more down all the way to $117K.
+  text: Sharp link gave me about another $100 million worth of Ethereum. A Bitcoin
+    will just sold all $80,000 Bitcoin for $9.6 billion.
   topic: Investment
-- impact_reason: Provides a snapshot of current market movers, indicating specific
-    altcoins (Uniswap, FLOKI, DOGE, XDC, SKY) experiencing significant short-term
-    momentum.
+- impact_reason: Provides a snapshot of current market leaders, indicating where momentum
+    is flowing (DeFi/DEX tokens like UNI are showing strength).
   relevance_score: 7
   source: llm_enhanced
   text: Uniswap here, pumping 15%. 15% floaty, dogecoin, XDC and Sky Network top movers
     today.
-  topic: Adoption/Investment
-- impact_reason: Self-reflection on ignoring one's own analysis despite correct predictions,
-    a common behavioral finance pitfall.
+  topic: Investment
+- impact_reason: A moment of self-reflection where the host acknowledges missing out
+    on a profitable move (Chainlink) despite having the technical foresight, emphasizing
+    the difficulty of execution.
   relevance_score: 7
   source: llm_enhanced
   text: Dude, Chainlink up to $18. Wow, let's actually pull this up. There's the drop
     here. My God, dude. It's almost like I know what I'm doing, but I just don't listen
     to myself sometimes.
   topic: Strategy
-- impact_reason: Offers a specific, high-end target price ($1.77) based on Fibonacci
-    extension for a large-cap asset, setting a clear, optimistic benchmark for the
-    cycle.
+- impact_reason: Expresses frustration over missed short-term ETH moves, illustrating
+    the choppy, high-frequency nature of current market action.
   relevance_score: 7
   source: llm_enhanced
-  text: Even your 1.618 on a big large cap is a dollar and 77 cents. This would be
-    like my absolute bullish hope you case for the market.
-  topic: Investment/Trading Analysis
-- impact_reason: Provides a strategic filter for technical analysis, distinguishing
-    between realistic large-cap targets (1.618) and highly speculative microcap targets
-    (2.618).
+  text: Look at Ethereum. We should have longed. We should have pumped up pumped up
+    pumped up. Dude, it's just up and down up and down here on the minute time frame,
+    though.
+  topic: Investment/Trading Strategy
+- impact_reason: Sets a clear, aggressive upside target ($5k for ETH) while venting
+    frustration over exchange execution/stop-loss accuracy, a common pain point in
+    crypto trading.
   relevance_score: 7
   source: llm_enhanced
-  text: I don't usually play 2.618. These are for microcaps but it's possible. It
-    just extremely unlikely is what I would say.
-  topic: Investment/Strategy
-- impact_reason: A cautionary tale about exchange execution and stop-loss precision,
-    highlighting the frustration of being 'wicked out' of a profitable trade due to
-    minor price movements or market maker activity.
+  text: Look for that long up towards $5,000. I'm actually pissed. I should still
+    be in the trade from this morning, but Coin W stopped me out literally to the
+    fucking penny.
+  topic: Investment/Trading Strategy
+- impact_reason: Introduces a highly speculative, potentially market-moving rumor
+    regarding the Fed Chair's resignation, contrasting it with the speaker's skepticism.
   relevance_score: 7
   source: llm_enhanced
-  text: I'm actually pissed. I should still be in the trade from this morning, but
-    Coin W stopped me out literally to the fucking penny.
-  topic: Investment/Strategy
-- impact_reason: Reinforces the strategy of waiting for news events to conclude before
-    trading, specifically anticipating a liquidity-driven move immediately following
-    the speech.
+  text: I'm about to break some major news regarding drone power. This guy keeps saying
+    this. This guy is, he's not breaking anything, right? Jerome Powell will be resigning
+    will be a good thing for America.
+  topic: Regulation/Market Trends
+- impact_reason: Highlights a significant expenditure ($2.5B on Fed building renovations)
+    as a point of public concern regarding taxpayer money, tying into broader scrutiny
+    of central bank operations.
   relevance_score: 7
   source: llm_enhanced
-  text: I met two, so two's after he speaks. So after he speaks, you know, we'll look
-    for that liquidity move, which he should be speaking within five minutes.
-  topic: Investment/Strategy
-- impact_reason: Highlights a major point of public contention regarding Federal Reserve
-    spending ($2.5B on one building renovation), fueling anti-establishment sentiment
-    that often underpins decentralized movements.
-  relevance_score: 7
-  source: llm_enhanced
-  text: They spent all this money on the building renovations on the building. And
-    so they're all going after this is American taxpayer dollars, $2.5 billion. Once
-    a one building think about that 2.5 billion dollars went to one building.
+  text: They're all going after this is American taxpayer dollars, $2.5 billion. Once
+    a one building think about that 2.5 billion dollars went to one building. How
+    does that make you feel?
   topic: Regulation/Business
-- impact_reason: Identifies a key political figure (Senator Bill Haggardy) associated
-    with drafting and championing this major piece of crypto legislation.
+- impact_reason: Acknowledges the consensus belief in crypto's future role in finance
+    but dismisses it as 'not groundbreaking' news, suggesting the focus should be
+    on *how* and *when*, not *if*.
   relevance_score: 7
   source: llm_enhanced
-  text: I wanna thank the Bill's author, Senator Bill Haggardy, a very good friend
-    of mine. Thank you, Bill.
-  topic: Regulation
-- impact_reason: Mentions Brian Armstrong (CEO of Coinbase), linking a major industry
-    leader to the event, suggesting industry support or recognition.
+  text: I believe crypto technology is going to power a large part of the financial
+    service industry in the near future. Yeah, we all know this. We all know this.
+    It's not groundbreaking.
+  topic: Adoption/Technology
+- impact_reason: Illustrates high-leverage, high-risk trading behavior often seen
+    in volatile crypto markets, even if the speaker downplays the risk.
   relevance_score: 7
   source: llm_enhanced
-  text: I was Brian Armstrong behind. He's a great guy. He's a very handsome guy.
-    Looks great. He's got the whole package. But you know, I got to know him. He was
-    ambassador to Japan.
-  topic: Adoption/Business
-- impact_reason: Highlights a concrete, early executive action taken to engage with
-    digital assets at the highest level of government.
+  text: I'm going to do a 12 X. Okay, I'm going to do 12 X with $12,000. Don't worry.
+    It's only 144K at risk. Okay, it's okay.
+  topic: investment
+- impact_reason: Highlights the severe, unintended consequences of contamination in
+    unregulated supply chains, a parallel often drawn to risks in early-stage decentralized
+    systems.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Unfortunately, there's literally a or unfortunate cases where... they wouldn't
+    have died if there was a fentanyl on it.
+  topic: adoption
+- impact_reason: Highlights a specific, early executive action taken to formally engage
+    with and study digital assets at the highest level.
   relevance_score: 7
   source: llm_enhanced
   text: My first week in office, I also established the first ever presidential working
     group on digital assets.
-  topic: Regulation
-- impact_reason: A significant endorsement from a Silicon Valley figure (Sacks) noting
-    the unprecedented speed of execution, suggesting a major shift in how government
-    interacts with fast-moving tech sectors.
-  relevance_score: 7
-  source: llm_enhanced
-  text: President Trump has worked at tech speed. We're used to working fast and Silicon
-    Valley. But even this is fast for us in Silicon Valley that with the speed at
-    which you move President Trump. It's really incredible.
-  topic: Business/Strategy
-- impact_reason: A strong statement linking presidential competence directly to the
-    stability and preservation of the dollar's global standing.
-  relevance_score: 7
-  source: llm_enhanced
-  text: If we have a smart president, you're never going to let the dollar slide.
-    If you have a dummy that could happen like the last one, he would have no idea.
   topic: Strategy
-- impact_reason: Refers to confronting geopolitical rivals (BRICS nations) attempting
-    to de-dollarize, showing an aggressive stance on maintaining global financial
-    hegemony.
+- impact_reason: Reveals the political calculus behind the shift in crypto policy—the
+    perceived power of the crypto voting bloc.
   relevance_score: 7
   source: llm_enhanced
-  text: I hit them very, very hard. If they have a form, if they have a really form
-    and a meaningful way, it will end very quickly. I will tell you for them, they
-    won't, they won't be gone very long.
-  topic: Strategy
-- impact_reason: Demonstrates the potential for high returns in short-term crypto
-    trading, serving as a motivational or instructional example for the audience.
+  text: I also did it for the votes because you did come out and vote. And they changed
+    tune, you know, a Biden's team. They changed tune right in the middle of the campaign.
+    All of a sudden they loved you guys.
+  topic: Adoption/Business
+- impact_reason: Specific short-term price targets and liquidity analysis for Bitcoin,
+    crucial for active traders.
   relevance_score: 7
   source: llm_enhanced
-  text: We're up $1,200. We're up $1,300 in this trade, maybe. That is how we do it
-    here.
-  topic: investment
-- impact_reason: Uses specific technical analysis indicators (Stochastic, MACD) to
-    signal an expected short-term upward movement (breakout).
-  relevance_score: 7
-  source: llm_enhanced
-  text: We are expecting a breakout offer this, the stochastic looking good, the MACD
-    looking to reverse here.
-  topic: investment
-- impact_reason: Quantifies a successful short-term trade outcome, highlighting the
-    profitability of scalp trading in the current market conditions.
-  relevance_score: 7
-  source: llm_enhanced
-  text: We catch a nice little trade rep about 10% right now, over $1,000, which is
-    a fantastic trade if you ask me.
-  topic: investment
-- impact_reason: A specific technical analysis observation indicating immediate bearish
-    momentum and the critical need for volume confirmation to reverse the trend.
-  relevance_score: 7
-  source: llm_enhanced
-  text: We broke this structure, broke down, came up, rejected. We need to see some
-    serious volume right now.
+  text: I do think we will see a bounce to at least $118,900. If not grab that liquidity
+    at $919,900, but you do have plenty opening up underneath us on the 24 hour timeframe.
   topic: Investment
-- impact_reason: A concluding philosophical statement on cultural respect, drawing
-    a line against extremism, which is relevant in discussions about decentralized
-    communities vs. centralized dogma.
+- impact_reason: Identifies a key immediate technical resistance level for Bitcoin.
   relevance_score: 7
   source: llm_enhanced
-  text: I have a lot of respect for other cultures. I will always respect other people
-    for their own religious beliefs. Unless they're in like a cult following in a
-    church or something. Like there's extremism that I just don't respect.
-  topic: Business/Strategy
-- impact_reason: This is a direct, albeit brief, ranking of major cryptocurrencies
-    (BTC, ADA, ETH) from the speaker's perspective, offering a snapshot of their current
-    investment hierarchy or sentiment.
+  text: $118,000 is going to be significant resistance. We've been trying to battle
+    test that all day.
+  topic: Investment
+- impact_reason: A specific, high-level prediction for the total crypto market capitalization
+    by year-end.
   relevance_score: 7
   source: llm_enhanced
-  text: Bitcoin, Ada is, Bitcoin is greater than the cardano, which is greater than
+  text: I think overall market will go to about 8 to 9 trillion dollars by end of
+    the year.
+  topic: Investment
+- impact_reason: A strong, critical statement aimed at retail behavior, specifically
+    warning against buying highly volatile or speculative assets near local highs,
+    implying poor risk management.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Bro XRP, if you're buying XRP right now, you are the definition of a retail
+    investor.
+  topic: investment
+- impact_reason: Demonstrates risk management in action—accepting a small, planned
+    loss to preserve capital, which is a key professional trading discipline.
+  relevance_score: 7
+  source: llm_enhanced
+  text: We got stopped out for a hundred dollars. We made that calf that stop out
+    those at least we made a hundred forty bucks. We'll take it.
+  topic: investment
+- impact_reason: This is a direct, albeit brief and potentially controversial, ranking
+    of major cryptocurrencies (BTC > ADA > ETH) from the speaker's perspective, offering
+    a quick investment sentiment snapshot.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Bitcoin Aida is, Bitcoin is greater than the cardano, which is greater than
     ETH.
-  topic: Investment Thesis
-- impact_reason: This provides a concrete, positive data point about the success of
-    their trading group/community (Discord), suggesting successful trade execution
-    and community engagement.
+  topic: Investment
+- impact_reason: This serves as a testimonial for the speaker's trading group/community
+    (Discord), suggesting successful, high-stakes trading activity and validating
+    their community's value proposition.
   relevance_score: 7
   source: llm_enhanced
   text: We made that $10,000 trade in the discord yesterday. So our challenges are
     going phenomenal.
   topic: Business/Adoption
-- impact_reason: References massive, hypothetical or rumored trades involving significant
-    capital ($80k BTC for $9.6B), underscoring the scale of potential wealth generation
-    (or loss) in the crypto space.
+- impact_reason: Highlights the increasing focus on user experience (UX) in crypto
+    security, making complex actions (accessing cold storage) simple via mobile integration.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Just tap this thing to the back of your phone and boom, you're in.
+  topic: Technology
+- impact_reason: A moment of interactive engagement where the host tests the audience's
+    adherence to their own stated strategy (waiting for confirmation), revealing the
+    psychological difficulty of sticking to a plan during volatility.
   relevance_score: 6
   source: llm_enhanced
-  text: Sharp link gave me about another $100 million worth of Ethereum. A Bitcoin
-    will just sold all $80,000 Bitcoin for $9.6 billion. Oh, mighty, I wish I made
-    that much money.
-  topic: Investment
-- impact_reason: A nuanced discussion on leadership, empathy, and cultural differences
-    in a global context, touching on themes relevant to international business and
-    decentralized governance structures.
+  text: I was testing you. I was testing you. That was a test and you all failed.
+    I'm just kidding.
+  topic: Strategy
+- impact_reason: Offers a specific market observation linking ETC performance to broader
+    market sentiment or historical patterns (ETC dropping often signals a general
+    market downturn).
   relevance_score: 6
   source: llm_enhanced
-  text: Some woman make up some of the best CEOs on the planet. There's nothing wrong
-    with being a little more empathetic like again has nothing to do with woman characters
-    as everything to do with cultural differences. And on a global scale and geopolitical
-    relations.
-  topic: Strategy/Business
-- impact_reason: A long-term prediction regarding the pace of significant cultural/societal
-    shifts, implying that large-scale, rapid global adoption of certain norms (or
-    technologies) may take decades.
+  text: For the top 24 hours, we have Ethereum classic. That's bearish. Ethereum's
+    classic usually you get a drop.
+  topic: Adoption/Investment
+- impact_reason: A strong statement pushing back against a perceived generalization
+    about leadership and empathy, linking it to cultural understanding rather than
+    gender alone.
+  relevance_score: 6
+  source: llm_enhanced
+  text: I disagree with that. Some woman make up some of the best CEOs on the planet.
+    There's nothing wrong with being a little more empathetic like again has nothing
+    to do with woman characters as everything to do with cultural differences.
+  topic: Business/Strategy
+- impact_reason: A long-term prediction regarding the timeline for significant cultural/societal
+    shifts across major global powers, suggesting limits to rapid global convergence.
   relevance_score: 6
   source: llm_enhanced
   text: I think we're still 20 to 40 years away from that before you see massive changes
@@ -1513,338 +1353,265 @@ quotes:
     if we'll see that in Russia. I don't know if we'll see. I doubt we'll ever see
     that in the Middle East.
   topic: Adoption/Strategy
-- impact_reason: Expresses frustration over missed short-term ETH opportunities, emphasizing
-    the chaotic nature of minute-by-minute trading during high-volatility periods.
-  relevance_score: 6
-  source: llm_enhanced
-  text: Do look at Ethereum. We should have longed. We should have pumped up pumped
-    up pumped up. Dude, it's just up and down up and down here on the minute time
-    frame, though.
-  topic: Investment/Trading Analysis
-- impact_reason: While confirming the mainstream belief in crypto's future role, the
-    speaker dismisses it as 'not groundbreaking,' suggesting the real innovation lies
-    beyond this basic adoption narrative.
-  relevance_score: 6
-  source: llm_enhanced
-  text: I believe crypto technology is going to power a large part of the financial
-    service industry in the near future. Yeah, we all know this. We all know this.
-    It's not groundbreaking.
-  topic: Adoption/Technology
-- impact_reason: Details a significant regulatory action (classifying fentanyl analogs
-    as Schedule I), which, while not directly crypto, shows the speed and impact of
-    executive/legislative action on controlled substances.
+- impact_reason: 'Details a major legislative action: classifying fentanyl-related
+    substances as Schedule I, which has significant legal and enforcement implications.'
   relevance_score: 6
   source: llm_enhanced
   text: With this bill, we are officially and permanently classifying all Fenthal
     related substances as schedule one narcotics, which is actually a very big deal.
   topic: Regulation
-- impact_reason: Presents a controversial, libertarian-leaning view on personal responsibility
-    versus systemic issues (cartel/supply chain), reflecting a common tension in policy
-    discussions that also applies to decentralized finance risks.
+- impact_reason: A provocative statement contrasting the perceived risks/ethics of
+    shilling speculative crypto assets versus promoting potentially harmful substances
+    (in the context of the preceding drug discussion).
   relevance_score: 6
   source: llm_enhanced
-  text: If you use that drug that's your own fault and there if there's demand there
-    will be supply. That's a crazy, crazy take, bro. Most people are buying like literally
-    not fentanyl and they're laced with those drugs because of cartel or criminals
-    and then it kills them. So they're they're unknowingly taking fentanyl.
-  topic: Strategy/Regulation
-- impact_reason: Highlights the involvement of key political figures like JD Vance
-    in supporting or promoting the legislative agenda related to the signing.
-  relevance_score: 6
-  source: llm_enhanced
-  text: We're also pleased to be joined by our great vice president, JD Vance. JD.
-    Thank you very much. Good job. And he's been up speaking late at night on the
-    phone. I said, JD, how about you take a 3-o-4 to his people, please? Because 3-o-4,
-    I cannot speak to.
-  topic: Regulation/Politics
-- impact_reason: Illustrates the high-stakes political maneuvering required to pass
-    landmark legislation in a polarized environment, emphasizing the role of a central
-    dealmaker.
-  relevance_score: 6
-  source: llm_enhanced
-  text: And it's true that just earlier this week, the media was reporting that this
-    bill was dead. This bill was dead. And then the media didn't know one thing that
-    we had a secret weapon. We have a deal maker in chief. And thanks to President
-    Trump, he stepped in and saved this bill.
-  topic: Strategy
-- impact_reason: Provides anecdotal evidence of a perceived rapid turnaround in international
-    respect, linking it directly to the current administration's policies (which include
-    the crypto focus).
-  relevance_score: 6
-  source: llm_enhanced
-  text: I will tell you the level of respect that this country has now is incredible...
-    every leader said the same thing. They said, one year ago, your country was dead.
-    And it's a it that way it was like, you know, I didn't know whether I was supposed
-    to be happier and salted, but the truth is we were in deep trouble.
-  topic: Strategy
-- impact_reason: Highlights the surprising level of awareness among some politicians
-    regarding the technical and political nuances of CBDCs.
-  relevance_score: 6
-  source: llm_enhanced
-  text: I was impressed that they knew what the hell it was to be honest with you.
-    Please, sir, please, the central bank digital currency. You have to make sure.
-  topic: Regulation
-- impact_reason: References the Crypto Fear & Greed Index (at 60, indicating Greed),
-    providing a sentiment metric for market positioning.
-  relevance_score: 6
-  source: llm_enhanced
-  text: Bitcoin's at 60. I mean, we definitely could move.
+  text: I'd straight up rather show meme coins than shill a drug.
   topic: adoption
-- impact_reason: 'Illustrates a specific risk management approach: risking a large
-    amount ($1000) for a smaller, guaranteed profit ($100 stop loss/take profit structure),
-    implying high confidence or a specific scaling strategy.'
+- impact_reason: A fundamental economic principle invoked in the context of illegal
+    drug markets, which can be applied broadly to any market, including crypto (e.g.,
+    demand for yield leading to supply of risky assets).
   relevance_score: 6
   source: llm_enhanced
-  text: We're risking a thousand dollars for $100 here on Discover Crypto. Discover
-    these. They're right.
+  text: If there's demand there will be supply.
+  topic: business
+- impact_reason: An attempt to frame high-leverage trading with risk management terminology,
+    showing the mindset of a retail trader entering a leveraged position.
+  relevance_score: 6
+  source: llm_enhanced
+  text: I'm only going to get 3%. Only risking 3% here.
   topic: investment
-- impact_reason: This reflects a common trader sentiment—the temptation to adjust
-    risk management (setting stop-loss to break even) when facing volatility or after
-    a near miss, highlighting a personal trading struggle.
+- impact_reason: Connects the success of a specific decentralized/alternative media
+    platform (Rumble) directly to the broader concept of 'truth' prevailing.
   relevance_score: 6
   source: llm_enhanced
-  text: Dude, I should just set my stop loss to break even, dude. I'm ridiculous,
-    man.
-  topic: Investment/Trading Strategy
-- impact_reason: A direct call-to-action emphasizing the importance of community (Discord)
-    as a primary channel for content, support, or trading signals.
+  text: If Rumble is doing good, that means truth is doing good.
+  topic: Web3/Business
+- impact_reason: A notable endorsement of key industry figures (Winklevoss twins)
+    and their firm (Gemini), signaling high-level recognition.
+  relevance_score: 6
+  source: llm_enhanced
+  text: Tyler and Cameron, Winkovoss. These are two smart handsome guys. They got
+    the whole package. They're of Gemini, but they have the whole pack.
+  topic: Adoption
+- impact_reason: Demonstrates successful execution of a short-term trade based on
+    technical analysis, highlighting profitability in volatile markets.
+  relevance_score: 6
+  source: llm_enhanced
+  text: We did catch that bottom. We catch a nice little trade rep about 10% right
+    now over $1,000, which is a fantastic trade if you ask me.
+  topic: Investment
+- impact_reason: Observation on current market sentiment (Greed Index at 60) and relative
+    strength between BTC and ETH based on order book data.
+  relevance_score: 6
+  source: llm_enhanced
+  text: Bitcoin that 60. I mean, we definitely could move. You can see on the ETH
+    order book down here that there's definitely more play runs go to Bitcoin.
+  topic: Adoption/Investment
+- impact_reason: Illustrates a very high-risk/low-reward trade setup (10:1 risk/reward
+    in reverse, or 10:1 reward/risk if interpreted as risking $100 to make $1000,
+    but the text says risking $1000 for $100 profit), emphasizing risk management
+    via stop-loss.
+  relevance_score: 6
+  source: llm_enhanced
+  text: We're risking a thousand dollars for one hundred dollars here on Discover
+    crypto.
+  topic: Investment
+- impact_reason: Humorous, anecdotal commentary suggesting that those who are consistently
+    bearish often miss out on wealth creation, contrasting their perceived poverty
+    with the gains of those who hold through volatility.
+  relevance_score: 6
+  source: llm_enhanced
+  text: Bears are so broke dude. They literally wake up. They look at their nightstand.
+    They got their great value lotion, not even real lotion, right? They got their
+    $0.99 tree lotion.
+  topic: investment
+- impact_reason: Provides transparency into the reality of trading—losses happen.
+    It frames the immediate need for a successful trade, which is relatable to many
+    traders.
+  relevance_score: 6
+  source: llm_enhanced
+  text: We got stopped out. We're down about $600 today. So I need to make a good
+    trade here today.
+  topic: Investment
+- impact_reason: A direct, repeated call-to-action, indicating the Discord community
+    is central to the speaker's business model and content distribution.
   relevance_score: 6
   source: llm_enhanced
   text: Go join the discord. Go join the discord.
-  topic: Adoption/Business
-- impact_reason: A humorous but relevant moment illustrating the internal conflict
-    traders face between acting immediately and waiting for confirmation, especially
-    when the crowd suggests caution.
+  topic: Business
+- impact_reason: Presents a controversial geopolitical argument regarding the viability
+    of a female US President, based on cultural and diplomatic realities with global
+    superpowers, rather than capability.
   relevance_score: 5
-  source: llm_enhanced
-  text: I was testing you. That was a test and you all failed. I'm just kidding. No,
-    it's all good. It's all good. We're all doing the, well, wait, wait, wait, wait.
-  topic: Strategy
-- impact_reason: A strong personal statement reflecting disillusionment with specific
-    political environments (California), often resonating with audiences seeking alternative
-    governance or economic models (like decentralized ones).
-  relevance_score: 5
-  source: llm_enhanced
-  text: I moved out of California for a reason but dude is a. Bro is literally homeland
-    or man.
-  topic: Business/Strategy
-- impact_reason: Highlights a perceived hypocrisy in political discourse regarding
-    cultural relativism versus universal application of social norms, a philosophical
-    point relevant to building global, decentralized systems.
-  relevance_score: 5
-  source: llm_enhanced
-  text: It's disrespect it's actually disrespectful to put. If you got to think about
-    put yourself in a culture that's existed from millennials thousands of years right
-    from a religious from a foundational perspective that don't allow woman at that
-    categorical level like they're just not. It's not me being it's not anybody be
-    in sexes. It's understanding and being respectful of cultural differences, which
-    is what the left is all about right. The left is all about expressing cultural
-    differences. So it's it's very that's why I think it's a it's hypocritical. To
-    push that narrative.
-  topic: Strategy/Business
-- impact_reason: A moment of self-reflection from the trading commentator, acknowledging
-    that the audience/community sentiment (the 'chat') might have been a better guide
-    than their own impulsive decision-making.
-  relevance_score: 5
-  source: llm_enhanced
-  text: I should have listened to chat, bro.
-  topic: Investment/Strategy
-- impact_reason: Illustrates the high-stakes, fast-paced, and emotional nature of
-    short-term crypto trading, even when discussing major regulatory news.
-  relevance_score: 5
-  source: llm_enhanced
-  text: Do you look at the bulldoven the 15 minute timeframe, bro? Look at the boldive
-    hold up. Just let me let me cook. Let me fucking cook.
-  topic: Investment
-- impact_reason: A vivid, albeit reckless, example of leverage usage (12X) and risk
-    management (risking only 3% of the total position value), which is common in high-risk
-    crypto trading circles.
-  relevance_score: 5
-  source: llm_enhanced
-  text: I'm going to do a 12 X. Okay, I'm going to do 12 X with $12,000. Don't worry.
-    It's only 144K at risk. Okay, it's okay. It's okay. We're going to enter the shit.
-    We're going to put stop loss on it. We're going to go one, one, seven, three,
-    three. Okay. I'm only. Two, three, three. Okay, I'm only going to get 3%. Only
-    risking 3% here.
-  topic: Investment
-- impact_reason: A humorous but pointed political jab referencing past controversies
-    (likely related to signing documents) and framing the current, genuine signing
-    as historically significant.
-  relevance_score: 5
-  source: llm_enhanced
-  text: This is not an auto pen, by the way, which is a big scandal. That were a Republican.
-    It would really be a big. But it is one of the great scandals of our time.
-  topic: Business/Strategy
-- impact_reason: Sets the stage for a detailed cultural anecdote, showing engagement
-    with history and travel outside of typical crypto discussions.
-  relevance_score: 5
-  source: llm_enhanced
-  text: I was at the oldest synagogue in the world in Prague.
-  topic: General
-- impact_reason: A candid admission of a daily loss, grounding the discussion in the
-    reality of trading risk and the immediate need for recovery.
-  relevance_score: 5
-  source: llm_enhanced
-  text: We're down about $600 today. So I need to make a good trade here today.
-  topic: Investment/Trading Strategy
-- impact_reason: 'Illustrates a common monetization and support strategy for content
-    creators in the Web3/finance space: affiliate marketing tied to essential tools
-    (like hardware wallets).'
-  relevance_score: 5
-  source: llm_enhanced
-  text: Just use the code DC20. It gets you 20% off this card. It's the number one
-    way you can support this channel going forward.
-  topic: Business/Strategy
-- impact_reason: Illustrates a situation where community inclusion and cultural experience
-    were prioritized over strict adherence to religious doctrine, showing flexibility
-    in social engagement.
-  relevance_score: 5
-  source: llm_enhanced
-  text: It was kind of like, I said no. And then because I told them I was like, I'm
-    not religious. I don't want to do this if it's against like the real, they're
-    like, they're very like, no, no, no, no, no, no. Like they're like, don't even
-    worry. If you don't become religious, it doesn't matter. We just want to do this
-    for you because this is like, it was like, you're just in, I'm in that shirt or
-    that synagogue, right?
-  topic: Business/Strategy (Community Focus)
-- impact_reason: A strong, albeit controversial, geopolitical argument suggesting
-    that the global political landscape (specifically regarding major powers) imposes
-    practical limits on a US female president's foreign policy effectiveness due to
-    cultural norms.
-  relevance_score: 4
   source: llm_enhanced
   text: It's like people. No, it's not being sexist at all. A woman. No, it's not
     that they're not capable. It's that it's it's actually the opposite. It's arrogant.
     It's selfish to think that there's so many global super powers across the world
     guys that don't allow women in politics like China, Russia, Iran, like all these
     Middle Eastern countries.
-  topic: General Technology/Business (Political Commentary)
-- impact_reason: A raw admission of trading impulsively based on external stimuli
-    (in this case, political news), serving as a cautionary tale about emotional trading.
+  topic: General Technology/Strategy (Political Context)
+- impact_reason: Attempts to frame a potentially controversial political opinion within
+    a framework of cultural respect and geopolitical awareness, rather than personal
+    bias.
+  relevance_score: 5
+  source: llm_enhanced
+  text: It's literally the opposite. It's understanding. It's cultural differences
+    and respecting cultures that have existed from millennials, That's all I'm saying
+    here.
+  topic: General Technology/Strategy (Political Context)
+- impact_reason: A critical observation on perceived hypocrisy regarding the left's
+    stance on cultural differences versus specific policy pushes, relevant to broader
+    socio-political discourse impacting business/global relations.
+  relevance_score: 5
+  source: llm_enhanced
+  text: It's understanding and being respectful of cultural differences, which is
+    what the left is all about right. The left is all about expressing cultural differences.
+    So it's it's very that's why I think it's a it's hypocritical. To push that narrative.
+  topic: Strategy/Business
+- impact_reason: Presents a controversial, supply-side economic argument regarding
+    drug use, which is immediately countered by the reality of accidental poisoning
+    due to lacing.
+  relevance_score: 5
+  source: llm_enhanced
+  text: If you use that drug that's your own fault and there if there's demand there
+    will be supply. That's a crazy, crazy take, bro. Most people are buying like literally
+    not fentanyl and they're laced with those drugs because of cartel or criminals
+    and then it kills them. So they're they're unknowingly taking fentanyl.
+  topic: Business/Strategy
+- impact_reason: A humorous observation about the perceived tardiness of high-profile
+    figures, contextualizing the delay in the signing ceremony.
+  relevance_score: 5
+  source: llm_enhanced
+  text: If you aren't late, are you even the CEO facts? He's on Trump time.
+  topic: strategy
+- impact_reason: An interesting, if unverified, anecdote about repurposed or unexpected
+    uses of common substances, touching on alternative medicine/chemistry.
+  relevance_score: 5
+  source: llm_enhanced
+  text: Methaline blue is a fabric dye that has cancer, curing properties. Actually,
+    yeah, I know that is true.
+  topic: technology
+- impact_reason: Indicates significant audience size and engagement, suggesting growing
+    mainstream interest in crypto discussion.
+  relevance_score: 5
+  source: llm_enhanced
+  text: What is that ETH price prediction? By the way, guys, I want to thank you all
+    again here. 10,000 people watching across all of our channels right now.
+  topic: Adoption
+- impact_reason: A philosophical statement on tolerance and boundaries, distinguishing
+    between cultural respect and rejection of extremist ideologies.
+  relevance_score: 5
+  source: llm_enhanced
+  text: I have a lot of respect for other cultures. I will always respect other people
+    for their own religious beliefs. Unless they're in like a cult following in a
+    church or something. Like there's, there's extremism that I just don't respect.
+  topic: strategy
+- impact_reason: Actionable advice for audience support tied directly to a tangible
+    benefit (discount) and a specific sponsor/product.
+  relevance_score: 5
+  source: llm_enhanced
+  text: If you want to support the channel now, just use the code DC 20. It gets you
+    20% off this card. It's the number one way you can support this channel going
+    forward.
+  topic: Business
+- impact_reason: Indicates the podcast format blends personal narrative with market
+    commentary, a common strategy for building rapport and audience loyalty in modern
+    content creation.
+  relevance_score: 5
+  source: llm_enhanced
+  text: I just thought I share a little short story at the end.
+  topic: Strategy
+- impact_reason: Offers a strong political analysis favoring Gavin Newsom's perceived
+    political savviness and readiness over other potential Democratic candidates.
   relevance_score: 4
   source: llm_enhanced
-  text: This is a stupid trade. Including the moron on ABC, who ruined the once great
-    tonight's show.
-  topic: Investment
-- impact_reason: 'This is the core of the speaker''s political argument: perceived
-    cultural incompatibility leading to diplomatic weakness, which impacts global
-    stability (and potentially markets).'
+  text: Gavin Newsom would just floor any candidate like AOC's not even a contender
+    on that floor to Gavin Newsom is like he's like homeland or bro Gavin Newsom was
+    like born in bread to be a politician.
+  topic: General Technology/Strategy (Political Context)
+- impact_reason: Represents the marketing language used for biohacking/longevity products,
+    a sector often overlapping with tech/wellness investment trends.
+  relevance_score: 4
+  source: llm_enhanced
+  text: If you've been feeling tired fog, you're just low on energy lately. It might
+    not be just stress. It could be your cells running low on fuel. So more and more
+    people are turning to that NAD plus...
+  topic: business
+- impact_reason: Provides context on the political alignment of the broadcast/audience,
+    which influences the reception and framing of the crypto bill.
+  relevance_score: 4
+  source: llm_enhanced
+  text: We are just standing together as conservatives wanting freedom in this world
+    and wanting freedom in our country.
+  topic: strategy
+- impact_reason: Illustrates the use of faith-based commentary to frame political
+    and current events, common in certain media ecosystems.
   relevance_score: 3
   source: llm_enhanced
-  text: even if they were elected, they would be the worst foreign negotiator on the
-    planet because it's just a culture. It's it's disrespectful to other cultures.
-  topic: General Technology/Business (Political Commentary)
-- impact_reason: A strong, positive cultural observation made by the speaker during
-    the anecdote.
-  relevance_score: 3
+  text: I was thinking about Romans 828. Of course, all things work together for the
+    good to those that love God and are called according to his purpose. Isn't it
+    great to know that good always wins in the end?
+  topic: strategy
+- impact_reason: Directly confirms the subject matter that the audience is waiting
+    for, linking the political event to the crypto market.
+  relevance_score: 5
   source: llm_enhanced
-  text: Jewish culture is very sophisticated compared to other religions.
-  topic: General Insight
+  text: It's the genius act. It's for crypto.
+  topic: regulation
 source: Unknown Source
-summary: '## Comprehensive Summary: LIVE: President Trump Signing Ceremony Genius
-  Act (Crypto Pumps)
-
-
-  This 109-minute live stream focused primarily on the anticipation surrounding President
-  Trump signing the **"Genius Act"** (implied to be related to cryptocurrency or digital
-  assets) and the subsequent volatility and trading opportunities in the crypto market,
-  particularly Bitcoin (BTC) and Ethereum (ETH). The broadcast blended real-time market
-  analysis with commentary on political events and broader economic concerns.
-
-
-  ### 1. Focus Area
-
-  The primary focus was **Cryptocurrency Trading and Market Analysis**, specifically
-  monitoring price action in BTC and ETH leading up to and during a significant political
-  event (the signing ceremony). Secondary themes included political commentary regarding
-  the 2024 election landscape and discussions on drug policy (fentanyl).
-
-
-  ### 2. Key Technical Insights
-
-  *   **Bitcoin Support/Resistance:** The host identified critical support levels
-  for Bitcoin, specifically noting $117,478 as the "last line of support" on the minute
-  timeframe, with significant buying power expected around $117,000. A potential futures
-  gap fill target was mentioned at $113,000.
-
-  *   **Ethereum Resistance Zone:** For ETH, a major resistance zone was identified
-  between $3,900 and $4,060. The host suggested that if ETH breaks above this, a move
-  toward $5,000 is possible, but the area is expected to cause a short-term reversal
-  (a "short term scout").
-
-  *   **Trading Strategy During News:** A recurring technical theme was the consensus
-  (validated by chat interaction) that it is generally unwise to trade immediately
-  before or during major news events (like a presidential signing) due to extreme
-  volatility, preferring to wait for the subsequent "liquidation sweep."
-
-
-  ### 3. Market/Investment Angle
-
-  *   **Profit Taking and Patience:** The host emphasized discipline, noting a recent
-  $10,000 profit but advocating for patience rather than overtrading ahead of the
-  uncertain market reaction to the signing.
-
-  *   **Altcoin Movers:** Top movers in the preceding 24 hours included Uniswap (UNI)
-  pumping 15%, Dogecoin (DOGE), XDC, and Sky Network. Chainlink (LINK) was noted for
-  its recent move up to $18.
-
-  *   **SAFU (Say) Price Targets:** In response to a Super Chat question, the host
-  provided technical levels for the SAY token, noting major resistance at $0.41 and
-  $0.72, with a highly bullish, but unlikely, target at the 1.618 Fibonacci extension
-  of $1.77.
-
-
-  ### 4. Notable Companies/People
-
-  *   **President Trump:** The central figure whose signing of the "Genius Act" was
-  expected to trigger market movement.
-
-  *   **Jerome Powell:** Mentioned in the context of political attacks, specifically
-  regarding alleged perjury and the $2.5 billion spent on Federal Reserve building
-  renovations.
-
-  *   **Political Figures (2024 Speculation):** Extensive discussion occurred regarding
-  potential Democratic candidates, with the host strongly favoring Gavin Newsom over
-  AOC or Kamala Harris for electability, citing cultural and geopolitical realities
-  regarding female leadership on the global stage.
-
-  *   **Figs & SpinQuest:** Sponsors featured prominently at the beginning of the
-  stream.
-
-
-  ### 5. Regulatory/Policy Discussion
-
-  *   **The "Genius Act":** While the specific details of the act were not fully revealed
-  before the signing, the context strongly implies it is a piece of legislation favorable
-  or significant to the crypto industry, hence the market anticipation.
-
-  *   **Fentanyl Classification:** During the White House segment, President Trump
-  signed bills permanently classifying all fentanyl-related substances as Schedule
-  I narcotics, mandating a 10-year minimum sentence for trafficking. This was framed
-  as a major step in combating the overdose epidemic.
-
-  *   **Fed Scrutiny:** The discussion around Jerome Powell highlighted ongoing political
-  pressure and potential DOJ referrals related to the Federal Reserve''s monetary
-  policy and spending.
-
-
-  ### 6. Future Implications
-
-  The conversation suggests a near-term future where crypto technology is increasingly
-  integrated into the financial services industry, as acknowledged by a quoted official.
-  However, the immediate focus remains on political catalysts driving short-term volatility.
-  The political discussion implies a belief that cultural and geopolitical factors
-  will heavily influence the viability of future US presidential candidates, potentially
-  delaying the acceptance of certain progressive candidates globally.
-
-
-  ### 7. Target Audience
-
-  This content is most valuable for **Active Cryptocurrency Traders and Investors**
-  who rely on real-time technical analysis (TA), market sentiment, and understanding
-  how major geopolitical events can impact digital asset prices. It is also relevant
-  for those interested in the intersection of US politics and emerging financial technology
-  regulation.'
+summary: "## Podcast Episode Summary: LIVE: President Trump Signing Ceremony Genius\
+  \ Act (Crypto Pumps)\n\nThis 109-minute live stream focused on the anticipation\
+  \ surrounding President Trump signing the **\"Genius Act\"** (implied to be a significant\
+  \ piece of legislation impacting technology or finance, though the specific details\
+  \ of the act were not fully elucidated before the signing) and the immediate, volatile\
+  \ reactions in the cryptocurrency markets. The host provided real-time technical\
+  \ analysis (TA) while waiting for the signing ceremony to commence.\n\n---\n\n1.\
+  \ **Focus Area**: The primary focus was **Cryptocurrency Trading and Technical Analysis\
+  \ (TA)**, specifically monitoring Bitcoin (BTC) and Ethereum (ETH) price action\
+  \ in anticipation of a major political event (the signing). Secondary topics included\
+  \ broader political commentary, particularly concerning the 2028 presidential election\
+  \ landscape and cultural/geopolitical views on female leadership.\n\n2. **Key Technical\
+  \ Insights**:\n    * **Bitcoin Support Levels**: The host identified critical support\
+  \ zones for BTC, specifically highlighting $117,478 and $117,000 as the \"last line\
+  \ of support\" where significant buying power was expected. A potential futures\
+  \ gap fill target at $113,000 was also noted.\n    * **ETH Volatility**: ETH was\
+  \ being watched closely for a break below its current uptrend line, which would\
+  \ signal a significant drop, potentially correlated with BTC weakness. Resistance\
+  \ zones around $4,060 to $3,900 were identified as key areas for potential short\
+  \ entries before a possible long-term move toward $5,000.\n    * **Trading Strategy**:\
+  \ The overarching strategy emphasized patience, avoiding trading *during* high-impact\
+  \ news events due to extreme volatility, and waiting for post-event \"liquidation\
+  \ sweeps\" to find optimal entry points.\n\n3. **Market/Investment Angle**:\n  \
+  \  * **Event-Driven Volatility**: The market was highly sensitive to the expected\
+  \ signing, leading to sideways ranging behavior in BTC as traders waited for confirmation\
+  \ or rejection of current levels.\n    * **Profit Taking/Risk Management**: The\
+  \ host highlighted a recent $10,000 profit but stressed the importance of not over-trading,\
+  \ especially around major news, reinforcing the \"sell the news\" mentality for\
+  \ quick gains.\n    * **Altcoin Movers**: Uniswap (UNI) was noted as pumping 15%,\
+  \ alongside other movers like Dogecoin (DOGE) and XDC, suggesting rotation within\
+  \ the broader crypto ecosystem.\n\n4. **Notable Companies/People**:\n    * **Donald\
+  \ Trump**: Central figure due to the anticipated signing of the \"Genius Act.\"\n\
+  \    * **Jerome Powell**: Mentioned in the context of political scrutiny, specifically\
+  \ regarding alleged perjury and the Federal Reserve's building renovation spending\
+  \ ($2.5 billion).\n    * **Political Figures (AOC, Gavin Newsom, J. Vance)**: Discussed\
+  \ extensively in a tangent regarding the viability of different candidates in future\
+  \ presidential elections.\n    * **Chainlink (LINK)**: Mentioned positively as it\
+  \ was up to $18 at the time of the stream.\n\n5. **Regulatory/Policy Discussion**:\n\
+  \    * **Fentanyl Classification**: The signing ceremony included the permanent\
+  \ classification of all Fentanyl-related substances as **Schedule I narcotics**,\
+  \ carrying a mandatory 10-year minimum sentence for trafficking. This was framed\
+  \ as a significant step in combating the overdose epidemic.\n    * **Crypto Regulation\
+  \ (Implied)**: While the specific text of the \"Genius Act\" wasn't detailed, the\
+  \ anticipation of its signing suggested a potential shift or clarification in the\
+  \ regulatory environment for crypto, which the host hoped would lead to positive\
+  \ market movement.\n\n6. **Future Implications**: The host believes that **crypto\
+  \ technology will power a large part of the financial service industry** in the\
+  \ near future. However, the immediate future suggested continued volatility until\
+  \ the market digests the news event, followed by potential liquidation sweeps that\
+  \ could set up the next major directional move (up toward $120K for BTC, or a deeper\
+  \ correction).\n\n7. **Target Audience**: **Active Cryptocurrency Traders and Technical\
+  \ Analysts** who rely on real-time market movements, TA indicators, and macroeconomic/political\
+  \ catalysts to inform their short-term trading decisions."
 tags:
 - artificial-intelligence
 - startup
@@ -1857,7 +1624,7 @@ topics:
   - neural networks
   - llm
   - large language model
-  mentions: 160
+  mentions: 162
   prominence: 1.0
   topic: artificial intelligence
 - keywords:
@@ -1871,4 +1638,4 @@ topics:
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-10-06 07:01:59 UTC -->
+<!-- Processing completed: 2025-10-06 07:06:05 UTC -->

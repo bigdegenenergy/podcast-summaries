@@ -41,13 +41,15 @@ class EpisodeData:
 class JekyllPublisher:
     """Publishes podcast episodes as Jekyll posts"""
 
-    def __init__(self, repo_path: str = "/home/mikesmalling/pods/podcast-summaries", auto_deploy: bool = True):
+    def __init__(self, repo_path: str = "/home/mikesmalling/pods/podcast-summaries", auto_deploy: bool = True, batch_mode: bool = False):
         self.repo_path = Path(repo_path)
         self.episodes_dir = self.repo_path / "_episodes"
         self.transcripts_dir = self.repo_path / "transcripts"
         self.episodes_dir.mkdir(exist_ok=True)
         self.transcripts_dir.mkdir(exist_ok=True)
         self.auto_deploy = auto_deploy
+        self.batch_mode = batch_mode  # If True, commit locally but don't push
+        self.pending_episodes = []  # Track episodes awaiting batch push
 
     def sanitize_filename(self, text: str) -> str:
         """Create a safe filename from episode title"""
@@ -137,6 +139,33 @@ class JekyllPublisher:
             # Commit the file
             self._run_git_command(['git', 'commit', '-m', commit_msg])
 
+            # Track this episode for batch push
+            self.pending_episodes.append(episode_title)
+
+            # If in batch mode, don't push immediately
+            if self.batch_mode:
+                print(f"📦 Episode staged for batch deployment ({len(self.pending_episodes)} pending)")
+                return True
+
+            # Otherwise, push immediately (legacy behavior)
+            return self._push_to_github()
+
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Failed to commit episode: {str(e)}")
+            return False
+        except Exception as e:
+            print(f"❌ Git automation error: {str(e)}")
+            return False
+
+    def _push_to_github(self) -> bool:
+        """Push all pending commits to GitHub"""
+        try:
+            # Check if there are any commits to push
+            result = self._run_git_command(['git', 'status', '--porcelain', '--branch'])
+            if 'ahead' not in result.stdout:
+                print(f"✅ No commits to push")
+                return True
+
             # Pull latest changes before pushing to avoid conflicts
             print(f"⬇️  Pulling latest changes...")
             try:
@@ -167,8 +196,10 @@ class JekyllPublisher:
             for attempt in range(max_retries):
                 try:
                     self._run_git_command(['git', 'push', 'origin', 'main'])
-                    print(f"✅ Episode committed and pushed to GitHub Pages")
-                    print(f"   🌐 Episode should be live in ~30 seconds")
+                    episode_count = len(self.pending_episodes)
+                    print(f"✅ Batch pushed {episode_count} episode(s) to GitHub Pages")
+                    print(f"   🌐 Episodes should be live in ~30 seconds")
+                    self.pending_episodes = []  # Clear pending list
                     return True
                 except subprocess.CalledProcessError as e:
                     if attempt < max_retries - 1:
@@ -185,11 +216,20 @@ class JekyllPublisher:
                         return False
 
         except subprocess.CalledProcessError as e:
-            print(f"❌ Failed to commit/push episode: {str(e)}")
+            print(f"❌ Failed to push to GitHub: {str(e)}")
             return False
         except Exception as e:
-            print(f"❌ Git automation error: {str(e)}")
+            print(f"❌ Git push error: {str(e)}")
             return False
+
+    def flush_batch(self) -> bool:
+        """Manually trigger a batch push of all pending episodes"""
+        if not self.pending_episodes:
+            print(f"ℹ️  No episodes pending for batch push")
+            return True
+
+        print(f"📦 Flushing batch: {len(self.pending_episodes)} episode(s)")
+        return self._push_to_github()
 
     def _check_git_status(self) -> bool:
         """Check if repository is ready for git operations"""

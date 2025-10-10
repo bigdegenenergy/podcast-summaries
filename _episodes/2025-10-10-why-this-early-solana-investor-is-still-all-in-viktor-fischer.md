@@ -62,10 +62,10 @@ companies:
   position: 1255
 - category: unknown
   confidence: medium
-  context: ill sell out, so act fast. It's all going down at Old Billingsgate, London.
+  context: sell out, so act fast. And it's all going down at Old Billingsgate, London.
     Use the code LIGHT100 for 100 pounds off
   name: Old Billingsgate
-  position: 1454
+  position: 1461
 - category: unknown
   confidence: medium
   context: 't checkout. We''ll see you there.
@@ -73,25 +73,25 @@ companies:
 
     Nothing said on Light Speed is a recommendation to buy or sell any investment'
   name: Light Speed
-  position: 1572
+  position: 1579
 - category: unknown
   confidence: medium
   context: to another episode of Light Speed. I'm your host, Jack Kubeneck, joined
     today by Victor Fisher, founder and CEO o
   name: Jack Kubeneck
-  position: 2017
+  position: 2024
 - category: tech
   confidence: high
-  context: Americanization because my whole life I've had to spell it for people,
+  context: mericanization because my whole life, I've had to spell it for people,
     and they're like, why does it star
   name: Spell
-  position: 2918
+  position: 2886
 - category: unknown
   confidence: medium
   context: ou are quite an early and active Solana investor. So I'm just curious to
     hear the origin of how you came
   name: So I
-  position: 3417
+  position: 3386
 - category: unknown
   confidence: medium
   context: 'hink, at seed stage in Solana.
@@ -100,223 +100,221 @@ companies:
     Yeah. So look, in Czech Republic and Slovakia, there is a big crypto ecosystem.
     An'
   name: Czech Republic
-  position: 3536
+  position: 3505
 - category: unknown
   confidence: medium
-  context: re is a big crypto ecosystem. And it comes out of Parallel Universe, which
-    was founded in 2013. And when I quit my pr
-  name: Parallel Universe
-  position: 3618
+  context: re is a big crypto ecosystem. And it comes out of Parallel Polis or issued
+    of crypto, which was founded in 2013. A
+  name: Parallel Polis
+  position: 3587
 - category: unknown
   confidence: medium
   context: meone told me, hey, if you check out this team in San Francisco, they are
     building a new L1 high performance call
   name: San Francisco
-  position: 3951
+  position: 3939
 - category: unknown
   confidence: medium
   context: high performance called LUM. So I flew down from New York to San Francisco
-    and met Toli and Raj in 500 Star
+    and met Toly and Raj in 500 Star
   name: New York
-  position: 4042
+  position: 4030
 - category: unknown
   confidence: medium
-  context: want to speak to the CEO as well before I invest. And Toli didn't want
-    to speak with us because he was just
-  name: And Toli
-  position: 4236
+  context: want to speak to the CEO as well before I invest. And Toly totally didn't
+    want to speak with us because he w
+  name: And Toly
+  position: 4224
 - category: unknown
   confidence: medium
-  context: y paying attention, it must have been 2021, 2022. And Solana was the ETH
-    killer, right? It was supposed to do
-  name: And Solana
-  position: 6669
+  context: et to meet him, and through that meeting decided. Because I remember coming
+    into crypto when I first started
+  name: Because I
+  position: 6502
 - category: unknown
   confidence: medium
   context: And then you see, and they didn't give up. Yeah. So Raj was working on
     a website, and they were really, y
   name: So Raj
-  position: 7602
+  position: 7509
 - category: unknown
   confidence: medium
   context: tion during the NFT cycle because, you know, with Candy Machine and like,
     they were just super fast in ramping up
   name: Candy Machine
-  position: 7947
+  position: 7830
 - category: unknown
   confidence: medium
-  context: You had like many people walking around with like Louis Vuitton and Off-White
+  context: rs there. You had many people walking around with Louis Vuitton and Off-White
     clothes. So for us, it was like a t
   name: Louis Vuitton
-  position: 8493
+  position: 8335
 - category: unknown
   confidence: medium
-  context: also received boosted yields from Katana's unique Vault Bridge design.
-    And now until the end of November, users
+  context: also receive boosted yields from Katana's unique Vault Bridge design. And
+    now until the end of November, users
   name: Vault Bridge
-  position: 10850
+  position: 10534
+- category: unknown
+  confidence: medium
+  context: or Katana. With the launch of Katana's chain-wide V Tokenomics model, VKAT
+    holders will be at the middle of the
+  name: V Tokenomics
+  position: 10929
 - category: unknown
   confidence: medium
   context: ning fees for their votes from partner protocols. Thanks Katana for making
     this episode possible. As always, inve
   name: Thanks Katana
-  position: 11401
+  position: 11085
 - category: unknown
   confidence: medium
-  context: with developers, it's like either Base or Solana. And I don't see why anyone
+  context: peak with developers, it's either Base or Solana. And I don't see why anyone
     would consider another chain
   name: And I
-  position: 12539
+  position: 12189
 - category: unknown
   confidence: medium
-  context: in the thesis of being an underdog, funny enough. Because I was in New
-    York in April for Solana Accelerate, a
-  name: Because I
-  position: 15699
+  context: lars. Super success is if it reaches $10 billion. But I'd say a success
+    is when your investment reaches $
+  name: But I
+  position: 12595
 - category: unknown
   confidence: medium
-  context: ny enough. Because I was in New York in April for Solana Accelerate, and
+  context: enough. Because so I was in New York in April for Solana Accelerate, and
     there we realized there is a new type of inv
   name: Solana Accelerate
-  position: 15738
+  position: 15286
 - category: unknown
   confidence: medium
-  context: e are TradFi investors. And the vehicle was DATs, Digital Asset Trusts,
-    the regulated companies. And so Solana was laggi
-  name: Digital Asset Trusts
-  position: 15913
+  context: system, and we said, hey, like we need to ramp up Solana DAOs quickly because
+    those are now super teams or Trad
+  name: Solana DAOs
+  position: 15673
 - category: unknown
   confidence: medium
-  context: on daily trading volume across all of those DATs. So Solana versus $3 billion
-    plus on Ethereum DATs. So 30 ti
-  name: So Solana
-  position: 16391
-- category: unknown
-  confidence: medium
-  context: f those DATs. So Solana versus $3 billion plus on Ethereum DATs. So 30
+  context: of those DAOs in Solana versus $3 billion plus on Ethereum DAOs. So 30
     times less. So in Solana, we are completel
-  name: Ethereum DATs
-  position: 16427
+  name: Ethereum DAOs
+  position: 15961
 - category: unknown
   confidence: medium
   context: 'his is my next challenge: stop kind of arguing on Crypto Twitter who is
     smarter, whether we are going to implement'
   name: Crypto Twitter
-  position: 16593
+  position: 16127
 - category: unknown
   confidence: medium
-  context: you're pitching these DATs to more institutional Wall Street kinds of types,
+  context: you're pitching these DAOs to more institutional Wall Street kinds of types,
     what is the key differentiator be
   name: Wall Street
-  position: 17056
+  position: 16586
 - category: unknown
   confidence: medium
-  context: e still a huge deal, still maybe the class of non-MicroStrategy DATs, and
+  context: R still a huge deal, still maybe the class of non-MicroStrategy DAOs, and
     there's obviously a lot of hype around Ether
-  name: MicroStrategy DATs
-  position: 17251
+  name: MicroStrategy DAOs
+  position: 16774
 - category: unknown
   confidence: medium
-  context: erestingly, on our board at Solvated, we have Dr. Arthur Laffer as a board
-    member. He's the inventor of the Laffe
+  context: terestingly, on our board at Solvade, we have Dr. Arthur Laffer as a board
+    member. You know who Arthur Laffer is?
   name: Arthur Laffer
-  position: 18011
+  position: 17466
 - category: unknown
   confidence: medium
-  context: affer as a board member. He's the inventor of the Laffer Curve. He's like
-    84 years old, really tried by economic
+  context: thur Laffer is? Yeah. So he's the inventor of the Laffer Curve. He's like
+    84 years old, really tried by economie
   name: Laffer Curve
-  position: 18069
+  position: 17564
 - category: unknown
   confidence: medium
-  context: 'nnum in TradFi, you don''t see this anymore.
+  context: 'annum in TradFi—you don''t see this anymore.
 
 
     Wow. Today I learned that the guy who invented the Laffer Curv'
   name: Today I
-  position: 19457
+  position: 18874
 - category: tech
   confidence: high
-  context: ement in this current, you know, outgrow the debt meta era among central
+  context: fiat debasement in this current outgrow-the-debt meta era among central
     banks is really important. Like
   name: Meta
-  position: 19726
+  position: 19140
 - category: unknown
   confidence: medium
   context: meta era among central banks is really important. Like I think there's
     a reason why Bitcoin continues to p
   name: Like I
-  position: 19776
+  position: 19190
 - category: unknown
   confidence: medium
-  context: the—and the Fed rates will, you know, decrease to—Stephen Miran already
-    said, you know, he wanted like 100 basis
+  context: u know, 3, 3.5%, but the Fed rates will decrease. Stephen Miran already
+    said he wanted like 100 basis point cut r
   name: Stephen Miran
-  position: 20411
+  position: 19759
 - category: unknown
   confidence: medium
-  context: o see more usefulness for this asset than exists. But I don't know. And
-    I know ETH has gone for that kind
-  name: But I
-  position: 21466
+  context: early as next year. Yeah, I listened. I was on a Solana Life podcast. Tushar
+    was the first one who was speakin
+  name: Solana Life
+  position: 22381
 - category: unknown
   confidence: medium
-  context: I think Bitcoin is treated—and look at, you know, Michael Saylor's pitch
+  context: right now, I think Bitcoin is treated—and look at Michael Saylor's pitch
     to Wall Street. He's not saying it's a st
   name: Michael Saylor
-  position: 23445
+  position: 22687
 - category: unknown
   confidence: medium
-  context: we explained it in the whySolana.com deck because Tom Lee is excellent
+  context: e explained it in the WiseSolana.com deck because Tom Lee is excellent
     in just putting numbers on Ethereum
   name: Tom Lee
-  position: 24711
+  position: 23914
 - category: unknown
   confidence: medium
-  context: some of our friends on crypto are, you know, like Andrew Kang and like
-    are criticizing this, which I'm not sure
+  context: nse, and even some of our friends on crypto, like Andrew Kang, are criticizing
+    this, which I'm not sure he's ri
   name: Andrew Kang
-  position: 24964
+  position: 24149
 - category: unknown
   confidence: medium
   context: an example. So in 2021, I created a credit fund, Rockaway X Credit Fund.
     It's a market-neutral fund which only provides l
   name: Rockaway X Credit Fund
-  position: 28446
+  position: 27513
 - category: unknown
   confidence: medium
-  context: be fully regulated because then I said, any bank, JP Morgan, Morgan Stanley,
-    could subscribe to this fund jus
+  context: o be fully regulated because then I said any bank—JP Morgan, Morgan Stanley—could
+    subscribe to this fund just
   name: JP Morgan
-  position: 29015
+  position: 28072
 - category: unknown
   confidence: medium
-  context: gulated because then I said, any bank, JP Morgan, Morgan Stanley, could
-    subscribe to this fund just using the ISIN
+  context: regulated because then I said any bank—JP Morgan, Morgan Stanley—could
+    subscribe to this fund just using the ISIN.
   name: Morgan Stanley
-  position: 29026
+  position: 28083
 - category: unknown
   confidence: medium
   context: r, not as a channel for me. That's a big problem. Then I have an investor
-    who I found myself. Then I tell
+    whom I found myself. Then I tell
   name: Then I
-  position: 29284
+  position: 28340
 - category: unknown
   confidence: medium
-  context: aradigm is doing this with some Solana protocols. Like Alexi, he loves
-    investing and bringing them to Ethereum
-  name: Like Alexi
-  position: 31794
+  context: osystem. And now we need some TVL providers, like Edge RE, 7, NL Capital,
+    us. You need to get to $700 milli
+  name: Edge RE
+  position: 30947
 - category: Investment Firm
   confidence: high
-  context: Core venture fund that is an early and active investor in Solana and its
-    ecosystem projects.
+  context: Core venture fund and active investor in Solana and its ecosystem projects.
   name: Rockaway X
   source: llm_enhanced
 - category: Layer 1 Blockchain
   confidence: high
-  context: Layer 1 high-performance blockchain project (originally referred to as
-    LUM).
+  context: Layer 1 high-performance blockchain project (referred to as LUM initially).
   name: Solana
   source: llm_enhanced
 - category: Project/Ecosystem
@@ -331,301 +329,236 @@ companies:
   source: llm_enhanced
 - category: Infrastructure/Project
   confidence: high
-  context: An infrastructure project within the Solana ecosystem that Rockaway X is
-    actively working on and invested in.
+  context: An infrastructure project within the Solana ecosystem that Rockaway X invested
+    in and is actively working on.
   name: Double Zero
   source: llm_enhanced
-- category: DeFi/L2
+- category: DeFi Protocol/Chain
   confidence: high
-  context: A DeFi-first chain (L2) built for deep liquidity, pioneering productive
-    TVL.
+  context: A DeFi-first chain built for deep liquidity, pioneering productive TVL.
   name: Katana
   source: llm_enhanced
 - category: DeFi Protocol
   confidence: high
-  context: A DeFi protocol mentioned as an application where users can earn boosted
-    yields on the Katana chain.
+  context: A DeFi application mentioned as receiving boosted yields via Katana's ecosystem.
   name: Sushi
   source: llm_enhanced
 - category: DeFi Protocol
   confidence: high
-  context: A DeFi protocol mentioned as an application where users can earn boosted
-    yields on the Katana chain.
+  context: A DeFi application mentioned as receiving boosted yields via Katana's ecosystem.
   name: Morpho
   source: llm_enhanced
 - category: Project/Ecosystem
-  confidence: high
-  context: A memecoin launchpad project coming to the Katana ecosystem.
+  confidence: medium
+  context: A memecoin launchpad partner coming to Katana.
   name: Kensei
   source: llm_enhanced
 - category: Project/Ecosystem
-  confidence: high
-  context: A partner protocol launching on the Katana ecosystem.
-  name: Perpstex
-  source: llm_enhanced
-- category: Institution/Traditional Finance
   confidence: medium
-  context: Mentioned as a speaker/attendee at the Blockworks Digital Assets Summit,
-    suggesting institutional involvement/interest in crypto.
+  context: A partner protocol coming to Katana.
+  name: PerpSTEX
+  source: llm_enhanced
+- category: Organization/Media
+  confidence: high
+  context: An institutional crypto event hosted by Blockworks.
+  name: Blockworks Digital Assets Summit
+  source: llm_enhanced
+- category: Institution (Traditional Finance/Crypto)
+  confidence: high
+  context: Mentioned as a speaker/attendee at the Blockworks summit, implying institutional
+    involvement in crypto.
   name: BlackRock
   source: llm_enhanced
 - category: Institution
   confidence: high
-  context: Mentioned as a speaker/attendee at the Blockworks Digital Assets Summit.
+  context: Mentioned as a speaker/attendee at the Blockworks summit, known for USDC.
   name: Circle
   source: llm_enhanced
 - category: Exchange
   confidence: high
-  context: Mentioned as a speaker/attendee at the Blockworks Digital Assets Summit,
-    and later referenced as a major exchange supporting L1 off-ramps.
+  context: Mentioned as a speaker/attendee at the Blockworks summit; a major cryptocurrency
+    exchange.
   name: Coinbase
   source: llm_enhanced
 - category: Organization/Project
   confidence: high
-  context: Mentioned via its CEO, Joe Lubin, as a key entity in the space.
+  context: Company founded by Joe Lubin, heavily associated with Ethereum.
   name: Consensus
   source: llm_enhanced
 - category: Project/Organization
-  confidence: high
-  context: Mentioned via its representative, Rebecca Redig, speaking at the Blockworks
-    Summit.
+  confidence: medium
+  context: Mentioned via Rebecca Redig, likely a crypto/Web3 project or lab.
   name: Gido Labs
   source: llm_enhanced
-- category: Media/Organization
+- category: Organization/Media
   confidence: high
-  context: The organization hosting the podcast and the Digital Assets Summit.
+  context: The media company hosting the podcast and the summit.
   name: Blockworks
+  source: llm_enhanced
+- category: Organization
+  confidence: high
+  context: A physical space/organization in the Czech Republic/Slovakia associated
+    with early crypto adoption.
+  name: Parallel Polis
+  source: llm_enhanced
+- category: Investment Firm (Traditional/VC)
+  confidence: high
+  context: Incubator where Solana founders met; a traditional VC firm with crypto
+    investments.
+  name: 500 Startups
   source: llm_enhanced
 - category: Layer 1 Blockchain
   confidence: high
-  context: The original name for the Solana blockchain project before rebranding.
-  name: LUM
-  source: llm_enhanced
-- category: Venture/Incubator
-  confidence: high
-  context: The incubator where the Solana team (Raj and Toli) were located when the
-    initial investment discussions occurred.
-  name: 500 Startups
-  source: llm_enhanced
-- category: Organization/Ecosystem
-  confidence: high
-  context: An entity in the Czech Republic/Slovakia ecosystem where the guest bought
-    his first Bitcoin.
-  name: Parallel Universe
-  source: llm_enhanced
-- category: Exchange
-  confidence: high
-  context: Referenced as a major exchange supporting L1 off-ramps.
-  name: Binance
+  context: Major Layer 1 blockchain, frequently referenced for comparison to Solana.
+  name: Ethereum
   source: llm_enhanced
 - category: Layer 2/Blockchain
   confidence: high
-  context: Mentioned as one of the two dominant L1/L2 chains developers are currently
-    building on (alongside Solana).
+  context: A Layer 2 or chain mentioned as a primary focus for developers alongside
+    Solana.
   name: Base
   source: llm_enhanced
-- category: Institution/Product
+- category: Exchange
   confidence: high
-  context: A Digital Asset Trust (DAT) mentioned in the context of TradFi adoption
-    on Solana.
+  context: Major cryptocurrency exchange mentioned in the context of direct off-ramps.
+  name: Binance
+  source: llm_enhanced
+- category: Project/DAO
+  confidence: medium
+  context: A DAO within the Solana ecosystem focused on attracting TradFi investors.
   name: DFDB
   source: llm_enhanced
-- category: Institution/Product
-  confidence: high
-  context: A Digital Asset Trust (DAT) mentioned in the context of TradFi adoption
-    on Solana.
+- category: Project/DAO
+  confidence: medium
+  context: A DAO within the Solana ecosystem.
   name: UPXC
   source: llm_enhanced
-- category: Institution/Product
+- category: Project/DAO
   confidence: medium
-  context: Mentioned as a TradFi entity/DAT involved in the Solana ecosystem.
+  context: Mentioned as one of the DAOs/treasury companies (likely a crypto-focused
+    entity using the name, not the car company) attracting TradFi interest on Solana.
   name: Ford
   source: llm_enhanced
-- category: Institution/Product
-  confidence: high
-  context: A Digital Asset Trust (DAT) mentioned in the context of TradFi adoption
-    on Solana.
-  name: STSs
+- category: Project/DAO
+  confidence: medium
+  context: A DAO within the Solana ecosystem.
+  name: STS
   source: llm_enhanced
-- category: Institution/Product
-  confidence: high
-  context: A Digital Asset Trust (DAT) mentioned in the context of TradFi adoption
-    on Solana.
-  name: Solvated
+- category: Project/DAO
+  confidence: medium
+  context: A DAO within the Solana ecosystem.
+  name: Solvade
   source: llm_enhanced
-- category: Layer 1 blockchain
-  confidence: high
-  context: Layer 1 blockchain, frequently used as the benchmark against Solana, mentioned
-    regarding its EVM, L2s, stablecoins, and higher transaction costs/fees.
-  name: Ethereum
-  source: llm_enhanced
-- category: Project/Resource
+- category: Web3 infrastructure/Project
   confidence: high
   context: A website/resource created to simplify the Solana story for traditional
-    investors, containing analysis and price targets.
-  name: whySolana.com
+    investors.
+  name: WiseSolana.com
   source: llm_enhanced
-- category: Institution (Non-Native)
-  confidence: medium
-  context: Mentioned in the context of DATs, implying they are a major holder of Bitcoin,
-    though not strictly a crypto-native company.
+- category: Cryptocurrency
+  confidence: high
+  context: Cryptocurrency often discussed as a potential alternative reserve asset
+    or 'digital gold'.
+  name: Bitcoin
+  source: llm_enhanced
+- category: Crypto institution/Investor
+  confidence: low
+  context: Mentioned in the context of DAOs, implying their significant holdings or
+    influence in the space (though primarily a traditional company, its crypto involvement
+    is noted).
   name: MicroStrategy
   source: llm_enhanced
 - category: Cryptocurrency
   confidence: high
-  context: Mentioned as the primary alternative reserve asset, digital gold, and an
-    asset that pumps due to fiat debasement concerns.
-  name: Bitcoin
-  source: llm_enhanced
-- category: Cryptocurrency
-  confidence: high
-  context: Mentioned as a crypto asset currently ranked higher by market cap than
-    Solana.
+  context: Cryptocurrency mentioned in the context of market capitalization ranking.
   name: XRP
   source: llm_enhanced
 - category: Cryptocurrency
   confidence: high
-  context: Mentioned as a crypto asset currently ranked higher by market cap than
-    Solana.
+  context: Cryptocurrency mentioned in the context of market capitalization ranking.
   name: BNB
   source: llm_enhanced
-- category: Institution/Stablecoin
+- category: Crypto institution
   confidence: high
-  context: Mentioned as a stablecoin/asset currently ranked higher by market cap than
-    Solana.
+  context: Stablecoin issuer mentioned in the context of market capitalization ranking.
   name: Tether
   source: llm_enhanced
-- category: Investment Fund/DeFi
+- category: Crypto investment firm/Institution
   confidence: high
-  context: A market-neutral, regulated DeFi liquidity fund managed by Rockaway X,
-    based in Liechtenstein.
+  context: A market-neutral, regulated credit fund focused on providing liquidity
+    to DeFi, managed by the speaker.
   name: Rockaway X Credit Fund
   source: llm_enhanced
-- category: Institution/Administrator
+- category: Crypto institution/Service Provider
   confidence: medium
   context: The administrator for the Rockaway X Credit Fund, based in Liechtenstein.
   name: Kayak
   source: llm_enhanced
-- category: DeFi/Infrastructure
-  confidence: high
-  context: An on-chain reinsurance project built on Ethereum that the speaker's firm
-    invested in and helped migrate to Solana.
-  name: onre.finance
+- category: Institution (Traditional/Adopting)
+  confidence: low
+  context: Traditional bank mentioned as a potential, but currently difficult, subscriber
+    to regulated crypto funds.
+  name: JP Morgan
   source: llm_enhanced
-- category: Project
+- category: Institution (Traditional/Adopting)
+  confidence: low
+  context: Traditional bank mentioned as a potential, but currently difficult, subscriber
+    to regulated crypto funds.
+  name: Morgan Stanley
+  source: llm_enhanced
+- category: DeFi protocol/Insurance
+  confidence: high
+  context: An on-chain reinsurance project being brought from Ethereum to Solana.
+  name: Onary.finance (Onary)
+  source: llm_enhanced
+- category: Web3 Project
   confidence: medium
-  context: A project that the speaker's firm invested in and helped migrate from Ethereum
-    to Solana.
-  name: names.com
+  context: A project that the speaker's firm invested in and is helping migrate from
+    Ethereum to Solana.
+  name: Names.com
   source: llm_enhanced
-- category: Investment Firm
-  confidence: high
-  context: A prominent crypto investment firm mentioned as investing in Solana protocols
-    and sometimes encouraging migration to Ethereum.
-  name: Paradigm
-  source: llm_enhanced
-- category: DeFi/Financial Entity
+- category: DeFi protocol/Fund
   confidence: medium
-  context: Mentioned as a TVL provider needed in the Solana ecosystem.
-  name: Edge
+  context: A whale/professional DeFi fund mentioned as a TVL provider needed in the
+    Solana ecosystem.
+  name: Edge RE
   source: llm_enhanced
-- category: DeFi/Financial Entity
+- category: DeFi protocol/Fund
+  confidence: low
+  context: A whale/professional DeFi fund mentioned as a TVL provider needed in the
+    Solana ecosystem (likely a shorthand for a fund name).
+  name: '7'
+  source: llm_enhanced
+- category: DeFi protocol/Fund
   confidence: medium
-  context: Mentioned as a TVL provider needed in the Solana ecosystem.
-  name: R7
+  context: A whale/professional DeFi fund mentioned as a TVL provider needed in the
+    Solana ecosystem.
+  name: NL Capital
   source: llm_enhanced
-- category: DeFi/Financial Entity
+- category: Crypto institution (Stablecoin)
+  confidence: high
+  context: Stablecoin mentioned as collateral within the DeFi yield calculation on
+    Solana.
+  name: USDC
+  source: llm_enhanced
+- category: DeFi Protocol (Inferred)
   confidence: medium
-  context: Mentioned as a TVL provider needed in the Solana ecosystem.
-  name: EV Capital
-  source: llm_enhanced
-- category: Investment firm/Institution
-  confidence: high
-  context: A crypto investment firm/institution that published a report on private
-    credit on-chain and offers the Galaxy One app.
-  name: Galaxy Digital
-  source: llm_enhanced
-- category: DeFi/Application
-  confidence: high
-  context: An application offered by Galaxy Digital providing 8% yields to qualified
-    investors.
-  name: Galaxy One
-  source: llm_enhanced
-- category: DeFi protocol/Application
-  confidence: high
-  context: A yield aggregator/simplification application that the speaker is invested
-    in, aimed at onboarding TradFi investors.
-  name: Lula
-  source: llm_enhanced
-- category: DeFi protocol
-  confidence: high
-  context: A DeFi protocol on Solana that the speaker believes is not well-suited
-    for TradFi onboarding.
-  name: Loop Finance
-  source: llm_enhanced
-- category: Institution/Financial Vehicle
-  confidence: high
-  context: A financial vehicle structure heavily discussed as the primary channel
-    for TradFi capital into Solana DeFi.
-  name: DATs (Digital Asset Trusts)
-  source: llm_enhanced
-- category: Traditional Finance (Relevant to Crypto Adoption)
-  confidence: high
-  context: A traditional brokerage mentioned as a potential platform where investors
-    can subscribe to DAT shares.
-  name: Interactive Brokers
-  source: llm_enhanced
-- category: DeFi protocol
-  confidence: medium
-  context: A protocol on Solana whose TVL is growing, likely a DeFi application.
-  name: Drift
-  source: llm_enhanced
-- category: DeFi protocol
-  confidence: medium
-  context: A protocol on Solana whose TVL is growing, likely a DeFi application.
-  name: Gito
-  source: llm_enhanced
-- category: Web3 Infrastructure
-  confidence: high
-  context: A project focused on building infrastructure (fiber network, FPGA deduplication)
-    to improve Solana transaction efficiency and latency.
-  name: Double Zero (W Zero)
-  source: llm_enhanced
-- category: Web3 Infrastructure
-  confidence: high
-  context: A client/validator software for Solana, which the speaker's firm is running,
-    designed to handle high transaction throughput.
-  name: Fire Dancer
-  source: llm_enhanced
-- category: Web3 Infrastructure
-  confidence: medium
-  context: Software/client that the speaker's firm is running alongside Fire Dancer.
+  context: Mentioned as running a node that is uploading one gigabit per second.
   name: Agave
   source: llm_enhanced
-- category: DeFi/Market Making
-  confidence: medium
-  context: A service or protocol for which the speaker's firm runs on-chain market
-    maker solvers.
-  name: Mayan
-  source: llm_enhanced
-- category: Investment firm
+- category: Cryptocurrency Exchange
   confidence: high
-  context: A crypto investment firm that led the investment round for Double Zero.
-  name: Multicoin
+  context: Mentioned as a centralized exchange the speaker wishes would collocate
+    with validators for low latency.
+  name: Hyperliquid
   source: llm_enhanced
-- category: Investment firm
+- category: Cryptocurrency Exchange
   confidence: high
-  context: A crypto investment firm that participated in the investment round led
-    by Multicoin for Double Zero.
-  name: Dragonfly
+  context: Mentioned as a centralized exchange the speaker wishes would collocate
+    with validators for low latency.
+  name: Bybit
   source: llm_enhanced
-- category: Infrastructure/Protocol
-  confidence: high
-  context: A project/company that the speaker invested in and is running a node for,
-    focused on simplifying infrastructure and reducing latency.
-  name: W Zero
-  source: llm_enhanced
-date: 2025-10-10 09:51:00 +0000
+date: 2025-10-10 12:43:00 +0000
 duration: 68
 has_transcript: false
 insights:
@@ -636,746 +569,718 @@ insights:
   type: recommendation
 - actionable: false
   confidence: medium
-  extracted: where the price will be on Binance because you are just there. You basically
-    reduce the time window because your latency
+  extracted: where the price will be on Binance because you are just there. You reduce
+    the time window because your latency
   text: the future of where the price will be on Binance because you are just there.
-    You basically reduce the time window because your latency is so low.
+    You reduce the time window because your latency is so low.
   type: prediction
 layout: episode
 llm_enhanced: true
-original_url: https://traffic.megaphone.fm/BWG1402354247.mp3
-processing_date: 2025-10-10 10:04:32 +0000
+original_url: https://traffic.megaphone.fm/BWG1402354247.mp3?updated=1760100930
+processing_date: 2025-10-10 13:11:09 +0000
 quotes:
-- length: 116
-  relevance_score: 8
-  text: So valuation multiple 30 to 50x on cash flows comparable to high-growth SaaS
-    infra, implied market cap, you know, $1
+- length: 80
+  relevance_score: 6
+  text: Valuation multiple 30 to 50x on cash flows, comparable to high-growth SaaS
+    infra
   topics:
   - valuation
   - growth
   - saas
-  - market
-- length: 84
+- length: 81
   relevance_score: 4
-  text: So for us, I think right now, most difficult—so the VC market has completely
+  text: So for us, I think right now, most difficult—the VC market has completely
     changed
   topics:
   - vc
   - market
-- length: 112
+- length: 99
   relevance_score: 4
-  text: 'Because as a VC, you should think about, you know, the math as follows: every
-    investment should return your fund'
+  text: 'Because as a VC, you should think about the math as follows: the investment
+    should return your fund'
   topics:
   - vc
   - investment
-- length: 112
+- length: 100
   relevance_score: 4
-  text: Yeah, so it looks like in every bear market we spoke about tokenization of
-    traditional finance as the holy grail
+  text: So, look, in every bear market, we spoke about tokenization of traditional
+    finance as the holy grail
   topics:
   - market
-- length: 117
+- length: 118
   relevance_score: 3
-  text: You basically have to be the one who leads the round and you have to fight
+  text: You basically have to be the one who leads the round, and you have to fight
     to get your 10% of the FDV of the protocol
   topics: []
-- length: 161
+- length: 139
   relevance_score: 3
-  text: And then you have to ramp up all the DeFi protocols because, you know, who
-    cares about your chain if there is no lend/borrow, there is no DEX, there is no
-    Oracle
+  text: And then you have to ramp up all the DeFi protocols because who cares about
+    your chain if there is no lending, borrowing, no DEX, no oracle
   topics: []
 - length: 102
   relevance_score: 3
   text: The problem is that the banks don't get any hits when they are recommending
     this fund to their clients
   topics: []
-- length: 76
+- length: 75
   relevance_score: 3
-  text: And you know what is the time like when you—so here's what's happening today
+  text: If you have more nodes, you have to have 100 gigabits per second connection
   topics: []
-- impact_reason: A highly bullish, specific price prediction for SOL, which will capture
-    significant attention from the crypto community.
+- impact_reason: Highlights the extreme difficulty and near-failure moments of successful
+    L1s, underscoring the importance of founder perseverance.
   relevance_score: 10
   source: llm_enhanced
-  text: how he thinks SOL could hit $2,000 in the coming years
-  topic: Investment Thesis
-- impact_reason: A powerful statement contrasting speculative market noise with the
-    tangible, community-driven reality observed at developer conferences, emphasizing
-    long-term conviction over short-term price action.
+  text: 'Toly said, you know, we are running out of money. We have no product-market
+    fit. It''s really tough. And then you see, and they didn''t give up. Yeah. So
+    Raj was working on a website, and they were really, you know, just heads-down,
+    going towards the mainnet. And this is the attitude. I also put it in my Twitter:
+    best entrepreneurs never give up.'
+  topic: Business
+- impact_reason: Reinforces the 'never sell' thesis during crisis, attributing confidence
+    to deep ecosystem knowledge and framing downturns as opportunities.
   relevance_score: 10
   source: llm_enhanced
-  text: It's not the price. It's the touching the grass at Breakpoint.
+  text: No, we never sold at that point. And actually, why? Because we have such deep
+    contact with key people in the ecosystem that we know that, you know, as Lily
+    tweeted recently, I think today, like it was a great opportunity back then. Yeah,
+    because Solana just loves underdogs.
+  topic: Investment
+- impact_reason: A candid admission of a major operational failure (network downtime/snapshot
+    error) followed by a concrete, positive lesson learned (no more mainnet updates
+    for critical processes). Crucial for understanding infrastructure maturity.
+  relevance_score: 10
+  source: llm_enhanced
+  text: the network is down in February 2024 because the upgrade is done directly
+    on mainnet, and then for some reason, the one who takes the snapshot of the blockchain
+    takes the wrong snapshot of the blockchain. So we have to twice update all validators
+    and 80% of stakers to twice different snapshots. So no mistakes happen, and then
+    we learn, and then we implemented the process to create the right snapshot and
+    distribute it to all validators. So, and we don't do updates on mainnet anymore.
+  topic: Technology
+- impact_reason: 'A highly controversial and definitive statement: the L1 investment
+    game is over, consolidating the future developer base to just two major ecosystems
+    (Base and Solana).'
+  relevance_score: 10
+  source: llm_enhanced
+  text: The framework is very easy. We are not investing into new L1s. Because I think
+    that game is over, and it's clear that when I speak with developers, it's either
+    Base or Solana.
   topic: Adoption
-- impact_reason: Demonstrates extreme conviction, holding through the worst market
-    conditions following the FTX collapse, based on deep internal knowledge of the
-    ecosystem's resilience.
+- impact_reason: Highlights that ecosystem integration (exchange support, wallet adoption,
+    DeFi availability) is far more critical for L1 success than raw technical performance
+    metrics.
   relevance_score: 10
   source: llm_enhanced
-  text: No, no, we never, never sold at that point [after FTX/price crash].
-  topic: Investment Thesis
-- impact_reason: 'Introduces a critical evolution in DeFi metrics: shifting focus
-    from static TVL to ''Productive TVL'' (asset efficiency), a key innovation in
-    yield strategy.'
+  text: It's not about performance at all. It's about the ecosystem involvement. So,
+    do the exchanges support you for direct off-ramp? This is a big thing.
+  topic: technology/adoption
+- impact_reason: Provides a powerful, concise analogy (Global NASDAQ) for explaining
+    Solana's value proposition to traditional finance figures like Arthur Laffer,
+    focusing on instant settlement.
   relevance_score: 10
+  source: llm_enhanced
+  text: Solana is two things. Number one, it's a global NASDAQ, which is synchronized
+    at the speed of light, and as a result of this, I can invest anywhere in the world,
+    instantly, low cost, no necessity of, you know, during the night synchronization
+    of different banking systems, no need for overnight settlement.
+  topic: adoption/technology
+- impact_reason: This frames Solana not just as a technology, but as a necessary portfolio
+    hedge against dollar debasement, offering high growth *and* yield, a combination
+    absent in traditional assets.
+  relevance_score: 10
+  source: llm_enhanced
+  text: The value of the US dollar has been going down since 1970s... Solana is high
+    growth because it's five times cheaper than Ethereum but has 30 times more transactions
+    and users. And it's yielding, you know, 7% staking yield, and with DeFi, like
+    10 to 12% plus. So a high-growth asset which yields 10% dividend per annum in
+    TradFi—you don't see this anymore.
+  topic: investment/adoption
+- impact_reason: 'Defines the current dominant investment paradigm: the search for
+    high-growth yield over traditional portfolio insurance.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: Again, we are in a world where investors' mindset has shifted from portfolio
+    protection... to just trying to find new alternative assets which are high-growth
+    and yield-generating. And that's Solana.
+  topic: investment/strategy
+- impact_reason: 'Articulates a core philosophical driver behind tokenization: eliminating
+    inefficient, costly, and unnecessary intermediaries (gatekeepers) in finance.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: My mission in life, and also with Rockaway X, it's just to disrupt these stupid,
+    completely irrelevant gatekeeper third parties. That's why I want to tokenize
+    everything.
+  topic: Web3 Vision
+- impact_reason: Provides a vivid, frustrating anecdote illustrating the extreme onboarding
+    friction and legacy bureaucracy hindering capital flow into regulated DeFi products.
+  relevance_score: 10
+  source: llm_enhanced
+  text: And then the administrator says, okay, I need you, the investor, to send me
+    a printed copy of your passport, signed in wet ink, and then mailed by DHL to
+    Liechtenstein to the administrator in 2025 to subscribe to my DeFi fund. That's
+    crazy, man.
+  topic: Adoption
+- impact_reason: 'Presents DAOs as the perfect wrapper for TradFi integration: offering
+    asset exposure and yield via familiar, regulated brokerage channels while abstracting
+    blockchain complexity.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: DAOs are an ideal vehicle for TradFi investors because they get exposure to
+    the underlying asset, but also they get exposure to DeFi yield without all the
+    complexity. And they can just subscribe to it by buying shares on Interactive
+    Brokers. Super easy.
+  topic: Adoption/Regulation
+- impact_reason: Defines the critical role DAOs will play as the primary on-ramp mechanism
+    for institutional/TradFi money into the Solana ecosystem, bridging two worlds.
+  relevance_score: 10
+  source: llm_enhanced
+  text: DAOs can just, they will be this channel for traditional finance capital into
+    Solana applications.
+  topic: adoption/regulation
+- impact_reason: Provides a specific, data-driven breakdown of the TVL gap between
+    Solana and Ethereum, isolating the 'actual usage' deficit (2X) that DAOs are tasked
+    with closing.
+  relevance_score: 10
+  source: llm_enhanced
+  text: Solana TVL versus Ethereum? Like 10 times lower. 10 times lower. But you know,
+    5X is different price, so 2X is actually the difference in the amount of assets.
+    I think DAOs will fix that gap next year.
+  topic: investment/adoption
+- impact_reason: Provides startling, quantitative evidence (80% duplicate transactions)
+    of the severe network noise/inefficiency validators face, setting the stage for
+    W0's value proposition.
+  relevance_score: 10
+  source: llm_enhanced
+  text: If you look at FireDancer client, you can go on FireDancer.rockox.com. You
+    can see our FireDancer client. We are running both Agave and FireDancer. So in
+    the latest block, they were 225,000 transactions received. So any moment, even
+    right now, 225,000 transactions are received by the leader. Of these 100,000,
+    180,000, sorry, of 220,000, 180,000, which is like 80% are duplicates. 80% of
+    transactions are duplicates. It's massive.
+  topic: technology/scalability
+- impact_reason: Provides shocking, concrete data illustrating the massive disparity
+    in 100Gbps connectivity costs globally, directly motivating the push for localized
+    infrastructure solutions.
+  relevance_score: 10
+  source: llm_enhanced
+  text: You pay $12,000 in Frankfurt, $13,000 in New York, $12,000 in London, $50,000
+    in Tel Aviv, $240,000 a month in the UAE.
+  topic: business/technology
+- impact_reason: 'Presents the ultimate vision for infrastructure optimization: co-locating
+    CEX matching engines with Solana validators in a low-latency hub (like Abu Dhabi)
+    to achieve near-perfect on-chain/off-chain synchronization.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: If we ideally, in my dreams, could also put centralized exchanges, matching
+    engines here, like Binance, Hyperliquid, Bybit, everyone should collocate into
+    this one data center with validators. Then arbitrage opportunities, you have microsecond
+    latency. That would be amazing.
+  topic: strategy/technology
+- impact_reason: A bold, high-conviction price prediction for SOL, which is highly
+    relevant for market sentiment and investment thesis discussion.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Victor and I talked about his Solana thesis, including how he thinks SOL could
+    hit $2,000 in the coming years...
+  topic: Investment
+- impact_reason: 'A key insight into early-stage VC evaluation: prioritizing builders
+    who are heads-down coding over immediate VC courting signals strong focus.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: Toly totally didn't want to speak with us because he was just heads-down coding
+    with his Qualcomm team. And so that's when we said, okay, this is great. We are
+    investing. This team is wasting no time speaking with the VCs. Excellent.
+  topic: Strategy
+- impact_reason: Emphasizes the value of in-person community events ('touching the
+    grass') as a true barometer of ecosystem health, independent of token price.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Breakpoint in Amsterdam. It was raining so much, shitty weather, but such
+    a positive attitude, even Ethereum researchers, when they're, and everybody was
+    so excited about Solana. And actually, that's why I love Breakpoints because that's
+    where you really see what's going on. It's not the price. It's touching the grass
+    at Breakpoint.
+  topic: Adoption
+- impact_reason: Identifies the NFT cycle (driven by low fees/speed) as Solana's initial
+    traction driver and uses the fashion choices at the first Breakpoint as a signal
+    for peak market euphoria/overvaluation.
+  relevance_score: 9
+  source: llm_enhanced
+  text: that's how Solana got initial traction towards the 2021 massive bull market.
+    I don't know if you remember pricing $250. I don't know if you went to Breakpoint
+    in Lisbon, the first Breakpoint in Lisbon, and you didn't have many builders there.
+    You had many people walking around with Louis Vuitton and Off-White clothes. So
+    for us, it was like a top-of-the-cycle criteria.
+  topic: Adoption
+- impact_reason: A concise defense of Solana's value proposition, focusing on developer
+    velocity and low cost, countering the 'ETH killer' narrative with a 'fast application
+    builder' focus.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Solana is just a chain on which every new application is built very quickly
+    because it's so fast and so cheap to build stuff.
+  topic: Technology
+- impact_reason: 'Addresses the ultimate stress test for conviction: the FTX collapse
+    and severe price drop, framing it as a test of belief in the underlying technology/team.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: Did the conviction ever waver? ... FTX happens, and the price crashes below
+    $10 a token. You'd only made, amazingly, a 100X or whatever on your investment
+    at that point. But in all seriousness, was there ever a point where you were like,
+    maybe this was wrong?
+  topic: Investment
+- impact_reason: Introduces the concept of 'Productive TVL' as a superior metric for
+    DeFi health, moving beyond simple TVL accumulation.
+  relevance_score: 9
   source: llm_enhanced
   text: Katana is an L2 built for DeFi and it's pioneering the ecosystem category
     of productive TVL, believing that change should be graded on how efficiently assets
     are put to work in DeFi rather than just total value locked.
   topic: DeFi
-- impact_reason: A highly controversial and definitive statement declaring the L1
-    race effectively over, consolidating the market leadership to just two major players
-    (Solana and Base) from a VC perspective.
-  relevance_score: 10
-  source: llm_enhanced
-  text: The framework is very easy. We are not investing into new L1s. And because
-    I think that game is over, and you know, it's clear that when I speak with developers,
-    it's like either Base or Solana.
-  topic: Investment Thesis
-- impact_reason: A strong declaration that the era of successful new Layer 1 blockchains
-    is largely finished, consolidating developer focus onto established ecosystems
-    like Base and Solana. This is a major strategic insight for founders and VCs.
-  relevance_score: 10
-  source: llm_enhanced
-  text: We are not investing into new L1s. And because I think that game is over,
-    and you know, it's clear that when I speak with developers, it's like either Base
-    or Solana.
-  topic: strategy/technology
-- impact_reason: 'Provides a crucial framework for L1 success: network effects (exchange
-    support, off-ramps, wallets, DeFi) outweigh raw technical performance metrics.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: It's not about performance at all. It's about the ecosystem involvement. So,
-    you know, do the exchanges support you? Do the direct off-ramps? This is a big
-    thing.
-  topic: technology/adoption
-- impact_reason: Identifies the next major wave of institutional capital entering
-    crypto via regulated vehicles (DATs), signaling a shift from pure retail/crypto-native
-    investment.
-  relevance_score: 10
-  source: llm_enhanced
-  text: We realized there is a new type of investors and users coming into blockchains
-    and L1s, and those are TradFi investors. And the vehicle was DATs, Digital Asset
-    Trusts, the regulated companies.
-  topic: adoption/investment
-- impact_reason: 'Provides a powerful, easily digestible analogy for TradFi investors
-    (Global NASDAQ) explaining Solana''s core value proposition: instant, low-cost
-    global settlement.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: For me, Solana is two things. Number one, it's a global NASDAQ which is synchronized,
-    you know, at the speed of light. And as a result of this, I can invest anywhere
-    in the world, instantly, low cost, no necessity of, you know, during the night
-    synchronization of different banking systems, no need for, you know, overnight
-    settlement.
-  topic: technology/adoption
-- impact_reason: 'Articulates the macro thesis for Solana as an asset class: an inflation
-    hedge that offers both high growth potential and tangible yield, contrasting sharply
-    with traditional low-yield assets.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: The value of US dollar has been going down since, you know, 1970s... And he
-    understands that as an investor, he needs to put into his portfolio an asset which
-    is high growth and yield-generating, dividend-yielding. And Solana is high growth
-    because, you know, it's five times cheaper than Ethereum but has 30 times more
-    transactions and users. And he's yielding, you know, 7% staking yield, and with
-    DeFi, it's like 10, 12% plus.
-  topic: investment/defi
-- impact_reason: Directly challenges the 'digital gold' narrative for Solana, repositioning
-    it instead as a high-performance, yield-bearing growth asset that improves overall
-    portfolio efficiency (Sharpe ratio).
-  relevance_score: 10
-  source: llm_enhanced
-  text: I don't think store of value is the right narrative [for Solana]. But if you
-    look at our deck... if you add Solana... it improves the return and it improves
-    the Sharpe ratio of your portfolio. It's not because it's store of value, but
-    it's because it's high growth and yield-generating asset.
-  topic: investment/strategy
-- impact_reason: 'A profound observation on the shift in investor psychology: the
-    focus has moved from hedging risk (protection) to aggressively seeking high-return,
-    yield-bearing alternatives.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: Investors' mindset has shifted from portfolio protection—they understand it's
-    very tough, even Bitcoin doesn't protect you—to just trying to find new alternative
-    assets which are high growth and yield-generating.
-  topic: investment/strategy
-- impact_reason: 'Articulates a core Web3/DeFi mission: eliminating unnecessary intermediaries
-    through tokenization to democratize access to financial products.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: And so this is basically my mission in life, and also with Rockaway X, this
-    is just to disrupt these stupid, completely irrelevant gatekeepers and third parties.
-    That's why I want to tokenize everything.
-  topic: Web3 Vision
-- impact_reason: 'Defines the value proposition of DATs as the perfect wrapper for
-    TradFi: offering asset exposure plus DeFi yield through familiar, regulated brokerage
-    channels.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: DATs are an ideal vehicle for TradFi investors because they get exposure to
-    the underlying asset, but also they get exposure to DeFi yield without all the
-    complexity, and they can just subscribe to it by buying shares on Interactive
-    Brokers. Super easy.
-  topic: Adoption
-- impact_reason: A strong, time-bound prediction asserting that 2025 (next year) will
-    be the breakout year for DATs, particularly for Solana's ecosystem growth.
-  relevance_score: 10
-  source: llm_enhanced
-  text: DATs will become absolutely instrumental for Solana in 2026. It's a big thesis
-    for me. It's a DAT year next year, not this year.
-  topic: adoption
-- impact_reason: 'Defines the critical function of DATs: acting as the primary, compliant
-    conduit for TradFi money into the Solana application layer.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: DATs can just—they will be this channel for traditional finance capital into
-    Solana applications.
-  topic: adoption
-- impact_reason: Quantifies the TVL gap between Solana and Ethereum (10x lower) and
-    provides a specific thesis that DATs are the mechanism to close the 'actual usage'
-    gap (the 2X difference, after accounting for price premium).
-  relevance_score: 10
-  source: llm_enhanced
-  text: So I think the TVL of—if we do it right—what are we right now like Solana
-    TVL versus Ethereum? 10 times lower. 10 times lower. But, you know, 5X is different
-    price. So 2X is actually the difference in like the amount of assets. I think
-    the DATs will fix that next year.
-  topic: defi
-- impact_reason: Provides a shocking, specific metric illustrating the massive inefficiency
-    (80% duplicate transactions) currently burdening Solana validators.
-  relevance_score: 10
-  source: llm_enhanced
-  text: So in the latest block, there were 225,000 transactions received. So any moment,
-    even right now, 225,000 transactions are received by the leader. Of these 100,000,
-    180,000, sorry, of 220,000, 180,000, which is like 80% are duplicates. 80% of
-    transactions are duplicates. It's massive.
-  topic: technology
-- impact_reason: Establishes the speaker's firm as a deeply committed, early-stage
-    investor specifically focused on the Solana ecosystem, lending significant weight
-    to their subsequent analysis.
+- impact_reason: 'Defines the new reality of VC math in crypto: the expectation for
+    1000x returns on L1s is gone; a $1B FDV exit is now considered a standard success.'
   relevance_score: 9
   source: llm_enhanced
-  text: Rockaway X, which is one of the core venture funds investing in Solana and
-    its ecosystem.
-  topic: Investment Thesis
-- impact_reason: Highlights extreme early conviction (4 cents) and ongoing commitment
-    to building out the infrastructure layer of Solana (e.g., Double Zero), showing
-    a long-term, ecosystem-wide thesis.
+  text: Right now, you don't make 1000X anymore. So right now, if you do a successful
+    investment, it reaches a billion dollars. Super success is if it reaches $10 billion.
+    But I'd say a success is when your investment reaches $1 billion FDV.
+  topic: Investment
+- impact_reason: 'Provides actionable advice for VCs: securing large ownership stakes
+    (10% of FDV) is necessary to generate fund-returning returns ($100M from a $1B
+    exit).'
   relevance_score: 9
   source: llm_enhanced
-  text: Rockaway X invested in Solana when it was priced at $0.04, and it has since
-    invested in Solana ecosystem projects, including Camino, Squads, Double Zero,
-    and a bunch of others.
-  topic: Investment Thesis
-- impact_reason: 'A key insight into venture evaluation: prioritizing builders who
-    are focused on execution over immediate VC courting signals strong commitment
-    and focus.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: Toli didn't want to speak with us because he was just head down coding with
-    his Qualcomm team. And so that's when we said, okay, this is great, we are investing.
-    This team is wasting no time speaking with the VCs. Excellent.
+  text: You basically have to be the one who leads the round, and you have to fight
+    to get your 10% of the FDV of the protocol. Because if it goes to $1 billion,
+    you would get your $100 million return, which I think is the right size of a fund.
   topic: Strategy
-- impact_reason: Directly links Solana's high-speed, low-cost architecture to its
-    successful capture of the 2021 NFT boom, proving the utility of its performance
-    claims.
+- impact_reason: A strong declaration that the competition for new Layer 1s is effectively
+    over, consolidating around Base and Solana, which is a significant strategic insight
+    for developers and investors.
   relevance_score: 9
   source: llm_enhanced
-  text: the fact of never giving up gave Solana initial traction during the NFT cycle
-    because... they were just super fast in ramping up the infrastructure needed to
-    very quickly, you know, for anyone, for just a couple of dollars... launch their
-    own NFT collection.
-  topic: Technology
-- impact_reason: 'Reframes the critique of Solana (often labeled as centralized or
-    ''in-chain'') by focusing on its core value proposition for developers: speed
-    and low cost enabling rapid application deployment.'
+  text: Because I think that game is over, and it's clear that when I speak with developers,
+    it's either Base or Solana. And I don't see why anyone would consider another
+    chain, really.
+  topic: technology/adoption
+- impact_reason: A definitive statement reinforcing the difficulty of launching a
+    successful new L1 due to ecosystem lock-in, suggesting that network effects are
+    now insurmountable for newcomers.
   relevance_score: 9
   source: llm_enhanced
-  text: Some people are criticizing saying, hey, Solana is an in-chain, and I say,
-    no, Solana is just a chain on which every new application is built very quickly
-    because it's so fast and so cheap to build stuff.
-  topic: Technology
-- impact_reason: Provides a sobering reality check on modern crypto venture returns.
-    The expectation has shifted from 1000x moonshots to achieving $1B FDV as a 'super
-    success,' reflecting market maturity.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Right now, you don't make 1000x anymore. So right now, you know, if you do
-    a successful investment, it reaches a billion dollars, super success. So it's
-    like plus money if you know $10 billion. Let's say a success is when your investment
-    reaches $1 billion FDV.
-  topic: Investment Thesis
-- impact_reason: Defines a new, more conservative success metric for VC investments
-    in crypto ($1B FDV vs. previous 1000x returns), highlighting the shift in market
-    maturity and the critical importance of token unlocks on valuation.
-  relevance_score: 9
-  source: llm_enhanced
-  text: A success is when your investment reaches $1 billion FDV. And especially,
-    you know, once the unlocks happen, we still have to see this on both Athena and
-    Plasma, and it really becomes an ownership game.
-  topic: investment/business
-- impact_reason: 'Pinpoints the critical, often overlooked, infrastructure hurdle
-    for new chains: seamless integration with centralized exchange (CEX) withdrawal
-    rails for user onboarding.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: You want users of Finance and Coinbase in their withdrawal window to directly
-    off-ramp to your chain. It's not easy to get it across the token changes. Step
-    number one.
-  topic: adoption/technology
-- impact_reason: A definitive, bold prediction about the difficulty of replicating
-    the success of a dominant L1 once it achieves critical mass in ecosystem support.
-  relevance_score: 9
-  source: llm_enhanced
-  text: There will never be another Solana.
-  topic: adoption/strategy
-- impact_reason: 'Highlights the current strategic imperative for crypto projects:
-    shifting focus from internal technical debates to effective communication and
-    simplification for the incoming TradFi audience.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: Stop kind of arguing on Crypto Twitter who is smarter... who is rather going
-    to simplify this very complex crypto story to traditional investors, where, you
-    know, 45, 50 year olds plus, experienced in capital markets, and then they understand
-    Solana and they start buying into our story.
-  topic: adoption/business
-- impact_reason: Frames the current investment environment around central bank debt
-    management, providing the fundamental macro justification for seeking alternative
-    assets like crypto.
-  relevance_score: 9
-  source: llm_enhanced
-  text: The story of fiat debasement in this current, you know, outgrow the debt meta
-    era among central banks is really important.
-  topic: investment/regulation
-- impact_reason: A specific prediction about monetary policy (negative real rates)
-    and the resulting necessity for investors to move capital out of traditional savings
-    vehicles.
-  relevance_score: 9
-  source: llm_enhanced
-  text: What's coming next year are negative real rates. So the inflation in the US
-    will run hotter... and the Fed rates will, you know, decrease... which means your
-    savings are gone basically, they're inflated away because it's the only way for
-    the US to treat the debt.
-  topic: regulation/investment
-- impact_reason: Suggests that even Bitcoin's current utility for institutional capital
-    is based on yield generation (via structured products/debt) rather than purely
-    passive store-of-value characteristics.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Bitcoin does not really show that it's a store of value. Like it's a narrative
-    we all hope will become one day... right now, I think Bitcoin is treated—and look
-    at, you know, Michael Saylor's pitch to Wall Street. He's not saying it's a store
-    of value. He's saying it's yielding 20% per annum.
-  topic: investment/adoption
-- impact_reason: Provides specific, high-end price targets for SOL, grounded in the
-    thesis that Solana is a superior asset to Ethereum, while also critiquing the
-    often-unsubstantiated price predictions made by others.
-  relevance_score: 9
-  source: llm_enhanced
-  text: My targets are $900 to $2,000 to $6,000 per SOL. And we explained it in the
-    whySolana.com deck because Tom Lee is excellent in just putting numbers on Ethereum
-    price. Just two days ago, if you listen to Tom Lee on CNBC, he said Ethereum is
-    going to $60,000. The assumptions make no sense.
-  topic: investment
-- impact_reason: Sets a concrete short-term valuation benchmark ($900 SOL = ETH market
-    cap) based on the belief that Solana's superior usage metrics justify a market
-    cap parity or premium.
-  relevance_score: 9
-  source: llm_enhanced
-  text: For me, $900 in the short term is possible. That's when Solana would hit Ethereum's
-    market cap. But again, it's a much better asset, you know, more used, and with
-    the improvements coming, more value should accrue.
-  topic: investment
-- impact_reason: Provides aggressive, quantified price targets for SOL based on specific
-    valuation methodologies, which is highly relevant for investors and market analysts.
-  relevance_score: 9
-  source: llm_enhanced
-  text: my targets are $900 to $2,000 to $6,000 per SOL.
-  topic: Investment
-- impact_reason: Outlines a top-down valuation methodology for SOL directly linking
-    its future value to the projected size of the tokenized asset market and Solana's
-    expected market share.
-  relevance_score: 9
-  source: llm_enhanced
-  text: So for the $2,000 is basically, I take like the global tokenized assets by
-    2030, which is let's say $20 to $25 trillion. And then we say, you know, Solana's
-    settlement share should be 10% of that.
-  topic: Strategy/Technology
-- impact_reason: Presents a bottom-up valuation model for Solana based on projected
-    protocol revenue, benchmarking it against established high-growth software infrastructure
-    companies (SaaS infra).
-  relevance_score: 9
-  source: llm_enhanced
-  text: So we say annual protocol revenue fees, MIVs taking should be like $30 to
-    $50 billion by 2030. So valuation multiple 30 to 50x on cash flows comparable
-    to high-growth SaaS infra.
-  topic: Investment
-- impact_reason: A sharp critique of traditional financial intermediaries who stifle
-    distribution channels for regulated crypto products.
-  relevance_score: 9
-  source: llm_enhanced
-  text: The problem is that the banks are acting as a gatekeeper, not as a channel
-    for me.
-  topic: Business/Adoption
-- impact_reason: 'Presents the ideal vision for tokenized assets: instant access,
-    transparency, and real-time performance tracking, contrasting sharply with TradFi
-    opacity.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: I think all the funds should be tokenized and on-chain because then you open
-    your wallet, boom, one click, put your money in, you can see how it accrues even
-    on a daily basis. Amazing.
-  topic: Technology/Web3 Vision
-- impact_reason: Identifies insurance and reinsurance as massive, inefficient sectors
-    ripe for DeFi disruption due to high yields currently locked behind gatekeepers.
-  relevance_score: 9
-  source: llm_enhanced
-  text: I think insurance and reinsurance—like, you know, there is so much fat like
-    this, like insurance and reinsurance, traditional businesses and the banks, which
-    are basically gatekeeping investors and subscription to those very juicy, you
-    know, 12% yields...
-  topic: DeFi/Business
-- impact_reason: 'States the core driver for capital migration between chains: superior,
-    demonstrable yield opportunities.'
-  relevance_score: 9
-  source: llm_enhanced
-  text: if we bring very nice yields onto Solana, and onre can generate, you know,
-    20% yields because you have 12% reinsurance plus 8% ifina, as you as the users
-    as collateral, then investors would come because they'll go where the juicy yield
-    is.
-  topic: DeFi/Adoption
-- impact_reason: Argues that DeFi yield generation is highly scalable by comparing
-    current on-chain private credit ($10B) to the TradFi equivalent ($3T), indicating
-    massive runway for growth.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Look, to answer your question, if yield scales, I'd say, I don't see why it
-    wouldn't scale. Look at the Galaxy Digital report, like there is $10 billion in
-    private credit right now on-chain. You know, we have a $100 million fund. We only
-    have 1%. So there is a long way to go...
-  topic: DeFi
-- impact_reason: Quantifies the massive size of the TradFi private credit market ($3T)
-    and highlights the inherent transparency advantage of on-chain credit execution.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Private credit in TradFi, it's, it's, what is it right now? Like, and like
-    $3 trillion dollars last time I looked. So it's massive. And if you do credit
-    on-chain, it's much easier because all transparent.
-  topic: DeFi/Technology
-- impact_reason: A critical assessment that existing popular Solana DeFi protocols
-    lack the necessary simplicity and compliance features for mainstream institutional
+  text: The game is over, so my friend, there will never be another Solana.
+  topic: technology/adoption
+- impact_reason: Identifies direct integration with major centralized exchanges for
+    seamless fiat on/off-ramping as the primary hurdle for new chains seeking mass
     adoption.
   relevance_score: 9
   source: llm_enhanced
-  text: I actually think that protocol calls we have in Solana are not very well suited
-    for TradFi.
-  topic: Adoption
-- impact_reason: A strategic vision for DATs evolving beyond simple asset wrappers
-    into active ecosystem builders, generating diversified revenue streams.
+  text: You want users of Binance and Coinbase in their withdrawal window to directly
+    off-ramp to your chain. It's not easy to get across the topic changes. Step number
+    one.
+  topic: adoption/technology
+- impact_reason: Signals a major shift in the investor base for L1s, moving from pure
+    crypto natives to Traditional Finance (TradFi) entities utilizing DAOs for treasury
+    management.
   relevance_score: 9
   source: llm_enhanced
-  text: Ultimately, I think DATs will become like ecosystem participants. They will,
-    you know, maybe ramp up businesses which will be a bit positive and generating
-    revenue for their investors beyond just the asset and the yield.
-  topic: strategy
-- impact_reason: Pinpoints the specific catalyst (February 2026 reports) that will
-    drive TradFi realization and adoption of DATs based on transparent yield reporting.
+  text: We realized there is a new type of investors and users coming into blockchains
+    and L1s, and those are TradFi investors, and the vehicle was DAOs, digital asset
+    treasury companies.
+  topic: adoption/investment
+- impact_reason: A direct macroeconomic prediction regarding negative real rates,
+    which serves as a fundamental driver for seeking alternative, non-fiat assets
+    like crypto.
   relevance_score: 9
   source: llm_enhanced
-  text: The reports will be out in February 2026. That's when all the investors in
-    TradFi will realize that is yield what the end should be. And so next year is
-    will be a big year for DATs.
-  topic: adoption
-- impact_reason: 'Reiterates the core thesis: Solana''s superior yield, proven via
-    official quarterly reports, will be the key driver for TradFi capital inflow via
-    DATs in early 2026.'
+  text: 'The Fed rate will go down to 2.5, maybe 2%, and then you have negative real
+    rates: inflation running at 3.5%, Fed rates at 2.5%, which means your savings
+    are gone, basically, they''re inflated away because it''s the only way for the
+    US to treat the debt.'
+  topic: regulation/investment
+- impact_reason: Challenges the dominant 'digital gold' narrative for L1s other than
+    Bitcoin, repositioning Solana as a high-growth, yield-bearing asset class, which
+    is more appealing to current investor sentiment.
   relevance_score: 9
   source: llm_enhanced
-  text: That's when the DATs will be able to do their first quarterly report, which
-    will go out in February. And the TradFi investors who are reading this, they will
-    understand that Solana is generating much higher yield than Ethereum one.
-  topic: adoption
-- impact_reason: Explains the technical solution (hardware-level deduplication via
-    FPGAs/Arista routers) that W Zero offers to solve the massive transaction duplication
-    problem.
+  text: I don't think store of value is the right narrative [for Solana]. ... it's
+    because it's a high-growth and yield-generating asset.
+  topic: investment/strategy
+- impact_reason: Details the top-down methodology for a $2,000 SOL price target, linking
+    it directly to the projected size of the tokenized asset market by 2030.
   relevance_score: 9
   source: llm_enhanced
-  text: Double Zero removes this because the deduplication is built directly on the
-    FPGA, which is on the Arista router, which you have in the data center when you
-    are on Double Zero.
-  topic: technology
+  text: For the $2,000, I take like the global tokenized assets by 2030, which is
+    let's say $20 to $25 trillion. And then we say Solana's settlement share should
+    be 10% of that.
+  topic: investment
+- impact_reason: Details the bottom-up valuation model for Solana, benchmarking its
+    future revenue multiple against high-growth Software as a Service (SaaS) infrastructure
+    companies.
+  relevance_score: 9
+  source: llm_enhanced
+  text: We do a bottom-up. So we say annual protocol revenue fees, met staking should
+    be like $30 to $50 billion by 2030. Valuation multiple 30 to 50x on cash flows,
+    comparable to high-growth SaaS infra.
+  topic: investment/technology
+- impact_reason: Presents a clear, top-down valuation methodology for Solana based
+    on capturing a fraction of the projected global tokenized asset market by 2030.
+  relevance_score: 9
+  source: llm_enhanced
+  text: So for the $2,000, I take like the global tokenized assets by 2030, which
+    is let's say $20 to $25 trillion. And then we say Solana's settlement share should
+    be 10% of that.
+  topic: Investment Thesis
+- impact_reason: Applies a traditional high-growth tech valuation multiple (SaaS infra)
+    to project Solana's market cap based on protocol revenue, bridging TradFi valuation
+    logic to crypto assets.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Valuation multiple 30 to 50x on cash flows, comparable to high-growth SaaS
+    infra.
+  topic: Investment Thesis
+- impact_reason: 'Highlights a critical friction point for institutional adoption:
+    current regulatory structures incentivize banks to act as gatekeepers rather than
+    distributors for regulated crypto-adjacent products.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: That's when any bank—JP Morgan, Morgan Stanley—could subscribe to this fund
+    just using the ISIN. The problem is that the banks don't get any hits when they
+    are recommending this fund to their clients. So the banks are acting as a gatekeeper,
+    not as a channel for me.
+  topic: Regulation/Adoption
+- impact_reason: Strong declaration positioning tokenization not just as an improvement,
+    but as the *necessary* mechanism to overhaul traditional financial infrastructure.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Tokenization will help. It's the only way [to disrupt these gatekeepers].
+  topic: Technology/Strategy
+- impact_reason: 'Paints the ideal vision of on-chain finance: instant access, transparency
+    of yield accrual, and seamless interaction, contrasting sharply with TradFi.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: I think all the funds should be tokenized and on-chain because then you open
+    your wallet, boom, one click, you put your money in, generate yield, you can see
+    how it accrues even on a daily basis.
+  topic: Web3 Vision
+- impact_reason: 'Presents a clear thesis: superior, composable yield (like stacking
+    reinsurance returns with collateral yield) is the primary driver for attracting
+    capital away from established chains like Ethereum.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: But my hope is if we bring very nice yields onto Solana, and only can generate
+    20% yields because you have 12% reinsurance plus 8% if you use USDC as collateral,
+    then investors would come because they'll go where the juicy yield is.
+  topic: DeFi/Investment
+- impact_reason: Quantifies the massive opportunity in tokenizing private credit and
+    emphasizes the inherent efficiency gain (transparency) that blockchain offers
+    over traditional due diligence.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Private credit in TradFi is what is it right now, like $3 trillion last time
+    I looked? So it's massive. And if you do credit on-chain, it's much easier because
+    it's all transparent. You don't have to look at all the P&L and balance sheet
+    of the counterparty.
+  topic: DeFi/Tokenization
+- impact_reason: Proposes a rational valuation framework for DAOs where the Net Asset
+    Value (NAV) premium (MNAV) should directly correlate with the yield generated
+    by the underlying assets.
+  relevance_score: 9
+  source: llm_enhanced
+  text: MNAV in the ideal world should correspond to the yield you are generating.
+    So if a DAO is doing 13% on SOL, MNAV should be 1.13, and a rational investor
+    would compare the yield and the MNAV.
+  topic: Business Strategy/Web3
+- impact_reason: A specific, time-bound prediction that 2026 (following Q4 2025 reporting)
+    will be the inflection point for DAO market recognition and valuation.
+  relevance_score: 9
+  source: llm_enhanced
+  text: Next year will [be a DAO year]. It's a big thesis for me. It's a DAO year
+    next year. Next year, not this year.
+  topic: Prediction
+- impact_reason: Shifts the perception of DAOs from passive treasury managers to active
+    ecosystem builders generating diversified revenue streams, a crucial evolution
+    for long-term sustainability.
+  relevance_score: 9
+  source: llm_enhanced
+  text: And ultimately, I think DAOs will become like ecosystem participants. They
+    will ramp up businesses which will be a bit positive and generating revenue for
+    their investors beyond just the asset and the yield.
+  topic: Web3 vision/business
+- impact_reason: Provides a concrete timeline linking DAO operational maturity (Q4
+    reporting) to TradFi recognition and valuation alignment (Feb 2026), explaining
+    the current valuation lag.
+  relevance_score: 9
+  source: llm_enhanced
+  text: It's too late right now because what investors look at are quarterly reports.
+    So basically, all the DAOs will do kind of their first fully ramped-up quarter
+    will be Q4 this year. The reports will be out in February 2026. That's when all
+    the investors in TradFi will realize there is yield, what the MNAV should be.
+  topic: adoption/regulation
+- impact_reason: 'Highlights the key narrative Solana needs to push to TradFi: superior
+    yield generation capabilities, which will drive MNAV alignment and capital inflow.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: The TradFi investors who are reading this, they will understand that Solana
+    is generating much higher yield than Ethereum one.
+  topic: adoption/investment
+- impact_reason: 'Explains the core technical innovation of W0: hardware-level (FPGA)
+    deduplication at the router level, offering a fundamental efficiency gain for
+    Solana validators.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: And W0 removes this because the deduplication is built directly on the FPGA,
+    which is on the Arista router, which you have in the data center when you are
+    running W0.
+  topic: technology/innovation
 - impact_reason: 'A profound insight into high-frequency trading: superior infrastructure
-    (low latency) can negate the need for complex predictive modeling in arbitrage.'
+    (low latency) can negate the need for complex predictive modeling, simplifying
+    arbitrage strategy.'
   relevance_score: 9
   source: llm_enhanced
   text: If you have super good infrastructure and low latency, your fair price model
     doesn't matter because you don't have to predict the future of where the price
-    will be on Binance because you are just there. You basically reduce the time window
-    because your latency is so low.
-  topic: strategy
-- impact_reason: Details the very early, pre-rebrand discovery of Solana (then LUM),
-    emphasizing the initial focus on high performance.
-  relevance_score: 8
-  source: llm_enhanced
-  text: someone told me, hey, if you check out this team in San Francisco, they are
-    building a new L1 high performance called LUM.
-  topic: Technology
-- impact_reason: A core philosophical takeaway from observing Solana's early struggles,
-    highlighting perseverance as a key indicator of success in high-risk ventures.
-  relevance_score: 8
-  source: llm_enhanced
-  text: best entrepreneurs never give up.
-  topic: Strategy
-- impact_reason: Describes a unique cultural dynamic within the Solana community where
-    adversity (like network outages or market crashes) strengthens cohesion and focus.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Solana just loves underdogs. That's when everybody comes together.
-  topic: Adoption
-- impact_reason: Acknowledges technical failures (network downtime) but immediately
-    pivots to the positive community response and commitment to fixing issues, showcasing
-    resilience.
-  relevance_score: 8
-  source: llm_enhanced
-  text: The network is down in February 2024 because the upgrade is done directly
-    on mainnet... So, you know, it's just a very tight community which sticks together
-    and is not happy until the vision is implemented.
-  topic: Technology
-- impact_reason: Highlights the critical importance of token unlocks in determining
-    the true value and distribution of ownership post-investment, a key risk factor
-    for VCs.
-  relevance_score: 8
-  source: llm_enhanced
-  text: especially, you know, once the unlocks happen, and it really becomes an ownership
-    game.
-  topic: Investment Thesis
-- impact_reason: Categorizes crypto alongside deregulation and AI as one of the primary
-    mechanisms for boosting nominal GDP growth, linking it directly to national economic
-    strategy.
-  relevance_score: 8
-  source: llm_enhanced
-  text: 'The three main levers [to treat the denominator, which is GDP] are: deregulation,
-    AI, crypto.'
-  topic: strategy/business
-- impact_reason: 'Describes the current competitive reality for VCs: securing a leading
-    position and a meaningful allocation (10% FDV) is essential for fund-returning
-    success.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: You basically have to be the one who leads the round and you have to fight
-    to get your 10% of the FDV of the protocol.
-  topic: investment/strategy
-- impact_reason: A core principle of fund management, emphasizing that in a mature
-    market, the bar for individual investment success must be high enough to cover
-    the entire fund size.
-  relevance_score: 8
-  source: llm_enhanced
-  text: 'As a VC, you should think about, you know, the math as follows: every investment
-    should return your fund.'
-  topic: investment/business
-- impact_reason: Provides a concrete example of high, sustainable yields achievable
-    in regulated DeFi credit funds, showcasing DeFi's potential for institutional
-    returns.
-  relevance_score: 8
-  source: llm_enhanced
-  text: We generate 16, 17% net per annum. We take 1.5% management, 15% carry. So
-    in gross, we are making 20 to 25% yield on DeFi, which is great.
-  topic: DeFi
-- impact_reason: Highlights the current friction points (regulation, ISIN complexity)
-    preventing seamless TradFi integration, even when high yields are available.
-  relevance_score: 8
-  source: llm_enhanced
-  text: So I want this fund to be fully regulated because then I said, any bank, JP
-    Morgan, Morgan Stanley, could subscribe to this fund just using the ISIN.
-  topic: Regulation/Adoption
-- impact_reason: Acknowledges Ethereum's current dominance in institutional adoption
-    while clearly stating the strategic goal to shift that capital flow to Solana.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Ethereum is now the place for institutional capital. And I, but I hope we
-    change this.
-  topic: Adoption
-- impact_reason: Identifies stablecoin issuance as a key infrastructural hurdle Solana
-    must overcome to compete effectively for institutional capital.
-  relevance_score: 8
-  source: llm_enhanced
-  text: It's one of the obstacles that Solana still has to jump over together with
-    like stablecoin issuance...
-  topic: Technology
-- impact_reason: Reveals the speaker's firm operates more like an on-chain infrastructure/CTA
-    (Commodity Trading Advisor) than a traditional venture capital firm, emphasizing
-    active, on-chain participation.
-  relevance_score: 8
-  source: llm_enhanced
-  text: we do much more on-chain stuff than we do in VC. So I think you should more
-    think about us like a CTA that'll on-chain.
-  topic: Strategy
-- impact_reason: Proposes that Digital Asset Trusts (DATs) should actively utilize
-    underlying DeFi protocols (like Solana's) to generate yield for their shareholders.
-  relevance_score: 8
-  source: llm_enhanced
-  text: every DAT needs to massively leverage Solana DeFi. And I think I will do it
-    with Ford as well.
-  topic: Adoption/Investment
-- impact_reason: Establishes a clear, rational expectation for how a DAT's Net Asset
-    Value (NAV) should reflect the yield generated by its underlying crypto holdings.
-  relevance_score: 8
-  source: llm_enhanced
-  text: if a DAT is doing, you know, 13% on SOL, NAV should be 1.13. And the rational
-    investor would compare the yield and the NAV.
-  topic: Investment
-- impact_reason: 'Establishes a clear, rational benchmark for evaluating DAT performance:
-    Net Asset Value (NAV) should reflect the underlying yield generation.'
-  relevance_score: 8
-  source: llm_enhanced
-  text: But the NAV in the ideal world should correspond to the yield you are generating.
-    So if a DAT is doing, you know, 13% on SOL, NAV should be 1.13.
-  topic: investment
-- impact_reason: Contrasts the perceived lower yield environment/communication of
-    ETH DATs with the necessity for SOL DATs to be highly transparent about their
-    staking and DeFi yield components.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Maybe you get 3%. And I don't think Ethereum DATs are particularly good at
-    communicating the yield. And we need to do a good job as Solana DATs communicating
-    the underlying yield and the split across staking and DeFi yield on top.
-  topic: defi
-- impact_reason: Predicts DATs will become active capital allocators and potential
-    acquirers within the Solana ecosystem, driving consolidation and growth.
-  relevance_score: 8
-  source: llm_enhanced
-  text: DATs which will have a much bigger role to play in the ecosystem, they will
-    allocate much more capital into DeFi. There might be some consolidation to happen
-    even beyond the DATs. So maybe some DATs would acquire some companies within the
-    Solana ecosystem...
-  topic: defi
-- impact_reason: Positions DATs as crucial infrastructure not just for capital inflow,
-    but also for providing a regulatory/structural 'shield' for Solana projects targeting
-    TradFi and Venture Capital.
-  relevance_score: 8
-  source: llm_enhanced
-  text: Yes, I just think DATs have to do a lot of heavy lifting right now. Again,
-    I think heavy lifting in terms of the advantage, but also in terms of just shielding
-    Solana to TradFi and VC.
-  topic: regulation
-- impact_reason: 'Clearly defines the critical infrastructure bottleneck for high-frequency
-    Solana arbitrageurs: the physical latency between major data centers (Frankfurt/Tokyo).'
-  relevance_score: 8
-  source: llm_enhanced
-  text: Basically, all that matters is the latency between Frankfurt, where most of
-    the validators are located, and Tokyo, where is like Binance and High Public with
-    the matching engine, because you are basically doing arbitrage between those two
-    cities on the other side of the world, really.
-  topic: technology
-- impact_reason: Reveals a major strategic initiative involving sovereign entities
-    (UAE) to build geographically optimized infrastructure to solve global crypto
-    latency issues.
-  relevance_score: 8
+    will be on Binance because you are just there. You reduce the time window because
+    your latency is so low.
+  topic: investment/technology
+- impact_reason: Reveals a major, real-world strategic initiative to improve global
+    Solana connectivity and latency by leveraging geopolitical location (UAE) for
+    infrastructure development.
+  relevance_score: 9
   source: llm_enhanced
   text: And now we are speaking with the UAE government to build up a massive data
-    center because it would be in the middle of the world, between Frankfurt and Tokyo.
-    So you can cut the ping time significantly.
-  topic: technology
-- impact_reason: Provides a historical anecdote illustrating the early utility and
-    necessity of Bitcoin in specific niche communities (like the Czech/Slovak crypto
-    scene), predating mainstream adoption.
-  relevance_score: 7
+    center because Abu Dhabi is in the middle of the world, between Frankfurt and
+    Tokyo.
+  topic: strategy/adoption
+- impact_reason: Highlights Rockaway X's deep, early conviction in the Solana ecosystem,
+    establishing their credibility and thesis.
+  relevance_score: 8
   source: llm_enhanced
-  text: when I quit my previous job, that's where I bought my first Bitcoin in 2015,
-    because this was the only way to pay for coffee and for working desk, you had
-    to buy Bitcoin.
+  text: Rockaway X invested in Solana when it was priced at $0.04, and it has since
+    invested in Solana ecosystem projects, including Camino, Squads, Double Zero,
+    and a bunch of others.
+  topic: Investment
+- impact_reason: Shifts focus from financial returns to the importance of community
+    resilience and engagement, especially during bear markets.
+  relevance_score: 8
+  source: llm_enhanced
+  text: It's not really the returns. What really I am so excited about is the community
+    and how we are strong together and all the Breakpoints...
   topic: Adoption
-- impact_reason: A nostalgic look back at the early, highly lucrative VC environment
-    (2017) where deal flow was abundant and almost guaranteed success, contrasting
-    it with today's competitive landscape.
-  relevance_score: 7
+- impact_reason: Sets up the core question regarding L1 market saturation and VC evaluation
+    criteria for new infrastructure plays.
+  relevance_score: 8
   source: llm_enhanced
-  text: We were doing early rounds. So we were kind of sending our deal flow on a
-    weekly basis to all other VC friends because everybody would make money.
+  text: What is your framework for evaluating new L1s and whether they're going to
+    be the next Solana or whether they'll kind of fall by the wayside and the hype
+    will never turn into anything tangible?
+  topic: Strategy
+- impact_reason: Highlights the critical, yet unseen, risk factor of token unlocks
+    (specifically mentioning 'Athena' and 'Plasma' which likely refer to upcoming
+    L1s/major projects) and the shift to an 'ownership game' post-launch.
+  relevance_score: 8
+  source: llm_enhanced
+  text: And especially, once the unlocks happen, we still have to see this on both
+    Athena and Plasma, and it really becomes an ownership game.
+  topic: Investment
+- impact_reason: This redefines the success metrics for VC investments in the current
+    crypto market, contrasting sharply with the 1000x returns sought in 2017, indicating
+    market maturity and lower expected multiples.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Right now, if you do a successful investment, it reaches a billion dollars.
+    Super success is if it reaches $10 billion. But I'd say a success is when your
+    investment reaches $1 billion FDV.
   topic: investment/business
-- impact_reason: A direct critique of high-profile, potentially unrealistic price
-    predictions in the market, suggesting a need for grounded analysis.
-  relevance_score: 7
+- impact_reason: 'A strategic pivot call: focus less on internal technical debates
+    and more on simplifying the narrative for the crucial incoming TradFi audience.'
+  relevance_score: 8
   source: llm_enhanced
-  text: The assumptions make no sense [regarding Tom Lee's $60,000 ETH prediction].
-  topic: Investment
-- impact_reason: The speaker implies that capturing 10% of the tokenized asset market
-    is actually a conservative estimate for Solana, signaling strong conviction in
-    the chain's future role.
-  relevance_score: 7
+  text: Stop kind of arguing on Crypto Twitter who is smarter, whether we are going
+    to implement application-specific sequencing or multiple concurrent leaders, and
+    who is rather going to simplify this very complex crypto story for traditional
+    investors.
+  topic: strategy/adoption
+- impact_reason: Summarizes the core bullish thesis for the entire crypto market based
+    on macroeconomic pressures (debt management and GDP growth levers).
+  relevance_score: 8
   source: llm_enhanced
-  text: Why do you believe that the majority of this new tokenized asset sector is
-    going to accrue to Solana? ... Yeah, 100%. So that's not actually a very large
-    slice. That's not very ambitious.
-  topic: Investment
-- impact_reason: Identifies yield aggregation/simplification tools (like Lula) as
-    necessary infrastructure for bridging complex DeFi yields to less sophisticated
-    users.
-  relevance_score: 7
-  source: llm_enhanced
-  text: I'm excited about Lula, for example, as an app, which is like a yield aggregator,
-    yield simplification.
-  topic: DeFi
-- impact_reason: A specific prediction regarding the valuation mechanics of Solana
-    DATs, suggesting market efficiency will eventually bring their NAVs below parity
-    (1.0) if yield isn't properly reflected or generated.
-  relevance_score: 7
-  source: llm_enhanced
-  text: I would think that over time, it's going to be the case that Solana DAT NAVs
-    will compress below one as well.
+  text: And so because of the two kind of forces, both on the debt side and on the
+    GDP side, I'm super bullish on crypto.
   topic: investment
-- impact_reason: 'Outlines a mechanism for DATs to correct NAV discrepancies: stock
-    buybacks, which benefits existing shareholders and signals strong management.'
-  relevance_score: 7
+- impact_reason: A surprisingly critical take on Bitcoin's current utility, suggesting
+    its SoV status is still aspirational rather than proven, especially during equity
+    drawdowns.
+  relevance_score: 8
   source: llm_enhanced
-  text: And if it doesn't [NAV aligns with yield], then you buy back your stock because
-    you're making money for your investors.
-  topic: business
-- impact_reason: Acknowledges the direct correlation between TVL and market valuation,
-    highlighting TVL growth as Solana's immediate challenge.
-  relevance_score: 7
+  text: Bitcoin does not really show that it's a store of value. It's a narrative
+    we all hope will become one day...
+  topic: investment
+- impact_reason: Points out that even the most aggressive Bitcoin proponents are shifting
+    their pitch toward yield generation to attract institutional capital, reflecting
+    the broader market shift.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Michael Saylor's pitch to Wall Street. He's not saying it's a store of value.
+    He's saying it's yielding 20% per annum...
+  topic: adoption/investment
+- impact_reason: Provides specific, high-conviction price targets for SOL, which are
+    crucial for investor sentiment and analysis.
+  relevance_score: 8
+  source: llm_enhanced
+  text: My targets are $900, $2,000, $6,000 per SOL.
+  topic: investment
+- impact_reason: A stark summary of the maturation of the crypto VC landscape, where
+    early-stage L1 investments no longer promise exponential returns.
+  relevance_score: 8
+  source: llm_enhanced
+  text: The math has completely changed. Before, you know, you put a $100k ticket
+    into an L1, it went to $100 billion, you made 1000X. Right now, you don't make
+    1000X anymore.
+  topic: investment/business
+- impact_reason: Provides a specific, near-term price target for Solana based on parity
+    with Ethereum's market cap, offering a concrete benchmark for investors.
+  relevance_score: 8
+  source: llm_enhanced
+  text: for me, $900 in the short term is possible. That's when Solana would hit Ethereum's
+    market cap.
+  topic: Investment Thesis
+- impact_reason: Acknowledges Ethereum's current institutional dominance while explicitly
+    naming stablecoin issuance and institutional comfort as key hurdles Solana must
+    overcome.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Ethereum is now the place for institutional capital. But I hope we change
+    this. It's one of the obstacles that Solana still has to jump over, together with
+    stablecoin issuance and so on.
+  topic: Adoption/Competition
+- impact_reason: Defines a new archetype of crypto investment firm that prioritizes
+    deep, operational involvement in network infrastructure and DeFi liquidity provision
+    over traditional VC equity stakes.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We actually do much more in on-chain stuff than we do in VC. So I think you
+    should more think about us like a DeFi on-chain fund—running optical cables for
+    the network for W0, running validators, on-chain market maker solvers for Mayan,
+    and providing liquidity to DeFi.
+  topic: Business Strategy
+- impact_reason: Provides a candid assessment that current, native DeFi protocols
+    often lack the necessary UX/simplicity required for mainstream institutional adoption.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think protocol calls we have in Solana are not very well-suited for TradFi.
+    None of the TradFi friends I know would use Loop, Scalar, Camino.
+  topic: Adoption
+- impact_reason: Positions DAOs as a crucial, untapped distribution channel for scaling
+    DeFi TVL and yield generation on Solana.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Every DAO needs to massively leverage Solana DeFi. And I think I will do it
+    with Ford as well.
+  topic: Web3 Vision/DeFi
+- impact_reason: Strong conviction that DAOs will be a foundational component of Solana's
+    growth narrative in the near future.
+  relevance_score: 8
+  source: llm_enhanced
+  text: I think DAOs will become absolutely instrumental for Solana in 2026.
+  topic: Prediction
+- impact_reason: This outlines a clear mechanism for DAOs to create shareholder value
+    when their market price (MNAV) deviates from their intrinsic value, suggesting
+    a disciplined approach to capital allocation.
+  relevance_score: 8
+  source: llm_enhanced
+  text: And if it doesn't, then you buy back your stock because you're making money
+    for your investors.
+  topic: business/strategy
+- impact_reason: Illustrates the current friction point for TradFi interacting with
+    DeFi protocols directly, positioning DAOs as the necessary intermediary abstraction
+    layer for capital deployment.
+  relevance_score: 8
+  source: llm_enhanced
+  text: Like, I don't know, go on on refinance and try to allocate some capital. Open
+    your Phantom wallet, it's hard. If it's a DAO, just boom, the DAO will just—
+  topic: adoption/defi
+- impact_reason: 'Confirms the market''s current valuation bias towards TVL, setting
+    a clear, measurable goal for the Solana ecosystem: increasing TVL via DAO activity.'
+  relevance_score: 8
   source: llm_enhanced
   text: Ethereum has more TVL. So that's why it has—the fact of them having more TVL
     has more impact on their price. And it's something we have to play catch-up on
     as Solana, like TVL.
-  topic: adoption
-- impact_reason: A call to action for better communication strategy, emphasizing the
-    need to directly target TradFi audiences with specific comparative investment
-    theses.
+  topic: investment/strategy
+- impact_reason: A direct call to action for ecosystem leaders to shift communication
+    strategy from internal crypto audiences to external TradFi audiences to drive
+    valuation.
+  relevance_score: 8
+  source: llm_enhanced
+  text: We have to step up and do a much better job not communicating just on crypto
+    podcasts and Crypto Twitter, but go out there and tell TradFi investors that Solana
+    is undervalued versus Ethereum, but it's a much better asset.
+  topic: business/strategy
+- impact_reason: Highlights the shift to optical networking as a key infrastructure
+    upgrade, essential for minimizing latency in high-frequency trading environments.
+  relevance_score: 8
+  source: llm_enhanced
+  text: The second reason why we are so excited is because the transactions will run
+    on optical networks.
+  topic: technology/innovation
+- impact_reason: Suggests that infrastructure improvements like W0 lead to a more
+    efficient, less 'gamed' market by leveling the latency playing field.
+  relevance_score: 8
+  source: llm_enhanced
+  text: And so that's why we are excited because it just simplifies completely the
+    infrastructure play and removes all these arbitrage opportunities.
+  topic: technology/strategy
+- impact_reason: Provides historical context on the transition from the ICO era to
+    the L1 infrastructure buildout phase, specifically mentioning Solana's predecessor.
   relevance_score: 7
   source: llm_enhanced
-  text: We have to step up and do a much better job, you know, not communicating just
-    on crypto podcasts and Crypto Twitter, but go out there and tell TradFi investors
-    that Solana is undervalued versus Ethereum, but it's a much better asset.
-  topic: business
-- impact_reason: A historical footnote showing the early competitive landscape and
-    the need for clear branding, even before the mainnet launch.
-  relevance_score: 6
+  text: And when I got interested by the ICO wave in 2017, in 2018, someone told me,
+    hey, if you check out this team in San Francisco, they are building a new L1 high
+    performance called LUM.
+  topic: Technology
+- impact_reason: Identifies yield aggregation/simplification tools as a necessary
+    bridge category for onboarding less sophisticated investors into complex DeFi
+    strategies.
+  relevance_score: 7
+  source: llm_enhanced
+  text: I'm excited about Lula, for example, as an app, which is like a yield aggregator,
+    a yield simplification.
+  topic: DeFi Innovation
+- impact_reason: 'A concise summary of the industry''s primary challenge: the complexity
+    barrier to entry for new capital.'
+  relevance_score: 7
+  source: llm_enhanced
+  text: I think as an industry, we need easier tools to onboard.
+  topic: Adoption
+- impact_reason: Indicates a market maturation phase where focus shifts from launching
+    new entities to optimizing existing, well-capitalized DAOs, suggesting consolidation
+    or quality over quantity.
+  relevance_score: 7
+  source: llm_enhanced
+  text: I don't actually think new DAOs will be created. We don't invest into any
+    new DAOs. We still receive like on average one per day. We're just passing on
+    all of them.
+  topic: business/investment
+- impact_reason: Corrects a common assumption about data center costs, pinpointing
+    high-cost internet connectivity, not energy, as the primary barrier in locations
+    like the UAE.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Energy is already cheap in the UAE; the sun is shining all the time. But it's
+    more the internet connection.
+  topic: business/strategy
+- impact_reason: A historical footnote showing early naming conflicts and the need
+    for clear branding, even among nascent L1s.
+  relevance_score: 5
   source: llm_enhanced
   text: we are rebranding from LUM to Solana because there was another Ethereum project
     called LUM. So it was just creating confusion.
   topic: Technology
-- impact_reason: Suggests the initial wave of DAT creation is over, shifting focus
-    from launching new vehicles to optimizing existing ones.
-  relevance_score: 6
-  source: llm_enhanced
-  text: I don't actually think new DATs will be created. Like we don't invest into
-    any new DATs. We still receive like on average one per day. We're just passing
-    on all of them.
-  topic: investment
-- impact_reason: Indicates deep, long-term conviction in the Solana ecosystem from
-    the technical team, predating current hype cycles.
-  relevance_score: 6
-  source: llm_enhanced
-  text: My engineers came to me, maybe I don't know when this was, two years ago,
-    and they said, like, we are super bullish on Double Zero, super, super bullish
-    on Solana.
-  topic: strategy
-- impact_reason: A surprising, tangential insight that hints at infrastructure challenges
-    or cost disparities that might influence global Web3 adoption or development strategies.
-  relevance_score: 5
+- impact_reason: A brief, interesting anecdote suggesting infrastructure costs/access
+    can be a barrier or differentiator in global tech adoption (though context is
+    missing).
+  relevance_score: 4
   source: llm_enhanced
   text: I learned that internet in the UAE is very expensive, and much more.
   topic: Adoption
@@ -1385,97 +1290,99 @@ summary: '## Podcast Episode Summary: Why This Early Solana Investor Is Still Al
 
 
   This 68-minute episode features an in-depth conversation with **Viktor Fischer**,
-  Founder and CEO of **Rockaway X**, an early and highly successful venture fund investor
-  in the Solana ecosystem (investing at the $0.04 token price). The discussion centers
-  on Rockaway X''s enduring conviction in Solana, the current state of L1 competition,
-  and the evolving investment narrative for the platform, particularly targeting Traditional
-  Finance (TradFi) adoption.
+  founder and CEO of **Rockaway X**, an early and highly successful venture fund focused
+  on the Solana ecosystem. Fischer details the firm''s origin story, their unwavering
+  conviction in Solana since the seed stage (when SOL was $0.04), and their current,
+  aggressive thesis for the network''s future, including ambitious price targets.
 
 
   ---
 
 
-  **1. Focus Area**:
+  ### 1. Focus Area
 
-  The primary focus is on **Solana''s technical viability, ecosystem strength, and
-  future investment potential** within the broader Web3/Crypto landscape. Secondary
-  themes include the changing dynamics of venture capital in crypto and the shift
-  in investor focus from pure "store of value" to "high-growth, yield-generating assets."
-
-
-  **2. Key Technical Insights**:
-
-  *   **Ecosystem Moat is Paramount:** Fischer argues that the "game is over" for
-  new L1s because the effort required to replicate Solana''s existing ecosystem support
-  (exchanges, wallets, DeFi primitives) is too massive, taking at least five years.
-
-  *   **Solana as a "Global NASDAQ":** The core technical value proposition for TradFi,
-  as synthesized by Dr. Arthur Laffer, is Solana functioning as a globally synchronized,
-  high-speed settlement layer, eliminating overnight banking synchronization and settlement
-  delays.
-
-  *   **Operational Maturity:** The community learned from past failures (like the
-  mainnet upgrade snapshot issue in Feb 2024) and implemented robust processes, such
-  as avoiding mainnet updates and ensuring proper validator snapshot distribution.
+  The primary focus is **Solana''s technical viability, ecosystem development, and
+  investment thesis**, contrasted against Ethereum. Secondary themes include the changing
+  landscape of crypto venture capital, the influx of Traditional Finance (TradFi)
+  investors, and the macroeconomic environment (fiat debasement).
 
 
-  **3. Market/Investment Angle**:
+  ### 2. Key Technical Insights
 
-  *   **No New L1 Bets:** Rockaway X is explicitly *not* investing in new Layer 1s,
-  believing the market has consolidated around **Base and Solana**. The math for VC
-  returns on new L1s has changed; success is now defined by reaching a $1 billion
-  FDV, not 1000x returns.
+  *   **Ecosystem Dominance over Performance:** Fischer argues that the "game is over"
+  for new L1s because developer mindshare has consolidated around **Solana and Base**.
+  The barrier to entry for a new L1 is no longer raw performance but the massive,
+  multi-year effort required to secure exchange off-ramps, wallet support, and foundational
+  DeFi primitives.
 
-  *   **The TradFi On-Ramp Opportunity:** The current major thesis is bridging the
-  gap between Solana and TradFi investors via **Digital Asset Trusts (DATs)**. Solana''s
-  DAT trading volume ($110M daily) is significantly lagging Ethereum''s ($3B+), presenting
-  a massive arbitrage opportunity for education and adoption.
+  *   **Solana''s Speed as an Application Builder:** Solana''s core technical advantage
+  is its speed and low cost, which allows applications (like NFT minting tools) to
+  be built and iterated upon extremely quickly, making it the preferred chain for
+  rapid deployment.
 
-  *   **Yield Over Store of Value:** The narrative for Solana is shifting away from
-  being a "store of value" (like Bitcoin) toward being a **high-growth, yield-generating
-  asset** (offering 7-12%+ staking/DeFi yields) that improves portfolio Sharpe ratios
-  against dollar debasement.
-
-
-  **4. Notable Companies/People**:
-
-  *   **Solana (SOL):** The core investment, with Fischer projecting price targets
-  between **$900 and $6,000**.
-
-  *   **Rockaway X:** The venture fund, which invested in Solana at $0.04 and ecosystem
-  projects like **Camino, Squads, and Double Zero**.
-
-  *   **Dr. Arthur Laffer:** Inventor of the Laffer Curve and board member at Solvated
-  (a Solana DAT), who strongly endorses Solana as a synchronized global NASDAQ and
-  a high-yield asset against dollar debasement.
-
-  *   **LUM:** The original name for Solana before rebranding due to conflict with
-  an Ethereum project.
+  *   **Operational Maturity:** Following past network outages (like the mainnet snapshot
+  issue), the community has implemented robust processes, such as avoiding mainnet
+  upgrades, demonstrating a commitment to operational excellence and learning from
+  mistakes.
 
 
-  **5. Regulatory/Policy Discussion**:
+  ### 3. Market/Investment Angle
 
-  The discussion touched upon the macroeconomic environment, specifically the expectation
-  of **negative real rates** in the US (inflation > Fed rates), which forces investors
-  to seek high-growth, yield-bearing assets like crypto, rather than relying on traditional
-  bonds for portfolio protection. The rise of regulated DATs is seen as the key vehicle
-  for TradFi entry.
+  *   **The End of 1000x L1 Bets:** The VC math has changed; achieving a $1 billion
+  Fully Diluted Valuation (FDV) is now considered a success for a new L1 investment,
+  shifting the focus from massive early-stage multipliers to securing significant
+  ownership stakes (e.g., 10% of FDV) in successful protocols.
+
+  *   **TradFi Influx and the DAO Opportunity:** Fischer identifies a major current
+  opportunity in onboarding TradFi investors via Solana-based DAOs (e.g., Ford, STS,
+  Solvade). He notes a massive gap: Solana DAOs have only $110M-$120M in daily trading
+  volume compared to over $3B on Ethereum DAOs.
+
+  *   **Price Targets Anchored to Macro and Utility:** Fischer projects **SOL targets
+  of $900 (matching ETH market cap), $2,000, and $6,000**. The $2,000 target is based
+  on Solana capturing 10% of the projected $20-25 trillion global tokenized asset
+  market by 2030.
 
 
-  **6. Future Implications**:
+  ### 4. Notable Companies/People
 
-  The industry is moving toward **ecosystem consolidation** (L1 dominance) and a focus
-  on **simplifying complex crypto narratives for institutional adoption**. The future
-  success of Solana hinges on its ability to capture the TradFi capital flowing into
-  regulated vehicles, leveraging its technical performance as a high-speed settlement
-  layer.
+  *   **Rockaway X:** Victor Fischer’s firm, an early investor in Solana, Camino,
+  Squads, and Double Zero.
+
+  *   **Solana Team (Toly & Raj):** Praised for their "never give up" attitude, which
+  was crucial during lean times before the 2021 boom.
+
+  *   **Dr. Arthur Laffer:** The inventor of the Laffer Curve, now a board member
+  at Solvade, who bullishly views Solana as a "global NASDAQ" that offers instant,
+  low-cost global settlement without overnight synchronization.
+
+  *   **WiseSolana.com:** A resource Fischer created to simplify the Solana story
+  for traditional investors.
 
 
-  **7. Target Audience**:
+  ### 5. Regulatory/Policy Discussion
 
-  **Crypto VCs, Solana Ecosystem Builders, Institutional Investors/TradFi professionals**
-  looking to understand the current bullish thesis for Solana beyond retail hype,
-  and **L1 strategists** interested in ecosystem moats.'
+  The discussion touched on the macroeconomic policy environment, specifically the
+  expectation of **negative real interest rates** in the US (inflation running hotter
+  than Fed rates). This environment, Fischer argues, forces investors to seek high-growth,
+  yield-generating assets outside of traditional bonds and equities, benefiting crypto.
+
+
+  ### 6. Future Implications
+
+  The industry is moving toward a duopoly of dominant L1s (Solana and Base) where
+  ecosystem integration (wallets, exchanges) dictates success. The next major growth
+  vector for Solana will be successfully integrating sophisticated TradFi capital
+  through institutional-grade DAOs, positioning SOL not as "digital gold" but as a
+  **high-growth, yield-generating asset** that improves traditional portfolio Sharpe
+  ratios.
+
+
+  ### 7. Target Audience
+
+  **Crypto VCs, Solana Ecosystem Builders, Institutional Investors looking for high-growth
+  digital assets, and Macro Strategists** interested in how blockchain adoption intersects
+  with global monetary policy.'
 tags:
 - artificial-intelligence
 - investment
@@ -1513,4 +1420,4 @@ topics:
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-10-10 10:04:32 UTC -->
+<!-- Processing completed: 2025-10-10 13:11:09 UTC -->

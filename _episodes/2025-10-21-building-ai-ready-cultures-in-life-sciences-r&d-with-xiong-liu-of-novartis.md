@@ -55,117 +55,162 @@ companies:
   position: 1397
 - category: unknown
   confidence: medium
-  context: eve you can help other leaders move the needle on AI ROI, visit Emerge.com
-    and fill out our Thought Leader
+  context: eve you can help other leaders move the needle on AI ROI, visit emerj.com
+    and fill out our Thought Leaders
   name: AI ROI
   position: 1865
 - category: unknown
   confidence: medium
-  context: edle on AI ROI, visit Emerge.com and fill out our Thought Leaders submission
-    form. That's Emerge.com and click on b
+  context: eedle on AI ROI, visit emerj.com and fill out our Thought Leaders submission
+    form. That's emerj.com and click on be
   name: Thought Leaders
-  position: 1907
+  position: 1906
 - category: unknown
   confidence: medium
   context: ne. Again, that's emerj.com/expertone. Hey folks, Steven Johnson here,
     co-founder of Notebook LM. As an author, I'
   name: Steven Johnson
-  position: 2159
+  position: 2156
 - category: unknown
   confidence: medium
   context: ne. Hey folks, Steven Johnson here, co-founder of Notebook LM. As an author,
     I've always been obsessed with how
   name: Notebook LM
-  position: 2194
+  position: 2191
 - category: tech
   confidence: high
   context: and helping you brainstorm. Try it at notebooklm.google.com. Without further
     ado, here's our conversation
   name: Google
-  position: 2560
+  position: 2556
 - category: unknown
   confidence: medium
   context: Without further ado, here's our conversation with Zhong Liu. Dr. Liu, thank
     you so much for being with us onc
   name: Zhong Liu
-  position: 2622
+  position: 2618
 - category: unknown
   confidence: medium
   context: many, many different aspects, R&D in healthcare. If I can jump in just
     right there very quickly, just t
   name: If I
-  position: 5303
+  position: 5299
 - category: unknown
   confidence: medium
-  context: lking about generic AI versus the domain-specific Gen AI. When we delve
-    into those domain-specific use cas
+  context: he the paradigms has a lot of implications in the Certicle Health Care.
+    We're talking about generic AI versus the domain
+  name: Certicle Health Care
+  position: 6950
+- category: unknown
+  confidence: medium
+  context: sults, you know, as for the healthcare companies. So I think it's a combination,
+    it's a hybrid method, r
+  name: So I
+  position: 18032
+- category: unknown
+  confidence: medium
+  context: rganizations, there are different players in this Gen AI paradigm, right?
+    Then how do we ensure, you know,
   name: Gen AI
-  position: 7029
-- category: ai_media_and_research
+  position: 22887
+- category: unknown
+  confidence: medium
+  context: s to have some awareness of this history as well. And I think
+  name: And I
+  position: 24187
+- category: ai_media_and_analysis
   confidence: high
   context: The organization hosting the 'AI and Business Podcast' and featuring executive
     thought leaders on AI adoption.
   name: Emerge AI Research
   source: llm_enhanced
-- category: ai_user_life_sciences
+- category: ai_user_enterprise
   confidence: high
   context: The company where the guest, Jung Liu, is the Director of Data Science
-    in AI, focusing on applying GenAI and LLMs in R&D and clinical workflows.
+    in AI, focusing on applying generative AI in R&D and clinical workflows.
   name: Novartis
   source: llm_enhanced
-- category: ai_user_finance
+- category: ai_user_enterprise
   confidence: medium
-  context: Mentioned as an organization whose CIO has been featured on the podcast,
-    implying their use/involvement in enterprise AI.
+  context: Mentioned as an example of a company whose CIO has been featured on the
+    podcast, indicating their involvement in enterprise AI.
   name: Goldman Sachs
   source: llm_enhanced
-- category: ai_user_defense
+- category: ai_user_enterprise
   confidence: medium
   context: Mentioned as an organization whose head of AI has been featured on the
-    podcast, implying their use/involvement in enterprise AI.
+    podcast, indicating their involvement in enterprise AI.
   name: Raytheon
   source: llm_enhanced
-- category: ai_application_startup
+- category: ai_application
   confidence: high
-  context: An AI-first tool for organizing ideas and making connections, built by
-    Steven Johnson, which functions as a personal expert based on uploaded documents.
+  context: An AI-first tool built by Steven Johnson for organizing ideas and making
+    sense of complex information by uploading documents.
   name: Notebook LM
   source: llm_enhanced
-- category: ai_infrastructure_research
+- category: ai_infrastructure
   confidence: high
-  context: Mentioned as the proposer of the transformer architecture, which underpins
+  context: Mentioned as the originator of the transformer architecture, which underpins
     modern LLMs and foundation models.
   name: Google
   source: llm_enhanced
-- category: ai_application_startup
+- category: ai_application
   confidence: high
-  context: The specific URL provided for the Notebook LM tool, confirming its association
-    with Google.
-  name: Notebook LM (google.com)
+  context: The specific URL provided for the Notebook LM tool, which is a Google product.
+  name: NotebookLM.google.com
   source: llm_enhanced
-- category: consulting_ai_analysis
+- category: ai_consulting_and_analysis
   confidence: high
   context: Mentioned for conducting a recent survey on generative AI investment and
-    scaling in the life sciences sector.
+    scaling in the life sciences industry.
   name: Deloitte
   source: llm_enhanced
-- category: ai_company
-  confidence: medium
-  context: Referenced indirectly through the mention of 'GPT-like models' and the
-    explosion of LLMs, which is synonymous with OpenAI's impact.
-  name: OpenAI (Implied via GPT)
-  source: llm_enhanced
-- category: ai_research_model
+- category: ai_data_and_research
   confidence: high
-  context: A specific language model architecture mentioned as being used prior to
-    GPT-like models for information extraction in clinical trials.
+  context: Mentioned as a source of publicly available molecular data (gene expression
+    data) used to build foundation models.
+  name: Cell Atlas
+  source: llm_enhanced
+- category: ai_model_architecture
+  confidence: high
+  context: An older language model architecture (pre-GPT) that was applied to clinical
+    trial documents for information extraction.
   name: BERT
   source: llm_enhanced
-- category: ai_company_or_model
+- category: ai_model_architecture
   confidence: high
-  context: Referenced directly as 'GPT-like models' which leverage the decoder part
-    of the transformer architecture for data generation.
-  name: GPT (Implied)
+  context: Referenced generally (and implicitly GPT-like models) as the current generation
+    of generative models leveraging the decoder part of the transformer architecture.
+  name: GPT
+  source: llm_enhanced
+- category: ai_application
+  confidence: high
+  context: Mentioned as a benchmark for the timeline, noting that the speaker's team
+    was developing language models for clinical trials before its release.
+  name: Chat GPT
+  source: llm_enhanced
+- category: ai_research
+  confidence: high
+  context: Mentioned as being quite good at building foundation models and publishing
+    results.
+  name: Academics/Research Institutions
+  source: llm_enhanced
+- category: big_tech
+  confidence: medium
+  context: Mentioned as providers of open public architectures that can be leveraged.
+  name: Tech Companies
+  source: llm_enhanced
+- category: ai_application
+  confidence: high
+  context: Mentioned as entities that leverage published models or build their own
+    versions, requiring in-house AI/domain experts.
+  name: Healthcare Companies
+  source: llm_enhanced
+- category: ai_field
+  confidence: high
+  context: Mentioned as one of the first gigantic generative AI use cases, which provides
+    an advantage to language-based fields like genetics.
+  name: Natural Language Processing (NLP) Domain
   source: llm_enhanced
 date: 2025-10-21 06:00:00 +0000
 duration: 31
@@ -182,8 +227,14 @@ insights:
 layout: episode
 llm_enhanced: true
 original_url: https://traffic.libsyn.com/secure/techemergence/Business_-_10.21.25_-_Xiong_Liu.mp3?dest-id=151434
-processing_date: 2025-10-21 18:18:14 +0000
+processing_date: 2025-10-21 19:24:35 +0000
 quotes:
+- length: 209
+  relevance_score: 8
+  text: So you can use this kind of advanced embedding-like features to improve the
+    prediction accuracy of your machine learning but now the the GPT they also leverage
+    the decoding part of the transformer architecture
+  topics: []
 - length: 244
   relevance_score: 6
   text: So we have witnessed from the early years the machine learning technologies,
@@ -234,20 +285,20 @@ quotes:
     collect our own data, we label the data, and then apply algorithms to train models
     so that we can get a working model to predict the outputs for the new inputs
   topics: []
-- length: 100
+- length: 99
   relevance_score: 4
   text: But now people have been developing these new paradigms, which is along with
-    LLMs, foundation models
+    LLMs foundation models
   topics: []
-- length: 159
+- length: 160
   relevance_score: 4
-  text: So we are familiar with LLMs, they trained based on all the human corpus,
+  text: So we are familiar with LLMs, they trained based on all the human corpora,
     all the human languages you can imagine, all field of settings, large language
     models
   topics: []
 - length: 103
   relevance_score: 4
-  text: Fine-tuning meaning, yes, we take the foundation models, but we can still
+  text: A fine-tuning meaning yes, we take the foundation models but we can still
     take the data you have, right
   topics: []
 - length: 95
@@ -255,164 +306,146 @@ quotes:
   text: It doesn't mean we retrain the whole, you know, the foundation model, large
     language model, etc
   topics: []
-- length: 220
-  relevance_score: 4
-  text: Maybe we can give some more detailed examples about how GenAI and the foundation
-    models work, and then we can delve into, you know, the development, right, how
-    we build up and, you know, put those models into work, right
-  topics: []
-- length: 229
-  relevance_score: 4
-  text: I just give some examples about using foundation models, GenAI to generate
-    new cell types and gene expressions so that we can do all kinds of in silico,
-    you know, treatment methods to see, to observe the predicted phenotypes, etc
-  topics: []
-- length: 121
-  relevance_score: 4
-  text: So, you can use this kind of advanced embedding-like features to improve the
-    prediction accuracy of your machine learning
-  topics: []
-- length: 85
-  relevance_score: 4
-  text: But now the GPT, they also leverage the decoding part of the transformer architecture
-  topics: []
 - length: 142
   relevance_score: 4
   text: They could all fit into those kind of transformer architecture to let you
     learn the hidden embedding signatures of those molecules, atoms, etc
   topics: []
-- length: 167
+- length: 283
   relevance_score: 4
-  text: Although the goal of the foundation model is, it's tried to, you know, leverage
-    all the available data, minimizing, you know, the specifics, you know, of specific
-    data
+  text: And then this text knowledge about not just AI, computer science, but also
+    the knowledge about the data themselves, although the goal of the foundation model
+    is, it's tried to, you know, leverage all the available data, minimizing, you
+    know, the specifics, you know, of specific data
   topics: []
 - length: 152
   relevance_score: 4
   text: And we see this built in, it's an advantage that natural language processing
     as a domain became one of the first gigantic generative AI use cases, right
   topics: []
-- length: 72
+- length: 70
   relevance_score: 3
-  text: So, we can use the data you have to train, to fine-tune the model, right
+  text: So we can use the data you have to train to fine-tune the model, right
   topics: []
-- length: 106
+- length: 105
   relevance_score: 3
-  text: So, that is based on the breakthrough of the transformer architecture that
+  text: So that is based on the breakthrough of the transformer architecture that
     Google proposed a long time ago
   topics: []
-- impact_reason: Clearly maps the historical evolution of AI/ML, emphasizing the current
-    'paradigm shift' towards foundation models, which is crucial context for understanding
-    modern AI strategy.
+- impact_reason: 'This is a core explanation differentiating traditional ML from the
+    foundation model approach: moving from small, task-specific, labeled datasets
+    to leveraging massive, domain-wide pre-training.'
   relevance_score: 10
   source: llm_enhanced
-  text: We have witnessed from the early years the machine learning technologies,
+  text: Previously when we do machine learning, we just collect our own data, we label
+    the data, and then apply algorithms to train models... But now people have been
+    developing these new paradigms, which is along with LLMs foundation models. So
+    the idea is that yes, you still care about the specific data you are working on,
+    but at the same time, we want to collect all the available data, relevant data,
+    or irrelevant data, but as long as they fall into the same domain, and fill those
+    data into those transformer architectures to build a much large-scale pre-trained
+    models.
+  topic: technical
+- impact_reason: Provides a concrete, high-impact example of foundation models accelerating
+    early R&D by encoding vast amounts of public biological knowledge (e.g., gene
+    expression data), offering 'hints' even with limited proprietary data.
+  relevance_score: 10
+  source: llm_enhanced
+  text: For example, when we study the disease pathways and identify new targets for
+    specific indications... But now with foundation models, it has a lot of pre-point
+    models based on a publicly available molecular data. So for example, cell applers,
+    etc. So there's a lot of different cell types that gene expression data already
+    being built into those foundation models.
+  topic: predictions/technical
+- impact_reason: 'This is a powerful conceptual link: treating genetics/molecular
+    biology as a ''language'' that LLMs can process, suggesting a massive potential
+    for in-silico testing and reducing wet-lab work.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: genetics are just code, they're just a language so we can build a large language
+    model to have kind of the same functionality or be able to test a lot of the,
+    you know, genetic functions of a compound as an example to maybe take away some
+    of the larger heavy work of meant much of across the drug development process.
+  topic: predictions
+- impact_reason: Highlights the cutting-edge application of generative AI in creating
+    synthetic biological data (cell types, gene expressions) for in-silico testing,
+    drastically reducing physical experimentation time.
+  relevance_score: 10
+  source: llm_enhanced
+  text: using foundation models, gen AI to generate new cell types and gene expressions
+    so that we can do all kinds of in silico, you know, treatment methods to see,
+    to observe the predicted phenotypes, etc.
+  topic: technical
+- impact_reason: 'Highlights the key strategy for domain adaptation: applying the
+    large-scale pre-training paradigm to specialized scientific datasets to create
+    domain-specific foundation models.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: So people in the healthcare have been thinking similarly, can we put all the
+    available, you know, data, chemical data, clinical trial, data, etc. into those,
+    you know, transformer architecture. So that way we can also build our domain-specific
+    foundation models to enable a lot of downstream tasks.
+  topic: technical/strategy
+- impact_reason: 'Clearly articulates the key difference between encoder-only models
+    (like BERT) and decoder-based models (like GPT): the capability to generate novel
+    data sequences.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: But now the the GPT they also leverage the decoding part of the transformer
+    architecture. So meaning they are now able to generate new types of data.
+  topic: technical
+- impact_reason: 'Highlights a critical capability of generative models in science:
+    constrained generation, allowing simultaneous optimization against multiple desirable
+    properties (e.g., efficacy AND low toxicity).'
+  relevance_score: 10
+  source: llm_enhanced
+  text: And really, yeah, additionally, also based on your constraints, your requirements,
+    your domain-specific knowledge. So for example, you can generate many different
+    types of new molecules, but you can add constraints like have, you know, better
+    toxicity, solubility, etc. It can allow you to, you know, do that simultaneously.
+  topic: predictions/applications
+- impact_reason: 'Identifies a critical limitation: the pace of AI model development
+    is currently outpacing the ability of experimental science to generate the necessary
+    high-throughput, high-fidelity data.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: But unfortunately, to get those, you know, single-cell RNA-seq data, all those
+    kind of more, you know, experiment-driven data, probably we're not exactly there
+    yet, because, you know, we still rely on those traditional biotechnology methods
+    to collect those data through experiments on cell lines, on human tissues, et
+    cetera.
+  topic: limitations/technical
+- impact_reason: 'Pinpoints the danger of hallucination in high-stakes domains: unlike
+    code or text, biomedical outputs cannot be instantly verified, requiring costly,
+    slow experimental validation.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: But a way of phenomenon is about hallucination, right? So, when those models,
+    AI models, they generate new outputs, they probably seemingly like answers. But
+    if you delve into that... when it goes to the bio-medical biochemistry, et cetera...
+    is this something that you cannot be answered or validated instantly?
+  topic: safety/limitations
+- impact_reason: 'Proposes the solution to the hallucination/validation problem: evaluation
+    metrics must be jointly driven by domain expertise and AI performance measures.'
+  relevance_score: 10
+  source: llm_enhanced
+  text: So, I think this domain-driven, domain and AI-driven those evaluation is a
+    key here, because there could be so many versions of found data models.
+  topic: safety/strategy
+- impact_reason: Clearly outlines the historical evolution of AI/ML, highlighting
+    the current 'paradigm shift' towards foundation models, which is crucial context
+    for understanding modern AI strategy.
+  relevance_score: 9
+  source: llm_enhanced
+  text: we have witnessed from the early years the machine learning technologies,
     by the supervised learning, unsupervised learning, and then we move to the deep
     learning techniques like convolutional neural networks, RNNs, and graph neural
     networks. And more recently, we have a paradigm shift into those language models,
     foundation models.
   topic: technical
-- impact_reason: Provides a precise technical and conceptual distinction between traditional
-    ML (task-specific, labeled data) and the foundation model approach (leveraging
-    massive, broad pre-training).
-  relevance_score: 10
-  source: llm_enhanced
-  text: The difference is that previously when we do machine learning, we just collect
-    our own data, we label the data, and then apply algorithms to train models...
-    But now people have been developing these new paradigms, which is along with LLMs,
-    foundation models. So the idea is that yes, you still care about the specific
-    data you are working on, but at the same time, we want to collect all the available
-    data, relevant data, or irrelevant data, but as long as they fall into the same
-    domain, and feed those data into those transformer architectures to build a much
-    large-scale pre-trained models.
-  topic: technical
-- impact_reason: 'Offers a concrete, high-value example of foundation model utility
-    in life sciences: leveraging public molecular data (like cell atlases) to gain
-    insights into specific indications even with limited proprietary data.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: When we delve into those domain-specific use cases, we probably can better
-    understand the benefit of foundation models. So, for example, when we study the
-    disease pathways and identify new targets for specific indications... But now
-    with foundation models, it has a lot of pre-trained models based on publicly available
-    molecular data. So, for example, cell atlases, etc.
-  topic: technical
-- impact_reason: Provides a clear technical distinction between BERT (encoder-only,
-    good for representation/embeddings) and generative models, explaining the shift
-    in capability from feature extraction to generation.
-  relevance_score: 10
-  source: llm_enhanced
-  text: So, the difference is that the previously BERT architecture, they use the
-    decoder part of the transformer. So, you can think it's as a very good representation
-    model. So, many, it can capture the hidden context among the, in the text between
-    words, etc., that where a human sees. So, the outcome is some representations
-    or embeddings of those text tokens, etc.
-  topic: technical
-- impact_reason: 'Explains *why* GPT-style models are generative: leveraging the decoder
-    stack allows them to create novel sequences, which is transferable to biological
-    sequences (molecules, genes).'
-  relevance_score: 10
-  source: llm_enhanced
-  text: But now the GPT, they also leverage the decoding part of the transformer architecture.
-    So, meaning they are now able to generate new types of data. So, for example,
-    a new types of sequence that represent your language.
-  topic: technical
-- impact_reason: 'Crucial insight into controlled generation: foundation models can
-    incorporate complex, multi-objective constraints (like toxicity and solubility)
-    simultaneously during molecule design.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: So, now, certainly, it can allow you to generate new sequence, new graphs.
-    And really, yeah, additionally, also based on your constraints, your requirements,
-    your domain-specific knowledge. So, for example, you can generate many different
-    types of new molecules, but you can add constraints like have, you know, better
-    toxicity, solubility, etc. It can allow you to, you know, do that simultaneously.
-  topic: technical/applications
-- impact_reason: 'Identifies a major bottleneck: the gap between theoretical AI capability
-    (architecture/concept) and the physical limitations of experimental biology in
-    generating necessary high-fidelity data (e.g., single-cell sequencing).'
-  relevance_score: 10
-  source: llm_enhanced
-  text: I mean, that is potentially possible. But unfortunately, to get those, you
-    know, single-cell RNA-seq data, all those kind of more, you know, experiment-driven
-    data, probably we're not exactly there yet, because, you know, we still rely on
-    those traditional biotechnology methods to collect those data through experiments
-    on cell lines, on human tissues, etc. So, there's, you know, where AI, the architecture,
-    the concept there, but the, sometimes we are limited by the, you know, experimental
-    side.
-  topic: limitations/technical
-- impact_reason: Directly addresses the hallucination problem in high-stakes domains.
-    Unlike text/code, biological outputs require slow, expensive experimental validation,
-    amplifying the risk of hallucination.
-  relevance_score: 10
-  source: llm_enhanced
-  text: a way of phenomenon is about hallucination, right? So, when those models,
-    AI models, they generate new outputs, they probably seemingly like answers. But
-    if you delve into that... But when it goes to the bio-medical, biochemistry, etc.,
-    for example, it generates a new set of genes, a new molecule, is this something
-    that you cannot be answered or validated instantly?
-  topic: safety/limitations
-- impact_reason: 'Proposes the critical solution for high-stakes AI deployment: developing
-    domain-specific, knowledge-checking benchmarks and objective metrics to quantify
-    model reliability beyond superficial checks.'
-  relevance_score: 10
-  source: llm_enhanced
-  text: So, I think the way is that to define those, you know, knowledge-checking
-    benchmarks and also have, you know, objective metrics to measure against those
-    AI models, because right now the technology cannot give you 100% answers, how
-    those nations are always there, right?
-  topic: safety/strategy
-- impact_reason: Highlights the significant gap between investment interest and successful,
-    scaled deployment of GenAI in the life sciences sector, a critical business challenge.
-  relevance_score: 9
-  source: llm_enhanced
-  text: Flash forward to 2024, a recent Deloitte survey notes that while 73% of life
-    sciences leaders are investing in generative AI initiatives, fewer than 20% have
-    successfully scaled these technologies beyond pilot projects.
-  topic: business
-- impact_reason: 'Explains the core value proposition of foundation models: knowledge
-    transfer and utility even with limited domain-specific data (few-shot/zero-shot
-    learning potential).'
+- impact_reason: 'Explains the primary value proposition of foundation models: transfer
+    learning and enabling performance on low-data tasks, a major breakthrough for
+    specialized industries like life sciences.'
   relevance_score: 9
   source: llm_enhanced
   text: The benefit is that even if you have very small data for your own machine
@@ -421,236 +454,338 @@ quotes:
     data. So that's why they are called foundation models. They could be useful for
     many downstream tasks.
   topic: technical
-- impact_reason: Provides a clear, accessible definition of fine-tuning in the context
-    of foundation models—adjusting weights rather than full retraining—which is critical
-    for practitioners.
+- impact_reason: A clear, concise definition of fine-tuning in the context of foundation
+    models, clarifying that it involves weight adjustment rather than full retraining,
+    which is vital for efficient deployment.
   relevance_score: 9
   source: llm_enhanced
-  text: Fine-tuning meaning, yes, we take the foundation models, but we can still
-    take the data you have, right? So, we can use the data you have to train, to fine-tune
+  text: A fine-tuning meaning yes, we take the foundation models but we can still
+    take the data you have, right? So we can use the data you have to train to fine-tune
     the model, right? It's called fine-tune. It doesn't mean we retrain the whole,
     you know, the foundation model, large language model, etc. We just adjust the
     weights based on the data you have so that it can better be personalized for your
-    problems...
+    problems.
   topic: technical
-- impact_reason: Articulates the powerful analogy of treating biological data (genetics)
-    as language, justifying the application of LLMs/foundation models directly to
-    molecular design and drug development simulation.
+- impact_reason: 'Describes the ultimate goal of personalized medicine enabled by
+    AI: using population-scale models to inform individual patient treatment plans,
+    linking population data to personalization.'
   relevance_score: 9
   source: llm_enhanced
-  text: Genetics are just code, they're just a language. So we can build a large language
-    model to have kind of the same functionality or be able to test a lot of the,
-    you know, genetic functions of a compound as an example to maybe take away some
-    of the larger heavy work of meant much of across the drug development process,
-    not least of which are the clinical trials challenges...
+  text: foundational models will be able to, you know, track what these normal human
+    bodily functions are like across populations and then curtail that data to very
+    personalized circumstances among patients.
   topic: predictions
-- impact_reason: 'Offers a specific, cutting-edge application: using GenAI to synthesize
-    biological data (cell types, gene expressions) for *in silico* testing, accelerating
-    early discovery.'
+- impact_reason: Provides a critical, quantifiable metric illustrating the 'AI adoption
+    gap' or 'pilot purgatory' prevalent in the life sciences industry.
+  relevance_score: 9
+  source: llm_enhanced
+  text: 73% of life sciences leaders are investing in generative AI initiatives, fewer
+    than 20% have successfully scaled these technologies beyond pilot projects.
+  topic: business
+- impact_reason: 'Identifies the practical, non-technical challenges organizations
+    face when moving from experimentation to production: evaluation, alignment, and
+    ROI measurement.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: building domain-specific benchmarks, enabling tighter alignment between scientists
+    and AI teams, and adopting new evaluation standards for AI-driven research ROI.
+  topic: business
+- impact_reason: 'Provides a concrete, high-impact application of GenAI in life sciences:
+    generating biological data for in silico testing, accelerating discovery.'
   relevance_score: 9
   source: llm_enhanced
   text: People have been already applying those models. I just give some examples
-    about using foundation models, GenAI to generate new cell types and gene expressions
+    about using foundation models, gen AI to generate new cell types and gene expressions
     so that we can do all kinds of in silico, you know, treatment methods to see,
     to observe the predicted phenotypes, etc.
+  topic: predictions/applications
+- impact_reason: Reiterates the foundational role of the Transformer architecture
+    across diverse GenAI applications, confirming its dominance in modern AI.
+  relevance_score: 9
+  source: llm_enhanced
+  text: So all those models, you know, essentially they have the same, I mean, by
+    nature, they have the same setup. So that is based on the breakthrough of the
+    transformer architecture that Google proposed a long time ago.
   topic: technical
-- impact_reason: 'Lists the critical, non-technical hurdles for AI adoption in R&D:
-    benchmarking, cross-functional alignment, and measuring ROI.'
+- impact_reason: Applies the Transformer/embedding concept directly to molecular data
+    (SMILES strings, graphs), showing how it learns fundamental chemical signatures.
   relevance_score: 9
   source: llm_enhanced
-  text: Our conversation also highlights practical challenges in workflow, including
-    building domain-specific benchmarks, enabling tighter alignment between scientists
-    and AI teams, and adopting new evaluation standards for AI-driven research ROI.
-  topic: business
-- impact_reason: Directly links foundation models to accelerating the discovery of
-    novel biological targets and the design of new molecules, a core goal in pharma/biotech.
+  text: So all those information publicly available data are from different databases.
+    They could all fit into those kind of transformer architecture to let you learn
+    the hidden embedding signatures of those molecules, atoms, etc.
+  topic: technical/applications
+- impact_reason: Emphasizes the indispensable role of domain experts (SMEs) in the
+    entire ML lifecycle, especially in data curation and crucial model validation/benchmarking.
   relevance_score: 9
   source: llm_enhanced
-  text: So, that way can allow us to better focus on discovering, you know, novel
-    targets, novel gene pathways, etc. And also then when it goes to the new molecule
-    design, then also a lot of foundation models have been built.
-  topic: business/applications
-- impact_reason: Emphasizes the indispensable role of domain experts (SMEs) in guiding
-    data selection, model development, and crucially, benchmarking, even when using
-    generalist foundation models.
-  relevance_score: 9
-  source: llm_enhanced
-  text: And then this text knowledge about not just AI, computer science, but also
-    the knowledge about the data themselves. Although the goal of the foundation model
-    is, it's tried to, you know, leverage all the available data, minimizing, you
-    know, the specifics, you know, of specific data. But, you know, we still need
-    the domain knowledge people, you know, people have those kind of expertise to
-    guide the, you know, the selection of the data and also more importantly, then
-    these models are, you build, now how do we benchmark with them?
+  text: But, you know, we still need the domain knowledge people, you know, people
+    have those kind of expertise to guide the, you know, the selection of the data
+    and also more importantly, then these models are, you build, now how do we benchmark
+    with them?
   topic: strategy/business
-- impact_reason: 'A strategic warning: AI adoption in life sciences will be a hybrid
-    model, not a complete replacement of traditional methods. Subject matter experts
-    must understand this blended paradigm.'
+- impact_reason: Reiterates that data quality remains a primary challenge, even when
+    using massive pre-trained models, especially when moving to domain-specific tasks.
   relevance_score: 9
   source: llm_enhanced
-  text: It behooves them to kind of have some awareness of the new and old paradigm
-    that we were talking about before, how both are still present, but how we thought
-    that AI would impact life sciences organization or that they'd just be this one
-    school way of doing things is not the case. And that door remains open
-  topic: strategy/predictions
-- impact_reason: 'Describes a strategic shift in data management for AI adoption:
-    centralizing data first, then applying advanced algorithms, contrasting with older,
-    siloed approaches.'
+  text: So, so let's talk through the, you know, the challenges, you know, of building
+    and deploying those models. So, the first thing is about the data challenge, right?
+    So, so the foundation models, although they take all kinds of available data,
+    but still they require high-quality data.
+  topic: business/technical
+- impact_reason: 'A concise statement on the current bottleneck: AI concepts are ready,
+    but experimental data collection limits progress.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: So, there's, you know, where AI, the architecture, the concept there, but
+    the, sometimes we are limited by the, you know, experimental side.
+  topic: limitations
+- impact_reason: 'A crucial cautionary note: current AI is probabilistic, not deterministic,
+    necessitating rigorous, ongoing benchmarking and model selection rather than blind
+    trust.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: So, right now the technology cannot give you 100% answers, how those nations
+    are always there, right? So, it's quite important that we have to do those benchmarking
+    and select models accordingly.
+  topic: safety/strategy
+- impact_reason: 'Offers strategic advice to domain experts: they must understand
+    the evolution of AI methods (old vs. new paradigms) because the future involves
+    hybrid approaches, not total replacement.'
+  relevance_score: 9
+  source: llm_enhanced
+  text: It behooves them [subject matter experts] to kind of have some awareness of
+    the new and old paradigm that we were talking about before, how both are still
+    present, but how we thought that AI would impact life sciences organization or
+    that they'd just be this one school way of doing things is not the case.
+  topic: strategy
+- impact_reason: Highlights a critical need for domain expertise combined with AI
+    literacy, suggesting that technical AI knowledge alone is insufficient for successful
+    implementation.
+  relevance_score: 9
+  source: llm_enhanced
+  text: it's also just going to be who the subject matter experts to have some awareness
+    of this history as well.
+  topic: Strategy/Adoption
+- impact_reason: Describes a strategic shift in data management for AI adoption—centralizing
+    data first, then applying advanced algorithms, moving beyond simple task automation
+    to broad strategic impact.
   relevance_score: 8
   source: llm_enhanced
   text: We're seeing a new model where you have a large data repository where everything
     goes, all data is great data. We'll be discriminating about it later, discriminating
     about it later, but from that data repository we can drive more advanced algorithms
-    to help with strategic tasks across the entire organization...
+    to help with strategic tasks across the entire organization that need that kind
+    of whole-scale approach.
   topic: strategy
-- impact_reason: Identifies the Transformer architecture as the fundamental, unifying
-    technical breakthrough underpinning the current wave of foundation models across
-    modalities (text, image, molecular data).
+- impact_reason: Highlights the critical industry tension between using general-purpose
+    models and the necessity of domain-specific fine-tuning or development in regulated
+    fields like healthcare.
   relevance_score: 8
   source: llm_enhanced
-  text: So, all those models, you know, essentially they have the same, I mean, by
-    nature, they have the same setup. So, that is based on the breakthrough of the
-    transformer architecture that Google proposed a long time ago.
-  topic: technical
-- impact_reason: Reiterates the foundational importance of the Transformer architecture
-    as the basis for current GenAI success, even in specialized domains like biology.
-  relevance_score: 8
-  source: llm_enhanced
-  text: So, that is based on the breakthrough of the transformer architecture that
-    Google proposed a long time ago.
-  topic: technical
-- impact_reason: 'A concise summary of the organizational requirement for successful
-    AI implementation in specialized fields: mandatory cross-disciplinary teamwork
-    (AI + Biology/Chemistry).'
-  relevance_score: 8
-  source: llm_enhanced
-  text: So, it's basically a cross-discipline collaboration, whether in house or externally,
-    yeah.
+  text: We're talking about generic AI versus the domain-specific gen AI. When we
+    delve into those domain-specific use cases, we probably can better understand
+    the benefit of foundation models.
   topic: strategy
-- impact_reason: 'Strategic observation: The maturity of NLP/LLMs provides a head
-    start for language-like biological data (genetics, sequences) compared to other
-    data modalities in life sciences.'
+- impact_reason: Lists the key high-value application areas where foundation models
+    are expected to revolutionize R&D workflows.
+  relevance_score: 8
+  source: llm_enhanced
+  text: enabling teams to accelerate molecule design, digital twin creation, and protocol
+    optimization through deeper automation and improved data quality.
+  topic: predictions
+- impact_reason: 'Explains the core mechanism driving current AI success: leveraging
+    massive, diverse, generic pre-training data within the Transformer framework.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: So the difference is that we see the benefits of putting a lot of the generic
+    popping data like text images into those transformers so we can do, you know,
+    so many downstream tasks.
+  topic: technical
+- impact_reason: 'Offers a clear, accessible explanation of what models like BERT
+    produce: high-quality, abstracted feature representations (embeddings) that boost
+    traditional ML models.'
+  relevance_score: 8
+  source: llm_enhanced
+  text: So the outcome is some representations or embeddings of those text tokens,
+    etc. So those embeddings are token representations they have predictive power.
+    So you can think them as more advanced abstracted features to your machine learning
+    models.
+  topic: technical
+- impact_reason: 'Summarizes the organizational requirement for successful AI implementation
+    in complex fields: mandatory cross-disciplinary teamwork (AI experts + domain
+    experts).'
+  relevance_score: 8
+  source: llm_enhanced
+  text: So, yeah, so it's basically a cross-discipline collaboration, whether in house
+    or externally, yeah.
+  topic: strategy
+- impact_reason: Points out the inherent advantage NLP/language-based domains have
+    in adopting current GenAI paradigms compared to domains requiring more complex,
+    non-sequential data representations.
   relevance_score: 8
   source: llm_enhanced
   text: it's an advantage that natural language processing as a domain became one
     of the first gigantic generative AI use cases, right? That builds in certain advantage
-    to genetics, which is more language-based than anything else versus, you know,
-    other domains of health and life sciences, the services involved.
+    to genetics, bait, which is more language-based than anything else versus, you
+    know, other domains of health and life sciences, the services involved.
   topic: strategy/predictions
-- impact_reason: Highlights that organizational culture and alignment across diverse
-    stakeholders (scientists, modelers, leadership) are key hurdles for effective
-    GenAI adoption.
+- impact_reason: Identifies organizational culture and alignment across diverse stakeholders
+    (scientists, modelers, leadership) as a major hurdle to effective AI adoption.
   relevance_score: 8
   source: llm_enhanced
   text: So, there's a lot of cultural organizational issue. I see the key that really
     we should align, you know, between different parties, like scientists, basic scientists,
     or AI modelers, AI professionals, and also leadership teams, AI adoption, etc.
   topic: business/strategy
-- impact_reason: Poses a key strategic question regarding the build vs. buy decision
-    for foundational models, especially in specialized domains like healthcare.
-  relevance_score: 7
+- impact_reason: 'Highlights the communication gap: technical teams must translate
+    model capabilities into actionable insights that domain scientists can validate,
+    requiring integration, not just deployment.'
+  relevance_score: 8
   source: llm_enhanced
-  text: I'm just curious for these foundational models, is it more often that the
-    organizations themselves are developing them or is there a third-party more robust
-    market?
+  text: how do we digest the models, the capabilities? And again, we have to plug
+    in, you know, the right scientists to help us together validate those.
   topic: business
-- impact_reason: 'A classic but critical reminder: the success of foundation models
-    is gated by the quality, not just the quantity, of the domain-specific data plugged
-    in.'
+- impact_reason: This suggests a consensus or inflection point where Generative AI
+    has moved from experimental to being integrated or recognized as a standard technology.
+  relevance_score: 8
+  source: llm_enhanced
+  text: A generative AI seems to have just found its place
+  topic: Technology Trend
+- impact_reason: Reiterates that the underlying technical commonality across diverse
+    foundation models (text, image, molecular) is the Transformer architecture, emphasizing
+    its foundational importance.
   relevance_score: 7
   source: llm_enhanced
-  text: So, the first thing is about the data challenge, right? So, so the foundation
-    models, although they take all kinds of available data, but still they require
-    high-quality data.
-  topic: business/technical
+  text: all those models, you know, essentially they have the same, I mean, by nature,
+    they have the same setup. So that is based on the breakthrough of the transformer
+    architecture that Google proposed a long time ago.
+  topic: technical
+- impact_reason: Sets the agenda to discuss the mechanics and deployment of GenAI/Foundation
+    Models, signaling a move from high-level concepts to practical application.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Maybe we can give some more detailed examples about how gen AI and the foundation
+    models work and then we can delve into, you know, the development, right, how
+    we build up and, you know, put those models into work, right?
+  topic: strategy
+- impact_reason: Provides historical context, showing that domain-specific NLP applications
+    (using BERT) predated the current GenAI wave (GPT) and already delivered significant
+    efficiency gains in specific tasks like information extraction.
+  relevance_score: 7
+  source: llm_enhanced
+  text: So as the time that was before the chat GPT. Right. Yeah, before that, there's
+    also another language model called BERT. So we, you know, applied those kind of
+    models into a clinical track documents so that we found a lot of efficiency gain,
+    accuracy gain in extracting information.
+  topic: technical/history
+- impact_reason: Identifies data availability and quality as the next critical bottleneck/focus
+    area after establishing the architecture.
+  relevance_score: 7
+  source: llm_enhanced
+  text: Now the next question is about the data, right? What are the data? I gave
+    some example, like all the sales from the, you know, the cell atlas. So those
+    things, they could be fed into those models.
+  topic: business/strategy
+- impact_reason: Emphasizes the importance of historical context in understanding
+    current AI capabilities and limitations, which is crucial for realistic deployment.
+  relevance_score: 7
+  source: llm_enhanced
+  text: who the subject matter experts to have some awareness of this history as well.
+  topic: Strategy
 source: Unknown Source
-summary: '## Comprehensive Summary: Building AI-Ready Cultures in Life Sciences R&D
+summary: '## Podcast Episode Summary: Building AI-Ready Cultures in Life Sciences
+  R&D
 
 
-  This podcast episode, featuring **Zhong Liu, Director of Data Science in AI at Novartis**,
-  focuses on the paradigm shift in Life Sciences R&D driven by **Generative AI (GenAI)
-  and Foundation Models (FMs)**, and the cultural and technical challenges in scaling
-  these technologies beyond pilot projects.
+  This 30-minute episode of the AI and Business Podcast, featuring **Zhong Liu, Director
+  of Data Science in AI at Novartis**, focuses on the paradigm shift in Life Sciences
+  R&D driven by **Generative AI (GenAI)** and **Foundation Models (FMs)**, and the
+  cultural and technical challenges of scaling these technologies beyond pilot projects.
+
+
+  ---
 
 
   ### 1. Focus Area
 
   The discussion centers on the transition from traditional, task-specific Machine
-  Learning (ML) to leveraging large-scale Foundation Models in R&D workflows, including
-  **molecule design, digital twin creation, and clinical protocol optimization**.
-  Key themes include the architectural differences between older models (like BERT)
-  and generative models (like GPT), the necessity of domain-specific fine-tuning,
-  and the organizational hurdles to achieving meaningful AI adoption and ROI.
+  Learning (ML) to leveraging large-scale Foundation Models in drug discovery, clinical
+  workflows, and protocol design within Life Sciences R&D. Key themes include the
+  architectural shift in AI, data infrastructure requirements, domain-specific application
+  of FMs (e.g., molecular design, digital twins), and the critical need for cultural
+  alignment between AI teams and domain scientists.
 
 
   ### 2. Key Technical Insights
 
-  *   **Paradigm Shift to Foundation Models:** The core technical evolution is moving
-  from training models solely on proprietary, labeled data to utilizing massive, pre-trained
-  FMs (built on transformer architectures) that capture broad domain knowledge. This
-  allows for better performance even with limited downstream, specific data via **fine-tuning**
-  (adjusting weights rather than full retraining).
+  *   **Paradigm Shift to Foundation Models:** The evolution moved from supervised/deep
+  learning requiring proprietary, labeled datasets to leveraging massive, pre-trained
+  transformer architectures (FMs). These FMs capture broad domain knowledge, allowing
+  for effective downstream tasks even with limited, specific data (transfer learning/fine-tuning).
 
-  *   **Generative Capabilities via Decoders:** The advancement from representation
-  models (like BERT, using the decoder part of the transformer) to generative models
-  (like GPT, leveraging the decoder part) enables the creation of novel outputs, such
-  as new molecular sequences (represented by SMILES strings or graphs) constrained
-  by desired properties (e.g., toxicity, solubility).
+  *   **Generative Capabilities vs. Representation:** The shift from models like BERT
+  (focused on text representation/embeddings) to GPT-like models (leveraging the decoder
+  architecture) enables the *generation* of new data types, such as novel molecular
+  structures (represented by SMILES strings or graphs) constrained by desired properties
+  (e.g., toxicity, solubility).
 
-  *   **Domain-Specific Benchmarking is Crucial:** Due to the risk of **hallucination**
-  in complex biological outputs, standard validation is insufficient. The industry
-  must develop **domain-driven evaluation metrics and knowledge-checking benchmarks**
-  to objectively score and select optimal models for specific tasks (e.g., target
-  identification, pathway analysis).
+  *   **Domain-Specific Fine-Tuning:** While FMs provide general biological context
+  (e.g., gene expression data from cell atlases), achieving high accuracy for specific
+  indications (like lung cancer pathways) requires **fine-tuning** the FM using proprietary,
+  high-quality domain data to adjust weights for personalized prediction tasks.
 
 
   ### 3. Business/Investment Angle
 
-  *   **Scaling Gap:** Despite high investment (73% of life sciences leaders investing
-  in GenAI), scaling remains a major hurdle (fewer than 20% successful beyond pilots),
-  indicating a gap between experimentation and meaningful integration into core workflows.
+  *   **Scaling Bottleneck:** Despite high investment interest (73% of leaders investing),
+  scaling GenAI beyond pilots remains a major hurdle (<20% success), often due to
+  cultural misalignment and evaluation difficulties.
 
-  *   **Data Quality vs. Quantity:** While FMs thrive on massive data, high-quality,
-  domain-specific experimental data (like single-cell RNA-seq) still lags behind the
-  theoretical capabilities of the AI architectures, creating a bottleneck limited
-  by traditional biotechnology methods.
+  *   **Data Dependency vs. Innovation Pace:** While AI architectures advance rapidly,
+  the pace of generating high-quality, experimental data (like single-cell RNA-seq)
+  remains a limiting factor for fully realizing FM potential in R&D.
 
-  *   **ROI Measurement Challenge:** Establishing clear, objective metrics to measure
-  the Return on Investment (ROI) for AI-driven research is essential for leadership
-  buy-in and sustained investment, especially given the difficulty in instantly validating
-  complex biological outputs.
+  *   **ROI and Evaluation:** A critical business challenge is establishing domain-driven
+  evaluation standards and objective metrics to measure the ROI of AI-driven research,
+  especially given the risk of model **hallucination** in complex biochemical outputs
+  that cannot be instantly validated.
 
 
   ### 4. Notable Companies/People
 
-  *   **Zhong Liu (Novartis):** The expert guest, providing insights from his role
-  as Director of Data Science in AI, focusing on practical implementation and cultural
-  alignment within a major pharmaceutical company.
+  *   **Zhong Liu (Novartis):** Guest expert, Director of Data Science in AI, providing
+  insights from a major pharmaceutical company on practical implementation and cultural
+  readiness.
+
+  *   **Novartis:** The context for discussing real-world application of GenAI in
+  drug development workflows.
 
   *   **Google (Transformer Architecture):** Mentioned as the originator of the foundational
-  transformer architecture that underpins modern LLMs and FMs.
+  architecture underpinning modern FMs.
 
-  *   **Deloitte:** Referenced for a recent survey highlighting the industry-wide
-  challenge of scaling GenAI adoption.
+  *   **Deloitte:** Referenced for a survey highlighting the gap between GenAI investment
+  and successful scaling in life sciences.
 
 
   ### 5. Future Implications
 
-  The industry is moving toward **hybrid development models**—leveraging public FMs
-  while simultaneously building proprietary, domain-specific versions tailored to
-  internal data and needs. Success hinges on **cross-discipline collaboration** between
-  AI modelers, basic scientists, and leadership. The future involves deeper automation
-  in drug discovery and clinical trials, heavily reliant on the ability of FMs to
-  process and generate complex biological "language."
+  The industry is moving toward a hybrid development model, leveraging public FM advancements
+  while building proprietary, domain-specific versions. The future success of AI adoption
+  hinges less on the availability of the architecture and more on **cross-disciplinary
+  collaboration** to ensure effective communication, data quality, and the development
+  of robust, domain-specific **benchmarks** to validate model outputs before costly
+  experimental testing. The concept of patient data interacting with FMs is likened
+  to creating **digital twins** for in-silico testing.
 
 
   ### 6. Target Audience
 
-  This episode is highly valuable for **Life Sciences R&D leaders, Chief Digital/Information
-  Officers, Data Science Directors, and AI Strategy Executives** within pharma and
-  biotech. It is targeted at professionals needing strategic insights into AI adoption,
-  organizational alignment, and the technical evolution of ML in a highly regulated,
-  data-intensive domain.'
+  This episode is highly valuable for **AI/Tech Leaders** and **Life Sciences R&D
+  Executives** responsible for strategy, investment, and deployment of advanced analytics.
+  It is also relevant for **Data Scientists** and **Domain Experts (Biologists/Chemists)**
+  who need to understand the new paradigm and foster alignment with AI development
+  teams.'
 tags:
 - artificial-intelligence
 - generative-ai
@@ -678,7 +813,7 @@ topics:
   - claude
   - text generation
   - image generation
-  mentions: 11
+  mentions: 10
   prominence: 1.0
   topic: generative ai
 - keywords:
@@ -711,4 +846,4 @@ topics:
 ---
 
 <!-- Episode automatically generated from analysis data -->
-<!-- Processing completed: 2025-10-21 18:18:14 UTC -->
+<!-- Processing completed: 2025-10-21 19:24:35 UTC -->
